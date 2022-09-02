@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+MRCPsych UK repo
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This repo aims to collect and transform open-access reading materials into readable format  using sphinx. 
