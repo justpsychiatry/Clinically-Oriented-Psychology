@@ -1,12 +1,20 @@
-============
-Introduction
-============
+=======================
+Psychological Research
+=======================
 
 
 
 .. contents::
    :depth: 3
 ..
+
+.. toctree::
+   :caption: Table of Contents 
+   :glob:
+   :maxdepth: 1
+   
+   *.rst
+...
 
 class=“introduction”
 

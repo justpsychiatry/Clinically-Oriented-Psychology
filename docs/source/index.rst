@@ -8,109 +8,116 @@ Psychology
    :maxdepth: 3
    :glob:
 
-   intro/m49027
+   ./introd/m49027
+   ./psyr/index.rst
+   ./biop/index.rst
+   ./cons/index.rst
+   ./sens/index.rst
+   ./learn/index.rst
+   ./thin/index.rst
+   ./devel/index.rst
+   ./mot/index.rst
+   ./pers/index.rst
+   ./socialpsych/index.rst
+   ./indusorg/index.rst
+   ./lifestyle/index.rst
+   ./disorders/index.rst
+   ./therapy/index.rst
+
+
+...
    *
 
    1.  {: .preface} `Preface <contents/m51868>`__
    2.  {: .chapter} `Introduction to Psychology <contents/m49027>`__
 
-      1. `What Is Psychology? <contents/m49014>`__
-      2. `History of Psychology <contents/m49017>`__
-      3. `Contemporary Psychology <contents/m49016>`__
-      4. `Careers in Psychology <contents/m49015>`__
-
    3.  {: .chapter} `Psychological Research <contents/m49028>`__
 
-      5. `Why Is Research Important? <contents/m49013>`__
-      6. `Approaches to Research <contents/m49012>`__
-      7. `Analyzing Findings <contents/m49011>`__
-      8. `Ethics <contents/m49010>`__
+      1. `Why Is Research Important? <contents/m49013>`__
+      2. `Approaches to Research <contents/m49012>`__
+      3. `Analyzing Findings <contents/m49011>`__
+      4. `Ethics <contents/m49010>`__
 
    4.  {: .chapter} `Biopsychology <contents/m49029>`__
 
-      9. `Human Genetics <contents/m48993>`__
-      10. `Cells of the Nervous System <contents/m49003>`__
-      11. `Parts of the Nervous System <contents/m49005>`__
-      12. `The Brain and Spinal Cord <contents/m49006>`__
-      13. `The Endocrine System <contents/m49007>`__
+      5. `Human Genetics <contents/m48993>`__
+      6.  `Cells of the Nervous System <contents/m49003>`__
+      7.  `Parts of the Nervous System <contents/m49005>`__
+      8.  `The Brain and Spinal Cord <contents/m49006>`__
+      9.  `The Endocrine System <contents/m49007>`__
 
    5.  {: .chapter} `States of Consciousness <contents/m49030>`__
 
-      14. `What Is Consciousness? <contents/m49031>`__
-      15. `Sleep and Why We Sleep <contents/m49032>`__
-      16. `Stages of Sleep <contents/m49033>`__
-      17. `Sleep Problems and Disorders <contents/m49036>`__
-      18. `Substance Use and Abuse <contents/m49037>`__
-      19. `Other States of Consciousness <contents/m49038>`__
+      10. `What Is Consciousness? <contents/m49031>`__
+      11. `Sleep and Why We Sleep <contents/m49032>`__
+      12. `Stages of Sleep <contents/m49033>`__
+      13. `Sleep Problems and Disorders <contents/m49036>`__
+      14. `Substance Use and Abuse <contents/m49037>`__
+      15. `Other States of Consciousness <contents/m49038>`__
 
    6.  {: .chapter} `Sensation and Perception <contents/m49039>`__
 
-      20. `Sensation versus Perception <contents/m49040>`__
-      21. `Waves and Wavelengths <contents/m49041>`__
-      22. `Vision <contents/m49042>`__
-      23. `Hearing <contents/m49043>`__
-      24. `The Other Senses <contents/m49044>`__
-      25. `Gestalt Principles of Perception <contents/m49045>`__
+      16. `Sensation versus Perception <contents/m49040>`__
+      17. `Waves and Wavelengths <contents/m49041>`__
+      18. `Vision <contents/m49042>`__
+      19. `Hearing <contents/m49043>`__
+      20. `The Other Senses <contents/m49044>`__
+      21. `Gestalt Principles of Perception <contents/m49045>`__
 
    7.  {: .chapter} `Learning <contents/m49046>`__
 
-      26. `What Is Learning? <contents/m49047>`__
-      27. `Classical Conditioning <contents/m49048>`__
-      28. `Operant Conditioning <contents/m49049>`__
-      29. `Observational Learning (Modeling) <contents/m49050>`__
+      22. `What Is Learning? <contents/m49047>`__
+      23. `Classical Conditioning <contents/m49048>`__
+      24. `Operant Conditioning <contents/m49049>`__
+      25. `Observational Learning (Modeling) <contents/m49050>`__
 
    8.  {: .chapter} `Thinking and Intelligence <contents/m49051>`__
 
-      30. `What Is Cognition? <contents/m49053>`__
-      31. `Language <contents/m49055>`__
-      32. `Problem Solving <contents/m49057>`__
-      33. `What Are Intelligence and Creativity? <contents/m49060>`__
-      34. `Measures of Intelligence <contents/m49064>`__
-      35. `The Source of Intelligence <contents/m49065>`__
+      26. `What Is Cognition? <contents/m49053>`__
+      27. `Language <contents/m49055>`__
+      28. `Problem Solving <contents/m49057>`__
+      29. `What Are Intelligence and Creativity? <contents/m49060>`__
+      30. `Measures of Intelligence <contents/m49064>`__
+      31. `The Source of Intelligence <contents/m49065>`__
 
-   9.  {: .chapter} `Memory <contents/m49090>`__
-
-      36. `How Memory Functions <contents/m49080>`__
-      37. `Parts of the Brain Involved with Memory <contents/m49085>`__
-      38. `Problems with Memory <contents/m49088>`__
-      39. `Ways to Enhance Memory <contents/m49094>`__
+   
 
    10. {: .chapter} `Lifespan Development <contents/m49097>`__
 
-      40. `What Is Lifespan Development? <contents/m49099>`__
-      41. `Lifespan Theories <contents/m49109>`__
-      42. `Stages of Development <contents/m49112>`__
-      43. `Death and Dying <contents/m49114>`__
+      36. `What Is Lifespan Development? <contents/m49099>`__
+      37. `Lifespan Theories <contents/m49109>`__
+      38. `Stages of Development <contents/m49112>`__
+      39. `Death and Dying <contents/m49114>`__
 
    11. {: .chapter} `Emotion and Motivation <contents/m49058>`__
 
-      44. `Motivation <contents/m49059>`__
-      45. `Hunger and Eating <contents/m49061>`__
-      46. `Sexual Behavior <contents/m49063>`__
-      47. `Emotion <contents/m49066>`__
+      40. `Motivation <contents/m49059>`__
+      41. `Hunger and Eating <contents/m49061>`__
+      42. `Sexual Behavior <contents/m49063>`__
+      43. `Emotion <contents/m49066>`__
 
    12. {: .chapter} `Personality <contents/m49068>`__
 
-      48. `What Is Personality? <contents/m49070>`__
-      49. `Freud and the Psychodynamic Perspective <contents/m49072>`__
-      50. `Neo-Freudians: Adler, Erikson, Jung, and
+      44. `What Is Personality? <contents/m49070>`__
+      45. `Freud and the Psychodynamic Perspective <contents/m49072>`__
+      46. `Neo-Freudians: Adler, Erikson, Jung, and
          Horney <contents/m49077>`__
-      51. `Learning Approaches <contents/m49086>`__
-      52. `Humanistic Approaches <contents/m49092>`__
-      53. `Biological Approaches <contents/m49101>`__
-      54. `Trait Theorists <contents/m51872>`__
-      55. `Cultural Understandings of Personality <contents/m51873>`__
-      56. `Personality Assessment <contents/m51874>`__
+      47. `Learning Approaches <contents/m49086>`__
+      48. `Humanistic Approaches <contents/m49092>`__
+      49. `Biological Approaches <contents/m49101>`__
+      50. `Trait Theorists <contents/m51872>`__
+      51. `Cultural Understandings of Personality <contents/m51873>`__
+      52. `Personality Assessment <contents/m51874>`__
 
    13. {: .chapter} `Social Psychology <contents/m49107>`__
 
-      57. `What Is Social Psychology? <contents/m49110>`__
-      58. `Self-presentation <contents/m49116>`__
-      59. `Attitudes and Persuasion <contents/m49120>`__
-      60. `Conformity, Compliance, and Obedience <contents/m49124>`__
-      61. `Prejudice and Discrimination <contents/m49128>`__
-      62. `Aggression <contents/m49129>`__
-      63. `Prosocial Behavior <contents/m49134>`__
+      53. `What Is Social Psychology? <contents/m49110>`__
+      54. `Self-presentation <contents/m49116>`__
+      55. `Attitudes and Persuasion <contents/m49120>`__
+      56. `Conformity, Compliance, and Obedience <contents/m49124>`__
+      57. `Prejudice and Discrimination <contents/m49128>`__
+      58. `Aggression <contents/m49129>`__
+      59. `Prosocial Behavior <contents/m49134>`__
 
    14. {: .chapter} `Industrial-Organizational
       Psychology <contents/m49121>`__
