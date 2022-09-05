@@ -13,7 +13,8 @@ Clinically Oriented Psychology
    :maxdepth: 1
    :glob:
 
-   ./introd/m49027
+   m51868*
+   ./introd/index.rst
    ./psyr/index.rst
    ./biop/index.rst
    ./cons/index.rst
