@@ -792,12 +792,7 @@ Personal Application Question
       the past and how can you use your awareness of it to improve your
       decisions making skills in the future?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    algorithm
       problem-solving strategy characterized by a specific set of

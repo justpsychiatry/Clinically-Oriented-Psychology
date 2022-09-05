@@ -348,12 +348,7 @@ Personal Application Question
       If you had to choose to lose either your vision or your hearing,
       which would you choose and why?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    basilar membrane
       thin strip of tissue within the cochlea that contains the hair

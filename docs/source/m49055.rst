@@ -722,12 +722,7 @@ Personal Application Question
 
       Can you think of examples of how language affects cognition?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    grammar
       set of rules that are used to convey meaning through the use of a

@@ -685,12 +685,7 @@ Personal Application Question
       think that Candace benefitted or suffered as a result of
       consistently being passed on to the next grade?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    Flynn effect
       observation that each generation has a significantly higher IQ

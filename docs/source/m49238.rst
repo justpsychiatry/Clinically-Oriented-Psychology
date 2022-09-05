@@ -278,12 +278,7 @@ Critical Thinking Questions
       dysmorphic disorder), and engaging in efforts to acquire new
       possessions (hoarding disorder).
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    body dysmorphic disorder
       involves excessive preoccupation with an imagined defect in

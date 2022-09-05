@@ -386,12 +386,7 @@ Critical Thinking Question
       onset of schizophrenia. Once such factors are identified,
       interventions may be developed.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    catatonic behavior
       decreased reactivity to the environment; includes posturing and

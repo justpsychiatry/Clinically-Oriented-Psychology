@@ -599,12 +599,7 @@ Personal Application Question
       What did your problem-focused efforts involve? Were they
       effective?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    biofeedback
       stress-reduction technique using electronic equipment to measure a

@@ -1043,12 +1043,7 @@ Critical Thinking Question
       deprivation, community disorganization, drug use, and the presence
       of adult antisocial models) heighten the risk of violent behavior.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    antisocial personality disorder
       characterized by a lack of regard for others’ rights, impulsivity,

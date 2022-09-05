@@ -200,12 +200,7 @@ Personal Application Questions
       disagree with the traits associated with yourself and the
       residents of your area of the country? Why or why not?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    culture
       all of the beliefs, customs, art, and traditions of a particular

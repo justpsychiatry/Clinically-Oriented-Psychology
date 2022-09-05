@@ -451,12 +451,7 @@ Personal Application Questions
       services? Would you feel comfortable seeking assistance at one of
       these facilities? Why or why not?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    asylum
       institution created for the specific purpose of housing people

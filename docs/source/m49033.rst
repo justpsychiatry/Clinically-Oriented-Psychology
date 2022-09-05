@@ -377,12 +377,7 @@ Personal Application Question
       and sleep habits to maximize your mastery of the material covered
       in class?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    alpha wave
       type of relatively low frequency, relatively high amplitude brain

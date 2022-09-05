@@ -1300,12 +1300,7 @@ Personal Application Questions
       discuss the sexual nature of the event, feelings of discomfort,
       fear, or anxiety, and recurrences of events.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    diversity training
       training employees about cultural differences with the goal of

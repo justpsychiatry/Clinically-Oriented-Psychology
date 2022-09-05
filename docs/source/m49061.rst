@@ -428,12 +428,7 @@ Personal Application Question
       like? What kinds of messages do you think the media is sending
       about men and women in our society?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    anorexia nervosa
       eating disorder characterized by an individual maintaining body

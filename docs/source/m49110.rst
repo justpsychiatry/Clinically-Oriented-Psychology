@@ -655,12 +655,7 @@ Personal Application Questions
       the case of losing, or citing their own hard work and talent, in
       the case of winning.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    actor-observer bias
       phenomenon of explaining other people’s behaviors are due to

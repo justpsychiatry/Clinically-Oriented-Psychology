@@ -960,12 +960,7 @@ Personal Application Questions
       expect you’d score high? In which areas does the low score more
       accurately describe you?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    Five Factor Model
       theory that personality is composed of five factors or traits,

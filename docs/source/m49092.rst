@@ -118,12 +118,7 @@ Personal Application Questions
       you have a negative or a positive self-concept? What are some
       experiences that led you to develop this particular self-concept?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    congruence
       state of being in which our thoughts about our real and ideal

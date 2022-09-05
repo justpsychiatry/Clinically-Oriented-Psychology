@@ -292,12 +292,7 @@ Personal Application
       curfew, and your friend suspects that she has been drinking. What
       treatment modality would you recommend to your friend and why?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    confidentiality
       therapist cannot disclose confidential communications to any third

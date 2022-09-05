@@ -365,12 +365,7 @@ Personal Application Question
       changes did you notice in the flavors of the foods that you ate
       during this time?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    congenital insensitivity to pain (congenital analgesia)
       genetic disorder that results in the inability to experience pain

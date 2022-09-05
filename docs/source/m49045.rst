@@ -263,12 +263,7 @@ Personal Application Question
       Once you found the correct lyrics, did your perception of the song
       change?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    closure
       organizing our perceptions into complete objects rather than as a

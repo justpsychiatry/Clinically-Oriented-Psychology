@@ -499,12 +499,7 @@ Personal Application Questions
       Describe a time when you or someone you know used the
       foot-in-the-door technique to gain someone’s compliance.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    attitude
       evaluations of or feelings toward a person, idea, or object that

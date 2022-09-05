@@ -563,12 +563,7 @@ Personal Application Question
       some point in their lives. Why do you think people are motivated
       to use substances that alter consciousness?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    codeine
       opiate with relatively low potency often prescribed for minor pain

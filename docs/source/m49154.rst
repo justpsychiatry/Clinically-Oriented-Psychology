@@ -1535,12 +1535,7 @@ Personal Application Question
       presented in this section, which kind of therapist would you
       choose and why?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    aversive conditioning
       counterconditioning technique that pairs an unpleasant stimulant

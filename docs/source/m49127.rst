@@ -423,12 +423,7 @@ Personal Application Question
       Which of the broad areas of I-O psychology interests you the most
       and why?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    Hawthorne effect
       increase in performance of individuals who are noticed, watched,

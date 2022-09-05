@@ -473,12 +473,7 @@ Personal Application Questions
       you know about the normative approach, should you be concerned?
       Why or why not?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    cognitive development
       domain of lifespan development that examines learning, attention,

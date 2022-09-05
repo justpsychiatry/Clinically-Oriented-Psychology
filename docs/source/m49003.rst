@@ -767,12 +767,7 @@ Personal Application Queation
       medication? If so, what side effects were associated with the
       treatment?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    action potential
       electrical signal that moves down the neuron’s axon ^

@@ -830,12 +830,7 @@ Personal Application Questions
       What are some examples of defense mechanisms that you have used
       yourself or have witnessed others using?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    anal stage
       psychosexual stage in which children experience pleasure in their

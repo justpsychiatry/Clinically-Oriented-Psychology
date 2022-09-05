@@ -253,12 +253,7 @@ Personal Application Questions
       classical conditioning? Operant conditioning? Observational
       learning? How did you learn them?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    associative learning
       form of learning that involves connecting certain stimuli or

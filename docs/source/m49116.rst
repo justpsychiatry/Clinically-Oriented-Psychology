@@ -373,12 +373,7 @@ Personal Application Questions
       yourself. Why did you adopt these roles? What are some roles that
       are expected of you, but that you try to resist?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    script
       person’s knowledge about the sequence of events in a specific

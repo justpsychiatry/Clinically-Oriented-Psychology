@@ -370,12 +370,7 @@ Personal Application Question
       difficult for someone else to understand and explain why it would
       be difficult.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    artificial concept
       concept that is defined by a very specific set of characteristics

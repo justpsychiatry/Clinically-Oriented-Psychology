@@ -310,12 +310,7 @@ Personal Application Question
       think your cultural and/or religious beliefs influence your
       attitude toward psychological intervention?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    cultural competence
       therapist’s understanding and attention to issues of race,

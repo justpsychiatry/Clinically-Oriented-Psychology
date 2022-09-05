@@ -943,12 +943,7 @@ Personal Application Questions
       describe how you would conduct an experiment to answer your
       question.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    cause-and-effect relationship
       changes in one variable cause the changes in the other variable;

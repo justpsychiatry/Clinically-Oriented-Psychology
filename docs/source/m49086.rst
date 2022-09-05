@@ -378,12 +378,7 @@ Personal Application Questions
       Do you have an internal or an external locus of control? Provide
       examples to support your answer.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    locus of control
       beliefs about the power we have over our lives; an external locus

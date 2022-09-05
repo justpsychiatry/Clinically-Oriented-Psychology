@@ -303,12 +303,7 @@ Personal Application Questions
 
       Describe a flashbulb memory of a significant event in your life.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    arousal theory
       strong emotions trigger the formation of strong memories and

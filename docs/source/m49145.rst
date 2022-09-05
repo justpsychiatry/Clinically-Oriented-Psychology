@@ -1282,12 +1282,7 @@ Personal Application Question
       in order to tell if there is a cause-effect relationship between
       stress and illness?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    daily hassles
       minor irritations and annoyances that are part of our everyday

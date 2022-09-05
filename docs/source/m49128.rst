@@ -791,12 +791,7 @@ Personal Application Questions
       Give an example when you felt prejudiced against someone else. How
       did you discriminate against them? Why do you think you did this?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    ageism
       prejudice and discrimination toward individuals based solely on

@@ -239,12 +239,7 @@ Personal Application Questions
       from your parents? Provide examples. How might modeling
       (environment) influenced your characteristics as well?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    heritability
       proportion of difference among people that is attributed to

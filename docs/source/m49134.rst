@@ -401,12 +401,7 @@ Personal Application Questions
       benefits of a relationship? If so, how did you address this
       imbalance?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    altruism
       humans’ desire to help others even if the costs outweigh the

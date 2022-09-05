@@ -666,12 +666,7 @@ Personal Application Questions
       ideas about the role that the unconscious mind plays in
       determining conscious behavior?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    behaviorism
       focus on observing and controlling behavior ^

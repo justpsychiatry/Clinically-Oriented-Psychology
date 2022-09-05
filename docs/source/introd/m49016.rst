@@ -633,12 +633,7 @@ Personal Application Question
       within psychology, which are you most interested in learning more
       about? Why?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    American Psychological Association
       professional organization representing psychologists in the United

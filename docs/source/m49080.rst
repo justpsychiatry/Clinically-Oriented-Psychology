@@ -555,12 +555,7 @@ Personal Application Questions
       Describe something you learned in high school that is now in your
       semantic memory.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    acoustic encoding
       input of sounds, words, and music ^

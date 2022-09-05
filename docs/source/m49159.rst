@@ -621,12 +621,7 @@ Personal Application Question
       to the notion of flow? If so, how? Do you think these experiences
       have enriched your life? Why or why not?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    flow
       state involving intense engagement in an activity; usually is

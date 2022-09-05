@@ -865,12 +865,7 @@ Personal Application Questions
       behavior, what evidence suggests that you would go along with the
       order to increase the voltage?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    Asch effect
       group majority influences an individual’s judgment, even when that

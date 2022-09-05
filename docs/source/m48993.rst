@@ -472,12 +472,7 @@ Personal Application Questions
       and your parents. How do you think your unique environment and
       experiences have contributed to some of the differences you see?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    allele
       specific version of a gene ^

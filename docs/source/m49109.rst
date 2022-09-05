@@ -1378,12 +1378,7 @@ Personal Application Questions
          Instead she’s moving to Colorado to become a ski instructor.
       6. Your 11-year-old son is the class bully. {: type=“A”}
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    assimilation
       adjustment of a schema by adding information similar to what is

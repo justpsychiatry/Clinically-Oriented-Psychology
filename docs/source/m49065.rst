@@ -356,12 +356,7 @@ Personal Application Question
       Do you believe your level of intelligence was improved because of
       the stimuli in your childhood environment? Why or why not?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    dysgraphia
       learning disability that causes extreme difficulty in writing

@@ -367,12 +367,7 @@ Personal Application Question
       own culture; however, it would be considered normal and expected
       in another culture.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    atypical
       describes behaviors or feelings that deviate from the norm ^

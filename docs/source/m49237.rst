@@ -719,12 +719,7 @@ Personal Application Question
       How might this tendency lead to future problems? What steps do you
       think could be taken to change this thinking style?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    bipolar and related disorders
       group of mood disorders in which mania is the defining feature ^

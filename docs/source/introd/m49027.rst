@@ -8,17 +8,11 @@ Introduction
    :depth: 3
 ..
 
-class=“introduction”
+.. toctree::
+   :maxdepth: 1
+   :glob:
 
-class=“summary” title=“Summary”
-
-class=“review-questions” title=“Review Questions”
-
-class=“critical-thinking” title=“Critical Thinking Questions”
-
-class=“personal-application” title=“Personal Application Questions”
-
-class=“references” title=“References”
+   *.rst
 
 |An illustration shows the outlines of two human heads facing toward one
 another, with several photographs of people spread across the
@@ -198,7 +192,7 @@ nationally certified school psychologist (NCSP). Retrieved from
 http://www.nasponline.org/CERTIFICATION/becomeNCSP.aspx
 
 Nicolas, S., & Ferrand, L. (1999). Wundt’s laboratory at Leipzig in
-1891. *History of Psychology*, *2*, 194–203.
+1.    *History of Psychology*, *2*, 194–203.
 
 Norcross, J. C. (n.d.) Clinical versus counseling psychology: What’s the
 diff? Available at

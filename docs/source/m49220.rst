@@ -223,12 +223,7 @@ Critical Thinking Question
       also serve as risk factors. Also, certain versions of a gene that
       regulates serotonin may constitute a diathesis.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    flashback
       psychological state lasting from a few seconds to several days,

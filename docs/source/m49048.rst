@@ -627,12 +627,7 @@ Personal Application Question
       happiness or excitement? How about a negative emotional response,
       such as fear, anxiety, or anger?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    acquisition
       period of initial learning in classical conditioning in which a

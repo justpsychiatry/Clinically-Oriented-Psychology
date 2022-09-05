@@ -240,12 +240,7 @@ Personal Application Question
       supernatural causes. Think of an event, recent or historical, for
       which others have provided supernatural explanation.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    diathesis-stress model
       suggests that people with a predisposition for a disorder (a

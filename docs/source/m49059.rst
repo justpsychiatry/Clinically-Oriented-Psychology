@@ -450,12 +450,7 @@ Personal Application Question
       Can you think of recent examples of how Maslow’s hierarchy of
       needs might have affected your behavior in some way?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    drive theory
       deviations from homeostasis create physiological needs that result

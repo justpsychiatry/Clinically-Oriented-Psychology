@@ -248,12 +248,7 @@ Personal Application Questions
       anabolic steroids, what kinds of considerations might be involved
       in a person’s decision to use them?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    adrenal gland
       sits atop our kidneys and secretes hormones involved in the stress

@@ -315,12 +315,7 @@ Personal Application Question
       this may be. How would you explain this to a friend who never had
       the opportunity to take a class like this?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    amplitude
       height of a wave ^

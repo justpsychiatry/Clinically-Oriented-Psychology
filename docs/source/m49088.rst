@@ -1106,12 +1106,7 @@ Personal Application Questions
       testify against your client. What would you tell the jurors about
       the reliability of eyewitness testimony?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    absentmindedness
       lapses in memory that are caused by breaks in attention or our

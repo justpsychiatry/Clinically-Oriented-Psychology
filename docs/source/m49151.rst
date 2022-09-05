@@ -1060,12 +1060,7 @@ Personal Application Question
       Does this person mention stress or emotional states? If so, are
       there any commonalities in these asthma triggers?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    asthma
       psychophysiological disorder in which the airways of the

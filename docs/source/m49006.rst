@@ -676,12 +676,7 @@ Personal Application Questions
       memory deficits? How was that character similar to and different
       from H. M.?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    amygdala
       structure in the limbic system involved in our experience of

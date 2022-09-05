@@ -238,12 +238,7 @@ Personal Application Questions
       stress? What can you do to try to minimize the negative
       consequences of these particular stressors in your life?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    autonomic nervous system
       controls our internal organs and glands ^

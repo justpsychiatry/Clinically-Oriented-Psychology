@@ -416,12 +416,7 @@ Personal Application Question
       Take a look at a few of your photos or personal works of art. Can
       you find examples of linear perspective as a potential depth cue?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    afterimage
       continuation of a visual sensation after removal of the stimulus ^

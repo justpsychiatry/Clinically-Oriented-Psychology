@@ -567,12 +567,7 @@ Personal Application Question
       the current political landscape. What do you think about current
       debates on legalizing same-sex marriage?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    bisexual
       emotional and erotic attractions to both same-sexed individuals

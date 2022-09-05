@@ -553,12 +553,7 @@ Personal Application Question
       they indicate that they believe either to be true, why do you
       think this might be the case? What would be your response?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    attention deficit/hyperactivity disorder
       childhood disorder characterized by inattentiveness and/or

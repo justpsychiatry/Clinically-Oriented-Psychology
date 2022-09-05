@@ -746,12 +746,7 @@ Personal Application Question
       are required for your current position or a position you wish to
       have in the future?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    Americans with Disabilities Act
       employers cannot discriminate against any individual based on a

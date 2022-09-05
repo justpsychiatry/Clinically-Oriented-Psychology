@@ -325,12 +325,7 @@ Personal Application Questions
       similar to/different from the strategies suggested in this
       chapter?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    chunking
       organizing information into manageable bits or chunks ^

@@ -257,12 +257,7 @@ Personal Application Questions
       How do you think these qualities will affect your choice of
       career?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    personality
       long-standing traits and patterns that propel individuals to

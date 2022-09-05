@@ -1367,12 +1367,7 @@ Personal Application Questions
       reinforcement, to change your behavior? What is your positive
       reinforcer?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    cognitive map
       mental picture of the layout of the environment ^

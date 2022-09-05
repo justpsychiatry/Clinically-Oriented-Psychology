@@ -241,12 +241,7 @@ Personal Application Question
       provide? Would you recommend any of them to a friend or family
       member with a substance abuse problem? Why or why not?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    comorbid disorder
       individual who has two or more diagnoses, which often includes a

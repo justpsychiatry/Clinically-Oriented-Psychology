@@ -428,12 +428,7 @@ Personal Application Questions
       information would you want to review before making such an
       investment or lifestyle change yourself?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    deductive reasoning
       results are predicted based on a general premise ^

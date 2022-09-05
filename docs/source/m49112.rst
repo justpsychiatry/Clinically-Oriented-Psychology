@@ -1943,12 +1943,7 @@ Personal Application Questions
       good idea to play music for her unborn baby, and she wants to know
       when her baby’s hearing will develop. What will you tell her?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    adolescence
       period of development that begins at puberty and ends at early

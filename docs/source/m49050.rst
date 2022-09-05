@@ -328,12 +328,7 @@ Personal Application Question
       What is something you have learned how to do after watching
       someone else?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    model
       person who performs a behavior that serves as an example (in

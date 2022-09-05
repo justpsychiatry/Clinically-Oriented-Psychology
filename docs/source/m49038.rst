@@ -273,12 +273,7 @@ Personal Application Question
       and/or meditation as a treatment option? What kind of information
       would you need before you made a decision to use these techniques?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    hypnosis
       state of extreme self-focus and attention in which minimal

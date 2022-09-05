@@ -1283,12 +1283,7 @@ Personal Application Questions
       as *Harry Potter* or *Star Wars*) and explain it terms of Jung’s
       concept of archetypes.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    analytical psychology
       Jung’s theory focusing on the balance of opposing forces within

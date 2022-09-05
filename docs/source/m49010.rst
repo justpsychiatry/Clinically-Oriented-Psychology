@@ -293,12 +293,7 @@ Personal Application Questions
       subjects. How have you, a friend, or a family member benefited
       directly from this kind of research?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    debriefing
       when an experiment involved deception, participants are told

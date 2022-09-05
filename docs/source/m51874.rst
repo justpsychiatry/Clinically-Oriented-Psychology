@@ -303,12 +303,7 @@ Personal Application Questions
       implications might this have for the validity of the personality
       test?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    Contemporized-Themes Concerning Blacks Test (C-TCB)
       projective test designed to be culturally relevant to African

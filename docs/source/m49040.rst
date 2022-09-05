@@ -353,12 +353,7 @@ Personal Application Question
       because your attention was focused elsewhere. If someone pointed
       it out, were you surprised that you hadn’t noticed it right away?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    absolute threshold
       minimum amount of stimulus energy that must be present for the

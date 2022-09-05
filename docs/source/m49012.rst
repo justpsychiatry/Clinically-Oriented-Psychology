@@ -675,12 +675,7 @@ Personal Application Questions
       how would you choose to approach this question and what kind of
       resources would you need to conduct this research?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    archival research
       method of research using past records or data sets to answer

@@ -238,12 +238,7 @@ Personal Application Question
       trial. What was the outcome? Was the person revealed to be faking?
       If so, how was this determined?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    depersonalization/derealization disorder
       dissociative disorder in which people feel detached from the self

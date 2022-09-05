@@ -247,12 +247,7 @@ Personal Application Question
       Why are you taking this course? What do you hope to learn about
       during this course?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    empirical method
       method for acquiring knowledge based on observation, including

@@ -262,12 +262,7 @@ Critical Thinking Questions
       psychological disorders are based on diagnostic criteria set forth
       in the DSM.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    comorbidity
       co-occurrence of two disorders in the same individual ^

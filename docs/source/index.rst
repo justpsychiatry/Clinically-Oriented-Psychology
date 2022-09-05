@@ -8,6 +8,9 @@ Psychology
    :maxdepth: 3
    :glob:
 
+   intro/m49027
+   *
+
    1.  {: .preface} `Preface <contents/m51868>`__
    2.  {: .chapter} `Introduction to Psychology <contents/m49027>`__
 

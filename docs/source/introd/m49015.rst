@@ -626,12 +626,7 @@ Personal Application Question
       Which of the career options described in this section is most
       appealing to you?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    dissertation
       long research paper about research that was conducted as a part of

@@ -1024,12 +1024,7 @@ Personal Application Questions
       throughout the week? Are you running a sleep debt when daylight
       saving time begins or ends?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    biological rhythm
       internal cycle of biological activity ^

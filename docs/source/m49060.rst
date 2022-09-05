@@ -744,12 +744,7 @@ Personal Application Question
       What influence do you think emotional intelligence plays in your
       personal life?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    analytical intelligence
       aligned with academic problem solving and computations ^

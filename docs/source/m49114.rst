@@ -195,12 +195,7 @@ Personal Application Questions
       If you were diagnosed with a terminal illness would you choose
       hospice care or a traditional death in a hospital? Why?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    hospice
       service that provides a death with dignity; pain management in a

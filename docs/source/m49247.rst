@@ -820,12 +820,7 @@ Critical Thinking Question
       disorder, develop through cognitive misinterpretations of anxiety
       and other symptoms.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    agoraphobia
       anxiety disorder characterized by intense fear, anxiety, and

@@ -554,12 +554,7 @@ Personal Application Question
       marked differences in physiological arousal associated with each
       emotional state?
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    basolateral complex
       part of the brain with dense connections with a variety of sensory

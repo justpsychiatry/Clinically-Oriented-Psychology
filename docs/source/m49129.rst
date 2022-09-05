@@ -318,12 +318,7 @@ Personal Application Questions
       take measures to make sure the person gets help. If you aren’t
       able to help, notify an adult or authority figure that can.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    aggression
       seeking to cause harm or pain to another person ^

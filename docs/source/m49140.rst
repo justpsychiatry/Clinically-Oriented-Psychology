@@ -446,12 +446,7 @@ Personal Application
       effects of the poor design? Make one suggestion for its
       improvement.
 
-.. container::
-
-   .. rubric:: Glossary
-      :name: glossary
-
-   {: data-type=“glossary-title”}
+.. glossary::
 
    checklist
       method used to reduce workplace accidents
