@@ -1,4 +1,4 @@
-Industrial-Organizational Psychology
+Industrial Organizational Psychology
 ####################################
 
 
