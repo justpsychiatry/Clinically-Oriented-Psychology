@@ -307,7 +307,7 @@ volume increases following either pharmacological or
 cognitive-behavioral therapy in individuals suffering from PTSD (Bremner
 & Vermetten, 2004; Levy-Gigi, Szabó, Kelemen, & Kéri, 2013).
 
-.. container:: psychology link-to-learning
+.. admonition:: psychology link-to-learning
 
    Watch this `video <http://openstax.org/l/traumaticexp>`__ about
    research that demonstrates how the volume of the hippocampus can vary
@@ -316,8 +316,7 @@ cognitive-behavioral therapy in individuals suffering from PTSD (Bremner
 FACIAL EXPRESSION AND RECOGNITION OF EMOTIONS
 =============================================
 
-Culture can impact the way in which people display emotion. A **cultural
-display rule**\ {: data-type=“term”} is one of a collection of
+Culture can impact the way in which people display emotion. A :term:`**cultural display rule**`is one of a collection of
 culturally specific standards that govern the types and frequencies of
 displays of emotions that are acceptable (Malatesta & Haviland, 1982).
 Therefore, people from varying cultural backgrounds can have very
@@ -375,7 +374,7 @@ sensitive to the emotional information communicated through body
 language, even if we’re not consciously aware of it (de Gelder, 2006;
 Tamietto et al., 2009).
 
-.. container:: psychology link-to-learning
+.. admonition:: psychology link-to-learning
 
    Watch this short `CNN
    video <https://www.youtube.com/watch?v=XqiRRIRhZoM>`__ about body
@@ -385,11 +384,11 @@ Tamietto et al., 2009).
    the show `Today <http://openstax.org/l/todayshow>`__ with body
    language expert Janine Driver.
 
-.. container:: psychology connect-the-concepts
+.. important:: psychology connect-the-concepts
 
-   .. container::
 
       Autism Spectrum Disorder and Expression of Emotions
+      ----------------------------------------------------
 
    Autism spectrum disorder (ASD) is a set of neurodevelopmental
    disorders characterized by repetitive behaviors and communication and

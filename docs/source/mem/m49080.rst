@@ -8,7 +8,7 @@ How Memory Functions
    :depth: 3
 ..
 
-.. container::
+.. admonition:: Note
 
    By the end of this section, you will be able to: \* Discuss the three
    basic functions of memory \* Describe the three stages of memory
@@ -16,7 +16,7 @@ How Memory Functions
    declarative memory and semantic and episodic memory
 
 Memory is an information processing system; therefore, we often compare
-it to a computer. **Memory**\ {: data-type=“term”} is the set of
+it to a computer. :term:Memory is the set of
 processes used to encode, store, and retrieve information over different
 periods of time (`[link] <#Figure_08_01_Memory>`__).
 
