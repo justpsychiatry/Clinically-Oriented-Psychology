@@ -8,7 +8,7 @@ Cells of the Nervous System
    :depth: 3
 ..
 
-.. container::
+.. admonition:: Note
 
    By the end of this section, you will be able to: \* Identify the
    basic parts of a neuron \* Describe how neurons communicate with each
@@ -34,7 +34,7 @@ structure and function of neurons.
 Neuron Structure
 ================
 
-**Neurons**\ {: data-type=“term” .no-emphasis} are the central building
+:term:**Neurons** are the central building
 blocks of the nervous system, 100 billion strong at birth. Like all
 cells, neurons consist of several different parts, each serving a
 specialized function (`[link] <#CNX_Psych_03_02_Neuron>`__). A neuron’s
@@ -220,7 +220,7 @@ The movement of the action potential down the length of the axon is an
 electrical event, and movement of the neurotransmitter across the
 synaptic space represents the chemical portion of the process.
 
-.. container:: psychology link-to-learning
+.. admonition::  psychology link-to-learning
 
    Click through this `interactive
    simulation <http://openstax.org/l/chospital>`__ for a closer look at
@@ -655,9 +655,9 @@ system.
 Review Questions
 ================
 
-.. container::
+.. admonition:: 
 
-   .. container::
+   .. admonition:: 
 
       The \_______\_ receive(s) incoming signals from other neurons.
 
@@ -666,13 +666,13 @@ Review Questions
       3. myelin sheath
       4. dendrites {: type=“a”}
 
-   .. container::
+   .. admonition:: 
 
       D
 
-.. container::
+.. admonition:: 
 
-   .. container::
+   .. admonition:: 
 
       A(n) \_______\_ facilitates or mimics the activity of a given
       neurotransmitter system.
@@ -682,13 +682,13 @@ Review Questions
       3. agonist
       4. antagonist {: type=“a”}
 
-   .. container::
+   .. admonition:: 
 
       C
 
-.. container::
+.. admonition:: 
 
-   .. container::
+   .. admonition:: 
 
       Multiple sclerosis involves a breakdown of the \________.
 
@@ -697,13 +697,13 @@ Review Questions
       3. synaptic vesicles
       4. dendrites {: type=“a”}
 
-   .. container::
+   .. admonition:: 
 
       B
 
-.. container::
+.. admonition:: 
 
-   .. container::
+   .. admonition:: 
 
       An action potential involves Na+ moving \_______\_ the cell and K+
       moving \_______\_ the cell.
@@ -713,23 +713,23 @@ Review Questions
       3. inside; inside
       4. outside; outside {: type=“a”}
 
-   .. container::
+   .. admonition:: 
 
       A
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. admonition:: 1
 
-   .. container::
+   .. admonition:: 
 
       Cocaine has two effects on synaptic transmission: it impairs
       reuptake of dopamine and it causes more dopamine to be released
       into the synapse. Would cocaine be classified as an agonist or
       antagonist? Why?
 
-   .. container::
+   .. admonition:: 
 
       As a reuptake inhibitor, cocaine blocks the normal activity of
       dopamine at the receptor. The function causing more dopamine to be
@@ -739,16 +739,16 @@ Critical Thinking Questions
       degradation of the neurotransmitters, it increases the potential
       time that these neurotransmitters might be active in the synapse.
 
-.. container::
+.. admonition:: 
 
-   .. container::
+   .. admonition:: 
 
       Drugs such as lidocaine and novocaine act as Na+ channel blockers.
       In other words, they prevent sodium from moving across the
       neuronal membrane. Why would this particular effect make these
       drugs such effective local anesthetics?
 
-   .. container::
+   .. admonition:: 
 
       The action potential is initiated by an influx of Na+ into the
       neuron. If this process is prevented, then no action potentials in
@@ -759,9 +759,9 @@ Critical Thinking Questions
 Personal Application Queation
 =============================
 
-.. container::
+.. admonition:: 
 
-   .. container::
+   .. admonition:: 
 
       Have you or someone you know ever been prescribed a psychotropic
       medication? If so, what side effects were associated with the
