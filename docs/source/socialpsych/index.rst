@@ -1,5 +1,5 @@
-Motivation and Emotion
-######################
+Social Psychology
+##################
 
 
 .. toctree::
@@ -8,4 +8,5 @@ Motivation and Emotion
    :maxdepth: 1
    
    m*
+   
    ...

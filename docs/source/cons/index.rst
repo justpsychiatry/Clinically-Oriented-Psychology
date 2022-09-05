@@ -1,5 +1,5 @@
-Motivation and Emotion
-######################
+Consciousness
+##############
 
 
 .. toctree::
