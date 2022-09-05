@@ -1,18 +1,12 @@
-==========================
-Introduction to psychology
-==========================
+==============
+Introduction
+==============
 
 
 
 .. contents::
    :depth: 3
 ..
-
-.. toctree::
-   :maxdepth: 1
-   :glob:
-
-   *.rst
 
 |An illustration shows the outlines of two human heads facing toward one
 another, with several photographs of people spread across the
