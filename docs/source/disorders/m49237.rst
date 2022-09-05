@@ -46,7 +46,7 @@ their ability to function.
 
 The DSM-5 lists two general categories of mood disorders. **Depressive
 disorders**\ {: data-type=“term”} are a group of disorders in which
-**depression**\ {: data-type=“term” .no-emphasis} is the main feature.
+**depression**:term:`pastehere` is the main feature.
 Depression is a vague term that, in everyday language, refers to an
 intense and persistent sadness. Depression is a heterogeneous mood
 state—it consists of a broad spectrum of symptoms that range in
@@ -207,7 +207,7 @@ BIPOLAR DISORDER
 ================
 
 A person with **bipolar disorder**\ {: data-type=“term”} (commonly known
-as **manic depression**\ {: data-type=“term” .no-emphasis}) often
+as **manic depression**:term:`pastehere`) often
 experiences mood states that vacillate between depression and mania;
 that is, the person’s mood is said to alternate from one emotional
 extreme to the other (in contrast to unipolar, which indicates a
@@ -609,7 +609,7 @@ vulnerable people who encounter them (Luxton, June, & Fairall, 2012).
 
 One possible contributing factor in suicide is brain chemistry.
 Contemporary neurological research shows that disturbances in the
-functioning of **serotonin**\ {: data-type=“term” .no-emphasis} are
+functioning of **serotonin**:term:`pastehere` are
 linked to suicidal behavior (Pompili et al., 2010). Low levels of
 serotonin predict future suicide attempts and suicide completions, and
 low levels have been observed post-mortem among suicide victims (Mann,

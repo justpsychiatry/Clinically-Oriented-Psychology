@@ -121,7 +121,7 @@ where students have more influence over their learning activities.
 THEORIES ABOUT MOTIVATION
 =========================
 
-William **James**\ {: data-type=“term” .no-emphasis} (1842–1910) was an
+William **James**:term:`pastehere` (1842–1910) was an
 important contributor to early research into motivation, and he is often
 referred to as the father of psychology in the United States. James
 theorized that behavior was driven by a number of instincts, which aid
@@ -235,7 +235,7 @@ Self-efficacy and Social Motives
 **Self-efficacy**\ {: data-type=“term”} is an individual’s belief in her
 own capability to complete a task, which may include a previous
 successful completion of the exact task or a similar task. Albert
-**Bandura**\ {: data-type=“term” .no-emphasis} (1994) theorized that an
+**Bandura**:term:`pastehere` (1994) theorized that an
 individual’s sense of self-efficacy plays a pivotal role in motivating
 behavior. Bandura argues that motivation derives from expectations that
 we have about the consequences of our behaviors, and ultimately, it is
@@ -263,7 +263,7 @@ Maslow’s Hierarchy of Needs
 
 While the theories of motivation described earlier relate to basic
 biological drives, individual characteristics, or social contexts,
-Abraham **Maslow**\ {: data-type=“term” .no-emphasis} (1943) proposed a
+Abraham **Maslow**:term:`pastehere` (1943) proposed a
 **hierarchy of needs**\ {: data-type=“term”} that spans the spectrum of
 motives ranging from the biological to the individual to the social.
 These needs are often depicted as a pyramid

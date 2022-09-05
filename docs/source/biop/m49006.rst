@@ -195,7 +195,7 @@ to buy milk, but she could not communicate verbally if a situation
 called for it.
 
 Probably the most famous case of frontal lobe damage is that of a man by
-the name of Phineas **Gage**\ {: data-type=“term” .no-emphasis}. On
+the name of Phineas :term:`**Gage**`. On
 September 13, 1848, Gage (age 25) was working as a railroad foreman in
 Vermont. He and his crew were using an iron rod to tamp explosives down
 into a blasting hole to remove rock along the railway’s path.
@@ -276,7 +276,7 @@ the occipital lobe when you study sensation and perception.
 Other Areas of the Forebrain
 ----------------------------
 
-Other areas of the **forebrain**\ {: data-type=“term” .no-emphasis},
+Other areas of the **forebrain**:term:`pastehere`,
 located beneath the cerebral cortex, include the thalamus and the limbic
 system. The **thalamus**\ {: data-type=“term”} is a sensory relay for
 the brain. All of our senses, with the exception of smell, are routed
@@ -309,7 +309,7 @@ the limbic system: the hypothalamus, amygdala, and hippocampus.|\ {:
 The Case of Henry Molaison (H.M.)
 ---------------------------------
 
-In 1953, Henry Gustav **Molaison**\ {: data-type=“term” .no-emphasis}
+In 1953, Henry Gustav **Molaison**:term:`pastehere`
 (H. M.) was a 27-year-old man who experienced severe seizures. In an
 attempt to control his seizures, H. M. underwent brain surgery to remove
 his hippocampus and amygdala. Following the surgery, H.M’s seizures

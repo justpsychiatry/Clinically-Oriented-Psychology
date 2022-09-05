@@ -197,7 +197,7 @@ Dreams
 
 The meaning of dreams varies across different cultures and periods of
 time. By the late 19th century, German psychiatrist Sigmund
-**Freud**\ {: data-type=“term” .no-emphasis} had become convinced that
+**Freud**:term:`pastehere` had become convinced that
 dreams represented an opportunity to gain access to the unconscious. By
 analyzing dreams, Freud thought people could increase self-awareness and
 gain valuable insight to help them deal with the problems they faced in

@@ -127,7 +127,7 @@ readiness, called the **resting potential**\ {: data-type=“term”}. Like
 a rubber band stretched out and waiting to spring into action, ions line
 up on either side of the cell membrane, ready to rush across the
 membrane when the neuron goes active and the membrane opens its gates
-(i.e., a **sodium-potassium pump**\ {: data-type=“term” .no-emphasis}
+(i.e., a **sodium-potassium pump**:term:`pastehere`
 that allows movement of ions across the membrane). Ions in
 high-concentration areas are ready to move to low-concentration areas,
 and positive ions are ready to move to areas with a negative charge.

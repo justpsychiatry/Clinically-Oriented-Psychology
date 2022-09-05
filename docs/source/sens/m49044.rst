@@ -26,7 +26,7 @@ body senses (touch, temperature, pain, balance, and body position).
 THE CHEMICAL SENSES
 ===================
 
-Taste (gustation) and **smell**\ {: data-type=“term” .no-emphasis}
+Taste (gustation) and **smell**:term:`pastehere`
 (olfaction) are called chemical senses because both have sensory
 receptors that respond to molecules in the food we eat or in the air we
 breathe. There is a pronounced interaction between our chemical senses.

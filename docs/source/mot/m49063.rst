@@ -133,8 +133,8 @@ data-type=“term”}).
 MASTERS AND JOHNSON’S RESEARCH
 ==============================
 
-In 1966, William **Masters**\ {: data-type=“term” .no-emphasis} and
-Virginia **Johnson**\ {: data-type=“term” .no-emphasis} published a book
+In 1966, William **Masters**:term:`pastehere` and
+Virginia **Johnson**:term:`pastehere` published a book
 detailing the results of their observations of nearly 700 people who
 agreed to participate in their study of physiological responses during
 sexual behavior. Unlike Kinsey, who used personal interviews and surveys

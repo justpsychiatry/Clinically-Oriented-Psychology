@@ -29,7 +29,7 @@ Behaviorists do not believe in biological determinism: They do not see
 personality traits as inborn. Instead, they view personality as
 significantly shaped by the reinforcements and consequences outside of
 the organism. In other words, people behave in a consistent manner based
-on prior learning. B. F. **Skinner**\ {: data-type=“term” .no-emphasis},
+on prior learning. B. F. **Skinner**:term:`pastehere`,
 a strict behaviorist, believed that environment was solely responsible
 for all behavior, including the enduring, consistent behavior patterns
 studied by personality theorists.
@@ -55,7 +55,7 @@ now describes herself as a cautious person.
 THE SOCIAL-COGNITIVE PERSPECTIVE
 ================================
 
-Albert **Bandura**\ {: data-type=“term” .no-emphasis} agreed with
+Albert **Bandura**:term:`pastehere` agreed with
 Skinner that personality develops through **learning**\ {:
 data-type=“term” .no-emphasis}. He disagreed, however, with Skinner’s
 strict behaviorist approach to personality development, because he felt
@@ -143,7 +143,7 @@ her ability in English class but much less so in math class.
 JULIAN ROTTER AND LOCUS OF CONTROL
 ==================================
 
-Julian **Rotter**\ {: data-type=“term” .no-emphasis} (1966) proposed the
+Julian **Rotter**:term:`pastehere` (1966) proposed the
 concept of locus of control, another cognitive factor that affects
 learning and personality development. Distinct from self-efficacy, which
 involves our belief in our own abilities, **locus of control**\ {:
@@ -187,7 +187,7 @@ outcomes.”|\ {: #Figure_11_04_Control}
 WALTER MISCHEL AND THE PERSON-SITUATION DEBATE
 ==============================================
 
-Walter **Mischel**\ {: data-type=“term” .no-emphasis} was a student of
+Walter **Mischel**:term:`pastehere` was a student of
 Julian Rotter and taught for years at Stanford, where he was a colleague
 of Albert Bandura. Mischel surveyed several decades of empirical
 psychological literature regarding trait prediction of behavior, and his

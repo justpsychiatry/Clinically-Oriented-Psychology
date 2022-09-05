@@ -37,7 +37,7 @@ problem, considering possible solutions, weighing the costs and benefits
 of these solutions, and then selecting an alternative (Lazarus &
 Folkman, 1984). As an example, suppose Bradford receives a midterm
 notice that he is failing statistics class. If Bradford adopts a
-**problem-focused coping**\ {: data-type=“term” .no-emphasis} approach
+**problem-focused coping**:term:`pastehere` approach
 to managing his stress, he would be proactive in trying to alleviate the
 source of the stress. He might contact his professor to discuss what
 must be done to raise his grade, he might also decide to set aside two
@@ -51,7 +51,7 @@ include avoiding, minimizing, or distancing oneself from the problem, or
 positive comparisons with others (“I’m not as bad off as she is”), or
 seeking something positive in a negative event (“Now that I’ve been
 fired, I can sleep in for a few days”). In some cases, **emotion-focused
-coping**\ {: data-type=“term” .no-emphasis} strategies involve
+coping**:term:`pastehere` strategies involve
 reappraisal, whereby the stressor is construed differently (and somewhat
 self-deceptively) without changing its objective level of threat
 (Lazarus & Folkman, 1984). For example, a person sentenced to federal
@@ -344,8 +344,8 @@ exercising, smoking cessation, and cooperation with medical regimens
    of prejudicial attitudes and discriminatory behaviors is associated
    with a number of negative outcomes. In their literature review,
    Brondolo, Brady, Pencille, Beatty, and Contrada (2009) describe how
-   racial **prejudice**\ {: data-type=“term” .no-emphasis} and
-   **discrimination**\ {: data-type=“term” .no-emphasis} serve as
+   racial **prejudice**:term:`pastehere` and
+   **discrimination**:term:`pastehere` serve as
    unique, significant stressors for those who are the targets of such
    attitudes and behavior. Being the target of racism is associated with
    increased rates of depression, lowered self-esteem, hypertension, and
@@ -396,7 +396,7 @@ STRESS REDUCTION TECHNIQUES
 Beyond having a sense of control and establishing social support
 networks, there are numerous other means by which we can manage stress
 (`[link] <#CNX_Psych_14_04_StressRed>`__). A common technique people use
-to combat stress is **exercise**\ {: data-type=“term” .no-emphasis}
+to combat stress is **exercise**:term:`pastehere`
 (Salmon, 2001). It is well-established that exercise, both of long
 (aerobic) and short (anaerobic) duration, is beneficial for both
 physical and mental health (Everly & Lating, 2002). There is

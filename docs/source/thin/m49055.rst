@@ -70,9 +70,9 @@ Given the remarkable complexity of a language, one might expect that
 mastering a language would be an especially arduous task; indeed, for
 those of us trying to learn a second language as adults, this might seem
 to be true. However, young children master language very quickly with
-relative ease. B. F. **Skinner**\ {: data-type=“term” .no-emphasis}
+relative ease. B. F. **Skinner**:term:`pastehere`
 (1957) proposed that language is learned through reinforcement. Noam
-**Chomsky**\ {: data-type=“term” .no-emphasis} (1965) criticized this
+**Chomsky**:term:`pastehere` (1965) criticized this
 behaviorist approach, asserting instead that the mechanisms underlying
 language acquisition are biologically determined. The use of language
 develops in the absence of formal instruction and appears to follow a

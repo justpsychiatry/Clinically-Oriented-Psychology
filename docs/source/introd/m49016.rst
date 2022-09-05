@@ -104,7 +104,7 @@ wrote books titled, *The Descent of Man* (1871) and *The Expression of
 the Emotions in Man and Animals* (1872), to explore this field.
 
 Evolutionary psychology, and specifically, the **evolutionary
-psychology**\ {: data-type=“term” .no-emphasis} of humans, has enjoyed a
+psychology**:term:`pastehere` of humans, has enjoyed a
 resurgence in recent decades. To be subject to evolution by natural
 selection, a behavior must have a significant genetic cause. In general,
 we expect all human cultures to express a behavior if it is caused
@@ -149,8 +149,8 @@ SENSATION AND PERCEPTION
 
 Scientists interested in both physiological aspects of sensory systems
 as well as in the psychological experience of sensory information work
-within the area of **sensation**\ {: data-type=“term” .no-emphasis} and
-**perception**\ {: data-type=“term” .no-emphasis}
+within the area of **sensation**:term:`pastehere` and
+**perception**:term:`pastehere`
 (`[link] <#CNX_Psych_01_03_DuckRabbit>`__). As such, sensation and
 perception research is also quite interdisciplinary. Imagine walking
 between buildings as you move from one class to another. You are
@@ -213,7 +213,7 @@ Early developmental psychologists focused primarily on changes that
 occurred through reaching adulthood, providing enormous insight into the
 differences in physical, cognitive, and social capacities that exist
 between very young children and adults. For instance, research by Jean
-**Piaget**\ {: data-type=“term” .no-emphasis}
+**Piaget**:term:`pastehere`
 (`[link] <#CNX_Psych_01_03_Piaget>`__) demonstrated that very young
 children do not demonstrate object permanence. Object permanence refers
 to the understanding that physical things continue to exist, even if
@@ -266,7 +266,7 @@ situation. Personality traits are relatively consistent patterns of
 thought and behavior, and many have proposed that five trait dimensions
 are sufficient to capture the variations in personality seen across
 individuals. These five dimensions are known as the “Big Five” or the
-**Five Factor model**\ {: data-type=“term” .no-emphasis}, and include
+**Five Factor model**:term:`pastehere`, and include
 dimensions of conscientiousness, agreeableness, neuroticism, openness,
 and extraversion (`[link] <#CNX_Psych_01_03_BigFive>`__). Each of these
 traits has been demonstrated to be relatively stable over the lifespan
@@ -309,7 +309,7 @@ emotions.”|\ {: #CNX_Psych_01_03_BigFive}
 SOCIAL PSYCHOLOGY
 =================
 
-**Social psychology**\ {: data-type=“term” .no-emphasis} focuses on how
+**Social psychology**:term:`pastehere` focuses on how
 we interact with and relate to others. Social psychologists conduct
 research on a wide variety of topics that include differences in how we
 explain our own behavior versus how we explain the behaviors of others,
@@ -321,7 +321,7 @@ There are many interesting examples of social psychological research,
 and you will read about many of these in a later chapter of this
 textbook. Until then, you will be introduced to one of the most
 controversial psychological studies ever conducted. Stanley
-**Milgram**\ {: data-type=“term” .no-emphasis} was an American social
+**Milgram**:term:`pastehere` was an American social
 psychologist who is most famous for research that he conducted on
 obedience. After the holocaust, in 1961, a Nazi war criminal, Adolf
 Eichmann, who was accused of committing mass atrocities, was put on
@@ -396,7 +396,7 @@ involves conducting scientific research on behavior within I-O settings
 HEALTH PSYCHOLOGY
 =================
 
-**Health psychology**\ {: data-type=“term” .no-emphasis} focuses on how
+**Health psychology**:term:`pastehere` focuses on how
 health is affected by the interaction of biological, psychological, and
 sociocultural factors. This particular approach is known as the
 **biopsychosocial model**\ {: data-type=“term”}
@@ -442,7 +442,7 @@ have been influential in shaping how clinicians interact with people
 seeking psychotherapy. While aspects of the psychoanalytic theory are
 still found among some of today’s therapists who are trained from a
 psychodynamic perspective, Roger’s ideas about client-centered
-**therapy**\ {: data-type=“term” .no-emphasis} have been especially
+**therapy**:term:`pastehere` have been especially
 influential in shaping how many clinicians operate. Furthermore, both
 behaviorism and the cognitive revolution have shaped clinical practice
 in the forms of behavioral therapy, cognitive therapy, and

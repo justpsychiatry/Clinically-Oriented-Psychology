@@ -15,13 +15,13 @@ Classical Conditioning
    acquisition, extinction, spontaneous recovery, generalization, and
    discrimination
 
-Does the name Ivan **Pavlov**\ {: data-type=“term” .no-emphasis} ring a
+Does the name Ivan **Pavlov**:term:`pastehere` ring a
 bell? Even if you are new to the study of psychology, chances are that
 you have heard of Pavlov and his famous dogs.
 
 Pavlov (1849–1936), a Russian scientist, performed extensive research on
 dogs and is best known for his experiments in classical
-**conditioning**\ {: data-type=“term” .no-emphasis}
+**conditioning**:term:`pastehere`
 (`[link] <#Figure06_02_Pavlov>`__). As we discussed briefly in the
 previous section, **classical conditioning**\ {: data-type=“term”} is a
 process by which we learn to associate stimuli and, consequently, to
@@ -230,7 +230,7 @@ sometimes this interval is as little as five seconds (Chance, 2009).
 However, with other types of conditioning, the interval can be up to
 several hours.
 
-**Taste aversion**\ {: data-type=“term” .no-emphasis} is a type of
+**Taste aversion**:term:`pastehere` is a type of
 conditioning in which an interval of several hours may pass between the
 conditioned stimulus (something ingested) and the unconditioned stimulus
 (nausea or illness). Here’s how it works. Between classes, you and a
@@ -376,7 +376,7 @@ eventually you hardly notice it any longer.
 BEHAVIORISM
 ===========
 
-John B. **Watson**\ {: data-type=“term” .no-emphasis}, shown in
+John B. **Watson**:term:`pastehere`, shown in
 `[link] <#Figure06_02_Watson>`__, is considered the founder of
 behaviorism. Behaviorism is a school of thought that arose during the
 first part of the 20th century, which incorporates elements of Pavlov’s

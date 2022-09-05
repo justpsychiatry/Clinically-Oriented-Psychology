@@ -29,7 +29,7 @@ focuses on the individual worker’s interaction with a machine, work
 station, information displays, and the local environment, such as
 lighting. In the United States, human factors psychology has origins in
 both psychology and engineering; this is reflected in the early
-contributions of Lillian **Gilbreth**\ {: data-type=“term” .no-emphasis}
+contributions of Lillian **Gilbreth**:term:`pastehere`
 (psychologist and engineer) and her husband Frank Gilbreth (engineer).
 
 Human factor professionals are involved in design from the beginning of

@@ -17,7 +17,7 @@ The Pursuit of Happiness
    importance in health outcomes \* Describe the concept of flow and its
    relationship to happiness and fulfillment
 
-Although the study of **stress**\ {: data-type=“term” .no-emphasis} and
+Although the study of **stress**:term:`pastehere` and
 how it affects us physically and psychologically is fascinating, it
 is—admittedly—somewhat of a grim topic. Psychology is also interested in
 the study of a more upbeat and encouraging approach to human affairs—the
@@ -304,7 +304,7 @@ series of happiness interventions involving such exercises as writing
 down three good things that occurred each day led to increases in
 happiness that lasted over six months (Seligman et al., 2005).
 
-Measuring **happiness**\ {: data-type=“term” .no-emphasis} and
+Measuring **happiness**:term:`pastehere` and
 well-being at the societal level over time may assist policy makers in
 determining if people are generally happy or miserable, as well as when
 and why they might feel the way they do. Studies show that average
@@ -324,7 +324,7 @@ people’s happiness in mind.
 POSITIVE PSYCHOLOGY
 ===================
 
-In 1998, **Seligman**\ {: data-type=“term” .no-emphasis} (the same
+In 1998, **Seligman**:term:`pastehere` (the same
 person who conducted the learned helplessness experiments mentioned
 earlier), who was then president of the American Psychological
 Association, urged psychologists to focus more on understanding how to

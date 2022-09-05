@@ -45,7 +45,7 @@ eating (Drazen & Woods, 2003; Druce, Small, & Bloom, 2004; Greary,
 provides important satiety signals to the brain (Woods, 2004), and fat
 cells release **leptin**\ {: data-type=“term”}, a satiety hormone.
 
-The various **hunger**\ {: data-type=“term” .no-emphasis} and satiety
+The various **hunger**:term:`pastehere` and satiety
 signals that are involved in the regulation of eating are integrated in
 the brain. Research suggests that several areas of the hypothalamus and
 hindbrain are especially important sites where this integration occurs
@@ -105,7 +105,7 @@ OBESITY
 When someone weighs more than what is generally accepted as healthy for
 a given height, they are considered overweight or obese. According to
 the Centers for Disease Control and Prevention (CDC), an adult with a
-**body mass index**\ {: data-type=“term” .no-emphasis} (BMI) between 25
+**body mass index**:term:`pastehere` (BMI) between 25
 and 29.9 is considered **overweight**\ {: data-type=“term”}
 (`[link] <#Figure_10_02_BodyMass>`__). An adult with a **BMI**\ {:
 data-type=“term” .no-emphasis} of 30 or higher is considered
@@ -194,7 +194,7 @@ and into the duodenum.|\ {: #Figure_10_02_Bariatric}
 
       Prader-Willi Syndrome
 
-   **Prader-Willi Syndrome**\ {: data-type=“term” .no-emphasis} (PWS) is
+   **Prader-Willi Syndrome**:term:`pastehere` (PWS) is
    a genetic disorder that results in persistent feelings of intense
    hunger and reduced rates of metabolism. Typically, affected children
    have to be supervised around the clock to ensure that they do not

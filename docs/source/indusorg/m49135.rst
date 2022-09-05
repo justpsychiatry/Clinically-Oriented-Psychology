@@ -178,7 +178,7 @@ performance of the job candidate.
       Preparing for the Job Interview
 
    You might be wondering if psychology research can tell you how to
-   succeed in a **job interview**\ {: data-type=“term” .no-emphasis}. As
+   succeed in a **job interview**:term:`pastehere`. As
    you can imagine, most research is concerned with the employer’s
    interest in choosing the most appropriate candidate for the job, a
    goal that makes sense for the candidate too. But suppose you are not
@@ -418,7 +418,7 @@ Some hiring criteria may be related to a particular group an applicant
 belongs to and not individual abilities. Unless membership in that group
 directly affects potential job performance, a decision based on group
 membership is discriminatory (`[link] <#CNX_Psych_13_02_Discrimin>`__).
-To combat hiring **discrimination**\ {: data-type=“term” .no-emphasis},
+To combat hiring **discrimination**:term:`pastehere`,
 in the United States there are numerous city, state, and federal laws
 that prevent hiring based on various group-membership criteria. For
 example, did you know it is illegal for a potential employer to ask your

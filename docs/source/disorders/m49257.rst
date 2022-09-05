@@ -61,7 +61,7 @@ cultures in modern-day Nigeria (Aghukwa, 2012).
    Between the 11th and 17th centuries, a curious epidemic swept across
    Western Europe. Groups of people would suddenly begin to dance with
    wild abandon. This compulsion to dance—referred to as **dancing
-   mania**\ {: data-type=“term” .no-emphasis}—sometimes gripped
+   mania**:term:`pastehere`—sometimes gripped
    thousands of people at a time (`[link] <#Figure_15_03_Mania>`__).
    Historical accounts indicate that those afflicted would sometimes
    dance with bruised and bloody feet for days or weeks, screaming of
@@ -100,7 +100,7 @@ in recent decades (Wyatt & Midkiff, 2006). Evidence from many sources
 indicates that most psychological disorders have a genetic component; in
 fact, there is little dispute that some disorders are largely due to
 genetic factors. The graph in `[link] <#Figure_15_03_Heritability>`__
-shows **heritability**\ {: data-type=“term” .no-emphasis} estimates for
+shows **heritability**:term:`pastehere` estimates for
 schizophrenia.
 
 |A bar graph has an x-axis labeled “Percent risk of developing

@@ -149,8 +149,8 @@ has to pass through three distinct stages: **Sensory Memory**\ {:
 data-type=“term” .no-emphasis}, **Short-Term Memory**\ {:
 data-type=“term” .no-emphasis}, and finally **Long-Term Memory**\ {:
 data-type=“term” .no-emphasis}. These stages were first proposed by
-Richard **Atkinson**\ {: data-type=“term” .no-emphasis} and Richard
-**Shiffrin**\ {: data-type=“term” .no-emphasis} (1968). Their model of
+Richard **Atkinson**:term:`pastehere` and Richard
+**Shiffrin**:term:`pastehere` (1968). Their model of
 human memory (`[link] <#Figure_08_01_Atkinson>`__), called
 Atkinson-Shiffrin (A-S), is based on the belief that we process memories
 in the same way that a computer processes information.
@@ -347,7 +347,7 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
    over the course of your life—meals, conversations, clothing choices,
    weather conditions, and so on? Most likely none of us could even come
    close to answering these questions; however, American actress Marilu
-   **Henner**\ {: data-type=“term” .no-emphasis}, best known for the
+   **Henner**:term:`pastehere`, best known for the
    television show *Taxi,* can remember. She has an amazing and highly
    superior autobiographical memory (`[link] <#Figure_08_01_Marilu>`__).
 

@@ -127,7 +127,7 @@ anxiety disorder. Drug abuse can cause symptoms of mood and anxiety
 disorders and the reverse is also true—people with debilitating symptoms
 of a psychiatric disorder may self-medicate and abuse substances.
 
-In cases of **comorbidity**\ {: data-type=“term” .no-emphasis}, the best
+In cases of **comorbidity**:term:`pastehere`, the best
 treatment is thought to address both (or multiple) disorders
 simultaneously (NIDA, 2012). Behavior therapies are used to treat
 comorbid conditions, and in many cases, psychotropic medications are

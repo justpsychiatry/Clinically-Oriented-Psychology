@@ -110,7 +110,7 @@ SOUND LOCALIZATION
 ==================
 
 The ability to locate sound in our environments is an important part of
-**hearing**\ {: data-type=“term” .no-emphasis}. Localizing sound could
+**hearing**:term:`pastehere`. Localizing sound could
 be considered similar to the way that we perceive depth in our visual
 fields. Like the monocular and binocular cues that provided information
 about depth, the auditory system uses both **monaural**\ {:
@@ -200,7 +200,7 @@ information to the brain.
 
    In the United States and other places around the world, deaf people
    have their own language, schools, and customs. This is called **deaf
-   culture**\ {: data-type=“term” .no-emphasis}. In the United States,
+   culture**:term:`pastehere`. In the United States,
    deaf individuals often communicate using American Sign Language
    (ASL); ASL has no verbal component and is based entirely on visual
    signs and gestures. The primary mode of communication is signing. One

@@ -16,7 +16,7 @@ Parts of the Nervous System
    systems \* Differentiate between the sympathetic and parasympathetic
    divisions of the autonomic nervous system
 
-The **nervous system**\ {: data-type=“term” .no-emphasis} can be divided
+The :term:`nervous system` can be divided
 into two major subdivisions: the **central nervous system (CNS)**\ {:
 data-type=“term”} and the **peripheral nervous system (PNS)**\ {:
 data-type=“term”}, shown in `[link] <#CNX_Psych_03_03_NervSystem>`__.
@@ -80,8 +80,7 @@ body undergoes a series of changes—a direct function of sympathetic
 activation—preparing him to face the threat. His pupils dilate, his
 heart rate and blood pressure increase, his bladder relaxes, his liver
 releases glucose, and adrenaline surges into his bloodstream. This
-constellation of physiological changes, known as the **fight or flight
-response**\ {: data-type=“term”}, allows the body access to energy
+constellation of physiological changes, known as the :term:`fight or flight response`, allows the body access to energy
 reserves and heightened sensory capacity so that it might fight off a
 threat or run away to safety.
 

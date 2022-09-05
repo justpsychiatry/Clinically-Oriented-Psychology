@@ -386,7 +386,7 @@ Racism
 ------
 
 **Racism**\ {: data-type=“term”} is **prejudice**\ {: data-type=“term”
-.no-emphasis} and **discrimination**\ {: data-type=“term” .no-emphasis}
+.no-emphasis} and **discrimination**:term:`pastehere`
 against an individual based solely on one’s membership in a specific
 racial group (such as toward African Americans, Asian Americans,
 Latinos, Native Americans, European Americans). What are some
@@ -441,7 +441,7 @@ Sexism
 ------
 
 **Sexism**\ {: data-type=“term”} is **prejudice**\ {: data-type=“term”
-.no-emphasis} and **discrimination**\ {: data-type=“term” .no-emphasis}
+.no-emphasis} and **discrimination**:term:`pastehere`
 toward individuals based on their sex. Typically, sexism takes the form
 of men holding biases against women, but either sex can show sexism
 toward their own or their opposite sex. Like racism, sexism may be
@@ -472,8 +472,8 @@ Ageism
 
 People often form judgments and hold expectations about people based on
 their age. These judgments and expectations can lead to **ageism**\ {:
-data-type=“term”}, or **prejudice**\ {: data-type=“term” .no-emphasis}
-and **discrimination**\ {: data-type=“term” .no-emphasis} toward
+data-type=“term”}, or **prejudice**:term:`pastehere`
+and **discrimination**:term:`pastehere` toward
 individuals based solely on their age. Typically, ageism occurs against
 older adults, but ageism also can occur toward younger adults. Think of
 expectations you hold for older adults. How could someone’s expectations
@@ -495,10 +495,10 @@ Homophobia
 ----------
 
 Another form of prejudice is **homophobia**\ {: data-type=“term”}:
-**prejudice**\ {: data-type=“term” .no-emphasis} and
-**discrimination**\ {: data-type=“term” .no-emphasis} of individuals
+**prejudice**:term:`pastehere` and
+**discrimination**:term:`pastehere` of individuals
 based solely on their sexual orientation. Like ageism,
-**homophobia**\ {: data-type=“term” .no-emphasis} is a widespread
+**homophobia**:term:`pastehere` is a widespread
 prejudice in U.S. society that is tolerated by many people (Herek &
 McLemore, 2013; Nosek, 2005). Negative feelings often result in
 discrimination, such as the exclusion of lesbian, gay, bisexual, and
@@ -551,8 +551,8 @@ attitudes, and discrimination were evident?
 WHY DO PREJUDICE AND DISCRIMINATION EXIST?
 ==========================================
 
-**Prejudice**\ {: data-type=“term” .no-emphasis} and
-**discrimination**\ {: data-type=“term” .no-emphasis} persist in society
+**Prejudice**:term:`pastehere` and
+**discrimination**:term:`pastehere` persist in society
 due to social learning and conformity to social norms. Children learn
 prejudiced attitudes and beliefs from society: their parents, teachers,
 friends, the media, and other sources of socialization, such as Facebook
@@ -571,7 +571,7 @@ a discriminatory manner because your group of friends expected you to?
 STEREOTYPES AND SELF-FULFILLING PROPHECY
 ========================================
 
-When we hold a **stereotype**\ {: data-type=“term” .no-emphasis} about a
+When we hold a **stereotype**:term:`pastehere` about a
 person, we have expectations that he or she will fulfill that
 stereotype. A **self-fulfilling prophecy**\ {: data-type=“term”} is an
 expectation held by a person that alters his or her behavior in a way

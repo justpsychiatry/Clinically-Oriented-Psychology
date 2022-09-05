@@ -44,7 +44,7 @@ day-to-day worries we might have, such as justifiable concerns about
 being laid off from a job. Rather, obsessions are characterized as
 persistent, unintentional, and unwanted thoughts and urges that are
 highly intrusive, unpleasant, and distressing (APA, 2013). Common
-**obsessions**\ {: data-type=“term” .no-emphasis} include concerns about
+**obsessions**:term:`pastehere` include concerns about
 germs and contamination, doubts (“Did I turn the water off?”), order and
 symmetry (“I need all the spoons in the tray to be arranged a certain
 way”), and urges that are aggressive or lustful. Usually, the person
@@ -57,7 +57,7 @@ both contamination and aggressive obsessions (Abramowitz & Siqueland,
 Compulsions are repetitive and ritualistic acts that are typically
 carried out primarily as a means to minimize the distress that
 obsessions trigger or to reduce the likelihood of a feared event (APA,
-2013). **Compulsions**\ {: data-type=“term” .no-emphasis} often include
+2013). **Compulsions**:term:`pastehere` often include
 such behaviors as repeated and extensive hand washing, cleaning,
 checking (e.g., that a door is locked), and ordering (e.g., lining up
 all the pencils in a particular way), and they also include such mental

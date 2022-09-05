@@ -37,7 +37,7 @@ HIGH INTELLIGENCE: NATURE OR NURTURE?
 Where does high intelligence come from? Some researchers believe that
 intelligence is a trait inherited from a person’s parents. Scientists
 who research this topic typically use twin studies to determine the
-**heritability**\ {: data-type=“term” .no-emphasis} of intelligence. The
+**heritability**:term:`pastehere` of intelligence. The
 Minnesota Study of Twins Reared Apart is one of the most well-known twin
 studies. In this investigation, researchers found that identical twins
 raised together and identical twins raised apart exhibit a higher

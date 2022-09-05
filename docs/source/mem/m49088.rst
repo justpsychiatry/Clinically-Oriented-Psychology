@@ -220,7 +220,7 @@ http://www.innocenceproject.org.
       Preserving Eyewitness Memory: The Elizabeth Smart Case
 
    Contrast the Cotton case with what happened in the Elizabeth
-   **Smart**\ {: data-type=“term” .no-emphasis} case. When Elizabeth was
+   **Smart**:term:`pastehere` case. When Elizabeth was
    14 years old and fast asleep in her bed at home, she was abducted at
    knifepoint. Her nine-year-old sister, Mary Katherine, was sleeping in
    the same bed and watched, terrified, as her beloved older sister was

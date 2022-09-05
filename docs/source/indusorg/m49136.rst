@@ -487,7 +487,7 @@ separated these two possible elements of job satisfaction.
    Personnel Management also produces a report based on their survey:
    www.fedview.opm.gov.
 
-Job **stress**\ {: data-type=“term” .no-emphasis} affects job
+Job **stress**:term:`pastehere` affects job
 satisfaction. Job stress, or job strain, is caused by specific stressors
 in an occupation. Stress can be an ambigious term as it is used in
 common language. Stress is the perception and response of an individual
@@ -1056,7 +1056,7 @@ the institution or authorities for the contact.
    millennials (Myers & Sadaghiani, 2010).
 
 One well-recognized negative aspect of organizational culture is a
-culture of **harassment**\ {: data-type=“term” .no-emphasis}, including
+culture of **harassment**:term:`pastehere`, including
 sexual harassment. Most organizations of any size have developed sexual
 harassment policies that define sexual harassment (or harassment in
 general) and the procedures the organization has set in place to prevent

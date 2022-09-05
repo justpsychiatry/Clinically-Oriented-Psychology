@@ -231,7 +231,7 @@ Gómez-Galán, Lindskog, & Magara, 2012).
 Amygdala
 --------
 
-The **amygdala**\ {: data-type=“term” .no-emphasis} has received a great
+The **amygdala**:term:`pastehere` has received a great
 deal of attention from researchers interested in understanding the
 biological basis for emotions, especially fear and anxiety (Blackford &
 Pine, 2012; Goosens & Maren, 2002; Maren, Phan, & Liberzon, 2013). The

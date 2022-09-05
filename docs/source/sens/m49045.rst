@@ -124,8 +124,8 @@ of complex ambiguous figures (Goolkasian & Woodbury, 2010).
    experiences, biases, prejudices, and **cultures**\ {:
    data-type=“term” .no-emphasis}, perceptions can be very different
    from person to person. Research suggests that implicit racial
-   **prejudice**\ {: data-type=“term” .no-emphasis} and
-   **stereotypes**\ {: data-type=“term” .no-emphasis} affect perception.
+   **prejudice**:term:`pastehere` and
+   **stereotypes**:term:`pastehere` affect perception.
    For instance, several studies have demonstrated that non-Black
    participants identify weapons faster and are more likely to identify
    non-weapons as weapons when the image of the weapon is paired with

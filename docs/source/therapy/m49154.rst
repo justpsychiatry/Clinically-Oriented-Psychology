@@ -446,7 +446,7 @@ decorated with sculptures, books and pictures on the wall.|\ {:
 
 Today, Freud’s psychoanalytical perspective has been expanded upon by
 the developments of subsequent theories and methodologies: the
-**psychodynamic**\ {: data-type=“term” .no-emphasis} perspective. This
+**psychodynamic**:term:`pastehere` perspective. This
 approach to therapy remains centered on the role of people’s internal
 drives and forces, but treatment is less intensive than Freud’s original
 model.
@@ -821,7 +821,7 @@ focus on conscious rather than unconscious thoughts. They also emphasize
 the patient’s present and future, as opposed to exploring the patient’s
 past.
 
-Psychologist Carl **Rogers**\ {: data-type=“term” .no-emphasis}
+Psychologist Carl **Rogers**:term:`pastehere`
 developed a therapeutic orientation known as **Rogerian**\ {:
 data-type=“term”}, or **client-centered therapy**\ {: data-type=“term”}.
 Note the change from *patients* to *clients*. Rogers (1951) felt that

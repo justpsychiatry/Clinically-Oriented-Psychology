@@ -32,7 +32,7 @@ through today.
 WUNDT AND STRUCTURALISM
 =======================
 
-Wilhelm **Wundt**\ {: data-type=“term” .no-emphasis} (1832–1920) was a
+Wilhelm **Wundt**:term:`pastehere` (1832–1920) was a
 German scientist who was the first person to be referred to as a
 psychologist. His famous book entitled *Principles of Physiological
 Psychology* was published in 1873. Wundt viewed psychology as a
@@ -79,7 +79,7 @@ in 1927 (Gordon, 1995).
 JAMES AND FUNCTIONALISM
 =======================
 
-William **James**\ {: data-type=“term” .no-emphasis} (1842–1910) was the
+William **James**:term:`pastehere` (1842–1910) was the
 first American psychologist who espoused a different perspective on how
 psychology should operate (`[link] <#CNX_Psych_01_02_James>`__). James
 was introduced to Darwin’s theory of evolution by natural selection and
@@ -198,7 +198,7 @@ PAVLOV, WATSON, SKINNER, AND BEHAVIORISM
 ========================================
 
 Early work in the field of behavior was conducted by the Russian
-physiologist Ivan **Pavlov**\ {: data-type=“term” .no-emphasis}
+physiologist Ivan **Pavlov**:term:`pastehere`
 (1849–1936). Pavlov studied a form of learning behavior called a
 conditioned reflex, in which an animal or human produced a reflex
 (unconscious) response to a stimulus and, over time, was conditioned to
@@ -211,7 +211,7 @@ times. Once the response to the second stimulus was “learned,” the food
 stimulus could be omitted. Pavlov’s “classical conditioning” is only one
 form of learning behavior studied by behaviorists.
 
-John B. **Watson**\ {: data-type=“term” .no-emphasis} (1878–1958) was an
+John B. **Watson**:term:`pastehere` (1878–1958) was an
 influential American psychologist whose most famous work occurred during
 the early 20th century at Johns Hopkins University
 (`[link] <#CNX_Psych_01_02_Watson>`__). While Wundt and James were
@@ -243,7 +243,7 @@ cognitive-behavioral therapy. Behavior modification is commonly used in
 classroom settings. Behaviorism has also led to research on
 environmental influences on human behavior.
 
-B. F. **Skinner**\ {: data-type=“term” .no-emphasis} (1904–1990) was an
+B. F. **Skinner**:term:`pastehere` (1904–1990) was an
 American psychologist (`[link] <#CNX_Psych_01_02_Skinner>`__). Like
 Watson, Skinner was a behaviorist, and he concentrated on how behavior
 was affected by its consequences. Therefore, Skinner spoke of
@@ -259,7 +259,7 @@ crucial resource for researchers studying behavior (Thorne & Henley,
 Skinner box: a chamber with a speaker, lights, a lever, and a food
 dispenser.|\ {: #CNX_Psych_01_02_Skinner}
 
-The **Skinner box**\ {: data-type=“term” .no-emphasis} is a chamber that
+The **Skinner box**:term:`pastehere` is a chamber that
 isolates the subject from the external environment and has a behavior
 indicator such as a lever or a button. When the animal pushes the button
 or lever, the box is able to deliver a positive reinforcement of the
@@ -294,7 +294,7 @@ that emphasizes the potential for good that is innate to all humans. Two
 of the most well-known proponents of humanistic psychology are Abraham
 Maslow and Carl Rogers (O’Hara, n.d.).
 
-Abraham **Maslow**\ {: data-type=“term” .no-emphasis} (1908–1970) was an
+Abraham **Maslow**:term:`pastehere` (1908–1970) was an
 American psychologist who is best known for proposing a hierarchy of
 human needs in motivating behavior
 (`[link] <#CNX_Psych_01_02_Maslow>`__). Although this concept will be
@@ -325,7 +325,7 @@ intimacy, belonging” security corresponds to “Safety, employment,
 assets”; “physiological corresponds to Food, water, shelter,
 warmth.”|\ {: #CNX_Psych_01_02_Maslow}
 
-Carl **Rogers**\ {: data-type=“term” .no-emphasis} (1902–1987) was also
+Carl **Rogers**:term:`pastehere` (1902–1987) was also
 an American psychologist who, like Maslow, emphasized the potential for
 good that exists within all people
 (`[link] <#CNX_Psych_01_02_Rogers>`__). Rogers used a therapeutic
@@ -451,7 +451,7 @@ MULTICULTURAL PSYCHOLOGY
 ========================
 
 Culture has important impacts on individuals and social psychology, yet
-the effects of **culture**\ {: data-type=“term” .no-emphasis} on
+the effects of **culture**:term:`pastehere` on
 psychology are under-studied. There is a risk that psychological
 theories and data derived from white, American settings could be assumed
 to apply to individuals and social groups from other cultures and this

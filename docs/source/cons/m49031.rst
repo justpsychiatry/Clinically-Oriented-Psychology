@@ -76,7 +76,7 @@ heart rate, blood pressure, blood sugar, and body temperature. Some
 circadian rhythms play a role in changes in our state of consciousness.
 
 If we have biological rhythms, then is there some sort of **biological
-clock**\ {: data-type=“term” .no-emphasis}? In the brain, the
+clock**:term:`pastehere`? In the brain, the
 hypothalamus, which lies above the pituitary gland, is a main center of
 homeostasis. **Homeostasis**\ {: data-type=“term”} is the tendency to
 maintain a balance, or optimal level, within a biological system.

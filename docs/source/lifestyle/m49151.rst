@@ -635,7 +635,7 @@ for both men and women. Also, one investigation followed over 1,000 male
 medical students from 32 to 48 years. At the beginning of the study,
 these men completed a questionnaire assessing how they react to
 pressure; some indicated that they respond with high levels of
-**anger**\ {: data-type=“term” .no-emphasis}, whereas others indicated
+**anger**:term:`pastehere`, whereas others indicated
 that they respond with less anger. Decades later, researchers found that
 those who earlier had indicated the highest levels of anger were over 6
 times more likely than those who indicated less anger to have had a

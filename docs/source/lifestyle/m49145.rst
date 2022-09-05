@@ -65,7 +65,7 @@ close family member, marriage, divorce, and moving
 furniture.|\ {: #CNX_Psych_14_02_Moving}
 
 In the 1960s, psychiatrists Thomas **Holmes**\ {: data-type=“term”
-.no-emphasis} and Richard **Rahe**\ {: data-type=“term” .no-emphasis}
+.no-emphasis} and Richard **Rahe**:term:`pastehere`
 wanted to examine the link between life stressors and physical illness,
 based on the hypothesis that life events requiring significant changes
 in a person’s normal life routines are stressful, whether these events
@@ -632,7 +632,7 @@ identifying potential stress-related health outcomes (Scully et al.,
       Correlational Research
 
    The Holmes and Rahe Social Readjustment Rating Scale (SRRS) uses the
-   **correlational research**\ {: data-type=“term” .no-emphasis} method
+   **correlational research**:term:`pastehere` method
    to identify the connection between stress and health. That is,
    respondents’ LCU scores are correlated with the number or frequency
    of self-reported symptoms indicating health problems. These

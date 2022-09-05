@@ -104,7 +104,7 @@ published *Psychology and Industrial Efficiency*, which covered topics
 such as employee selection, employee training, and effective
 advertising.
 
-**Scott**\ {: data-type=“term” .no-emphasis} was one of the first
+**Scott**:term:`pastehere` was one of the first
 psychologists to apply psychology to advertising, management, and
 personnel selection. In 1903, Scott published two books: The Theory of
 Advertising and *Psychology of Advertising*. They are the first books to
@@ -203,7 +203,7 @@ bear on organizational psychology.
 
 Parallel to these studies in industrial and organizational psychology,
 the field of human factors psychology was also developing. Frederick
-**Taylor**\ {: data-type=“term” .no-emphasis} was an engineer who saw
+**Taylor**:term:`pastehere` was an engineer who saw
 that if one could redesign the workplace there would be an increase in
 both output for the company and wages for the workers. In 1911 he put
 forward his theory in a book titled, *The Principles of Scientific
@@ -239,7 +239,7 @@ productivity without much concern for worker well-being. His approach
 was criticized by unions and those sympathetic to workers (Van De Water,
 1997).
 
-**Gilbreth**\ {: data-type=“term” .no-emphasis} was another influential
+**Gilbreth**:term:`pastehere` was another influential
 I-O psychologist who strove to find ways to increase productivity
 (`[link] <#CNX_Psych_13_01_Gilbreth>`__). Using time and motion studies,
 Gilbreth and her husband, Frank, worked to make workers more efficient

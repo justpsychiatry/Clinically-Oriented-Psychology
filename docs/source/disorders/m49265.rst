@@ -84,7 +84,7 @@ CULTURAL EXPECTATIONS
 
 Violating cultural expectations is not, in and of itself, a satisfactory
 means of identifying the presence of a psychological disorder. Since
-behavior varies from one **culture**\ {: data-type=“term” .no-emphasis}
+behavior varies from one **culture**:term:`pastehere`
 to another, what may be expected and considered appropriate in one
 culture may not be viewed as such in other cultures. For example,
 returning a stranger’s smile is expected in the United States because a
@@ -224,7 +224,7 @@ THE AMERICAN PSYCHIATRIC ASSOCIATION (APA) DEFINITION
 
 Many of the features of the harmful dysfunction model are incorporated
 in a formal definition of psychological disorder developed by the
-**American Psychiatric Association**\ {: data-type=“term” .no-emphasis}
+**American Psychiatric Association**:term:`pastehere`
 (APA). According to the APA (2013), a psychological disorder is a
 condition that is said to consist of the following:
 

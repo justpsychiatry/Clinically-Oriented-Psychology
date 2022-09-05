@@ -388,7 +388,7 @@ parents, for example, found that roughly a third of respondents
 expressed such a concern (Kennedy, LaVail, Nowak, Basket, & Landry,
 2011); and perhaps fearing that their children would develop autism,
 more than 10% of parents of young children refuse or delay
-**vaccinations**\ {: data-type=“term” .no-emphasis} (Dempsey et al.,
+**vaccinations**:term:`pastehere` (Dempsey et al.,
 2011). Some parents of children with autism mounted a campaign against
 scientists who refuted the vaccine-autism link. Even politicians and
 several well-known celebrities weighed in; for example, actress Jenny

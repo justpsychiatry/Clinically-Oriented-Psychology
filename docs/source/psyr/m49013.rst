@@ -97,7 +97,7 @@ policy. Imagine that you have been elected as the governor of your
 state. One of your responsibilities is to manage the state budget and
 determine how to best spend your constituents’ tax dollars. As the new
 governor, you need to decide whether to continue funding the
-**D.A.R.E.**\ {: data-type=“term” .no-emphasis} (Drug Abuse Resistance
+**D.A.R.E.**:term:`pastehere` (Drug Abuse Resistance
 Education) program in public schools
 (`[link] <#CNX_Psych_02_01_DARE>`__). This program typically involves
 police officers coming into the classroom to educate students about the
@@ -146,7 +146,7 @@ THE PROCESS OF SCIENTIFIC RESEARCH
 ==================================
 
 Scientific knowledge is advanced through a process known as the
-**scientific method**\ {: data-type=“term” .no-emphasis}. Basically,
+**scientific method**:term:`pastehere`. Basically,
 ideas (in the form of theories and hypotheses) are tested against the
 real world (in the form of empirical observations), and those empirical
 observations lead to more ideas that are tested against the real world,
@@ -252,7 +252,7 @@ elicits will not feel fear.
 
 A scientific hypothesis is also **falsifiable**\ {: data-type=“term”},
 or capable of being shown to be incorrect. Recall from the introductory
-chapter that Sigmund **Freud**\ {: data-type=“term” .no-emphasis} had
+chapter that Sigmund **Freud**:term:`pastehere` had
 lots of interesting ideas to explain various human behaviors
 (`[link] <#CNX_Psych_02_01_freud>`__). However, a major criticism of
 Freud’s theories is that many of his ideas are not falsifiable; for

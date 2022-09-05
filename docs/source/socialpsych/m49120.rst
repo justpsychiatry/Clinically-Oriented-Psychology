@@ -131,7 +131,7 @@ The Effect of Initiation
 ------------------------
 
 The military example demonstrates the observation that a difficult
-**initiation**\ {: data-type=“term” .no-emphasis} into a group
+**initiation**:term:`pastehere` into a group
 influences us to like the group *more*, due to the justification of
 effort. We do not want to have wasted time and effort to join a group
 that we eventually leave. A classic experiment by Aronson and Mills
@@ -203,7 +203,7 @@ Yale Attitude Change Approach
 
 The topic of persuasion has been one of the most extensively researched
 areas in social psychology (Fiske et al., 2010). During the Second World
-War, Carl **Hovland**\ {: data-type=“term” .no-emphasis} extensively
+War, Carl **Hovland**:term:`pastehere` extensively
 researched persuasion for the U.S. Army. After the war, Hovland
 continued his exploration of persuasion at Yale University. Out of this
 work came a model called the **Yale attitude change approach**\ {:
@@ -252,7 +252,7 @@ Elaboration Likelihood Model
 
 An especially popular model that describes the dynamics of persuasion is
 the elaboration likelihood model of persuasion (Petty & Cacioppo, 1986).
-The **elaboration likelihood model**\ {: data-type=“term” .no-emphasis}
+The **elaboration likelihood model**:term:`pastehere`
 considers the variables of the attitude change approach—that is,
 features of the source of the persuasive message, contents of the
 message, and characteristics of the audience are used to determine when

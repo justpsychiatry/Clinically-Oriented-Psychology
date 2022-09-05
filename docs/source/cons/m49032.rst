@@ -89,7 +89,7 @@ One popular hypothesis of sleep incorporates the perspective of
 evolutionary psychology. **Evolutionary psychology**\ {:
 data-type=“term”} is a discipline that studies how universal patterns of
 behavior and cognitive processes have evolved over time as a result of
-**natural selection**\ {: data-type=“term” .no-emphasis}. Variations and
+**natural selection**:term:`pastehere`. Variations and
 adaptations in cognition and behavior make individuals more or less
 successful in reproducing and passing their genes to their offspring.
 One hypothesis from this perspective might argue that sleep is essential

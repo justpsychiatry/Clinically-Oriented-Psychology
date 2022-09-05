@@ -45,7 +45,7 @@ temperament (black bile from the kidneys), sanguine temperament (red
 blood from the heart), and phlegmatic temperament (white phlegm from the
 lungs) (Clark & Watson, 2008; Eysenck & Eysenck, 1985; Lecci &
 Magnavita, 2013; Noga, 2007). Centuries later, the influential Greek
-physician and philosopher **Galen**\ {: data-type=“term” .no-emphasis}
+physician and philosopher **Galen**:term:`pastehere`
 built on Hippocrates’s theory, suggesting that both diseases and
 personality differences could be explained by imbalances in the humors
 and that each person exhibits one of the four temperaments. For example,
@@ -83,7 +83,7 @@ Stone by E.H,” and “The Phrenologist.”|\ {: #Figure_11_01_Phrenology}
 In the centuries after Galen, other researchers contributed to the
 development of his four primary temperament types, most prominently
 Immanuel Kant (in the 18th century) and psychologist Wilhelm
-**Wundt**\ {: data-type=“term” .no-emphasis} (in the 19th century)
+**Wundt**:term:`pastehere` (in the 19th century)
 (Eysenck, 2009; Stelmack & Stalikas, 1991; Wundt, 1874/1886)
 (`[link] <#Figure_11_01_FourTemper>`__). Kant agreed with Galen that
 everyone could be sorted into one of the four temperaments and that

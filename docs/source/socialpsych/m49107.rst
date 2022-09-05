@@ -8,17 +8,7 @@ Introduction
    :depth: 3
 ..
 
-class=“introduction”
 
-class=“summary” title=“Summary”
-
-class=“review-questions” title=“Review Questions”
-
-class=“critical-thinking” title=“Critical Thinking Questions”
-
-class=“personal-application” title=“Personal Application Questions”
-
-class=“references” title=“References”
 
 |Two photographs show people holding signs at public events in response
 to Trayvon Martin’s death. The signs include words and messages such as,
@@ -27,9 +17,9 @@ people; guns kill people,” and, “Do I look suspicious?”|\ {:}
 
 Humans are diverse, and sometimes our differences make it challenging
 for us to get along with one another. A poignant example is that of
-Trayvon **Martin**\ {: data-type=“term” .no-emphasis}, a 17-year-old
+Trayvon **Martin**:term:`pastehere`, a 17-year-old
 African American who was shot by a neighborhood watch volunteer, George
-**Zimmerman**\ {: data-type=“term” .no-emphasis}, in a predominantly
+:term:`**Zimmerman**`, in a predominantly
 White neighborhood in 2012. Zimmerman grew suspicious of the boy dressed
 in a hoodie and pursued Martin. A physical altercation ended with
 Zimmerman fatally shooting Martin. Zimmerman claimed that he acted in

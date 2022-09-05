@@ -128,7 +128,7 @@ RESEARCH INVOLVING ANIMAL SUBJECTS
 Many psychologists conduct research involving animal subjects. Often,
 these researchers use rodents (`[link] <#CNX_Psych_02_06_rat>`__) or
 birds as the subjects of their experiments—the APA estimates that 90% of
-all **animal research**\ {: data-type=“term” .no-emphasis} in psychology
+all **animal research**:term:`pastehere` in psychology
 uses these species (American Psychological Association, n.d.). Because
 many basic processes in animals are sufficiently similar to those in
 humans, these animals are acceptable substitutes for research that would

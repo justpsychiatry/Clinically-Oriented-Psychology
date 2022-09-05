@@ -140,7 +140,7 @@ our discussion of the research done by the American Cancer Society and
 how their research projects were some of the first demonstrations of the
 link between smoking and cancer. It seems reasonable to assume that
 smoking causes cancer, but if we were limited to **correlational
-research**\ {: data-type=“term” .no-emphasis}, we would be overstepping
+research**:term:`pastehere`, we would be overstepping
 our bounds by making this assumption.
 
 Unfortunately, people mistakenly make claims of causation as a function
@@ -213,7 +213,7 @@ CAUSALITY: CONDUCTING EXPERIMENTS AND USING THE DATA
 
 As you’ve learned, the only way to establish that there is a
 cause-and-effect relationship between two variables is to conduct a
-scientific **experiment**\ {: data-type=“term” .no-emphasis}. Experiment
+scientific **experiment**:term:`pastehere`. Experiment
 has a different meaning in the scientific context than in everyday life.
 In everyday conversation, we often use it to describe trying something
 for the first time, such as experimenting with a new hair style or a new
@@ -224,7 +224,7 @@ The Experimental Hypothesis
 ---------------------------
 
 In order to conduct an experiment, a researcher must have a specific
-**hypothesis**\ {: data-type=“term” .no-emphasis} to be tested. As
+**hypothesis**:term:`pastehere` to be tested. As
 you’ve learned, hypotheses can be formulated either through direct
 observation of the real world or after careful review of previous
 research. For example, if you think that children should not be allowed

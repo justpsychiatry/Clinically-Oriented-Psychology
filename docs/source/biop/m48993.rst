@@ -31,7 +31,7 @@ extent might there be a psychological basis to health conditions such as
 childhood obesity?
 
 To explore these questions, let’s start by focusing on a specific
-disease, **sickle-cell anemia**\ {: data-type=“term” .no-emphasis}, and
+disease, **sickle-cell anemia**:term:`pastehere`, and
 how it might affect two infected sisters. Sickle-cell anemia is a
 genetic condition in which red blood cells, which are normally round,
 take on a crescent-like shape
@@ -107,8 +107,8 @@ lines that split apart into branched structures.|\ {:
 
    It’s easy to get confused about two fields that study the interaction
    of genes and the environment, such as the fields of **evolutionary
-   psychology**\ {: data-type=“term” .no-emphasis} and **behavioral
-   genetics**\ {: data-type=“term” .no-emphasis}. How can we tell them
+   psychology**:term:`pastehere` and **behavioral
+   genetics**:term:`pastehere`. How can we tell them
    apart?
 
    In both fields, it is understood that genes not only code for
@@ -318,7 +318,7 @@ here the genotype is not fixed and limited.
    video primer on the **epigenetics**\ {: data-type=“term”
    .no-emphasis} of twin studies.
 
-**Genes**\ {: data-type=“term” .no-emphasis} affect more than our
+**Genes**:term:`pastehere` affect more than our
 physical characteristics. Indeed, scientists have found genetic linkages
 to a number of behavioral characteristics, ranging from basic
 personality traits to sexual orientation to spirituality (for examples,
@@ -336,7 +336,7 @@ think best explains this evidence?
 In a study of people who were given up for adoption, adoptees whose
 biological mothers had schizophrenia *and* who had been raised in a
 disturbed family environment were much more likely to develop
-**schizophrenia**\ {: data-type=“term” .no-emphasis} or another
+**schizophrenia**:term:`pastehere` or another
 psychotic disorder than were any of the other groups in the study:
 
 -  Of adoptees whose biological mothers had schizophrenia (high genetic

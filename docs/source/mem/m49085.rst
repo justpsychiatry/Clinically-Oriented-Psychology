@@ -86,7 +86,7 @@ THE HIPPOCAMPUS
 ===============
 
 Another group of researchers also experimented with rats to learn how
-the **hippocampus**\ {: data-type=“term” .no-emphasis} functions in
+the **hippocampus**:term:`pastehere` functions in
 memory processing (`[link] <#Figure_08_02_Brain>`__). They created
 lesions in the hippocampi of the rats, and found that the rats
 demonstrated memory impairment on various tasks, such as object

@@ -27,7 +27,7 @@ Karen Horney (pronounced “HORN-eye”).
 ALFRED ADLER
 ============
 
-Alfred **Adler**\ {: data-type=“term” .no-emphasis}, a colleague of
+Alfred **Adler**:term:`pastehere`, a colleague of
 Freud’s and the first president of the Vienna Psychoanalytical Society
 (Freud’s inner circle of colleagues), was the first major theorist to
 break away from Freud (`[link] <#CNX_Psych_11_03_Adler>`__). He
@@ -88,7 +88,7 @@ ERIK ERIKSON
 ============
 
 As an art school dropout with an uncertain future, young Erik
-**Erikson**\ {: data-type=“term” .no-emphasis} met Freud’s daughter,
+**Erikson**:term:`pastehere` met Freud’s daughter,
 Anna Freud, while he was tutoring the children of an American couple
 undergoing psychoanalysis in Vienna. It was Anna Freud who encouraged
 Erikson to study psychoanalysis. Erikson received his diploma from the
@@ -578,7 +578,7 @@ Assess and make sense of life and meaning of contributions
 CARL JUNG
 =========
 
-Carl **Jung**\ {: data-type=“term” .no-emphasis}
+Carl **Jung**:term:`pastehere`
 (`[link] <#CNX_Psych_11_03_Jung>`__) was a Swiss psychiatrist and
 protégé of Freud, who later split off from Freud and developed his own
 theory, which he called **analytical psychology**\ {: data-type=“term”}.
@@ -958,7 +958,7 @@ ourselves that are not aligned with society’s expectations.
 KAREN HORNEY
 ============
 
-Karen **Horney**\ {: data-type=“term” .no-emphasis} was one of the first
+Karen **Horney**:term:`pastehere` was one of the first
 women trained as a Freudian psychoanalyst. During the Great Depression,
 Horney moved from Germany to the United States, and subsequently moved
 away from Freud’s teachings. Like Jung, Horney believed that each

@@ -24,7 +24,7 @@ in this section.
 PSYCHOSEXUAL THEORY OF DEVELOPMENT
 ==================================
 
-Sigmund **Freud**\ {: data-type=“term” .no-emphasis} (1856–1939)
+Sigmund **Freud**:term:`pastehere` (1856–1939)
 believed that personality develops during early childhood. For Freud,
 childhood experiences shape our personalities and behavior as adults.
 Freud viewed development as discontinuous; he believed that each of us
@@ -47,7 +47,7 @@ detail in the chapter on personality.
 PSYCHOSOCIAL THEORY OF DEVELOPMENT
 ==================================
 
-Erik **Erikson**\ {: data-type=“term” .no-emphasis} (1902–1994)
+Erik **Erikson**:term:`pastehere` (1902–1994)
 (`[link] <#Figure_09_03_Erikson>`__), another stage theorist, took
 Freud’s theory and modified it as psychosocial theory. Erikson’s
 psychosocial development theory emphasizes the social nature of our
@@ -648,7 +648,7 @@ Assess and make sense of life and meaning of contributions
 COGNITIVE THEORY OF DEVELOPMENT
 ===============================
 
-Jean **Piaget**\ {: data-type=“term” .no-emphasis} (1896–1980) is
+Jean **Piaget**:term:`pastehere` (1896–1980) is
 another stage theorist who studied childhood development
 (`[link] <#Figure_09_03_Piaget>`__). Instead of approaching development
 from a psychoanalytical or psychosocial perspective, Piaget focused on

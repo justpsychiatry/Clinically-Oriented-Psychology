@@ -18,7 +18,7 @@ What Is Stress?
    physiological basis of stress and describe the general adaptation
    syndrome
 
-The term **stress**\ {: data-type=“term” .no-emphasis} as it relates to
+The term **stress**:term:`pastehere` as it relates to
 the human condition first emerged in scientific literature in the 1930s,
 but it did not enter the popular vernacular until the 1970s (Lyon,
 2012). Today, we often use the term loosely in describing a variety of
@@ -330,7 +330,7 @@ EARLY CONTRIBUTIONS TO THE STUDY OF STRESS
 
 As previously stated, scientific interest in stress goes back nearly a
 century. One of the early pioneers in the study of stress was Walter
-**Cannon**\ {: data-type=“term” .no-emphasis}, an eminent American
+**Cannon**:term:`pastehere`, an eminent American
 physiologist at Harvard Medical School
 (`[link] <#CNX_Psych_14_01_Cannon>`__). In the early part of the 20th
 century, Cannon was the first to identify the body’s physiological
@@ -379,7 +379,7 @@ Selye and the General Adaptation Syndrome
 -----------------------------------------
 
 Another important early contributor to the stress field was Hans
-**Selye**\ {: data-type=“term” .no-emphasis}, mentioned earlier. He
+**Selye**:term:`pastehere`, mentioned earlier. He
 would eventually become one of the world’s foremost experts in the study
 of stress (`[link] <#CNX_Psych_14_01_Hans_Selye>`__). As a young
 assistant in the biochemistry department at McGill University in the
@@ -461,7 +461,7 @@ THE PHYSIOLOGICAL BASIS OF STRESS
 What goes on inside our bodies when we experience stress? The
 physiological mechanisms of stress are extremely complex, but they
 generally involve the work of two systems—the **sympathetic nervous
-system**\ {: data-type=“term” .no-emphasis} and the
+system**:term:`pastehere` and the
 **hypothalamic-pituitary-adrenal (HPA) axis**\ {: data-type=“term”}.
 When a person first perceives something as stressful (Selye’s alarm
 reaction), the sympathetic nervous system triggers arousal via the

@@ -195,7 +195,7 @@ response.
 
    </table>
 
-Psychologist B. F. **Skinner**\ {: data-type=“term” .no-emphasis} saw
+Psychologist B. F. **Skinner**:term:`pastehere` saw
 that classical conditioning is limited to existing behaviors that are
 reflexively elicited, and it doesn’t account for new behaviors such as
 riding a bike. He proposed a theory about how such behaviors come about.
@@ -203,7 +203,7 @@ Skinner believed that behavior is motivated by the consequences we
 receive for the behavior: the reinforcements and punishments. His idea
 that learning is the result of consequences is based on the law of
 effect, which was first proposed by psychologist Edward
-**Thorndike**\ {: data-type=“term” .no-emphasis}. According to the **law
+**Thorndike**:term:`pastehere`. According to the **law
 of effect**\ {: data-type=“term”}, behaviors that are followed by
 consequences that are satisfying to the organism are more likely to be
 repeated, and behaviors that are followed by unpleasant consequences are

@@ -62,7 +62,7 @@ to learning, psychologist Albert Bandura’s ideas about learning were
 different from those of strict behaviorists. Bandura and other
 researchers proposed a brand of behaviorism called social learning
 theory, which took cognitive processes into account. According to
-**Bandura**\ {: data-type=“term” .no-emphasis}, pure behaviorism could
+**Bandura**:term:`pastehere`, pure behaviorism could
 not explain why learning can take place in the absence of external
 reinforcement. He felt that internal mental states must also have a role
 in learning and that observational learning involves much more than

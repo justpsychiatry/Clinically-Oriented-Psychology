@@ -188,7 +188,7 @@ which they demonstrated that individuals from Western **cultures**\ {:
 data-type=“term” .no-emphasis} were more prone to experience certain
 types of visual illusions than individuals from non-Western cultures,
 and vice versa. One such illusion that Westerners were more likely to
-experience was the **Müller-Lyer**\ {: data-type=“term” .no-emphasis}
+experience was the **Müller-Lyer**:term:`pastehere`
 illusion (`[link] <#Figure_05_01_MullerLyer>`__): The lines appear to be
 different lengths, but they are actually the same length.
 

@@ -141,7 +141,7 @@ Color Vision
 ------------
 
 Normal-sighted individuals have three different types of cones that
-mediate **color vision**\ {: data-type=“term” .no-emphasis}. Each of
+mediate **color vision**:term:`pastehere`. Each of
 these cone types is maximally sensitive to a slightly different
 wavelength of light. According to the **trichromatic theory of color
 vision**\ {: data-type=“term”}, shown in

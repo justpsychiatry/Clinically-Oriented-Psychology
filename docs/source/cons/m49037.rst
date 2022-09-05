@@ -28,7 +28,7 @@ SUBSTANCE USE DISORDERS
 =======================
 
 The fifth edition of the **Diagnostic and Statistical Manual of Mental
-Disorders**\ {: data-type=“term” .no-emphasis}, *Fifth Edition* (DSM-5)
+Disorders**:term:`pastehere`, *Fifth Edition* (DSM-5)
 is used by clinicians to diagnose individuals suffering from various
 psychological disorders. Drug use disorders are addictive disorders, and
 the criteria for specific substance (drug) use disorders are described
@@ -262,7 +262,7 @@ Herman, 2013). While caffeine may have some indirect effects on dopamine
 neurotransmission, its primary mechanism of action involves antagonizing
 adenosine activity (Porkka-Heiskanen, 2011).
 
-While **caffeine**\ {: data-type=“term” .no-emphasis} is generally
+While **caffeine**:term:`pastehere` is generally
 considered a relatively safe drug, high blood levels of caffeine can
 result in insomnia, agitation, muscle twitching, nausea, irregular
 heartbeat, and even death (Reissig, Strain, & Griffiths, 2009; Wolt,

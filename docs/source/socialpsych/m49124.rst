@@ -25,7 +25,7 @@ how susceptible humans are to outside social pressures.
 CONFORMITY
 ==========
 
-Solomon **Asch**\ {: data-type=“term” .no-emphasis} conducted several
+Solomon **Asch**:term:`pastehere` conducted several
 experiments in the 1950s to determine how people are affected by the
 thoughts and behaviors of other people. In one study, a group of
 participants was shown a series of printed line segments of different
@@ -159,7 +159,7 @@ People often comply with the request because they are concerned about a
 consequence if they do not comply. To demonstrate this phenomenon, we
 review another classic social psychology experiment.
 
-Stanley **Milgram**\ {: data-type=“term” .no-emphasis} was a social
+Stanley **Milgram**:term:`pastehere` was a social
 psychology professor at Yale who was influenced by the trial of Adolf
 Eichmann, a Nazi war criminal. Eichmann’s defense for the atrocities he
 committed was that he was “just following orders.” Milgram (1963) wanted

@@ -32,18 +32,18 @@ prevent them from accomplishing realistic life goals.
 
 The DSM-5 recognizes 10 personality disorders, organized into 3
 different clusters. Cluster A disorders include **paranoid personality
-disorder**\ {: data-type=“term” .no-emphasis}, **schizoid personality
-disorder**\ {: data-type=“term” .no-emphasis}, and **schizotypal
-personality disorder**\ {: data-type=“term” .no-emphasis}. People with
+disorder**:term:`pastehere`, **schizoid personality
+disorder**:term:`pastehere`, and **schizotypal
+personality disorder**:term:`pastehere`. People with
 these disorders display a personality style that is odd or eccentric.
 Cluster B disorders include antisocial personality disorder,
-**histrionic personality disorder**\ {: data-type=“term” .no-emphasis},
+**histrionic personality disorder**:term:`pastehere`,
 **narcissistic personality disorder**\ {: data-type=“term”
 .no-emphasis}, and borderline personality disorder. People with these
 disorders usually are impulsive, overly dramatic, highly emotional, and
 erratic. Cluster C disorders include **avoidant personality
-disorder**\ {: data-type=“term” .no-emphasis}, **dependent personality
-disorder**\ {: data-type=“term” .no-emphasis}, and
+disorder**:term:`pastehere`, **dependent personality
+disorder**:term:`pastehere`, and
 **obsessive-compulsive personality disorder**\ {: data-type=“term”
 .no-emphasis} (which is not the same thing as obsessive-compulsive
 disorder). People with these disorders often appear to be nervous and
