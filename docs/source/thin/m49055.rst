@@ -15,7 +15,7 @@ Language
    Understand how the use of language develops \* Explain the
    relationship between language and thinking
 
-**Language**\ {: data-type=“term”} is a communication system that
+:term:`**Language**` {: data-type=“term”} is a communication system that
 involves using words and systematic rules to organize those words to
 transmit information from one individual to another. While language is a
 form of communication, not all communication is language. Many species
@@ -32,7 +32,7 @@ COMPONENTS OF LANGUAGE
 ======================
 
 Language, be it spoken, signed, or written, has specific components: a
-lexicon and grammar. **Lexicon**\ {: data-type=“term”} refers to the
+lexicon and grammar. :term:`**Lexicon**` {: data-type=“term”} refers to the
 words of a given language. Thus, lexicon is a language’s vocabulary.
 **Grammar**\ {: data-type=“term”} refers to the set of rules that are
 used to convey meaning through the use of the lexicon (Fernández &
@@ -40,7 +40,7 @@ Cairns, 2011). For instance, English grammar dictates that most verbs
 receive an “-ed” at the end to indicate past tense.
 
 Words are formed by combining the various phonemes that make up the
-language. A **phoneme**\ {: data-type=“term”} (e.g., the sounds “ah”
+language. A :term:`**phoneme**` {: data-type=“term”} (e.g., the sounds “ah”
 vs. “eh”) is a basic sound unit of a given language, and different
 languages have different sets of phonemes. Phonemes are combined to form
 **morphemes**\ {: data-type=“term”}, which are the smallest units of
@@ -48,7 +48,7 @@ language that convey some type of meaning (e.g., “I” is both a phoneme
 and a morpheme). We use semantics and syntax to construct language.
 Semantics and syntax are part of a language’s grammar. **Semantics**\ {:
 data-type=“term”} refers to the process by which we derive meaning from
-morphemes and words. **Syntax**\ {: data-type=“term”} refers to the way
+morphemes and words. :term:`**Syntax**` {: data-type=“term”} refers to the way
 words are organized into sentences (Chomsky, 1965; Fernández & Cairns,
 2011).
 
@@ -471,7 +471,7 @@ can only discriminate among those phonemes that are used in the language
 or languages in their environments (Jensen, 2011; Werker & Lalonde,
 1988; Werker & Tees, 1984).
 
-.. container:: psychology link-to-learning
+.. Admonition:: psychology link-to-learning
 
    Visit this `website <http://openstax.org/l/language>`__ to learn more
    about how babies lose the ability to discriminate among all possible
