@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 project = 'Clinically Oriented Psychology'
-Copyright = '2022, Justpsychiatry'
+copyright = '2022, Justpsychiatry'
 author = 'Justpsychiatry'
 
 
@@ -25,6 +25,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.autosectionlabel',
     'sphinxcontrib.bibtex',
     'sphinxcontrib.apa',
     'myst_parser',
@@ -36,15 +37,6 @@ extensions = [
      'zot4rst',
 ]
 
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-
-   'BJPsychBulletin':
-              ('https://www.justpsychiatry.co.uk/projects/bjpsych-bull/index.html',
-              ),
-}
-intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
@@ -67,7 +59,7 @@ sitemap_filename = "sphinxsitemap.xml"
 sitemap_url_scheme = "{link}"
 hoverxref_auto_ref = True
 html_css_files = ['rootcss.css']
-
+autosectionlabel_prefix_document = True
 
 hoverxref_roles = [
     'numref',
@@ -130,5 +122,5 @@ rst_epilog= """
 
 .. admonition:: Copyright Notice
  
-   This is based on OpenStax Psychology-2e and is licesed under creative commons 4.0 license.  
+   This work is (being) adapted from on OpenStax Psychology-2e which is licesed under creative commons 4.0 license. 
 """

@@ -469,29 +469,38 @@ Personal Application Questions
 
 .. glossary::
 
+   
    cognitive development
       domain of lifespan development that examines learning, attention,
       memory, language, thinking, reasoning, and creativity ^
+   
    continuous development
       view that development is a cumulative process: gradually improving
       on existing skills ^
+   
    developmental milestone
       approximate ages at which children reach specific normative events
       ^
+   
    discontinuous development
       view that development takes place in unique stages, which happen
       at specific times or ages ^
+   
    nature
       genes and biology ^
+   
    normative approach
       study of development using norms, or average ages, when most
       children reach specific developmental milestones ^
+   
    nurture
       environment and culture ^
+   
    physical development
       domain of lifespan development that examines growth and changes in
       the body and brain, the senses, motor skills, and health and
       wellness ^
+   
    psychosocial development
       domain of lifespan development that examines emotions,
       personality, and social relationships
