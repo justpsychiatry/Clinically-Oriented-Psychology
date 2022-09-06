@@ -374,7 +374,7 @@ sensitive to the emotional information communicated through body
 language, even if we’re not consciously aware of it (de Gelder, 2006;
 Tamietto et al., 2009).
 
-.. admonition:: psychology link-to-learning
+.. seealso:: psychology link-to-learning
 
    Watch this short `CNN
    video <https://www.youtube.com/watch?v=XqiRRIRhZoM>`__ about body
@@ -384,11 +384,12 @@ Tamietto et al., 2009).
    the show `Today <http://openstax.org/l/todayshow>`__ with body
    language expert Janine Driver.
 
-.. important:: psychology connect-the-concepts
+
+.. card:: Concept Connection
 
 
-      Autism Spectrum Disorder and Expression of Emotions
-      ----------------------------------------------------
+   Autism Spectrum Disorder and Expression of Emotions
+   ----------------------------------------------------
 
    Autism spectrum disorder (ASD) is a set of neurodevelopmental
    disorders characterized by repetitive behaviors and communication and
@@ -559,32 +560,42 @@ Personal Application Question
       part of the brain with dense connections with a variety of sensory
       areas of the brain; it is critical for classical conditioning and
       attaching emotional value to memory ^
+
    body language
       emotional expression through body position or movement ^
+
    Cannon-Bard theory of emotion
       physiological arousal and emotional experience occur at the same
       time ^
+
    central nucleus
       part of the brain involved in attention and has connections with
       the hypothalamus and various brainstem areas to regulate the
       autonomic nervous and endocrine systems’ activity ^
+
    cognitive-mediational theory
       our emotions are determined by our appraisal of the stimulus ^
+
    components of emotion
       physiological arousal, psychological appraisal, and subjective
       experience ^
+
    cultural display rule
       one of the culturally specific standards that govern the types and
       frequencies of emotions that are acceptable ^
+
    emotion
       subjective state of being often described as feelings ^
    facial feedback hypothesis
       facial expressions are capable of influencing our emotions ^
+
    James-Lange theory of emotion
       emotions arise from physiological arousal ^
+
    polygraph
       lie detector test that measures physiological arousal of
       individuals as they answer a series of questions ^
+
    Schachter-Singer two-factor theory of emotion
       emotions consist of two factors: physiological and cognitive
 
