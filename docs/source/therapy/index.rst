@@ -5,7 +5,6 @@ Chapter 16: Therapy and Treatment
 .. toctree::
    :caption: Table of Contents
    :glob:
-   :maxdepth: 1
-   
+   :maxdepth: 2
    m*
    ...

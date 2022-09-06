@@ -11,7 +11,7 @@ Clinically Oriented Psychology
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Table of Contents
    :glob:
 
