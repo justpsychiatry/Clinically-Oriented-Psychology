@@ -65,7 +65,7 @@ bibtex_reference_style = 'author_year'
 sitemap_filename = "sphinxsitemap.xml"
 sitemap_url_scheme = "{link}"
 hoverxref_auto_ref = True
-
+html_css_files = ['rootcss.css']
 
 
 hoverxref_roles = [

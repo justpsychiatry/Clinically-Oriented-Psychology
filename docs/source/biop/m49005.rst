@@ -84,11 +84,14 @@ constellation of physiological changes, known as the :term:`fight or flight resp
 reserves and heightened sensory capacity so that it might fight off a
 threat or run away to safety.
 
-.. hint:: Link to Learning
+.. card:: Link to Learning
+   :width: auto
+   :shadow: sm
+   :class-card: sd-rounded-2
 
-   Reinforce what you’ve learned about the nervous system by playing
-   this BBC-produced `interactive
-   game <http://openstax.org/l/bbcgame>`__ about the nervous system.
+    Reinforce what you’ve learned about the nervous system by playing
+    this BBC-produced `interactive game <https://openstax.org/l/bbcgame>`__ 
+    about the nervous system.
 
 While it is clear that such a response would be critical for survival
 for our ancestors, who lived in a world full of real physical threats,

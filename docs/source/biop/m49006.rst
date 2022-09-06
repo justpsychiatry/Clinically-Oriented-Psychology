@@ -512,7 +512,9 @@ and functional differences exist between these populations.
 |A brain scan shows brain tissue in gray with some small areas
 highlighted red.|\ {: #CNX_Psych_03_04_fMRI}
 
-.. hint:: Link to Learning
+.. card:: Link to Learning
+   :width: auto
+   :shadow: md
 
    Visit this `virtual lab <http://openstax.org/l/mri>`__ to learn more
    about MRI and fMRI.
@@ -574,7 +576,7 @@ Review Questions
       1. amygdala
       2. hippocampus
       3. hypothalamus
-      4. thalamus {: type=“a”}
+      4. thalamus 
 
      .. dropdown:: Check Answer
 
@@ -587,7 +589,7 @@ Review Questions
       1. amygdala
       2. Broca’s Area
       3. Wernicke’s Area
-      4. occipital lobe {: type=“a”}
+      4. occipital lobe 
 
      .. dropdown:: Check Answer
 
@@ -600,7 +602,7 @@ Review Questions
       1. EEG
       2. MRI
       3. PET scan
-      4. CT scan {: type=“a”}
+      4. CT scan 
 
      .. dropdown:: Check Answer
 
@@ -613,7 +615,7 @@ Review Questions
       1. thalamus
       2. hippocampus
       3. amygdala
-      4. substantia nigra {: type=“a”}
+      4. substantia nigra 
 
    .. dropdown::
 
