@@ -21,7 +21,7 @@ brain is endlessly perceiving, processing, planning, organizing, and
 remembering—it is always active. Yet, you don’t notice most of your
 brain’s activity as you move throughout your daily routine. This is only
 one facet of the complex processes involved in cognition. Simply put, 
-:term:`cognition`{: data-type=“term”} is thinking, and it encompasses the
+:term:`cognition` is thinking, and it encompasses the
 processes associated with perception, knowledge, problem solving,
 judgment, language, and memory. Scientists who study cognition are
 searching for ways to understand how we integrate, organize, and utilize
