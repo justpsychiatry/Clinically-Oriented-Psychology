@@ -434,7 +434,7 @@ recall, recognition, and relearning.
 
 .. card-carousel:: Review Questions
 
-    .. card:: Question
+  .. card:: Question
 
       \_______\_ is another name for short-term memory.
 
@@ -446,7 +446,7 @@ recall, recognition, and relearning.
   .. dropdown:: Check Answer
 
       C
-  .. Card:: Question
+  .. card:: Question
 
       The storage capacity of long-term memory is \________.
 
@@ -458,7 +458,7 @@ recall, recognition, and relearning.
   .. dropdown:: Check Answer
 
       D
-  .. Card:: Question
+  .. card:: Question
 
       The three functions of memory are \________.
 
@@ -467,7 +467,7 @@ recall, recognition, and relearning.
       3. automatic processing, effortful processing, and retrieval
       4. encoding, storage, and retrieval {: type=“a”}
 
-   .. container::
+  .. dropdown::
 
       D
 
