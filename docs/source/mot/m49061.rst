@@ -340,7 +340,7 @@ in many young females, though eating disorders span ages and genders.
     .. dropdown:: Check Answer
 
         C
-  .. card:: Question
+   .. card:: Question
 
       \_______\_ is characterized by episodes of binge eating followed
       by attempts to compensate for the excessive amount of food that
@@ -354,7 +354,7 @@ in many young females, though eating disorders span ages and genders.
     .. dropdown:: Check Answer
 
         D
-  .. card:: Question
+   .. card:: Question
 
       In order to be classified as morbidly obese, an adult must have a
       BMI of \________.
