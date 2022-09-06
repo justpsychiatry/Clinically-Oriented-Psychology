@@ -17,16 +17,17 @@ Parts of the Nervous System
    divisions of the autonomic nervous system
 
 The :term:`nervous system` can be divided
-into two major subdivisions: the **central nervous system (CNS)**\ {:
-data-type=“term”} and the **peripheral nervous system (PNS)**\ {:
-data-type=“term”}, shown in `[link] <#CNX_Psych_03_03_NervSystem>`__.
+into two major subdivisions: the :term:`central nervous system (CNS)` and the :term:`peripheral nervous system (PNS)`,
+shown in `[link] <#CNX_Psych_03_03_NervSystem>`__.
 The CNS is comprised of the brain and spinal cord; the PNS connects the
 CNS to the rest of the body. In this section, we focus on the peripheral
 nervous system; later, we look at the brain and spinal cord.
 
-|Image (a) shows an outline of a human body with the brain and spinal
-cord illustrated. Image (b) shows an outline of a human body with a
-network of nerves depicted.|\ {: #CNX_Psych_03_03_NervSystem}
+.. image:: CNX_Psych_03_03_NervSystem,jpg
+   :align: center
+   :scale: 100%
+   :caption: Image (a) shows an outline of a human body with the brain and spinal cord illustrated. 
+    Image (b) shows an outline of a human body with a network of nerves depicted.
 
 Peripheral Nervous System
 =========================
@@ -87,7 +88,7 @@ threat or run away to safety.
 .. card:: Link to Learning
    :width: auto
    :shadow: md
-   :class-card: sd-rounded-2
+   :class-card: sd-rounded-3
 
     Reinforce what you’ve learned about the nervous system by playing
     this BBC-produced `interactive game <https://openstax.org/l/bbcgame>`__ 
@@ -148,7 +149,7 @@ Review Questions
 
           B
 
-  .. Card:: Question 2
+   .. card:: Question 2
 
        If your \_______\_ is activated, you will feel relatively at ease.
  
@@ -160,7 +161,7 @@ Review Questions
        .. dropdown:: Check Answer
 
        C
-  .. Card:: Question 3
+   .. card:: Question 3
 
          The central nervous system is comprised of \________.
 
@@ -172,18 +173,18 @@ Review Questions
        .. dropdown:: Check Answer
 
            D
-.. Card:: Question 4
+   .. card:: Question 4
 
          Sympathetic activation is associated with \________.
 
          1. pupil dilation
          2. storage of glucose in the liver
          3. increased heart rate
-         4. both A and C {: type=“a”}
+         4. both A and C
 
        .. dropdown::
 
-         D
+          D
 
 Critical Thinking Questions
 ===========================
