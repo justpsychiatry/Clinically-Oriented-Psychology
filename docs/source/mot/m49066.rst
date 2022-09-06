@@ -451,7 +451,7 @@ our emotional states.
 
    .. dropdown:: Check Answer
 
-      B
+       B
    .. card:: Question
 
 
@@ -465,7 +465,7 @@ our emotional states.
 
    .. dropdown:: Check Answer
 
-      A
+       A
    .. card:: Question
 
       Which of the following is not one of the seven universal emotions
@@ -478,7 +478,7 @@ our emotional states.
 
    .. dropdown:: Check Answer
 
-      C
+       C
    .. card:: Question
 
       Which of the following theories of emotion would suggest that
@@ -490,9 +490,9 @@ our emotional states.
       3. Schachter-Singer two-factor theory
       4. Darwinian theory {: type=“A”}
 
-   .. card::
+   .. dropdown::
 
-      B
+       B
 
 Critical Thinking Questions
 ===========================
