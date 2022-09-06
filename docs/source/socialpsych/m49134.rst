@@ -8,13 +8,16 @@ Prosocial Behavior
    :depth: 3
 ..
 
-.. container::
+.. card:: Objectives
 
-   By the end of this section, you will be able to: \* Describe altruism
-   \* Describe conditions that influence the formation of relationships
-   \* Identify what attracts people to each other \* Describe the
-   triangular theory of love \* Explain social exchange theory in
-   relationships
+   By the end of this section, you will be able to: 
+   
+   * Describe altruism
+   * Describe conditions that influence the formation of relationships
+   * Identify what attracts people to each other
+   * Describe the triangular theory of love
+   * Explain social exchange theory in relationships
+...
 
 You’ve learned about many of the negative behaviors of social
 psychology, but the field also studies many positive social interactions
@@ -258,9 +261,9 @@ maintain a relationship, individuals often use a social exchange
 approach and weigh the costs and benefits of forming and maintaining a
 relationship.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 2
 
-    .. card:: Question
+    .. card:: Question 1
 
       Altruism is a form of prosocial behavior that is motivated by
       \________.
@@ -273,7 +276,7 @@ relationship.
   .. dropdown:: Check Answer
 
       B
-  .. Card:: Question
+  .. Card:: Question 2
 
 
       After moving to a new apartment building, research suggests that
@@ -287,7 +290,7 @@ relationship.
   .. dropdown:: Check Answer
 
       A
-  .. Card:: Question
+  .. Card:: Question 3
 
       What trait do both men and women tend to look for in a romantic
       partner?
@@ -300,7 +303,7 @@ relationship.
   .. dropdown:: Check Answer
 
       D
-  .. Card:: Question
+  .. Card:: Question 4
 
       According to the triangular theory of love, what type of love is
       defined by passion and intimacy but no commitment?
@@ -313,7 +316,7 @@ relationship.
   .. dropdown:: Check Answer
 
       C
-  .. Card:: Question
+  .. Card:: Question 5
 
       According to social exchange theory, humans want to maximize the
       \_______\_ and minimize the \_______\_ in relationships.
@@ -323,7 +326,7 @@ relationship.
       3. costs; benefits
       4. passion; intimacy {: type=“a”}
 
-   .. container::
+   .. dropdown::
 
       B
 
