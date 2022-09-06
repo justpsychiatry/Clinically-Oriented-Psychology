@@ -37,7 +37,7 @@ muscles, organs, and senses in the periphery of the body (i.e.,
 everything outside the CNS). The PNS has two major subdivisions: the
 somatic nervous system and the autonomic nervous system.
 
-The **somatic nervous system**\ {: data-type=“term”} is associated with
+The :term:`somatic nervous system` is associated with
 activities traditionally thought of as conscious or voluntary. It is
 involved in the relay of sensory and motor information to and from the
 CNS; therefore, it consists of motor neurons and sensory neurons. Motor
@@ -47,17 +47,16 @@ sensory information to the CNS, are afferent fibers (afferent means
 “moving toward”). Each nerve is basically a two-way superhighway,
 containing thousands of axons, both efferent and afferent.
 
-The **autonomic nervous system**\ {: data-type=“term”} controls our
+The :term:`autonomic nervous system` controls our
 internal organs and glands and is generally considered to be outside the
 realm of voluntary control. It can be further subdivided into the
 sympathetic and parasympathetic divisions
-(`[link] <#CNX_Psych_03_03_Autonomic>`__). The **sympathetic nervous
-system**\ {: data-type=“term”} is involved in preparing the body for
-stress-related activities; the **parasympathetic nervous system**\ {:
-data-type=“term”} is associated with returning the body to routine,
+(`[link] <#CNX_Psych_03_03_Autonomic>`__). The :term:`sympathetic nervous system`
+is involved in preparing the body for
+stress-related activities; the :term:`parasympathetic nervous system` is associated with returning the body to routine,
 day-to-day operations. The two systems have complementary functions,
 operating in tandem to maintain the body’s homeostasis.
-**Homeostasis**\ {: data-type=“term”} is a state of equilibrium, in
+:term:`Homeostasis` is a state of equilibrium, in
 which biological conditions (such as body temperature) are maintained at
 optimal levels.
 
@@ -80,13 +79,14 @@ body undergoes a series of changes—a direct function of sympathetic
 activation—preparing him to face the threat. His pupils dilate, his
 heart rate and blood pressure increase, his bladder relaxes, his liver
 releases glucose, and adrenaline surges into his bloodstream. This
-constellation of physiological changes, known as the :term:`fight or flight response`, allows the body access to energy
+constellation of physiological changes, known as the :term:`fight or flight response`, 
+allows the body access to energy
 reserves and heightened sensory capacity so that it might fight off a
 threat or run away to safety.
 
 .. card:: Link to Learning
    :width: auto
-   :shadow: sm
+   :shadow: md
    :class-card: sd-rounded-2
 
     Reinforce what you’ve learned about the nervous system by playing
@@ -100,8 +100,7 @@ psychological in nature. For example, think about how you feel when you
 have to stand up and give a presentation in front of a roomful of
 people, or right before taking a big test. You are in no real physical
 danger in those situations, and yet you have evolved to respond to any
-perceived threat with the **fight or flight**\ {: data-type=“term”
-.no-emphasis} response. This kind of response is not nearly as adaptive
+perceived threat with the :term:`fight or flight` response. This kind of response is not nearly as adaptive
 in the modern world; in fact, we suffer negative health consequences
 when faced constantly with psychological threats that we can neither
 fight nor flee. Recent research suggests that an increase in
@@ -138,54 +137,53 @@ Review Questions
 
    .. card:: Question 1
 
-      Our ability to make our legs move as we walk across the room is
-      controlled by the \_______\_ nervous system.
+       Our ability to make our legs move as we walk across the room is controlled by the \_______\_ nervous system.
 
-      1. autonomic
-      2. somatic
-      3. sympathetic
-      4. parasympathetic {: type=“a”}
+       1. autonomic
+       2. somatic
+       3. sympathetic
+       4. parasympathetic {: type=“a”}
 
-    .. dropdown:: Check Answer
+       .. dropdown:: Check Answer
 
-       B
+          B
+
   .. Card:: Question 2
 
+       If your \_______\_ is activated, you will feel relatively at ease.
+ 
+       1. somatic nervous system
+       2. sympathetic nervous system
+       3. parasympathetic nervous system
+       4. spinal cord {: type=“a”}
 
-      If your \_______\_ is activated, you will feel relatively at ease.
-
-      1. somatic nervous system
-      2. sympathetic nervous system
-      3. parasympathetic nervous system
-      4. spinal cord {: type=“a”}
-
-    .. dropdown:: Check Answer
+       .. dropdown:: Check Answer
 
        C
   .. Card:: Question 3
 
-      The central nervous system is comprised of \________.
+         The central nervous system is comprised of \________.
 
-      1. sympathetic and parasympathetic nervous systems
-      2. organs and glands
-      3. somatic and autonomic nervous systems
-      4. brain and spinal cord {: type=“a”}
+         1. sympathetic and parasympathetic nervous systems
+         2. organs and glands
+         3. somatic and autonomic nervous systems
+         4. brain and spinal cord {: type=“a”}
 
-    .. dropdown:: Check Answer
+       .. dropdown:: Check Answer
 
-       D
+           D
 .. Card:: Question 4
 
-      Sympathetic activation is associated with \________.
+         Sympathetic activation is associated with \________.
 
-      1. pupil dilation
-      2. storage of glucose in the liver
-      3. increased heart rate
-      4. both A and C {: type=“a”}
+         1. pupil dilation
+         2. storage of glucose in the liver
+         3. increased heart rate
+         4. both A and C {: type=“a”}
 
-    .. dropdown::
+       .. dropdown::
 
-      D
+         D
 
 Critical Thinking Questions
 ===========================
