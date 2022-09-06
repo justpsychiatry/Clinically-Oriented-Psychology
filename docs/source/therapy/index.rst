@@ -6,5 +6,6 @@ Chapter 16: Therapy and Treatment
    :caption: Table of Contents
    :glob:
    :maxdepth: 2
-   m*
+   
+    m*
    ...

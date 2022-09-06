@@ -1,5 +1,5 @@
 Chapter 7: Thinking and Intelligence
-#########################
+####################################
 
 
 .. toctree::
