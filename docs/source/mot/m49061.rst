@@ -188,13 +188,13 @@ and into the duodenum.|\ {: #Figure_10_02_Bariatric}
    Watch this `video <http://openstax.org/l/barsurgery>`__ that
    describes two different types of bariatric surgeries.
 
-.. container:: psychology dig-deeper
+.. tip:: psychology dig-deeper
 
    .. container::
 
       Prader-Willi Syndrome
 
-   **Prader-Willi Syndrome**:term:`pastehere` (PWS) is
+   :term:`Prader-Willi Syndrome` (PWS) is
    a genetic disorder that results in persistent feelings of intense
    hunger and reduced rates of metabolism. Typically, affected children
    have to be supervised around the clock to ensure that they do not
@@ -323,11 +323,7 @@ in many young females, though eating disorders span ages and genders.
       3. one fourth
       4. one fifth {: type=“A”}
 
-    .. dropdown:: Check Answer
-
-        B
    .. card:: Question
-
 
       \_______\_ is a chemical messenger secreted by fat cells that acts
       as an appetite suppressant.
@@ -337,9 +333,6 @@ in many young females, though eating disorders span ages and genders.
       3. leptin
       4. ghrelin {: type=“A”}
 
-    .. dropdown:: Check Answer
-
-        C
    .. card:: Question
 
       \_______\_ is characterized by episodes of binge eating followed
@@ -351,9 +344,6 @@ in many young females, though eating disorders span ages and genders.
       3. anorexia nervosa
       4. bulimia nervosa {: type=“A”}
 
-    .. dropdown:: Check Answer
-
-        D
    .. card:: Question
 
       In order to be classified as morbidly obese, an adult must have a
@@ -363,10 +353,6 @@ in many young females, though eating disorders span ages and genders.
       2. 25–29.9
       3. 30–39.9
       4. 40 or more {: type=“A”}
-
-    .. dropdown::
-
-        D
 
 Critical Thinking Questions
 ===========================
