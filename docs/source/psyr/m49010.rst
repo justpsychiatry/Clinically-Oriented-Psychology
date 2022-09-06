@@ -54,7 +54,7 @@ completely confidential. In cases where research participants are under
 the age of 18, the parents or legal guardians are required to sign the
 informed consent form.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Visit this `website <http://openstax.org/l/consentform>`__ to see an
    example of a consent form.
@@ -117,7 +117,7 @@ about the study.
    |A photograph shows a person administering an injection.|\ {:
    #CNX_Psych_02_06_tuskegee}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Visit this `website <https://www.cdc.gov/tuskegee/timeline.htm>`__ to
    learn more about the Tuskegee Syphilis Study.

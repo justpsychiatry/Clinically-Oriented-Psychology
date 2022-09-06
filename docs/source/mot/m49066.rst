@@ -218,7 +218,7 @@ Gómez-Galán, Lindskog, & Magara, 2012).
 “hypothalamus,” “amygdala,” and “hippocampus.”|\ {:
 #Figure_10_04_Limbic}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Work through this Open Colleges `interactive 3D brain
    simulator <http://openstax.org/l/bparts1>`__ for a refresher on the
@@ -248,15 +248,15 @@ complex” and “central nucleus” within the “amygdala.”|\ {:
 #Figure_10_04_Amygdala}
 
 Animal research has demonstrated that there is increased activation of
-the amygdala in rat pups that have odor cues paired with electrical
-shock when their mother is absent. This leads to an aversion to the odor
-cue that suggests the rats learned to fear the odor cue. Interestingly,
+the amygdala in rat pups that have odour cues paired with electrical
+shock when their mother is absent. This leads to an aversion to the odour
+cue that suggests the rats learned to fear the odour cue. Interestingly,
 when the mother was present, the rats actually showed a preference for
-the odor cue despite its association with an electrical shock. This
+the odour cue despite its association with an electrical shock. This
 preference was associated with no increases in amygdala activation. This
 suggests a differential effect on the amygdala by the *context* (the
 presence or absence of the mother) determined whether the pups learned
-to fear the odor or to be attracted to it (Moriceau & Sullivan, 2006).
+to fear the odour or to be attracted to it (Moriceau & Sullivan, 2006).
 
 Raineki, Cortés, Belnoue, and Sullivan (2012) demonstrated that, in
 rats, negative early life experiences could alter the function of the
@@ -268,7 +268,7 @@ insufficient bedding condition. The mother rat had insufficient bedding
 material in her cage to build a proper nest that resulted in her
 spending more time away from her pups trying to construct a nest and
 less times nursing her pups. The second form of abusive treatment had an
-associative learning task that involved pairing odors and an electrical
+associative learning task that involved pairing odours and an electrical
 stimulus in the absence of the mother, as described above. The control
 group was in a cage with sufficient bedding and was left undisturbed
 with their mothers during the same time period. The rat pups that
@@ -304,7 +304,7 @@ volume increases following either pharmacological or
 cognitive-behavioral therapy in individuals suffering from PTSD (Bremner
 & Vermetten, 2004; Levy-Gigi, Szabó, Kelemen, & Kéri, 2013).
 
-.. admonition:: psychology link-to-learning
+.. admonition:: psychology link-to-learning :outicon:`cross-reference`
 
    Watch this `video <http://openstax.org/l/traumaticexp>`__ about
    research that demonstrates how the volume of the hippocampus can vary

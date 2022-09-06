@@ -53,7 +53,7 @@ the remainder of this textbook. This is not meant to be an exhaustive
 listing, but it will provide insight into the major areas of research
 and practice of modern-day psychologists.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Please visit this `website <http://openstax.org/l/biopsychology>`__
    to learn about the divisions within the APA.
@@ -194,7 +194,7 @@ psychology will be covered in relevant portions of the chapters in this
 text on sensation and perception, thinking and intelligence, memory,
 lifespan development, social psychology, and therapy.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    View a `brief video <http://openstax.org/l/cogpsys>`__ recapping some
    of the major concepts explored by cognitive psychologists.
@@ -481,7 +481,7 @@ may also be involved in providing psychological treatment within the
 criminal justice system. Criminal profilers are a relatively small
 proportion of psychologists that act as consultants to law enforcement.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    The APA provides `career
    information <http://openstax.org/l/careers>`__ about various areas of

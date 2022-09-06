@@ -67,7 +67,7 @@ brain called the thalamus, which is a major sensory relay center. Most
 incoming sensory information is sent through the thalamus before
 reaching higher regions of the cerebral cortex for processing.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    To learn more about Krista and Tatiana, watch this `New York Times
    video <http://openstax.org/l/hogans>`__ about their lives.

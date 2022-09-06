@@ -113,7 +113,7 @@ considered exceedingly rare or problematic were demonstrated to be much
 more common and innocuous than previously imagined (Bancroft, 2004;
 Bullough, 1998).
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Watch this `trailer <http://openstax.org/l/Kinsey>`__ from the 2004
    film Kinsey that depicts Alfred Kinsey’s life and research.
@@ -272,7 +272,7 @@ in California) or are underway across the United States, and many
 professional organizations have issued statements against this practice
 (Human Rights Campaign, n.d.)
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Read this `draft <http://openstax.org/l/spitzer>`__ of Dr. Spitzer’s
    letter.
@@ -313,7 +313,7 @@ correct this mistake.
 |Photograph A shows Chaz Bono as a child. Photograph B shows Chaz Bono
 as an adult.|\ {: #Figure_10_03_Transgend}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Hear firsthand about the transgender experience and the disconnect
    that occurs when one’s self-identity is betrayed by one’s body. In
@@ -429,7 +429,7 @@ Carmichael, Utomo, & Sleigh, 2010).
    once they have fully developed their own gender identities
    (Paramaguru, 2013).
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Watch this `news story <http://openstax.org/l/reimer>`__ about the
    experiences of David Reimer and his family.

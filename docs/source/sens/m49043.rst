@@ -187,7 +187,7 @@ speech processor, and an electrode array. The device receives incoming
 sound information and directly stimulates the auditory nerve to transmit
 information to the brain.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Watch this `video <https://www.youtube.com/watch?v=AqXBrKwB96E>`__
    describe cochlear implant surgeries and how they work.

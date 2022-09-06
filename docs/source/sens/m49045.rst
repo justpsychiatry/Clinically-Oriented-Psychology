@@ -95,7 +95,7 @@ middle in the general shape of an “X.”|\ {: #Figure_05_06_Continuity}
 were connected. Another illustration shows fragmented lines that would
 form a square if they were connected.|\ {: #Figure_05_06_Closure}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Watch this `video <http://openstax.org/l/gestalt>`__ showing real
    world illustrations of Gestalt principles.

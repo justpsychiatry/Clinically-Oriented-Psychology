@@ -619,7 +619,7 @@ instruments in the study of stress, and it is a useful tool for
 identifying potential stress-related health outcomes (Scully et al.,
 2000).
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Go to this `site <http://openstax.org/l/SRRS>`__ to complete the SRRS
    scale and determine the total number of LCUs you have experienced
@@ -1105,7 +1105,7 @@ absenteeism from work increased, and one day she decided that she had
 had enough and quit. She now has a job in sales, vowing never to work in
 nursing again.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    A humorous example illustrating lack of supervisory support can be
    found in the 1999 comedy *Office Space*. Follow `this

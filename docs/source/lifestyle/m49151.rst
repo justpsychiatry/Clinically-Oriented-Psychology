@@ -48,7 +48,7 @@ levels of the stress hormone cortisol might become vulnerable to
 infection or disease because of weakened immune system functioning
 (McEwen, 1998).
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Robert Sapolsky, a noted Stanford University neurobiologist and
    professor, has for over 30 years conducted extensive research on

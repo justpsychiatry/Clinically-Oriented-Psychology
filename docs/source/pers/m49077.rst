@@ -77,7 +77,7 @@ minimize the negative dynamics of the youngest and oldest children.
 Despite popular attention, research has not conclusively confirmed
 Adler’s hypotheses about birth order.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    One of Adler’s major contributions to personality psychology was the
    idea that our birth order shapes our personality. Follow `this
@@ -922,7 +922,7 @@ believed that it is a compromise between who we really are (our true
 self) and what society expects us to be. We hide those parts of
 ourselves that are not aligned with society’s expectations.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Jung’s view of extroverted and introverted types serves as a basis of
    the Myers-Briggs Type Indicator (MBTI). This questionnaire describes

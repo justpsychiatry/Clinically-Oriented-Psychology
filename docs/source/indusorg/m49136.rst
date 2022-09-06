@@ -607,7 +607,7 @@ of three years of job-guaranteed leave after the birth of a child,
 Lucent Technologies offer of one year’s childbirth leave at half pay,
 and SC Johnson’s program of concierge services for daytime errands.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    `Glassdoor <http://openstax.org/l/glassdoor>`__ is a website that
    posts job satisfaction reviews for different careers and

@@ -67,7 +67,7 @@ requirements, interests, personality requirements, and work styles that
 are deemed necessary for success in that position. You can also see data
 on average earnings and projected job growth in that industry.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    The O*Net database describes the skills, knowledge, and education
    required for occupations, as well as what personality types and work
@@ -523,7 +523,7 @@ suits filed in a federal court, although the suits may represent the
 claims of more than one person. In 2013, there were 148 suits filed in
 federal courts.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    In 2011, the U.S. Supreme Court decided a case in which women
    plaintiffs were attempting to group together in a class-action suit

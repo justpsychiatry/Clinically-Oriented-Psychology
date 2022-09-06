@@ -83,7 +83,7 @@ diagnosis, Pausch lived the final year of his life with joy and hope,
 showing us that our plans for the future still matter, even if we know
 that we are dying.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    `Really Achieving Your Childhood
    Dreams <http://openstax.org/l/lastlecture>`__ is Randy Pausch’s last

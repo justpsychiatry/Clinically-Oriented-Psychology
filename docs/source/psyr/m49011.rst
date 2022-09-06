@@ -111,7 +111,7 @@ correlation” and shows scattered dots having no pattern; the x-axis is
 labeled “shoe size” and the y-axis is labeled “hours of sleep.”|\ {:
 #CNX_Psych_02_04_scatter}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Manipulate this `interactive
    scatterplot <http://openstax.org/l/scatplot>`__ to practice your
@@ -460,7 +460,7 @@ independent variable? Random assignment allows us to assume that any
 differences observed between experimental and control groups result from
 the manipulation of the independent variable.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Use this `online tool <https://www.randomizer.org/>`__ to instantly
    generate randomized numbers and to learn more about random sampling
@@ -526,7 +526,7 @@ publish **peer-reviewed journal articles**\ {: data-type=“term”} aimed
 at an audience of professionals and scholars who are actively involved
 in research themselves.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    The `Online Writing Lab (OWL) <http://openstax.org/l/owl>`__ at
    Purdue University can walk you through the APA writing guidelines.

@@ -117,7 +117,7 @@ labeled “32 weeks; bones fully develop.” The eighth stage is labeled “36
 weeks; muscles fully develop.” The ninth stage is labeled “40 weeks;
 full-term development.”|\ {: #Figure_09_02_Stages}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    For an amazing look at prenatal development and the process of birth,
    view the video `Life’s Greatest
@@ -466,7 +466,7 @@ response when she feels like she is falling. The baby spreads her arms,
 pulls them back in, and then (usually) cries. How do you think these
 reflexes promote survival in the first months of life?
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Take a few minutes to view this brief `video
    clip <http://openstax.org/l/newflexes>`__ illustrating several
@@ -970,7 +970,7 @@ persuade their parents to purchase a candy bar, or understand why a
 sibling might be angry. When children develop TOM, they can recognize
 that others have false beliefs (Dennett, 1987; Callaghan et al., 2005).
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    False-belief tasks are useful in determining a child’s acquisition of
    theory-of-mind (TOM). Take a look at this `video
@@ -1075,7 +1075,7 @@ mother-child bond than nourishment. Feelings of comfort and security are
 the critical components to maternal-infant bonding, which leads to
 healthy psychosocial development.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Harlow’s studies of monkeys were performed before modern ethics
    guidelines were in place, and today his experiments are widely
@@ -1163,7 +1163,7 @@ to culture, a factor not accounted for in Ainsworth’s research
 (Rothbaum, Weisz, Pott, Miyake, & Morelli, 2000; van Ijzendoorn &
 Sagi-Schwartz, 2008).
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Watch this `video <http://openstax.org/l/strangesitu>`__ to view a
    clip of the Strange Situation. Try to identify which type of
@@ -1408,7 +1408,7 @@ maturing into early adulthood (Casey, Tottenham, Liston, & Durston,
 |An illustration of a brain is shown with the frontal lobe labeled.|\ {:
 #Figure_09_04_TeenBrain}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    According to neuroscientist Jay Giedd in the Frontline video “Inside
    the Teenage Brain” (2013), “It’s sort of unfair to expect [teens] to
@@ -1566,7 +1566,7 @@ significantly. The brain may also no longer function at optimal levels,
 leading to problems like memory loss, dementia, and Alzheimer’s disease
 in later years.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Aging doesn’t mean a person can’t explore new pursuits, learn new
    skills, and continue to grow. Watch this inspiring story about `Neil
@@ -1584,7 +1584,7 @@ cognitive development is a complex, ever changing process that may be
 even more active than cognitive development in infancy and early
 childhood (Fischer, Yan, & Stewart, 2003).
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    There is good news for the middle age brain. View this `brief
    video <http://openstax.org/l/oldbrain>`__ to find out what it is.
@@ -1652,7 +1652,7 @@ than in our earlier years (Carstensen, 1992)
 |Four people are sitting on a bench looking off in the same
 direction.|\ {: #Figure_09_04_Support}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    To learn more, view this `video <http://openstax.org/l/aginginusa>`__
    on aging in America.

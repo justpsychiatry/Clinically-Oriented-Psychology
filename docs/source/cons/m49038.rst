@@ -145,13 +145,13 @@ and pain management (Reiner, Tibi, & Lipsitz, 2013).
 crisscrossed. Photograph B shows a person in a similar position.|\ {:
 #Figure_04_06_Buddha}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Feeling stressed? Think meditation might help? This `instructional
    video <https://www.youtube.com/watch?v=Lkb1YWEPCxw>`__ teaches how to
    use Buddhist meditation techniques to alleviate stress.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Watch this `video <http://openstax.org/l/brainimaging>`__ describe
    the results of a brain imaging study in individuals who underwent

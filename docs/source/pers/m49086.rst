@@ -177,7 +177,7 @@ another box labeled “External” containing “Outcomes are beyond my
 control: belief that luck, fate, and other people determine
 outcomes.”|\ {: #Figure_11_04_Control}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Take the `Locus of Control <http://openstax.org/l/locuscontrol>`__
    questionnaire. Scores range from 0 to 13. A low score on this
@@ -240,7 +240,7 @@ those children who had poor self-control in preschool (the ones who
 grabbed the one marshmallow) were not as successful in high school, and
 they were found to have academic and behavioral problems.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    To learn more about the marshmallow test and view the test given to
    children in Columbia, follow the link below to Joachim de Posada’s

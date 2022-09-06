@@ -1021,7 +1021,7 @@ reach for the hidden toy, indicating that they knew it still existed,
 whereas infants who had not developed object permanence would appear
 confused.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Please take a few minutes to view this `brief
    video <http://openstax.org/l/piaget>`__ demonstrating different
@@ -1056,7 +1056,7 @@ understanding of **conservation**\ {: data-type=“term”}, which is the
 idea that even if you change the appearance of something, it is still
 equal in size as long as nothing has been removed or added.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    This `video <http://openstax.org/l/piaget2>`__ shows a 4.5-year-old
    boy in the preoperational stage as he responds to Piaget’s
@@ -1072,7 +1072,7 @@ Iron Man action figure for her, thinking that if he likes the toy, his
 sister will too. An egocentric child is not able to infer the
 perspective of other people and instead attributes his own perspective.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Piaget developed the Three-Mountain Task to determine the level of
    egocentrism displayed by children. Children view a 3-dimensional

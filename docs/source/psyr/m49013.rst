@@ -118,7 +118,7 @@ has consistently demonstrated to be effective?
 |A D.A.R.E. poster reads “D.A.R.E. to resist drugs and violence.”|\ {:
 #CNX_Psych_02_01_DARE}
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Watch this `news report <https://openstax.org/l/DAREwork>`__ to learn
    more about some of the controversial issues surrounding the D.A.R.E.
@@ -207,7 +207,7 @@ researchers gather massive amounts of observations and seek interesting
 patterns (new ideas) in the data. Experimental research, on the other
 hand, puts great emphasis on deductive reasoning.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Play this `“Deal Me In” interactive card
    game <http://openstax.org/l/dealmein>`__ to practice using inductive
@@ -287,7 +287,7 @@ confidence in the information that it produces. Typically, by the time
 information is accepted by the scientific community, it has been tested
 repeatedly.
 
-.. container:: psychology link-to-learning
+.. card:: Link to Learning
 
    Visit this `website <http://openstax.org/l/mmystery>`__ to apply the
    scientific method and practice its steps by using them to solve a
