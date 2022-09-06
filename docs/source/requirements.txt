@@ -1,4 +1,5 @@
 sphinx
+sphinx-book-theme
 sphinx_rtd_theme
 docutils
 pybtex
