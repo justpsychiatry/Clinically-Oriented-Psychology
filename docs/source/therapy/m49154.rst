@@ -451,7 +451,7 @@ approach to therapy remains centered on the role of people’s internal
 drives and forces, but treatment is less intensive than Freud’s original
 model.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    View a `brief video <http://openstax.org/l/psycanalysis>`__ that
    presents an overview of psychoanalysis theory, research, and
@@ -626,7 +626,7 @@ public speaking, claustrophobia (fear of enclosed spaces), aviophobia
 and stressor-related disorder (Gerardi, Cukor, Difede, Rizzo, &
 Rothbaum, 2010).
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    A new virtual reality exposure therapy is being used to treat PTSD in
    soldiers. Virtual Iraq is a simulation that mimics Middle Eastern
@@ -705,7 +705,7 @@ flowchart flows from “Failed test” to “Internal beliefs: I’m smart, but
 I didn’t study for this test. I can do better.” to “No depression.”|\ {:
 #CNX_Psych_16_02_Cognitive}
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    View a brief video in which `Judith Beck talks about cognitive
    therapy <http://openstax.org/l/JBeck>`__ and conducts a session with

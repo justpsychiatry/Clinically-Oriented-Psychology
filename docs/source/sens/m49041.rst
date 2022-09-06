@@ -158,7 +158,7 @@ inaudible no matter the amplitude of the wave. A 1000 Hz sound wave, on
 the other hand, would vary dramatically in terms of perceived loudness
 as the amplitude of the wave increased.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Watch this `brief video <http://openstax.org/l/frequency>`__
    demonstrating how frequency and amplitude interact in our perception

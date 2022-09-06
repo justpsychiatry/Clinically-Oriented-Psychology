@@ -167,7 +167,7 @@ started walking when he was only 10 months old. Should Louisa be
 worried? Should she be concerned if her daughter is not walking by 15
 months or 18 months?
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    The Centers for Disease Control and Prevention (CDC) describes the
    developmental milestones for children from 2 months through 5 years

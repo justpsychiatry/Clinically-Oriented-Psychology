@@ -84,7 +84,7 @@ constellation of physiological changes, known as the :term:`fight or flight resp
 reserves and heightened sensory capacity so that it might fight off a
 threat or run away to safety.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Reinforce what you’ve learned about the nervous system by playing
    this BBC-produced `interactive

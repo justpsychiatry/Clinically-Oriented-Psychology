@@ -124,7 +124,7 @@ about basic principles that guide how we think and behave, and they come
 to recognize the tremendous diversity that exists across individuals and
 across cultural boundaries (American Psychological Association, 2011).
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Watch a brief `video <http://openstax.org/l/psycmajor>`__ that
    describes some of the questions a student should consider before

@@ -310,7 +310,7 @@ several occasions went on hunger strikes to protest a particular
 situation. People may starve themselves or otherwise put themselves in
 danger displaying higher-level motives beyond their own needs.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Check out this `interactive
    exercise <http://openstax.org/l/hierneeds>`__ that illustrates some

@@ -132,7 +132,7 @@ biological, evolutionary, trait, and cultural perspectives. In this
 chapter, we will explore these various perspectives on personality in
 depth.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    View this video for a `brief
    overview <http://openstax.org/l/mandela>`__ of some of the

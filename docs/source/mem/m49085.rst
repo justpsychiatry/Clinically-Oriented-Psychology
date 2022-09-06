@@ -74,7 +74,7 @@ transferring new learning into long-term memory. The amygdala seems to
 facilitate encoding memories at a deeper level when the event is
 emotionally arousing.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    In this TED Talk called `“A Mouse. A Laser Beam. A Manipulated
    Memory,” <http://openstax.org/l/mousebeam>`__ Steve Ramirez and Xu
@@ -108,7 +108,7 @@ memory was significantly affected, and he could not form new semantic
 knowledge. He lost the ability to form new memories, yet he could still
 remember information and events that had occurred prior to the surgery.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    For a closer look at how memory works, view this
    `video <http://openstax.org/l/HMbrain>`__ on quirks of memory, and

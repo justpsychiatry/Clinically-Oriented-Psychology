@@ -187,7 +187,7 @@ and 4 are no longer reached. The sleep stages are fluctuating from 2, to
 until the end of the eighth hour when the person awakens.|\ {:
 #Figure_04_03_Hypnogram}
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    View this `video <https://www.youtube.com/watch?v=kaoMD1XI5u8>`__
    that describes the various stages of sleep.

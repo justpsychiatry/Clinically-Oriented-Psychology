@@ -736,7 +736,7 @@ Stressed
 
    </table>
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Follow this `link <http://openstax.org/l/cattell>`__ to an assessment
    based on Cattell’s 16PF questionnaire to see which personality traits
@@ -880,7 +880,7 @@ to exist across ethnicities, cultures, and ages, and may have
 substantial biological and genetic components (Jang, Livesley, & Vernon,
 1996; Jang et al., 2006; McCrae & Costa, 1997; Schmitt et al., 2007).
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    To find out about your personality and where you fall on the Big Five
    traits, follow this `link <http://openstax.org/l/big5>`__ to take the

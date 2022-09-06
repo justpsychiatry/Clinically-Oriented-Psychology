@@ -126,7 +126,7 @@ an inability to experience pleasure. One who exhibits anhedonia
 expresses little interest in what most people consider to be pleasurable
 activities, such as hobbies, recreation, or sexual activity.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Watch this `video <http://openstax.org/l/Schizo1>`__ and try to
    identify which classic symptoms of schizophrenia are shown.

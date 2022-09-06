@@ -210,7 +210,7 @@ those feelings in someone else. Other defense mechanisms include
 **rationalization**\ {: data-type=“term”}, **displacement**\ {:
 data-type=“term”}, and **sublimation**\ {: data-type=“term”}.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Watch this `video <https://www.youtube.com/watch?v=zWpZS0WqMWs>`__
    for a review of Freud’s defense mechanisms.

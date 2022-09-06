@@ -188,7 +188,7 @@ parent may undermine the other, leading the children to act out. The
 therapist helps them resolve these issues and learn to communicate more
 effectively.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Watch this `video <http://openstax.org/l/Sfamily>`__ to view a
    structural family session.

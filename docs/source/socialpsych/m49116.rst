@@ -206,7 +206,7 @@ abuse, some taken by the abusers themselves
 person is covered in shawl-like attire and a full hood that covers the
 face completely.|\ {: #CNX_Psych_12_02_AbuGhraib}
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Visit this `website <http://openstax.org/l/Stanford_psych>`__ to hear
    an NPR interview with Philip **Zimbardo**\ {: data-type=“term”

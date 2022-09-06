@@ -125,7 +125,7 @@ conversation with a friend, and you tune out all the background noise.
 If someone interrupted you to ask what song had just finished playing,
 you would probably be unable to answer that question.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    See for yourself how inattentional blindness works by checking out
    this `selective attention test <http://openstax.org/l/blindness>`__

@@ -220,11 +220,10 @@ The movement of the action potential down the length of the axon is an
 electrical event, and movement of the neurotransmitter across the
 synaptic space represents the chemical portion of the process.
 
-.. admonition::  psychology link-to-learning
+.. hint::  psychology link-to-learning
 
-   Click through this `interactive
-   simulation <http://openstax.org/l/chospital>`__ for a closer look at
-   neuronal communication.
+    Click through this `interactive simulation <http://openstax.org/l/chospital>`__ for a closer look at
+    neuronal communication.
 
 Neurotransmitters and Drugs
 ===========================

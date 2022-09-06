@@ -114,7 +114,7 @@ the left hand).
 brain in front and side views. Photograph (c) shows the corpus callosum
 in a dissected brain.|\ {: #CNX_Psych_03_04_CorpusCall}
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    This `interactive animation <http://openstax.org/l/nobelanimation>`__
    on the Nobel Prize website walks users through the hemispheres of the
@@ -327,7 +327,7 @@ history (Hardt, Einarsson, & Nader, 2010; Squire, 2009). Indeed, his
 case has provided tremendous insight into the role that the hippocampus
 plays in the consolidation of new learning into explicit memory.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Clive Wearing, an accomplished musician, lost the ability to form new
    memories when his hippocampus was damaged through illness. Check out
@@ -512,7 +512,7 @@ and functional differences exist between these populations.
 |A brain scan shows brain tissue in gray with some small areas
 highlighted red.|\ {: #CNX_Psych_03_04_fMRI}
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Visit this `virtual lab <http://openstax.org/l/mri>`__ to learn more
    about MRI and fMRI.

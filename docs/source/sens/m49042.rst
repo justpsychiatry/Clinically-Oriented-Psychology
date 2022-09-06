@@ -198,7 +198,7 @@ and green. But once the signal moves past the retina on its way to the
 brain, the cells respond in a way consistent with opponent-process
 theory (Land, 1959; Kaiser, 1997).
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Watch this `video <https://www.youtube.com/watch?v=1IqXyu14kpY>`__ to
    learn about color vision in more detail.

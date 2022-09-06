@@ -105,7 +105,7 @@ detox, to prevent reuse of the drug, and to manage withdrawal symptoms.
 Getting off drugs often involves the use of drugs—some of which can be
 just as addictive. Detox can be difficult and dangerous.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Watch this `video <http://openstax.org/l/subdisorder>`__ to find out
    more about treating substance-related disorders using the biological,

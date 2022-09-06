@@ -190,7 +190,7 @@ neuronal synapse.
    |A photograph shows crack rocks. A ruler indicates that each crack
    rock is approximately 1–2 inches wide.|\ {: #Figure_04_05_Crackrock}
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    Read this interesting `newspaper
    article <http://openstax.org/l/crack>`__ describing myths about crack
@@ -376,7 +376,7 @@ as antagonists of the NMDA glutamate receptor. In general, these drugs
 are not thought to possess the same sort of abuse potential as other
 classes of drugs discussed in this section.
 
-.. card:: Link to Learning
+.. hint:: Link to Learning
 
    To learn more about some of the most commonly abused prescription and
    street drugs, check out the `Commonly Abused Drugs
