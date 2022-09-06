@@ -16,15 +16,14 @@ Emotion
    producing and recognizing emotional expression
 
 As we move through our daily lives, we experience a variety of emotions.
-An **emotion**\ {: data-type=“term”} is a subjective state of being that
+An :term:`emotion` is a subjective state of being that
 we often describe as our feelings. The words emotion and mood are
 sometimes used interchangeably, but psychologists use these words to
 refer to two different things. Typically, the word emotion indicates a
 subjective, affective state that is relatively intense and that occurs
 in response to something we experience
 (`[link] <#Figure_10_04_HappySad>`__). Emotions are often thought to be
-consciously experienced and intentional. **Mood**\ {: data-type=“term”
-.no-emphasis}, on the other hand, refers to a prolonged, less intense,
+consciously experienced and intentional. :term:`Mood`, on the other hand, refers to a prolonged, less intense,
 affective state that does not occur in response to something we
 experience. Mood states may not be consciously recognized and do not
 carry the intentionality that is associated with emotion (Beedie, Terry,
@@ -48,7 +47,7 @@ THEORIES OF EMOTION
 
 Our emotional states are combinations of physiological arousal,
 psychological appraisal, and subjective experiences. Together, these are
-known as the **components of emotion**\ {: data-type=“term”}. These
+known as the :term:`components of emotion`. These
 appraisals are informed by our experiences, backgrounds, and cultures.
 Therefore, different people may have different emotional experiences
 even when faced with similar circumstances. Over time, several different
@@ -56,7 +55,7 @@ theories of emotion, shown in `[link] <#Figure_10_04_Theories>`__, have
 been proposed to explain how the various components of emotion interact
 with one another.
 
-The **James-Lange theory**\ {: data-type=“term”} of emotion asserts that
+The :term:`James-Lange theory` of emotion asserts that
 emotions arise from physiological arousal. Recall what you have learned
 about the sympathetic nervous system and our fight or flight response
 when threatened. If you were to encounter some threat in your
@@ -70,8 +69,8 @@ different feelings.
 
 Other theorists, however, doubted that the physiological arousal that
 occurs with different types of emotions is distinct enough to result in
-the wide variety of emotions that we experience. Thus, the **Cannon-Bard
-theory**\ {: data-type=“term”} of emotion was developed. According to
+the wide variety of emotions that we experience. Thus, the :term:`Cannon-Bard
+theory` of emotion was developed. According to
 this view, physiological arousal and emotional experience occur
 simultaneously, yet independently (Lang, 1994). So, when you see the
 venomous snake, you feel fear at exactly the same time that your body
@@ -95,7 +94,7 @@ arousal does not seem to be necessary for the emotional experience, but
 this arousal does appear to be involved in enhancing the intensity of
 the emotional experience.
 
-The **Schachter-Singer two-factor theory**\ {: data-type=“term”} of
+The :term:`Schachter-Singer two-factor theory` of
 emotion is another variation on theories of emotions that takes into
 account both physiological arousal and the emotional experience.
 According to this theory, emotions are composed of two factors:
@@ -161,7 +160,7 @@ arousal, which include increased heart rate, respiration rate, and
 sweating, might serve as a tool to determine whether someone is telling
 the truth or not. The assumption is that most of us would show signs of
 physiological arousal if we were being dishonest with someone. A
-**polygraph**\ {: data-type=“term”}, or lie detector test, measures the
+:term:`polygraph`, or lie detector test, measures the
 physiological arousal of an individual responding to a series of
 questions. Someone trained in reading these tests would look for answers
 to questions that are associated with increased levels of arousal as
@@ -174,7 +173,7 @@ is associated with any particular pattern of physiological arousal (Saxe
 The relationship between our experiencing of emotions and our cognitive
 processing of them, and the order in which these occur, remains a topic
 of research and debate. Lazarus (1991) developed the
-**cognitive-mediational theory**\ {: data-type=“term”} that asserts our
+:term:`cognitive-mediational theory` that asserts our
 emotions are determined by our appraisal of the stimulus. This appraisal
 mediates between the stimulus and the emotional response, and it is
 immediate and often unconscious. In contrast to the Schachter-Singer
@@ -203,8 +202,7 @@ emotional response.
 THE BIOLOGY OF EMOTIONS
 =======================
 
-Earlier, you learned about the **limbic system**\ {: data-type=“term”
-.no-emphasis}, which is the area of the brain involved in emotion and
+Earlier, you learned about the :term:`limbic system`, which is the area of the brain involved in emotion and
 memory (`[link] <#Figure_10_04_Limbic>`__). The limbic system includes
 the hypothalamus, thalamus, amygdala, and the hippocampus. The
 hypothalamus plays a role in the activation of the sympathetic nervous
@@ -231,16 +229,16 @@ Gómez-Galán, Lindskog, & Magara, 2012).
 Amygdala
 --------
 
-The **amygdala**:term:`pastehere` has received a great
+The :term:`amygdala` has received a great
 deal of attention from researchers interested in understanding the
 biological basis for emotions, especially fear and anxiety (Blackford &
 Pine, 2012; Goosens & Maren, 2002; Maren, Phan, & Liberzon, 2013). The
 amygdala is composed of various subnuclei, including the basolateral
 complex and the central nucleus (`[link] <#Figure_10_04_Amygdala>`__).
-The **basolateral complex**\ {: data-type=“term”} has dense connections
+The :term:`basolateral complex` has dense connections
 with a variety of sensory areas of the brain. It is critical for
 classical conditioning and for attaching emotional value to learning
-processes and memory. The **central nucleus**\ {: data-type=“term”}
+processes and memory. The :term:`central nucleus`
 plays a role in attention, and it has connections with the hypothalamus
 and various brainstem areas to regulate the autonomic nervous and
 endocrine systems’ activity (Pessoa, 2010).
@@ -292,8 +290,7 @@ Almeida, Kronhaus, & Phillips, 2013).
 Hippocampus
 -----------
 
-As mentioned earlier, the **hippocampus**\ {: data-type=“term”
-.no-emphasis} is also involved in emotional processing. Like the
+As mentioned earlier, the :term:`hippocampus` is also involved in emotional processing. Like the
 amygdala, research has demonstrated that hippocampal structure and
 function are linked to a variety of mood and anxiety disorders.
 Individuals suffering from posttraumatic stress disorder (PTSD) show
@@ -345,8 +342,7 @@ that the pattern of activity in facial muscles involved in generating
 emotional expressions is universal, and indeed, this idea was suggested
 in the late 19th century in Charles Darwin’s book *The Expression of
 Emotions in Man and Animals* (1872). In fact, there is substantial
-evidence for seven **universal emotions**\ {: data-type=“term”
-.no-emphasis} that are each associated with distinct facial expressions.
+evidence for seven :term:`universal emotions` that are each associated with distinct facial expressions.
 These include: happiness, surprise, sadness, fright, disgust, contempt,
 and anger (`[link] <#Figure_10_04_Expressions>`__) (Ekman & Keltner,
 1997).
@@ -356,7 +352,7 @@ facial expression: happiness, surprise, sadness, fright, disgust,
 contempt, and anger.|\ {: #Figure_10_04_Expressions}
 
 Does smiling make you happy? Or does being happy make you smile? The
-**facial feedback hypothesis**\ {: data-type=“term”} asserts that facial
+:term:`facial feedback hypothesis` asserts that facial
 expressions are capable of influencing our emotions, meaning that
 smiling can make you feel happier (Buck, 1980; Soussignan, 2001; Strack,
 Martin, & Stepper, 1988). Recent research explored how Botox, which
@@ -367,8 +363,8 @@ paralysis of their frowning muscles with Botox injections.
 
 Of course, emotion is not only displayed through facial expression. We
 also use the tone of our voices, various behaviors, and body language to
-communicate information about our emotional states. **Body
-language**\ {: data-type=“term”} is the expression of emotion in terms
+communicate information about our emotional states. :term:`Body
+language` is the expression of emotion in terms
 of body position or movement. Research suggests that we are quite
 sensitive to the emotional information communicated through body
 language, even if we’re not consciously aware of it (de Gelder, 2006;
