@@ -439,7 +439,7 @@ our emotional states.
 
 .. card-carousel:: Review Questions
 
-    .. card:: Question
+   .. card:: Question
 
       Individuals suffering from posttraumatic stress disorder have been
       shown to have reduced volumes of the \________.
@@ -449,10 +449,10 @@ our emotional states.
       3. hypothalamus
       4. thalamus {: type=“A”}
 
-  .. dropdown:: Check Answer
+   .. dropdown:: Check Answer
 
       B
-  .. Card:: Question
+   .. card:: Question
 
 
       According to the \_______\_ theory of emotion, emotional
@@ -463,10 +463,10 @@ our emotional states.
       3. Schachter-Singer two-factor
       4. Darwinian {: type=“A”}
 
-  .. dropdown:: Check Answer
+   .. dropdown:: Check Answer
 
       A
-  .. Card:: Question
+   .. card:: Question
 
       Which of the following is not one of the seven universal emotions
       described in this chapter?
@@ -476,10 +476,10 @@ our emotional states.
       3. melancholy
       4. anger {: type=“A”}
 
-  .. dropdown:: Check Answer
+   .. dropdown:: Check Answer
 
       C
-  .. Card:: Question
+   .. card:: Question
 
       Which of the following theories of emotion would suggest that
       polygraphs should be quite accurate at differentiating one emotion
@@ -490,7 +490,7 @@ our emotional states.
       3. Schachter-Singer two-factor theory
       4. Darwinian theory {: type=“A”}
 
-   .. container::
+   .. card::
 
       B
 
