@@ -360,9 +360,7 @@ an extended “positive peace psychology” could have important
 implications for understanding how to overcome oppression and work
 toward global peace (Cohrs, Christie, White, & Das, 2013).
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       The Center for Investigating Healthy Minds
 

@@ -508,9 +508,7 @@ deliberately declining to hire qualified LGBT job applicants. Have you
 experienced or witnessed homophobia? If so, what stereotypes, prejudiced
 attitudes, and discrimination were evident?
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       Research into Homophobia
 

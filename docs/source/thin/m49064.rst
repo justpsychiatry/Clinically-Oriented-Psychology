@@ -504,9 +504,7 @@ intelligence. Members must have an IQ score in the top 2% of the
 population, and they may be required to pass other exams in their
 application to join the group.
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       What’s in a Name? Mental Retardation
 

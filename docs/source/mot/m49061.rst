@@ -43,9 +43,9 @@ increase, the pancreas and liver send signals to shut off hunger and
 eating (Drazen & Woods, 2003; Druce, Small, & Bloom, 2004; Greary,
 1990). The food’s passage through the gastrointestinal tract also
 provides important satiety signals to the brain (Woods, 2004), and fat
-cells release **leptin**\ {: data-type=“term”}, a satiety hormone.
+cells release :term:`leptin`, a satiety hormone.
 
-The various **hunger**:term:`pastehere` and satiety
+The various :term:`hunger` and satiety
 signals that are involved in the regulation of eating are integrated in
 the brain. Research suggests that several areas of the hypothalamus and
 hindbrain are especially important sites where this integration occurs
@@ -105,7 +105,7 @@ OBESITY
 When someone weighs more than what is generally accepted as healthy for
 a given height, they are considered overweight or obese. According to
 the Centers for Disease Control and Prevention (CDC), an adult with a
-**body mass index**:term:`pastehere` (BMI) between 25
+****:term:`body mass index` (BMI) between 25
 and 29.9 is considered **overweight**\ {: data-type=“term”}
 (`[link] <#Figure_10_02_BodyMass>`__). An adult with a **BMI**\ {:
 data-type=“term” .no-emphasis} of 30 or higher is considered
@@ -189,8 +189,6 @@ and into the duodenum.|\ {: #Figure_10_02_Bariatric}
    describes two different types of bariatric surgeries.
 
 .. tip:: psychology dig-deeper
-
-   .. container::
 
       Prader-Willi Syndrome
 

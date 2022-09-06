@@ -236,9 +236,7 @@ Moreover, groupthink can hinder opposing trains of thought. This
 elimination of diverse opinions contributes to faulty decision by the
 group.
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       Groupthink in the U.S. Government
 

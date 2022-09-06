@@ -99,9 +99,7 @@ in her descendants and minor health problems of her own.
 lines that split apart into branched structures.|\ {:
 #CNX_Psych_03_01_Darwin}
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       Two Perspectives on Genetics and Behavior
 

@@ -213,9 +213,7 @@ exonerate falsely convicted people, including those convicted by
 eyewitness testimony. To learn more, you can visit
 http://www.innocenceproject.org.
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       Preserving Eyewitness Memory: The Elizabeth Smart Case
 

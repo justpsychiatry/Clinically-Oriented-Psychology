@@ -98,9 +98,7 @@ patients who also suffered from sleep-related breathing problems showed
 a marked decrease in sleepwalking when their breathing problems were
 effectively treated.
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       A Sleepwalking Defense?
 

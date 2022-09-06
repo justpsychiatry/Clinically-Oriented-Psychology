@@ -433,9 +433,7 @@ Complex sentences; has conversations
 
    </table>
 
-.. container:: psychology dig-deeper
-
-   .. container::
+.. attention:: psychology dig-deeper
 
       The Case of Genie
 
