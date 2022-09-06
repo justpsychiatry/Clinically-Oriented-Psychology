@@ -1,5 +1,5 @@
-Biopsychology
-#############
+Chapter 3: Biopsychology
+########################
 
 
 .. toctree::

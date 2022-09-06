@@ -300,11 +300,14 @@ Personal Application Questions
    arousal theory
       strong emotions trigger the formation of strong memories and
       weaker emotional experiences form weaker memories ^
+
    engram
       physical trace of memory ^
+
    equipotentiality hypothesis
       some parts of the brain can take over for damaged parts in forming
       and storing memories ^
+
    flashbulb memory
       exceptionally clear recollection of an important event
 

@@ -1,4 +1,4 @@
-Thinking and Intelligence
+Chapter 7: Thinking and Intelligence
 #########################
 
 

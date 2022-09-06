@@ -1,5 +1,5 @@
-Sensation and Perception
-########################
+Chapter 5: Sensation and Perception
+###################################
 
 
 .. toctree::

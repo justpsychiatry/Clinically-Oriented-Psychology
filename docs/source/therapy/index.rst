@@ -1,5 +1,5 @@
-Therapy and Treatment
-######################
+Chapter 16: Therapy and Treatment
+#################################
 
 
 .. toctree::

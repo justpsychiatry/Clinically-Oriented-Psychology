@@ -1,5 +1,5 @@
-Consciousness
-##############
+Chapter 4: States of Consciousness
+##################################
 
 
 .. toctree::

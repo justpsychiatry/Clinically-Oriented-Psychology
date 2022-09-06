@@ -1,5 +1,5 @@
-Motivation and Emotion
-######################
+Chapter 10: Motivation and Emotion
+##################################
 
 
 .. toctree::
@@ -9,3 +9,5 @@ Motivation and Emotion
    
    m*
    ...
+
+   

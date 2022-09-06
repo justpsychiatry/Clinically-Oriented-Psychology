@@ -1,5 +1,5 @@
-Personality
-###########
+Chapter 11: Personality
+#######################
 
 
 .. toctree::

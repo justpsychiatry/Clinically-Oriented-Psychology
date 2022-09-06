@@ -1,5 +1,5 @@
-Introduction to Psychology
-##########################
+Chapter 1: Introduction to Psychology
+#####################################
 
 
 .. toctree::

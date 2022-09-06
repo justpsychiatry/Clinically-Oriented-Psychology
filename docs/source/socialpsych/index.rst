@@ -1,5 +1,5 @@
-Social Psychology
-##################
+Chapter 12: Social Psychology
+#############################
 
 
 .. toctree::

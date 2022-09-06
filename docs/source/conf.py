@@ -28,6 +28,7 @@ extensions = [
     'sphinxcontrib.bibtex',
     'sphinxcontrib.apa',
     'myst_parser',
+    'sphinxcontrib.datatemplates',
     'sphinx_rtd_theme',
     "sphinx_design",
     'sphinx_search.extension',

@@ -1,5 +1,5 @@
-Psychological Research
-######################
+Chapter 2: Psychological Research
+#################################
 
 
 .. toctree::

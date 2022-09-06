@@ -1,5 +1,5 @@
-Learning
-########
+Chapter 6: Learning
+###################
 
 
 .. toctree::
