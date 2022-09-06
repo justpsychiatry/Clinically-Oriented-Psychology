@@ -504,7 +504,10 @@ intelligence. Members must have an IQ score in the top 2% of the
 population, and they may be required to pass other exams in their
 application to join the group.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       What’s in a Name? Mental Retardation
 
@@ -575,7 +578,7 @@ tests that are still in use today: the WAIS-IV and WISC-V. The Bell
 curve shows the range of scores that encompass average intelligence as
 well as standard deviations.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

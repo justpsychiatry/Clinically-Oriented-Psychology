@@ -398,7 +398,10 @@ interdisciplinary approach often was referred to as the cognitive
 sciences, and the influence and prominence of this particular
 perspective resonates in modern-day psychology (Miller, 2003).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Feminist Psychology
 
@@ -551,7 +554,7 @@ transition. Ultimately, the cognitive revolution took hold, and people
 came to realize that cognition was crucial to a true appreciation and
 understanding of behavior.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

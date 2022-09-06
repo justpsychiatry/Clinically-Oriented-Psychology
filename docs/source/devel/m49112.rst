@@ -1688,7 +1688,7 @@ keep the body and mind active can help maintain good physical and
 cognitive health as we age. Social supports through family and friends
 remain important as we age.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

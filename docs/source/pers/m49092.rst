@@ -72,7 +72,7 @@ greatly contributed to our understanding of the self. They emphasized
 free will and self-determination, with each individual desiring to
 become the best person they can become.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

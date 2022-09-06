@@ -105,7 +105,7 @@ perceived threat with the :term:`fight or flight` response. This kind of respons
 in the modern world; in fact, we suffer negative health consequences
 when faced constantly with psychological threats that we can neither
 fight nor flee. Recent research suggests that an increase in
-susceptibility to heart disease (Chandola, Brunner, & Marmot, 2006) and
+susceptibility to heart disease cite:p:RN147 (Chandola, Brunner, & Marmot, 2006) and
 impaired function of the immune system (Glaser & Kiecolt-Glaser, 2005)
 are among the many negative consequences of persistent and repeated
 exposure to stressful situations.

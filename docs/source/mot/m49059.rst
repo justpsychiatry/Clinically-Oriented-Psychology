@@ -329,7 +329,7 @@ motives. Abraham Maslow’s hierarchy of needs is a model that shows the
 relationship among multiple motives that range from lower-level
 physiological needs to the very high level of self-actualization.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

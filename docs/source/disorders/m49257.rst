@@ -52,7 +52,10 @@ cultures in modern-day Nigeria (Aghukwa, 2012).
 |The Extraction of the Stone of Madness is shown.|\ {:
 #Figure_15_03_Madness}
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Dancing Mania
 
@@ -174,7 +177,7 @@ that people with an underlying diathesis, or vulnerability, for a
 psychological disorder are more likely than those without the diathesis
 to develop the disorder when faced with stressful events.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

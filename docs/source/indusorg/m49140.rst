@@ -380,7 +380,7 @@ efforts to understand and improve interactions between technology
 systems and their human operators. Human–software interactions are a
 large sector of this research.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

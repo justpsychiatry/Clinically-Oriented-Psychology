@@ -631,7 +631,7 @@ others focus on the importance of emotional intelligence. Finally,
 creativity seems to be a facet of intelligence, but it is extremely
 difficult to measure objectively.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

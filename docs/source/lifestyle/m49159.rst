@@ -360,7 +360,10 @@ an extended “positive peace psychology” could have important
 implications for understanding how to overcome oppression and work
 toward global peace (Cohrs, Christie, White, & Das, 2013).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       The Center for Investigating Healthy Minds
 
@@ -492,7 +495,7 @@ identify and promote qualities that lead to greater happiness and
 fulfillment in our lives. These components include positive affect,
 optimism, and flow.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

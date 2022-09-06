@@ -567,7 +567,10 @@ taking a new drug helped individuals achieve a healthy weight without
 changing their diet. But if other scientists could not replicate the
 results, the original study’s claims would be questioned.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       The Vaccine-Autism Myth and Retraction of Published Studies
 
@@ -701,7 +704,7 @@ in ensuring the legitimacy of published research. In the long run, only
 those findings that are capable of being replicated consistently will
 achieve consensus in the scientific community.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

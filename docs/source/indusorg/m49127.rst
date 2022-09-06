@@ -311,7 +311,7 @@ development of tests and research in how the psychological concepts
 could assist industry and other areas. This movement aided in expanding
 industrial psychology to include organizational psychology.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

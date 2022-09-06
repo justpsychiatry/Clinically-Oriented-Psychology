@@ -194,7 +194,7 @@ include mnemonic devices, rehearsal, self-referencing, and adequate
 sleep. These same strategies also can help you to study more
 effectively.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

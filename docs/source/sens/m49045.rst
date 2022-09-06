@@ -113,7 +113,10 @@ generate our perceptual set. For instance, research has demonstrated
 that those who are given verbal priming produce a biased interpretation
 of complex ambiguous figures (Goolkasian & Woodbury, 2010).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       The Depths of Perception: Bias, Prejudice, and Cultural Factors
 
@@ -146,7 +149,7 @@ continuation, and closure are all used to help explain how we organize
 sensory information. Our perceptions are not infallible, and they can be
 influenced by bias, prejudice, and other factors.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

@@ -236,7 +236,10 @@ Moreover, groupthink can hinder opposing trains of thought. This
 elimination of diverse opinions contributes to faulty decision by the
 group.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Groupthink in the U.S. Government
 
@@ -740,7 +743,7 @@ on easy tasks, but inhibiting performance on difficult tasks. The
 presence of others can also lead to social loafing when individual
 efforts cannot be evaluated.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

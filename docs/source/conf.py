@@ -33,6 +33,7 @@ extensions = [
     "sphinx_design",
     'sphinx_search.extension',
     'hoverxref.extension',
+     'zot4rst',
 ]
 
 intersphinx_mapping = {

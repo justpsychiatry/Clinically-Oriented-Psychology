@@ -98,7 +98,10 @@ patients who also suffered from sleep-related breathing problems showed
 a marked decrease in sleepwalking when their breathing problems were
 effectively treated.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       A Sleepwalking Defense?
 
@@ -342,7 +345,7 @@ breathing during sleep and die. Narcolepsy involves an irresistible urge
 to fall asleep during waking hours and is often associated with
 cataplexy and hallucination.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

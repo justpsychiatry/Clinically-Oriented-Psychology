@@ -344,7 +344,10 @@ kathoey. A kathoey is an individual who would be described as intersexed
 or transgendered in the United States (Tangmunkongvorakul, Banwell,
 Carmichael, Utomo, & Sleigh, 2010).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       The Case of David Reimer
 
@@ -445,7 +448,7 @@ engaging in sexual behavior in developing their concept of the sexual
 response cycle. While often confused, sexual orientation and gender
 identity are related, but distinct, concepts.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

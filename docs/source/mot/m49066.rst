@@ -437,7 +437,7 @@ circumstances various emotions can be expressed. Tone of voice and body
 language also serve as a means by which we communicate information about
 our emotional states.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
    .. card:: Question
 

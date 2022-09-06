@@ -508,7 +508,10 @@ deliberately declining to hire qualified LGBT job applicants. Have you
 experienced or witnessed homophobia? If so, what stereotypes, prejudiced
 attitudes, and discrimination were evident?
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Research into Homophobia
 
@@ -671,7 +674,7 @@ or a variety of other social identities. In-group’s who feel threatened
 may blame the out-groups for their plight, thus using the out-group as a
 scapegoat for their frustration.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

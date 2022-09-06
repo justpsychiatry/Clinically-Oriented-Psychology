@@ -182,7 +182,10 @@ planes were flown into them on the morning of September 11, 2001. Thick,
 black clouds of smoke stream from both buildings.|\ {:
 #Figure_08_02_911}
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Inaccurate and False Memories
 
@@ -240,7 +243,7 @@ phenomenon: our ability to remember significant life events. However,
 our memory for life events (autobiographical memory) is not always
 accurate.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

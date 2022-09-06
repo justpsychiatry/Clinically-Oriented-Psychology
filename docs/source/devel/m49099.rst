@@ -17,25 +17,25 @@ What Is Lifespan Development?
    continuity and discontinuity, one common course of development or
    many unique courses of development, and nature versus nurture
 
-..
+.. pull-quote::
+      My heart leaps up when I behold
+    
+      A rainbow in the sky
 
-   My heart leaps up when I behold \* \* \* {: data-type=“newline”}
+      So was it when my life began;
 
-   A rainbow in the sky: \* \* \* {: data-type=“newline”}
+      So is it now I am a man;
 
-   So was it when my life began; \* \* \* {: data-type=“newline”}
+      So be it when I shall grow old,
 
-   So is it now I am a man; \* \* \* {: data-type=“newline”}
+      Or let me die!
 
-   So be it when I shall grow old, \* \* \* {: data-type=“newline”}
+      The Child is father of the Man;
 
-   Or let me die! \* \* \* {: data-type=“newline”}
+      I could wish my days to be
 
-   The Child is father of the Man; \* \* \* {: data-type=“newline”}
-
-   I could wish my days to be \* \* \* {: data-type=“newline”}
-
-   Bound each to each by natural piety. (Wordsworth, 1802)
+      Bound each to each by natural piety. (Wordsworth, 1802)
+...
 
 In this poem, William Wordsworth writes, “the child is father of the
 man.” What does this seemingly incongruous statement mean, and what does
@@ -280,25 +280,29 @@ Lobo, 2008). This chapter will show that there is a reciprocal
 interaction between nature and nurture as they both shape who we become,
 but the debate continues as to the relative contributions of each.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
+
 
       The Achievement Gap: How Does Socioeconomic Status Affect
       Development?
 
-   The achievement gap refers to the persistent difference in grades,
-   test scores, and graduation rates that exist among students of
-   different ethnicities, races, and—in certain subjects—sexes
-   (Winerman, 2011). Research suggests that these achievement gaps are
-   strongly influenced by differences in socioeconomic factors that
-   exist among the families of these children. While the researchers
-   acknowledge that programs aimed at reducing such socioeconomic
-   discrepancies would likely aid in equalizing the aptitude and
-   performance of children from different backgrounds, they recognize
-   that such large-scale interventions would be difficult to achieve.
-   Therefore, it is recommended that programs aimed at fostering
-   aptitude and achievement among disadvantaged children may be the best
-   option for dealing with issues related to academic achievement gaps
-   (Duncan & Magnuson, 2005).
+      The achievement gap refers to the persistent difference in grades,
+      test scores, and graduation rates that exist among students of
+      different ethnicities, races, and—in certain subjects—sexes
+      (Winerman, 2011). Research suggests that these achievement gaps are
+      strongly influenced by differences in socioeconomic factors that
+      exist among the families of these children. While the researchers
+      acknowledge that programs aimed at reducing such socioeconomic
+      discrepancies would likely aid in equalizing the aptitude and
+      performance of children from different backgrounds, they recognize
+      that such large-scale interventions would be difficult to achieve.
+      Therefore, it is recommended that programs aimed at fostering
+      aptitude and achievement among disadvantaged children may be the best
+      option for dealing with issues related to academic achievement gaps
+      (Duncan & Magnuson, 2005).
 
    Low-income children perform significantly more poorly than their
    middle- and high-income peers on a number of educational variables:
@@ -349,7 +353,7 @@ continuous or discontinuous, whether development follows one course or
 many, and the relative influence of nature versus nurture on
 development.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

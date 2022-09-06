@@ -132,7 +132,7 @@ best through semantic encoding, especially if we apply what is called
 the self-reference effect. The **self-reference effect**\ {:
 data-type=“term”} is the tendency for an individual to have better
 memory for information that relates to oneself in comparison to material
-that has less personal relevance (Rogers, Kuiper & Kirker, 1977). Could
+that has less personal relevance (@rogersSelfreferenceEncodingPersonal1977). Could
 semantic encoding be beneficial to you as you attempt to memorize the
 concepts in this chapter?
 
@@ -432,7 +432,7 @@ explicit memory. Finally, retrieval is the act of getting memories out
 of storage and back into conscious awareness. This is done through
 recall, recognition, and relearning.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
   .. card:: Question
 

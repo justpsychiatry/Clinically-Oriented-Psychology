@@ -241,7 +241,7 @@ is perceived and what is not. In addition, our perceptions are affected
 by a number of factors, including beliefs, values, prejudices, culture,
 and life experiences.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

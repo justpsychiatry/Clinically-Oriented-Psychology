@@ -248,7 +248,7 @@ and are not related to intelligence levels. Students with dyslexia, for
 example, may have extreme difficulty learning to read, but their
 intelligence levels are typically average or above average.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

@@ -76,7 +76,10 @@ how the data collected will be used, the reasons why deception was
 necessary, and information about how to obtain additional information
 about the study.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Ethics and the Tuskegee Syphilis Study
 
@@ -168,7 +171,7 @@ pain and distress are minimized. Animal research requires the approval
 of an IACUC, and all animal facilities are subject to regular
 inspections to ensure that animals are being treated humanely.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

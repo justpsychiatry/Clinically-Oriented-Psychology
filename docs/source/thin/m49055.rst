@@ -433,7 +433,10 @@ Complex sentences; has conversations
 
    </table>
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       The Case of Genie
 
@@ -603,7 +606,7 @@ predictable sequence for individuals around the world. Language has a
 strong influence on thought, and the concept of how language may
 influence cognition remains an area of study and debate in psychology.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

@@ -60,7 +60,7 @@ they are severely dehydrated or are deprived of oxygen (as in mountain
 climbing). Carriers are thought to be immune from malaria (an often
 deadly disease that is widespread in tropical climates) because changes
 in their blood chemistry and immune functioning prevent the malaria
-parasite from having its effects (Gong, Parikh, Rosenthal, & Greenhouse,
+parasite from having its effects cite:p (Gong, Parikh, Rosenthal, & Greenhouse,
 2013). However, full-blown sickle-cell anemia, with two copies of the
 sickle-cell gene, does not provide immunity to malaria.
 
@@ -99,38 +99,41 @@ in her descendants and minor health problems of her own.
 lines that split apart into branched structures.|\ {:
 #CNX_Psych_03_01_Darwin}
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
-      Two Perspectives on Genetics and Behavior
+   Two Perspectives on Genetics and Behavior
 
-   It’s easy to get confused about two fields that study the interaction
-   of genes and the environment, such as the fields of **evolutionary
-   psychology**:term:`pastehere` and **behavioral
-   genetics**:term:`pastehere`. How can we tell them
-   apart?
+      It’s easy to get confused about two fields that study the interaction
+      of genes and the environment, such as the fields of **evolutionary
+      psychology**:term:`pastehere` and **behavioral
+      genetics**:term:`pastehere`. How can we tell them
+      apart?
 
-   In both fields, it is understood that genes not only code for
-   particular traits, but also contribute to certain patterns of
-   cognition and behavior. Evolutionary psychology focuses on how
-   universal patterns of behavior and cognitive processes have evolved
-   over time. Therefore, variations in cognition and behavior would make
-   individuals more or less successful in reproducing and passing those
-   genes to their offspring. Evolutionary psychologists study a variety
-   of psychological phenomena that may have evolved as adaptations,
-   including fear response, food preferences, mate selection, and
-   cooperative behaviors (Confer et al., 2010).
+      In both fields, it is understood that genes not only code for
+      particular traits, but also contribute to certain patterns of
+      cognition and behavior. Evolutionary psychology focuses on how
+      universal patterns of behavior and cognitive processes have evolved
+      over time. Therefore, variations in cognition and behavior would make
+      individuals more or less successful in reproducing and passing those
+      genes to their offspring. Evolutionary psychologists study a variety
+      of psychological phenomena that may have evolved as adaptations,
+      including fear response, food preferences, mate selection, and
+      cooperative behaviors (Confer et al., 2010).
 
-   Whereas evolutionary psychologists focus on universal patterns that
-   evolved over millions of years, behavioral geneticists study how
-   individual differences arise, in the present, through the interaction
-   of genes and the environment. When studying human behavior,
-   behavioral geneticists often employ twin and adoption studies to
-   research questions of interest. Twin studies compare the rates that a
-   given behavioral trait is shared among identical and fraternal twins;
-   adoption studies compare those rates among biologically related
-   relatives and adopted relatives. Both approaches provide some insight
-   into the relative importance of genes and environment for the
-   expression of a given trait.
+      Whereas evolutionary psychologists focus on universal patterns that
+      evolved over millions of years, behavioral geneticists study how
+      individual differences arise, in the present, through the interaction
+      of genes and the environment. When studying human behavior,
+      behavioral geneticists often employ twin and adoption studies to
+      research questions of interest. Twin studies compare the rates that a
+      given behavioral trait is shared among identical and fraternal twins;
+      adoption studies compare those rates among biologically related
+      relatives and adopted relatives. Both approaches provide some insight
+      into the relative importance of genes and environment for the
+      expression of a given trait.
 
 .. hint:: Link to Learning
 
@@ -370,7 +373,7 @@ when a gene is expressed, and what the outcome will be—in terms of both
 physical and psychological characteristics—is a function of the
 interaction between our genes and our environments.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

@@ -167,7 +167,7 @@ disorder have increased dramatically following its portrayal in popular
 culture. However, many people legitimately suffer over the course of a
 lifetime with this disorder.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

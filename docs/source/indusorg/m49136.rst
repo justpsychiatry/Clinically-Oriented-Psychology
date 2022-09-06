@@ -446,7 +446,10 @@ measurements would be more reliable and show better relationships with
 outcomes like performance if the measurement of job satisfaction
 separated these two possible elements of job satisfaction.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Job Satisfaction in Federal Government Agencies
 
@@ -993,7 +996,10 @@ under conditions in which they have equal standing, common goals,
 cooperation between the groups, and especially support on the part of
 the institution or authorities for the contact.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Managing Generational Differences
 
@@ -1166,7 +1172,7 @@ of workplace violence and safety. This enables the organization to
 establish procedures that can identify these triggers before they become
 a problem.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

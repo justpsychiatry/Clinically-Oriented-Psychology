@@ -431,7 +431,10 @@ produced lower levels of immune proteins necessary for wound healing
 the knight, so to speak; rather, it’s the sword that breaks the knight’s
 shield, and your immune system is that shield.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Stress and Aging: A Tale of Telomeres
 
@@ -940,7 +943,7 @@ affectivity, and depression. Other psychophysiological disorders that
 are known to be influenced by stress and emotional factors include
 asthma and tension headaches.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

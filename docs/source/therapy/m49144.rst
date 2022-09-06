@@ -134,7 +134,10 @@ Henriksen, & Jones, 2011). Those providing therapy must approach the
 process from the context of the unique culture of each client (Sue &
 Sue, 2007).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Treatment Perceptions
 
@@ -237,7 +240,7 @@ American counterparts. Barriers to treatment include lack of insurance,
 transportation, and time; cultural views that mental illness is a
 stigma; fears about treatment; and language barriers.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

@@ -134,7 +134,7 @@ approaches that can be used to study personality in a cultural context:
 the cultural-comparative approach, the indigenous approach, and the
 combined approach, which incorporates both elements of both views.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

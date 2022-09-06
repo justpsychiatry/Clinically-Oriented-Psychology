@@ -108,7 +108,10 @@ their stress and anxiety levels were significantly reduced on days
 during which the widows felt greater perceived control (Ong, Bergeman, &
 Bisconti, 2005).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Learned Helplessness
 
@@ -332,7 +335,10 @@ support may lead to better health behaviors, such as a healthy diet,
 exercising, smoking cessation, and cooperation with medical regimens
 (Uchino, 2009).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Coping with Prejudice and Discrimination
 
@@ -477,7 +483,7 @@ support has beneficial physiological effects for people, and it seems to
 influence immune functioning. However, the beneficial effects of social
 support may be related to its influence on promoting healthy behaviors.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

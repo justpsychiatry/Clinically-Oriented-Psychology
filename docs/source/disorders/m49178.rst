@@ -290,7 +290,10 @@ professionals are now more knowledgeable about autism spectrum disorder
 and are better equipped to make the diagnosis, even in subtle cases
 (Novella, 2008).
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       Why Is the Prevalence Rate of ADHD Increasing?
 
@@ -471,7 +474,7 @@ mercury have also been linked to the development of this disorder.
 Although it is believed by some that autism is triggered by the MMR
 vaccination, evidence does not support this claim.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

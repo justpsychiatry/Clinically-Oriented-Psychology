@@ -118,7 +118,10 @@ way later, similar to how fashion trends from one era may elicit
 quizzical looks decades later—imagine how a headband, legwarmers, and
 the big hair of the 1980s would go over on your campus today.
 
-.. attention:: psychology dig-deeper
+.. card:: psychology dig-deeper
+   :width: auto
+   :shadow: md
+   :class-card: sd-rounded-2
 
       The Myth of Mental Illness
 
@@ -296,7 +299,7 @@ behaviors; these disturbances must reflect some kind of dysfunction
 impairment in one’s life, and must not reflect culturally expected
 reactions to certain life events.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

@@ -651,7 +651,7 @@ develop methods for adhering to the law in hiring. Performance appraisal
 systems are an active area of research and practice in industrial
 psychology.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

@@ -209,7 +209,7 @@ Despite the social norm of helping others in need, when there are many
 bystanders witnessing an emergency, diffusion of responsibility will
 lead to a lower likelihood of any one person helping.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 

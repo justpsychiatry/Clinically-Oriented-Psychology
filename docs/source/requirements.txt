@@ -13,3 +13,4 @@ readthedocs-sphinx-search
 opensearch-py
 sphinxcontrib.datatemplates
 sphinx-hoverxref
+zot4rst

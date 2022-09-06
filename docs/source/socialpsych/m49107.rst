@@ -17,7 +17,7 @@ people; guns kill people,” and, “Do I look suspicious?”|\ {:}
 
 Humans are diverse, and sometimes our differences make it challenging
 for us to get along with one another. A poignant example is that of
-Trayvon **Martin**:term:`pastehere`, a 17-year-old
+Trayvon :term:`Martin`, a 17-year-old
 African American who was shot by a neighborhood watch volunteer, George
 :term:`**Zimmerman**`, in a predominantly
 White neighborhood in 2012. Zimmerman grew suspicious of the boy dressed

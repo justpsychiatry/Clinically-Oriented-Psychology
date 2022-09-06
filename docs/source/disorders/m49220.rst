@@ -170,7 +170,7 @@ proneness toward outbursts, and a tendency to be easily startled. Not
 everyone who experiences a traumatic event will develop PTSD; a variety
 of risk factors associated with its development have been identified.
 
-.. card-carousel:: Review Questions
+.. card-carousel:: 4
 
     .. card:: Question
 
