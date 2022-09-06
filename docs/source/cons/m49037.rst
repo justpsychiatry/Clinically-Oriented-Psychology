@@ -447,12 +447,9 @@ hallucinogenic drugs cause pronounced changes in sensory and perceptual
 experiences. The hallucinogens are variable with regards to the specific
 neurotransmitter systems they affect.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ occurs when a drug user requires more and more of a
       given drug in order to experience the same effects of the drug.
@@ -462,13 +459,10 @@ Review Questions
       3. tolerance
       4. reuptake {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Cocaine blocks the reuptake of \________.
 
@@ -477,13 +471,10 @@ Review Questions
       3. acetylcholine
       4. dopamine {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ refers to drug craving.
 
@@ -492,13 +483,10 @@ Review Questions
       3. agonism
       4. physical dependence {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       LSD affects \_______\_ neurotransmission.
 

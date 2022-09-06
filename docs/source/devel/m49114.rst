@@ -98,12 +98,9 @@ of grief as a way to explain this process. Many people facing death
 choose hospice care, which allows their last days to be spent at home in
 a comfortable, supportive environment.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Who created the very first modern hospice?
 
@@ -112,13 +109,11 @@ Review Questions
       3. Florence Wald
       4. Florence Nightingale {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following is the order of stages in Kübler-Ross’s
       five-stage model of grief?

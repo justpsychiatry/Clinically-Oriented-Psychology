@@ -544,12 +544,9 @@ reactions begin), resistance (the body begins to adapt to continuing
 stress), and exhaustion (adaptive energy is depleted, and stress begins
 to take a physical toll).
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Negative effects of stress are most likely to be experienced when
       an event is perceived as \________.
@@ -561,13 +558,10 @@ Review Questions
       4. threatening, and no clear options for dealing with it are
          apparent {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Between 2006 and 2009, the greatest increases in stress levels
       were found to occur among \________.
@@ -577,13 +571,11 @@ Review Questions
       3. the unemployed
       4. those without college degrees {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       At which stage of Selye’s general adaptation syndrome is a person
       especially vulnerable to illness?
@@ -593,13 +585,10 @@ Review Questions
       3. fight-or-flight
       4. resistance {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       During an encounter judged as stressful, cortisol is released by
       the \________.

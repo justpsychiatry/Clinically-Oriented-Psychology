@@ -166,12 +166,9 @@ awareness. Both hypnotic and meditative states may involve altered
 states of consciousness that have potential application for the
 treatment of a variety of physical and psychological disorders.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ is most effective in individuals that are very open to
       the power of suggestion.
@@ -181,13 +178,10 @@ Review Questions
       3. mindful awareness
       4. cognitive therapy {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ has its roots in religious practice.
 
@@ -196,13 +190,11 @@ Review Questions
       3. cognitive therapy
       4. behavioral therapy {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Meditation may be helpful in \________.
 
@@ -211,13 +203,10 @@ Review Questions
       3. treating the flu
       4. both a and b {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Research suggests that cognitive processes, such as learning, may
       be affected by \________.

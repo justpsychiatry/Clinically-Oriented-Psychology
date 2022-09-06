@@ -344,12 +344,9 @@ breathing during sleep and die. Narcolepsy involves an irresistible urge
 to fall asleep during waking hours and is often associated with
 cataplexy and hallucination.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ is loss of muscle tone or control that is often
       associated with narcolepsy.
@@ -359,13 +356,10 @@ Review Questions
       3. cataplexy
       4. insomnia {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       An individual may suffer from \_______\_ if there is a disruption
       in the brain signals that are sent to the muscles that regulate
@@ -376,13 +370,10 @@ Review Questions
       3. narcolepsy
       4. SIDS {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The most common treatment for \_______\_ involves the use of
       amphetamine-like medications.
@@ -392,13 +383,10 @@ Review Questions
       3. SIDS
       4. narcolepsy {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ is another word for sleepwalking.
 

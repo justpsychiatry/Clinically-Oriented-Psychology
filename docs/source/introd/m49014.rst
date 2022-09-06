@@ -139,12 +139,9 @@ scientific study of mind and behavior. Students of psychology develop
 critical thinking skills, become familiar with the scientific method,
 and recognize the complexity of behavior.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following was mentioned as a skill to which
       psychology students would be exposed?
@@ -154,13 +151,10 @@ Review Questions
       3. critical evaluation of sources of information
       4. all of the above {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       *Psyche* is a Greek word meaning \________.
 
@@ -169,13 +163,11 @@ Review Questions
       3. behavior
       4. love {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Before psychology became a recognized academic discipline, matters
       of the mind were undertaken by those in \________.
@@ -185,13 +177,10 @@ Review Questions
       3. philosophy
       4. physics {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       In the scientific method, a hypothesis is a(n) \________.
 

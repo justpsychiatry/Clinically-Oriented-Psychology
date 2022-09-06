@@ -703,12 +703,9 @@ in ensuring the legitimacy of published research. In the long run, only
 those findings that are capable of being replicated consistently will
 achieve consensus in the scientific community.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Height and weight are positively correlated. This means that:
 
@@ -717,13 +714,10 @@ Review Questions
       3. Usually, the shorter someone is, the heavier they are.
       4. As height increases, typically weight increases. {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following correlation coefficients indicates the
       strongest relationship between two variables?
@@ -733,13 +727,10 @@ Review Questions
       3. +.80
       4. +.25 {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which statement best illustrates a negative correlation between
       the number of hours spent watching TV the week before an exam and
@@ -752,13 +743,10 @@ Review Questions
       4. Students who watch more television perform more poorly on their
          exams. {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The correlation coefficient indicates the weakest relationship
       when \________.
@@ -768,13 +756,10 @@ Review Questions
       3. it is positive
       4. it is negative {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ means that everyone in the population has the same
       likelihood of being asked to participate in the study.
@@ -784,13 +769,10 @@ Review Questions
       3. random assignment
       4. random sampling {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The \_______\_ is controlled by the experimenter, while the
       \_______\_ represents the information collected and statistically
@@ -801,13 +783,11 @@ Review Questions
       3. placebo effect; experimenter bias
       4. experiment bias; placebo effect {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Researchers must \_______\_ important concepts in their studies so
       others would have a clear understanding of exactly how those
@@ -818,13 +798,10 @@ Review Questions
       3. operationalize
       4. generalize {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Sometimes, researchers will administer a(n) \_______\_ to
       participants in the control group to control for the effects that

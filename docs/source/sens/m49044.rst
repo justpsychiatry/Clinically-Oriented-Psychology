@@ -233,12 +233,9 @@ and kinesthetic systems provide information about body position and body
 movement through receptors that detect stretch and tension in the
 muscles, joints, tendons, and skin of the body.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Chemical messages often sent between two members of a species to
       communicate something about reproductive status are called
@@ -249,13 +246,11 @@ Review Questions
       3. Merkel’s disks
       4. Meissner’s corpuscles {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which taste is associated with monosodium glutamate?
 
@@ -264,13 +259,10 @@ Review Questions
       3. umami
       4. sour {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ serve as sensory receptors for temperature and pain
       stimuli.
@@ -280,13 +272,10 @@ Review Questions
       3. Ruffini corpuscles
       4. Meissner’s corpuscles {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following is involved in maintaining balance and body
       posture?

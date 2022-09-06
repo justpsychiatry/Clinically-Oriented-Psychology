@@ -553,12 +553,9 @@ transition. Ultimately, the cognitive revolution took hold, and people
 came to realize that cognition was crucial to a true appreciation and
 understanding of behavior.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Based on your reading, which theorist would have been most likely
       to agree with this statement: Perceptual phenomena are best
@@ -569,13 +566,11 @@ Review Questions
       3. Carl Rogers
       4. Noam Chomsky {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       \_______\_ is most well-known for proposing his hierarchy of
       needs.
@@ -585,13 +580,10 @@ Review Questions
       3. Abraham Maslow
       4. Sigmund Freud {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Rogers believed that providing genuineness, empathy, and
       \_______\_ in the therapeutic environment for his clients was
@@ -602,13 +594,10 @@ Review Questions
       3. Gestalt
       4. unconditional positive regard {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The operant conditioning chamber (aka \_______\_ box) is a device
       used to study the principles of operant conditioning.

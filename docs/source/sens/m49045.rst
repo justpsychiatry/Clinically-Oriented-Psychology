@@ -148,12 +148,9 @@ continuation, and closure are all used to help explain how we organize
 sensory information. Our perceptions are not infallible, and they can be
 influenced by bias, prejudice, and other factors.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       According to the principle of \________, objects that occur close
       to one another tend to be grouped together.
@@ -163,13 +160,10 @@ Review Questions
       3. proximity
       4. closure {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Our tendency to perceive things as complete objects rather than as
       a series of parts is known as the principle of \________.
@@ -179,13 +173,10 @@ Review Questions
       3. proximity
       4. similarity {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       According to the law of \________, we are more likely to perceive
       smoothly flowing lines rather than choppy or jagged lines.
@@ -195,13 +186,11 @@ Review Questions
       3. proximity
       4. similarity {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The main point of focus in a visual display is known as the
       \________.

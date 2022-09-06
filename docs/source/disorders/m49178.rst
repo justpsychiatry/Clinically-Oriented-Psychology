@@ -473,12 +473,9 @@ mercury have also been linked to the development of this disorder.
 Although it is believed by some that autism is triggered by the MMR
 vaccination, evidence does not support this claim.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following is *not* a primary characteristic of ADHD?
 
@@ -487,13 +484,10 @@ Review Questions
       3. restricted and fixated interest
       4. excessive fidgeting and squirming {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       One of the primary characteristics of autism spectrum disorder is
       \________.

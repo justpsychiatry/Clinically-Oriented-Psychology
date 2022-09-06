@@ -372,12 +372,9 @@ when a gene is expressed, and what the outcome will be—in terms of both
 physical and psychological characteristics—is a function of the
 interaction between our genes and our environments.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       A(n) \_______\_ is a sudden, permanent change in a sequence of
       DNA.
@@ -387,13 +384,10 @@ Review Questions
       3. epigenetic
       4. mutation {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ refers to a person’s genetic makeup, while \_______\_
       refers to a person’s physical characteristics.
@@ -403,13 +397,11 @@ Review Questions
       3. DNA; gene
       4. Gene; DNA {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       \_______\_ is the field of study that focuses on genes and their
       expression.
@@ -419,13 +411,10 @@ Review Questions
       3. Epigenetics
       4. Behavioral neuroscience {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Humans have \_______\_ pairs of chromosomes.
 

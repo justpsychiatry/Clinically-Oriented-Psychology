@@ -194,12 +194,9 @@ include mnemonic devices, rehearsal, self-referencing, and adequate
 sleep. These same strategies also can help you to study more
 effectively.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       When you are learning how to play the piano, the statement “Every
       good boy does fine” can help you remember the notes E, G, B, D,
@@ -211,13 +208,10 @@ Review Questions
       3. acrostic
       4. acoustic {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       According to a study by Yogo and Fujihara (2008), if you want to
       improve your short-term memory, you should spend time writing
@@ -228,13 +222,11 @@ Review Questions
       3. a trivial topic
       4. your grocery list {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The self-referencing effect refers to \________.
 
@@ -247,13 +239,10 @@ Review Questions
       4. saying words you want to remember out loud to yourself {:
          type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Memory aids that help organize information for encoding are
       \________.

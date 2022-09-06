@@ -298,12 +298,9 @@ behaviors; these disturbances must reflect some kind of dysfunction
 impairment in one’s life, and must not reflect culturally expected
 reactions to certain life events.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       In the harmful dysfunction definition of psychological disorders,
       dysfunction involves \________.
@@ -314,13 +311,10 @@ Review Questions
       3. communication problems in one’s immediate family
       4. all the above {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Patterns of inner experience and behavior are thought to reflect
       the presence of a psychological disorder if they \________.

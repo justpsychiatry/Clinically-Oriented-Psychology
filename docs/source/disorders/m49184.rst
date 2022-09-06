@@ -167,12 +167,9 @@ disorder have increased dramatically following its portrayal in popular
 culture. However, many people legitimately suffer over the course of a
 lifetime with this disorder.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Dissociative amnesia involves \________.
 
@@ -181,13 +178,11 @@ Review Questions
       3. feeling detached from the self
       4. feeling detached from the world {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Dissociative identity disorder mainly involves \________.
 

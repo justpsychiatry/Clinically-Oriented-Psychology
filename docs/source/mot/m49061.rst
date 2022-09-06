@@ -311,12 +311,9 @@ Sociocultural factors that emphasize thinness as a beauty ideal and a
 genetic predisposition contribute to the development of eating disorders
 in many young females, though eating disorders span ages and genders.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       According to your reading, nearly \_______\_ of the adult
       population in the United States can be classified as obese.
@@ -326,13 +323,11 @@ Review Questions
       3. one fourth
       4. one fifth {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       \_______\_ is a chemical messenger secreted by fat cells that acts
       as an appetite suppressant.
@@ -342,13 +337,10 @@ Review Questions
       3. leptin
       4. ghrelin {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ is characterized by episodes of binge eating followed
       by attempts to compensate for the excessive amount of food that
@@ -359,13 +351,10 @@ Review Questions
       3. anorexia nervosa
       4. bulimia nervosa {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       In order to be classified as morbidly obese, an adult must have a
       BMI of \________.

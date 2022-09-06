@@ -942,12 +942,9 @@ affectivity, and depression. Other psychophysiological disorders that
 are known to be influenced by stress and emotional factors include
 asthma and tension headaches.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The white blood cells that attack foreign invaders to the body are
       called \________.
@@ -957,13 +954,10 @@ Review Questions
       3. lymphocytes
       4. immune cells {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The risk of heart disease is especially high among individuals
       with \________.
@@ -973,13 +967,10 @@ Review Questions
       3. telomeres
       4. lymphocytes {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The most lethal dimension of Type A behavior pattern seems to be
       \________.
@@ -989,13 +980,10 @@ Review Questions
       3. time urgency
       4. competitive drive {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following statements pertaining to asthma is *false*?
 

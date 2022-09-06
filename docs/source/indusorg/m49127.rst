@@ -311,12 +311,9 @@ development of tests and research in how the psychological concepts
 could assist industry and other areas. This movement aided in expanding
 industrial psychology to include organizational psychology.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Who was the first psychologist to use psychology in advertising?
 
@@ -325,13 +322,10 @@ Review Questions
       3. Walter Dill Scott
       4. Walter Bingham {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which test designed for the Army was used for recruits who were
       not fluent in English?
@@ -341,13 +335,10 @@ Review Questions
       3. Army Beta
       4. Army Intelligence {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which area of I-O psychology measures job satisfaction?
 
@@ -356,13 +347,11 @@ Review Questions
       3. human factors psychology
       4. advertising psychology {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which statement best describes the Hawthorne effect?
 

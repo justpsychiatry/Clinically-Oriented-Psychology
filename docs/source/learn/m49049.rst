@@ -1230,12 +1230,9 @@ likelihood of a behavioral response. Several types of reinforcement
 schedules are used to reward behavior depending on either a set or
 variable period of time.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ is when you take away a pleasant stimulus to stop a
       behavior.
@@ -1245,13 +1242,10 @@ Review Questions
       3. positive punishment
       4. negative punishment {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following is *not* an example of a primary
       reinforcer?
@@ -1261,13 +1255,11 @@ Review Questions
       3. water
       4. sex {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Rewarding successive approximations toward a target behavior is
       \________.
@@ -1277,13 +1269,10 @@ Review Questions
       3. positive reinforcement
       4. negative reinforcement {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Slot machines reward gamblers with money according to which
       reinforcement schedule?

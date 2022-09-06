@@ -248,12 +248,9 @@ and are not related to intelligence levels. Students with dyslexia, for
 example, may have extreme difficulty learning to read, but their
 intelligence levels are typically average or above average.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Where does high intelligence come from?
 
@@ -262,13 +259,10 @@ Review Questions
       3. both A and B
       4. neither A nor B {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Arthur Jensen believed that \________.
 
@@ -278,13 +272,10 @@ Review Questions
       4. IQ tests do not take socioeconomic status into account {:
          type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       What is a learning disability?
 
@@ -293,13 +284,11 @@ Review Questions
       3. an emotional disorder
       4. an intellectual disorder {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following statements is true?
 

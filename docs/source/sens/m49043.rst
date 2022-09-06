@@ -239,12 +239,9 @@ resultant movement of the ossicles is called conductive hearing loss.
 Hearing loss that involves a failure of the transmission of auditory
 nerve impulses to the brain is called sensorineural hearing loss.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Hair cells located near the base of the basilar membrane respond
       best to \_______\_ sounds.
@@ -254,13 +251,11 @@ Review Questions
       3. low-amplitude
       4. high-amplitude {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The three ossicles of the middle ear are known as \________.
 
@@ -269,13 +264,10 @@ Review Questions
       3. pinna, cochlea, and utricle
       4. both a and b {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Hearing aids might be effective for treating \________.
 
@@ -284,13 +276,10 @@ Review Questions
       3. conductive hearing loss
       4. interaural time differences {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Cues that require two ears are referred to as \_______\_ cues.
 

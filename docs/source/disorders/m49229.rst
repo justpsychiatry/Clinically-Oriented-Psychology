@@ -987,12 +987,9 @@ the origin of antisocial personality disorder. Research has also shown
 that those with this disorder do not experience emotions the way most
 other people do.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       People with borderline personality disorder often \________.
 
@@ -1001,13 +998,10 @@ Review Questions
       3. are impulsive and unpredictable
       4. tend to accomplish goals through cruelty {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Antisocial personality disorder is associated with \________.
 

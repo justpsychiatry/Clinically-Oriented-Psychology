@@ -605,12 +605,9 @@ predictable sequence for individuals around the world. Language has a
 strong influence on thought, and the concept of how language may
 influence cognition remains an area of study and debate in psychology.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ provides general principles for organizing words into
       meaningful sentences.
@@ -620,13 +617,10 @@ Review Questions
       3. Semantics
       4. Syntax {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ are the smallest unit of language that carry meaning.
 
@@ -635,13 +629,10 @@ Review Questions
       3. Morphemes
       4. Syntax {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The meaning of words and phrases is determined by applying the
       rules of \________.
@@ -651,13 +642,10 @@ Review Questions
       3. overgeneralization
       4. semantics {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ is (are) the basic sound units of a spoken language.
 

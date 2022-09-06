@@ -185,12 +185,9 @@ Nevertheless, the diagnostic criteria in the DSM are more explicit than
 that of any other system, which makes the DSM system highly desirable
 for both clinical diagnosis and research.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The letters in the abbreviation DSM-5 stand for \________.
 
@@ -200,13 +197,10 @@ Review Questions
       4. Diagnostic and Statistical Manual of Mental Disorders {:
          type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       A study based on over 9,000 U. S. residents found that the most
       prevalent disorder was \________.

@@ -1688,12 +1688,9 @@ keep the body and mind active can help maintain good physical and
 cognitive health as we age. Social supports through family and friends
 remain important as we age.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following is the correct order of prenatal
       development?
@@ -1703,13 +1700,10 @@ Review Questions
       3. fetus, zygote, embryo
       4. zygote, embryo, fetus {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The time during fetal growth when specific parts or organs develop
       is known as \________.
@@ -1719,13 +1713,10 @@ Review Questions
       3. conception
       4. pregnancy {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       What begins as a single-cell structure that is created when a
       sperm and egg merge at conception?
@@ -1735,13 +1726,10 @@ Review Questions
       3. zygote
       4. infant {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Using scissors to cut out paper shapes is an example of \________.
 
@@ -1750,13 +1738,11 @@ Review Questions
       3. large motor skills
       4. small motor skills {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The child uses the parent as a base from which to explore her
       world in which attachment style?
@@ -1766,13 +1752,10 @@ Review Questions
       3. insecure ambivalent-resistant
       4. disorganized {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The frontal lobes become fully developed \________.
 

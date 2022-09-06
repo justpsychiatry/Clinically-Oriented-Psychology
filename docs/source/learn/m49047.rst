@@ -128,12 +128,9 @@ forms of associative learning where associations are made between events
 that occur together. Observational learning is just as it sounds:
 learning by observing others.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following is an example of a reflex that occurs at
       some point in the development of a human being?
@@ -143,13 +140,10 @@ Review Questions
       3. infant sucking on a nipple
       4. toddler walking {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Learning is best defined as a relatively permanent change in
       behavior that \________.
@@ -159,13 +153,11 @@ Review Questions
       3. is found only in humans
       4. occurs by observing others {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Two forms of associative learning are \_______\_ and \________.
 
@@ -174,13 +166,10 @@ Review Questions
       3. operant conditioning; observational learning
       4. operant conditioning; learning conditioning {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       In \_______\_ the stimulus or experience occurs before the
       behavior and then gets paired with the behavior.

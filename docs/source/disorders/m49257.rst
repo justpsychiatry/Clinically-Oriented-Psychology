@@ -176,12 +176,9 @@ that people with an underlying diathesis, or vulnerability, for a
 psychological disorder are more likely than those without the diathesis
 to develop the disorder when faced with stressful events.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The diathesis-stress model presumes that psychopathology results
       from \________.
@@ -191,13 +188,10 @@ Review Questions
       3. chemical imbalances and structural abnormalities in the brain
       4. adverse childhood experiences {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Dr. Anastasia believes that major depressive disorder is caused by
       an over-secretion of cortisol. His view on the cause of major

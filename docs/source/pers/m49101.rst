@@ -141,12 +141,9 @@ however, environmental factors (such as family interactions) and
 maturation can affect the ways in which children’s personalities are
 expressed.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The way a person reacts to the world, starting when they are very
       young, including the person’s activity level is known as
@@ -157,13 +154,11 @@ Review Questions
       3. heritability
       4. personality {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Brianna is 18 months old. She cries frequently, is hard to soothe,
       and wakes frequently during the night. According to Thomas and
@@ -174,13 +169,11 @@ Review Questions
       3. a slow to warm up baby
       4. a colicky baby {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       According to the findings of the Minnesota Study of Twins Reared
       Apart, identical twins, whether raised together or apart have
@@ -191,13 +184,10 @@ Review Questions
       3. slightly similar
       4. very similar {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Temperament refers to \________.
 

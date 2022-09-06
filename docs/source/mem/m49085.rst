@@ -242,12 +242,9 @@ phenomenon: our ability to remember significant life events. However,
 our memory for life events (autobiographical memory) is not always
 accurate.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       This physical trace of memory is known as the \________.
 
@@ -256,13 +253,10 @@ Review Questions
       3. Deese-Roediger-McDermott Paradigm
       4. flashbulb memory effect {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       An exceptionally clear recollection of an important event is a
       (an) \________.

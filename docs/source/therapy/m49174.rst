@@ -322,12 +322,9 @@ clinical social workers, and religious personnel. These therapy sessions
 would be covered through insurance, government funds, or private (self)
 pay.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Who of the following does not support the humane and improved
       treatment of mentally ill persons?
@@ -337,13 +334,11 @@ Review Questions
       3. Dorothea Dix
       4. All of the above {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The process of closing large asylums and providing for people to
       stay in the community to be treated locally is known as \________.
@@ -353,13 +348,10 @@ Review Questions
       3. deactivation
       4. decentralization {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Joey was convicted of domestic violence. As part of his sentence,
       the judge has ordered that he attend therapy for anger management.
@@ -370,13 +362,10 @@ Review Questions
       3. forced
       4. mandatory {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Today, most people with psychological problems are not
       hospitalized. Typically they are only hospitalized if they

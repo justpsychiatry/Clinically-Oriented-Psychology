@@ -241,12 +241,9 @@ is perceived and what is not. In addition, our perceptions are affected
 by a number of factors, including beliefs, values, prejudices, culture,
 and life experiences.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ refers to the minimum amount of stimulus energy
       required to be detected 50% of the time.
@@ -256,13 +253,10 @@ Review Questions
       3. just noticeable difference
       4. transduction {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Decreased sensitivity to an unchanging stimulus is known as
       \________.
@@ -272,13 +266,10 @@ Review Questions
       3. sensory adaptation
       4. inattentional blindness {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ involves the conversion of sensory stimulus energy into
       neural impulses.
@@ -288,13 +279,10 @@ Review Questions
       3. difference threshold
       4. transduction {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ occurs when sensory information is organized,
       interpreted, and consciously experienced.

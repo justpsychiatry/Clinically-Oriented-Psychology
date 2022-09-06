@@ -1148,12 +1148,9 @@ jobs that are especially demanding, offer little control over one’s
 working environment, or involve unfavorable working conditions can lead
 to job strain, thereby setting the stage for job burnout.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       According to the Holmes and Rahe scale, which life event requires
       the greatest amount of readjustment?
@@ -1163,13 +1160,10 @@ Review Questions
       3. divorce
       4. death of spouse {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       While waiting to pay for his weekly groceries at the supermarket,
       Paul had to wait about 20 minutes in a long line at the checkout
@@ -1187,13 +1181,10 @@ Review Questions
       3. daily hassles
       4. readjustment occurrences {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       What is one of the major criticisms of the Social Readjustment
       Rating Scale?
@@ -1205,13 +1196,10 @@ Review Questions
          event.
       4. None of the items included are positive. {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following is not a dimension of job burnout?
 

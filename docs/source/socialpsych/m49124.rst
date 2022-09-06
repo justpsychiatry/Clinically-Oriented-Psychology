@@ -742,12 +742,9 @@ on easy tasks, but inhibiting performance on difficult tasks. The
 presence of others can also lead to social loafing when individual
 efforts cannot be evaluated.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       In the Asch experiment, participants conformed due to \_______\_
       social influence.
@@ -757,13 +754,11 @@ Review Questions
       3. inspirational
       4. persuasive {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Under what conditions will informational social influence be more
       likely?
@@ -773,13 +768,10 @@ Review Questions
       3. when the group has expertise
       4. both b and c {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Social loafing occurs when \________.
 
@@ -788,13 +780,10 @@ Review Questions
       3. both a and b
       4. none of the above {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       If group members modify their opinions to align with a perceived
       group consensus, then \_______\_ has occurred.

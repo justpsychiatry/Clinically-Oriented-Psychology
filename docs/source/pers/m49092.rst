@@ -72,12 +72,9 @@ greatly contributed to our understanding of the self. They emphasized
 free will and self-determination, with each individual desiring to
 become the best person they can become.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Self-concept refers to \________.
 
@@ -87,13 +84,11 @@ Review Questions
       4. the belief that our outcomes are outside of our control {:
          type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The idea that people’s ideas about themselves should match their
       actions is called \________.

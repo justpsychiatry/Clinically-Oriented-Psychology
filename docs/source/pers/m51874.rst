@@ -206,12 +206,9 @@ ambiguous stimuli to assess an individual’s unconscious fears, desires,
 and challenges. The Rorschach Inkblot Test, the TAT, the RISB, and the
 C-TCB are all forms of projective tests.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following is NOT a projective test?
 
@@ -220,13 +217,10 @@ Review Questions
       3. Thematic Apperception Test (TAT)
       4. Rotter Incomplete Sentence Blank (RISB) {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       A personality assessment in which a person responds to ambiguous
       stimuli, revealing unconscious feelings, impulses, and desires
@@ -237,13 +231,11 @@ Review Questions
       3. Minnesota Multiphasic Personality Inventory (MMPI)
       4. Myers-Briggs Type Indicator (MBTI) {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which personality assessment employs a series of true/false
       questions?

@@ -227,12 +227,9 @@ the situation can dictate the social roles, norms, and scripts we follow
 in a given situation, even if this behavior is contrary to our typical
 behavior.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       A(n) \_______\_ is a set of group expectations for appropriate
       thoughts and behaviors of its members.
@@ -242,13 +239,11 @@ Review Questions
       3. script
       4. attribution {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       On his first day of soccer practice, Jose suits up in a t-shirt,
       shorts, and cleats and runs out to the field to join his
@@ -259,13 +254,10 @@ Review Questions
       3. good athletic behavior
       4. normative behavior {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       When it comes to buying clothes, teenagers often follow social
       norms; this is likely motivated by \________.
@@ -275,13 +267,10 @@ Review Questions
       3. fitting in
       4. looking good {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       In the Stanford prison experiment, even the lead researcher
       succumbed to his role as a prison supervisor. This is an example

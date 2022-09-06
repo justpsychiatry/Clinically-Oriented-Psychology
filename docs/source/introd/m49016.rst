@@ -513,12 +513,9 @@ performance in sports, exercise, and other activities. Forensic
 psychologists carry out activities related to psychology in association
 with the justice system.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       A researcher interested in how changes in the cells of the
       hippocampus (a structure in the brain related to learning and
@@ -530,13 +527,10 @@ Review Questions
       3. clinical
       4. social {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       An individual’s consistent pattern of thought and behavior is
       known as a(n) \________.
@@ -546,13 +540,10 @@ Review Questions
       3. personality
       4. perception {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       In Milgram’s controversial study on obedience, nearly \_______\_
       of the participants were willing to administer what appeared to be
@@ -564,13 +555,11 @@ Review Questions
       3. 3/4
       4. 4/5 {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       A researcher interested in what factors make an employee best
       suited for a given job would most likely identify as a(n)

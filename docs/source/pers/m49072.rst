@@ -732,12 +732,9 @@ on a specific erogenous zone. Failure to resolve a stage can lead one to
 become fixated in that stage, leading to unhealthy personality traits.
 Successful resolution of the stages leads to a healthy adult.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The id operates on the \_______\_ principle.
 
@@ -746,13 +743,11 @@ Review Questions
       3. instant gratification
       4. guilt {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The ego defense mechanism in which a person who is confronted with
       anxiety returns to a more immature behavioral stage is called
@@ -763,13 +758,11 @@ Review Questions
       3. reaction formation
       4. rationalization {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The Oedipus complex occurs in the \_______\_ stage of psychosexual
       development.

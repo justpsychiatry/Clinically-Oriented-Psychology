@@ -306,12 +306,9 @@ scientists to separate fact from simple opinion. Having good information
 generated from research aids in making wise decisions both in public
 policy and in our personal lives.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Scientific hypotheses are \_______\_ and falsifiable.
 
@@ -320,13 +317,10 @@ Review Questions
       3. provable
       4. testable {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ are defined as observable realities.
 
@@ -335,13 +329,11 @@ Review Questions
       3. opinions
       4. theories {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Scientific knowledge is \________.
 
@@ -350,13 +342,11 @@ Review Questions
       3. permanent
       4. subjective {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       A major criticism of Freud’s early theories involves the fact that
       his theories \________.

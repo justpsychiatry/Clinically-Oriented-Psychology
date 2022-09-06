@@ -128,12 +128,9 @@ secretes hormones that regulate blood sugar levels; and the ovaries and
 testes produce sex hormones that regulate sexual motivation and
 behavior.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The two major hormones secreted from the pancreas are:
 
@@ -142,13 +139,10 @@ Review Questions
       3. thyroxine and oxytocin
       4. glucagon and insulin {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The \_______\_ secretes messenger hormones that direct the
       function of the rest of the endocrine glands.
@@ -158,13 +152,10 @@ Review Questions
       3. pituitary
       4. pancreas {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The \_______\_ gland secretes epinephrine.
 
@@ -173,13 +164,10 @@ Review Questions
       3. pituitary
       4. master {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The \_______\_ secretes hormones that regulate the body’s fluid
       levels.

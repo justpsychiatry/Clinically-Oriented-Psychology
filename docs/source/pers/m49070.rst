@@ -149,12 +149,9 @@ perspectives then emerged in reaction to the psychodynamic perspective,
 including the learning, humanistic, biological, trait, and cultural
 perspectives.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Personality is thought to be \________.
 
@@ -163,13 +160,10 @@ Review Questions
       3. unstable and short term
       4. long term, stable and not easily changed {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The long-standing traits and patterns that propel individuals to
       consistently think, feel, and behave in specific ways are known as
@@ -180,13 +174,10 @@ Review Questions
       3. humors
       4. personality {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ is credited with the first comprehensive theory of
       personality.
@@ -196,13 +187,10 @@ Review Questions
       3. Wundt
       4. Freud {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       An early science that tried to correlate personality with
       measurements of parts of a person’s skull is known as \________.

@@ -277,12 +277,9 @@ to our beliefs about the power we have over our lives. He said that
 people fall along a continuum between a purely internal and a purely
 external locus of control.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Self-regulation is also known as \________.
 
@@ -291,13 +288,11 @@ Review Questions
       3. internal locus of control
       4. external locus of control {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Your level of confidence in your own abilities is known as
       \________.
@@ -307,13 +302,10 @@ Review Questions
       3. self-control
       4. self-esteem {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Jane believes that she got a bad grade on her psychology paper
       because her professor doesn’t like her. Jane most likely has an

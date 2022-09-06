@@ -220,12 +220,9 @@ persistent difficulty in discarding or parting with objects, regardless
 of their actual value, often resulting in the accumulation of items that
 clutter and congest her living area.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following best illustrates a compulsion?
 
@@ -234,13 +231,10 @@ Review Questions
       3. thoughts of harming a neighbor
       4. falsely believing that a spouse has been cheating {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Research indicates that the symptoms of OCD \________.
 

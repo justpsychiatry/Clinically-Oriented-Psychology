@@ -380,12 +380,9 @@ efforts to understand and improve interactions between technology
 systems and their human operators. Human–software interactions are a
 large sector of this research.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       What aspect of an office workstation would a human factors
       psychologist be concerned about?
@@ -395,13 +392,10 @@ Review Questions
       3. frequency of coworker visits
       4. presence of an offensive sign {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       A human factors psychologist who studied how a worker interacted
       with a search engine would be researching in the area of

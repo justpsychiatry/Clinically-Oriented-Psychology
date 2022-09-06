@@ -351,12 +351,9 @@ continuous or discontinuous, whether development follows one course or
 many, and the relative influence of nature versus nurture on
 development.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The view that development is a cumulative process, gradually
       adding to the same type of skills is known as \________.
@@ -366,13 +363,10 @@ Review Questions
       3. continuous development
       4. discontinuous development {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Developmental psychologists study human growth and development
       across three domains. Which of the following is *not* one of these
@@ -383,13 +377,11 @@ Review Questions
       3. physical
       4. psychosocial {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       How is lifespan development defined?
 

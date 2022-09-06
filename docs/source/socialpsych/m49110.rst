@@ -528,12 +528,9 @@ explanations for our own and others behaviors can be biased due to not
 having enough information about others’ motivations for behaviors and by
 providing explanations that bolster our self-esteem.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       As a field, social psychology focuses on \_______\_ in predicting
       human behavior.
@@ -543,13 +540,10 @@ Review Questions
       3. biological forces
       4. situational factors {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Making internal attributions for your successes and making
       external attributions for your failures is an example of
@@ -560,13 +554,10 @@ Review Questions
       3. self-serving bias
       4. just-world hypothesis {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Collectivistic cultures are to \_______\_ as individualistic
       cultures are to \________.
@@ -576,13 +567,11 @@ Review Questions
       3. autonomy; group harmony
       4. just-world hypothesis; self-serving bias {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       According to the actor-observer bias, we have more information
       about \________.

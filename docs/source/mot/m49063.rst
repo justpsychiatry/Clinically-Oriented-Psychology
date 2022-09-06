@@ -447,12 +447,9 @@ engaging in sexual behavior in developing their concept of the sexual
 response cycle. While often confused, sexual orientation and gender
 identity are related, but distinct, concepts.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Animal research suggests that in male rats the \_______\_ is
       critical for the ability to engage in sexual behavior, but not for
@@ -463,13 +460,10 @@ Review Questions
       3. medial preoptic area of the hypothalamus
       4. hippocampus {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       During the \_______\_ phase of the sexual response cycle,
       individuals experience rhythmic contractions of the pelvis that
@@ -481,13 +475,10 @@ Review Questions
       3. orgasm
       4. resolution {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following findings was not a result of the Kinsey
       study?
@@ -497,13 +488,10 @@ Review Questions
       3. Homosexual behavior is fairly common.
       4. Masturbation has no adverse consequences. {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       If someone is uncomfortable identifying with the gender normally
       associated with their biological sex, then he could be classified

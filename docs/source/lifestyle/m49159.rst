@@ -494,12 +494,9 @@ identify and promote qualities that lead to greater happiness and
 fulfillment in our lives. These components include positive affect,
 optimism, and flow.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following is *not* one of the presumed components of
       happiness?
@@ -510,13 +507,11 @@ Review Questions
       4. identifying and using our talents to enrich our lives {:
          type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Researchers have identified a number of factors that are related
       to happiness. Which of the following is *not* one of them?
@@ -526,13 +521,10 @@ Review Questions
       3. physical attractiveness
       4. marriage {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       How does positive affect differ from optimism?
 
@@ -543,13 +535,10 @@ Review Questions
       4. Optimism involves feeling states, whereas positive affect
          involves expectations. {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Carson enjoys writing mystery novels, and has even managed to
       publish some of his work. When he’s writing, Carson becomes

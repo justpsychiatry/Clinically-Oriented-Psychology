@@ -1170,12 +1170,9 @@ of workplace violence and safety. This enables the organization to
 establish procedures that can identify these triggers before they become
 a problem.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       A \_______\_ is an example of a tactical team.
 
@@ -1184,13 +1181,10 @@ Review Questions
       3. budget committee
       4. sports team {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which practice is an example of Theory X management?
 
@@ -1199,13 +1193,10 @@ Review Questions
       3. keystroke monitoring
       4. team meetings {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which is one effect of the team halo effect?
 
@@ -1214,13 +1205,10 @@ Review Questions
       3. teams lead to greater job satisfaction
       4. teams boost productivity {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following is the most strongly predictive factor of
       overall job satisfaction?
@@ -1230,13 +1218,10 @@ Review Questions
       3. autonomy
       4. work content {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       What is the name for what occurs when a supervisor offers a
       work-related reward in exchange for a sexual favor?

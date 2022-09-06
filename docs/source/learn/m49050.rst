@@ -222,12 +222,9 @@ retention, reproduction, and motivation. Through modeling, Bandura has
 shown that children learn many things both good and bad simply by
 watching their parents, siblings, and others.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The person who performs a behavior that serves as an example is
       called a \________.
@@ -237,13 +234,11 @@ Review Questions
       3. instructor
       4. coach {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       In Bandura’s Bobo doll study, when the children who watched the
       aggressive model were placed in a room with the doll and other
@@ -254,13 +249,10 @@ Review Questions
       3. played with tinker toys
       4. kicked and threw the doll {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which is the correct order of steps in the modeling process?
 
@@ -269,13 +261,10 @@ Review Questions
       3. attention, motivation, retention, reproduction
       4. motivation, attention, retention, reproduction {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Who proposed observational learning?
 

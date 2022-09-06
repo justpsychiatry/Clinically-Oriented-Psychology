@@ -631,12 +631,9 @@ others focus on the importance of emotional intelligence. Finally,
 creativity seems to be a facet of intelligence, but it is extremely
 difficult to measure objectively.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Fluid intelligence is characterized by \________.
 
@@ -647,13 +644,10 @@ Review Questions
       4. being able to see complex relationships and solve problems {:
          type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following is not one of Gardner’s Multiple
       Intelligences?
@@ -663,13 +657,10 @@ Review Questions
       3. linguistic
       4. musical {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which theorist put forth the triarchic theory of intelligence?
 
@@ -678,13 +669,10 @@ Review Questions
       3. Sternberg
       4. Steitz {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       When you are examining data to look for trends, which type of
       intelligence are you using most?

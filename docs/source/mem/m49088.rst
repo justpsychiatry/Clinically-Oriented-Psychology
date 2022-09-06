@@ -1001,12 +1001,9 @@ when old information hinders the recall of newly learned information.
 Retroactive interference happens when information learned more recently
 hinders the recall of older information.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ is when our recollections of the past are done in a
       self-enhancing manner.
@@ -1016,13 +1013,11 @@ Review Questions
       3. hindsight bias
       4. enhancement bias {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Tip-of-the-tongue phenomenon is also known as \________.
 
@@ -1031,13 +1026,10 @@ Review Questions
       3. transience
       4. blocking {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The formulation of new memories is sometimes called \________, and
       the process of bringing up old memories is called \________.

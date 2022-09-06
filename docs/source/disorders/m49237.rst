@@ -650,12 +650,9 @@ in depression. Both biological and psychological factors are important
 in the development of depression. People who suffer from mental health
 problems, especially mood disorders, are at heightened risk for suicide.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Common symptoms of major depressive disorder include all of the
       following *except* \________.
@@ -665,13 +662,10 @@ Review Questions
       3. loss of interest or pleasure in usual activities
       4. psychomotor agitation and retardation {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Suicide rates are \_______\_ among men than among women, and they
       are \_______\_ during the winter holiday season than during the

@@ -516,12 +516,9 @@ degrees in psychology have more limited psychology-related career
 options, the skills acquired as a function of an undergraduate education
 in psychology are useful in a variety of work contexts.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       If someone wanted to become a psychology professor at a 4-year
       college, then s/he would probably need a \_______\_ degree in
@@ -532,13 +529,10 @@ Review Questions
       3. master’s
       4. PhD {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The \_______\_ places less emphasis on research and more emphasis
       on application of therapeutic skills.
@@ -548,13 +542,11 @@ Review Questions
       3. postdoctoral training program
       4. dissertation {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following degrees would be the minimum required to
       teach psychology courses in high school?
@@ -564,13 +556,10 @@ Review Questions
       3. master’s degree
       4. bachelor’s degree {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       One would need at least a(n) \_______\_ degree to serve as a
       school psychologist.

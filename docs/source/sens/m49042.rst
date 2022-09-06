@@ -305,12 +305,9 @@ in opponent pairs and accounts for the interesting phenomenon of a
 negative afterimage. We perceive depth through a combination of
 monocular and binocular depth cues.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The \_______\_ is a small indentation of the retina that contains
       cones.
@@ -320,13 +317,10 @@ Review Questions
       3. fovea
       4. iris {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ operate best under bright light conditions.
 
@@ -335,13 +329,10 @@ Review Questions
       3. retinal ganglion cells
       4. striate cortex {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ depth cues require the use of both eyes.
 
@@ -350,13 +341,11 @@ Review Questions
       3. linear perspective
       4. accommodating {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       If you were to stare at a green dot for a relatively long period
       of time and then shift your gaze to a blank white screen, you

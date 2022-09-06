@@ -217,12 +217,9 @@ therapy. The therapy group is made up of one or more families. The goal
 of this approach is to enhance the growth of each individual family
 member and the family as a whole.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       A treatment modality in which 5–10 people with the same issue or
       concern meet together with a trained clinician is known as
@@ -233,13 +230,10 @@ Review Questions
       3. group therapy
       4. self-help group {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       What happens during an intake?
 

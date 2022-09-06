@@ -258,12 +258,9 @@ maintain a relationship, individuals often use a social exchange
 approach and weigh the costs and benefits of forming and maintaining a
 relationship.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Altruism is a form of prosocial behavior that is motivated by
       \________.
@@ -273,13 +270,11 @@ Review Questions
       3. earning a reward
       4. showing bravery to bystanders {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       After moving to a new apartment building, research suggests that
       Sam will be most likely to become friends with \________.
@@ -289,13 +284,10 @@ Review Questions
       3. someone from across the street
       4. his new postal delivery person {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       What trait do both men and women tend to look for in a romantic
       partner?
@@ -305,13 +297,10 @@ Review Questions
       3. leadership potential
       4. physical attractiveness {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       According to the triangular theory of love, what type of love is
       defined by passion and intimacy but no commitment?
@@ -321,13 +310,10 @@ Review Questions
       3. romantic love
       4. liking {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       According to social exchange theory, humans want to maximize the
       \_______\_ and minimize the \_______\_ in relationships.

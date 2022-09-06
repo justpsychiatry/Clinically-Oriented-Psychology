@@ -170,12 +170,9 @@ proneness toward outbursts, and a tendency to be easily startled. Not
 everyone who experiences a traumatic event will develop PTSD; a variety
 of risk factors associated with its development have been identified.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Symptoms of PTSD include all of the following *except* \________.
 
@@ -185,13 +182,10 @@ Review Questions
       4. physical complaints that cannot be explained medically {:
          type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following elevates the risk for developing PTSD?
 

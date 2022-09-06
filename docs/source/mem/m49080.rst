@@ -432,12 +432,9 @@ explicit memory. Finally, retrieval is the act of getting memories out
 of storage and back into conscious awareness. This is done through
 recall, recognition, and relearning.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ is another name for short-term memory.
 
@@ -446,13 +443,10 @@ Review Questions
       3. working memory
       4. implicit memory {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The storage capacity of long-term memory is \________.
 
@@ -461,13 +455,10 @@ Review Questions
       3. limited
       4. essentially limitless {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The three functions of memory are \________.
 

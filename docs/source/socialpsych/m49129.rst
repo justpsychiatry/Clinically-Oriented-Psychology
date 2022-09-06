@@ -209,12 +209,9 @@ Despite the social norm of helping others in need, when there are many
 bystanders witnessing an emergency, diffusion of responsibility will
 lead to a lower likelihood of any one person helping.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Typically, bullying from boys is to \_______\_ as bullying from
       girls is to \________.
@@ -224,13 +221,11 @@ Review Questions
       3. psychological harm; physical harm
       4. social exclusion; verbal taunting {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following adolescents is least likely to be targeted
       for bullying?
@@ -240,13 +235,10 @@ Review Questions
       3. an emotionally sensitive boy
       4. the captain of the football team {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The bystander effect likely occurs due to \________.
 

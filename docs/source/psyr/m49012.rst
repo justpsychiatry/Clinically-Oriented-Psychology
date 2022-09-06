@@ -447,12 +447,9 @@ Longitudinal research has been incredibly helpful to researchers who
 need to collect data on how people change over time. Cross-sectional
 research compares multiple segments of a population at a single time.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Sigmund Freud developed his theory of human personality by
       conducting in-depth interviews over an extended period of time
@@ -464,13 +461,11 @@ Review Questions
       3. naturalistic observation
       4. survey {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       \_______\_ involves observing behavior in individuals in their
       natural environments.
@@ -480,13 +475,10 @@ Review Questions
       3. naturalistic observation
       4. survey {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The major limitation of case studies is \________.
 
@@ -497,13 +489,10 @@ Review Questions
          the larger population
       4. the absence of inter-rater reliability {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The benefit of naturalistic observation studies is \________.
 
@@ -515,13 +504,10 @@ Review Questions
       4. the ability to determine cause and effect in this particular
          approach {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Using existing records to try to answer a research question is
       known as \________.
@@ -531,13 +517,10 @@ Review Questions
       3. longitudinal research
       4. archival research {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ involves following a group of research participants for
       an extended period of time.
@@ -547,13 +530,11 @@ Review Questions
       3. naturalistic observation
       4. cross-sectional research {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       A(n) \_______\_ is a list of questions developed by a researcher
       that can be administered in paper form.
@@ -563,13 +544,10 @@ Review Questions
       3. naturalistic observation
       4. survey {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Longitudinal research is complicated by high rates of \________.
 

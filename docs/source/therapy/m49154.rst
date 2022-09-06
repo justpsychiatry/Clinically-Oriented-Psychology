@@ -1456,12 +1456,9 @@ Often in combination with psychotherapy, people can be prescribed
 biologically based treatments such as psychotropic medications and/or
 other medical procedures such as electro-convulsive therapy.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The idea behind \_______\_ is that how you think determines how
       you feel and act.
@@ -1471,13 +1468,10 @@ Review Questions
       3. behavior therapy
       4. client-centered therapy {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Mood stabilizers, such as lithium, are used to treat \________.
 
@@ -1486,13 +1480,10 @@ Review Questions
       3. bipolar disorder
       4. ADHD {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Clay is in a therapy session. The therapist asks him to relax and
       say whatever comes to his mind at the moment. This therapist is

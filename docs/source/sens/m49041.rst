@@ -182,12 +182,9 @@ color, and its amplitude is associated with brightness. In the auditory
 system, a sound’s frequency is associated with pitch, and its amplitude
 is associated with loudness.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following correctly matches the pattern in our
       perception of color as we move from short wavelengths to long
@@ -198,13 +195,11 @@ Review Questions
       3. yellow to red to orange
       4. orange to yellow to red {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The visible spectrum includes light that ranges from about
       \________.
@@ -214,13 +209,10 @@ Review Questions
       3. 20–20000 Hz
       4. 10–20 dB {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The electromagnetic spectrum includes \________.
 
@@ -229,13 +221,10 @@ Review Questions
       3. infrared light
       4. all of the above {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The audible range for humans is \________.
 
@@ -244,13 +233,10 @@ Review Questions
       3. less than 300 dB
       4. 20-20,000 Hz {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The quality of a sound that is affected by frequency, amplitude,
       and timing of the sound wave is known as \________.

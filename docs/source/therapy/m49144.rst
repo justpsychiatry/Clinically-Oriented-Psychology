@@ -239,12 +239,9 @@ American counterparts. Barriers to treatment include lack of insurance,
 transportation, and time; cultural views that mental illness is a
 stigma; fears about treatment; and language barriers.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The sociocultural perspective looks at you, your behaviors, and
       your symptoms in the context of your \________.
@@ -254,13 +251,10 @@ Review Questions
       3. culture and background
       4. age {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following was *not* listed as a barrier to mental
       health treatment?

@@ -370,12 +370,9 @@ central route to persuasion uses facts and information to persuade
 potential consumers. The peripheral route uses positive association with
 cues such as beauty, fame, and positive emotions.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Attitudes describe our \_______\_ of people, objects, and ideas.
 
@@ -384,13 +381,11 @@ Review Questions
       3. cognitions
       4. knowledge {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Cognitive dissonance causes discomfort because it disrupts our
       sense of \________.
@@ -400,13 +395,10 @@ Review Questions
       3. consistency
       4. power {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       In order for the central route to persuasion to be effective, the
       audience must be \_______\_ and \________.
@@ -416,13 +408,10 @@ Review Questions
       3. intelligent; unemotional
       4. gullible; distracted {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Examples of cues used in peripheral route persuasion include all
       of the following *except* \________.

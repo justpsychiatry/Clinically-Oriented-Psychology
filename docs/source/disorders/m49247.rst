@@ -766,12 +766,9 @@ agoraphobia: an intense fear and avoidance of situations in which it
 might be difficult to escape; and generalized anxiety disorder: a
 relatively continuous state of tension, apprehension, and dread.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       In which of the following anxiety disorders is the person in a
       continuous state of excessive, pointless worry and apprehension?
@@ -781,13 +778,11 @@ Review Questions
       3. agoraphobia
       4. social anxiety disorder {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following would constitute a safety behavior?
 

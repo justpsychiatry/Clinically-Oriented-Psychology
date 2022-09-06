@@ -329,12 +329,9 @@ motives. Abraham Maslow’s hierarchy of needs is a model that shows the
 relationship among multiple motives that range from lower-level
 physiological needs to the very high level of self-actualization.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Need for \_______\_ refers to maintaining positive relationships
       with others.
@@ -344,13 +341,11 @@ Review Questions
       3. intimacy
       4. power {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       \_______\_ proposed the hierarchy of needs.
 
@@ -359,13 +354,10 @@ Review Questions
       3. Abraham Maslow
       4. Albert Bandura {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ is an individual’s belief in her capability to complete
       some task.
@@ -375,13 +367,10 @@ Review Questions
       3. self-actualization
       4. self-efficacy {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Carl mows the yard of his elderly neighbor each week for $20. What
       type of motivation is this?

@@ -170,12 +170,9 @@ pain and distress are minimized. Animal research requires the approval
 of an IACUC, and all animal facilities are subject to regular
 inspections to ensure that animals are being treated humanely.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       \_______\_ is to animal research as \_______\_ is to human
       research.

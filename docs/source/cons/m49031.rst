@@ -899,12 +899,9 @@ time without sleep, they will accrue a sleep debt and potentially
 experience a number of adverse psychological and physiological
 consequences.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The body’s biological clock is located in the \________.
 
@@ -913,13 +910,10 @@ Review Questions
       3. hypothalamus
       4. pituitary gland {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ occurs when there is a chronic deficiency in sleep.
 
@@ -928,13 +922,10 @@ Review Questions
       3. circadian rhythm
       4. sleep debt {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ cycles occur roughly once every 24 hours.
 
@@ -943,13 +934,11 @@ Review Questions
       3. rotating
       4. conscious {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       \_______\_ is one way in which people can help reset their
       biological clocks.

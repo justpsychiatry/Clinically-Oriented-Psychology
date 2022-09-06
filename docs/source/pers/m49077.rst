@@ -1204,12 +1204,9 @@ unconscious are based on myths, legends, dreams, and art. In addition,
 as with Freud’s psychoanalytic theory, the neo-Freudians based much of
 their theories of personality on information from their patients.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The universal bank of ideas, images, and concepts that have been
       passed down through the generations from our ancestors refers to

@@ -152,12 +152,9 @@ substance-related disorder diagnosis and another psychiatric diagnosis,
 such as depression, bipolar disorder, or schizophrenia. The best
 treatment would address both problems simultaneously.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       What is the minimum amount of time addicts should receive
       treatment if they are to achieve a desired outcome?
@@ -167,13 +164,10 @@ Review Questions
       3. 9 months
       4. 12 months {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       When an individual has two or more diagnoses, which often includes
       a substance-related diagnosis and another psychiatric diagnosis,
@@ -184,13 +178,11 @@ Review Questions
       3. codependency
       4. bi-morbid disorder {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       John was drug-free for almost six months. Then he started hanging
       out with his addict friends, and he has now started abusing drugs

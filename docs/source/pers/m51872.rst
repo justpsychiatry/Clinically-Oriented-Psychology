@@ -896,12 +896,9 @@ widely accepted trait theory today. The five factors are openness,
 conscientiousness, extroversion, agreeableness, and neuroticism. These
 traits occur along a continuum.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       According to the Eysencks’ theory, people who score high on
       neuroticism tend to be \________.

@@ -481,12 +481,9 @@ support has beneficial physiological effects for people, and it seems to
 influence immune functioning. However, the beneficial effects of social
 support may be related to its influence on promoting healthy behaviors.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Emotion-focused coping would likely be a better method than
       problem-focused coping for dealing with which of the following
@@ -497,13 +494,10 @@ Review Questions
       3. unemployment
       4. divorce {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Studies of British civil servants have found that those in the
       lowest status jobs are much more likely to develop heart disease
@@ -515,13 +509,10 @@ Review Questions
       3. perceived control
       4. emotion-focused coping {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Relative to those with low levels of social support, individuals
       with high levels of social support \________.
@@ -531,13 +522,10 @@ Review Questions
       3. are more likely to develop cardiovascular disorders
       4. tend to tolerate stress well {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The concept of learned helplessness was formulated by Seligman to
       explain the \________.

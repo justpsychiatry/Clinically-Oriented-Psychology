@@ -5,15 +5,18 @@ Emotion
 
 
 .. contents::
+   :caption: Contents
    :depth: 3
 ..
 
-.. container::
+.. topic:: Learning Goals
 
-   By the end of this section, you will be able to: \* Explain the major
-   theories of emotion \* Describe the role that limbic structures play
-   in emotional processing \* Understand the ubiquitous nature of
-   producing and recognizing emotional expression
+   By the end of this section, you will be able to: 
+   
+   * Explain the major theories of emotion
+   * Describe the role that limbic structures play in emotional processing 
+   * Understand the ubiquitous nature of producing and recognizing emotional expression
+...
 
 As we move through our daily lives, we experience a variety of emotions.
 An :term:`emotion` is a subjective state of being that
@@ -293,7 +296,7 @@ Hippocampus
 As mentioned earlier, the :term:`hippocampus` is also involved in emotional processing. Like the
 amygdala, research has demonstrated that hippocampal structure and
 function are linked to a variety of mood and anxiety disorders.
-Individuals suffering from posttraumatic stress disorder (PTSD) show
+Individuals suffering from :abbr:`PTSD (posttraumatic stress disorder)` show
 marked reductions in the volume of several parts of the hippocampus,
 which may result from decreased levels of neurogenesis and dendritic
 branching (the generation of new neurons and the generation of new
@@ -304,11 +307,11 @@ volume increases following either pharmacological or
 cognitive-behavioral therapy in individuals suffering from PTSD (Bremner
 & Vermetten, 2004; Levy-Gigi, Szabó, Kelemen, & Kéri, 2013).
 
-.. admonition:: psychology link-to-learning :outicon:`cross-reference`
+.. card:: psychology link-to-learning 
 
-   Watch this `video <http://openstax.org/l/traumaticexp>`__ about
+   Watch this `video <http://openstax.org/l/traumaticexp>`__ :outicon:`cross-reference` about
    research that demonstrates how the volume of the hippocampus can vary
-   as a function of traumatic experiences.
+   as a function of traumatic experiences. 
 
 FACIAL EXPRESSION AND RECOGNITION OF EMOTIONS
 =============================================
@@ -385,7 +388,7 @@ Tamietto et al., 2009).
 
 
    Autism Spectrum Disorder and Expression of Emotions
-   ----------------------------------------------------
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
    Autism spectrum disorder (ASD) is a set of neurodevelopmental
    disorders characterized by repetitive behaviors and communication and
@@ -434,12 +437,9 @@ circumstances various emotions can be expressed. Tone of voice and body
 language also serve as a means by which we communicate information about
 our emotional states.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Individuals suffering from posttraumatic stress disorder have been
       shown to have reduced volumes of the \________.
@@ -449,13 +449,11 @@ Review Questions
       3. hypothalamus
       4. thalamus {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       According to the \_______\_ theory of emotion, emotional
       experiences arise from physiological arousal.
@@ -465,13 +463,10 @@ Review Questions
       3. Schachter-Singer two-factor
       4. Darwinian {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following is not one of the seven universal emotions
       described in this chapter?
@@ -481,13 +476,10 @@ Review Questions
       3. melancholy
       4. anger {: type=“A”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following theories of emotion would suggest that
       polygraphs should be quite accurate at differentiating one emotion

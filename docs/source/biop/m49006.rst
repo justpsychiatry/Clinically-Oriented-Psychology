@@ -560,12 +560,9 @@ advances in technology allow us to glean similar information by imaging
 brain structure and function. These techniques include CT, PET, MRI,
 fMRI, and EEG.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The \_______\_ is a sensory relay station where all sensory
       information, except for smell, goes before being sent to other
@@ -576,13 +573,10 @@ Review Questions
       3. hypothalamus
       4. thalamus {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Damage to the \_______\_ disrupts one’s ability to comprehend
       language, but it leaves one’s ability to produce words intact.
@@ -592,13 +586,10 @@ Review Questions
       3. Wernicke’s Area
       4. occipital lobe {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       A(n) \_______\_ uses magnetic fields to create pictures of a given
       tissue.
@@ -608,13 +599,11 @@ Review Questions
       3. PET scan
       4. CT scan {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following is **not** a structure of the forebrain?
 

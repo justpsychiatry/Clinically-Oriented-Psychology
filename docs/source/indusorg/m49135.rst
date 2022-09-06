@@ -651,12 +651,9 @@ develop methods for adhering to the law in hiring. Performance appraisal
 systems are an active area of research and practice in industrial
 psychology.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Which of the following questions is illegal to ask in a job
       interview in the United States?
@@ -666,13 +663,11 @@ Review Questions
       3. Do you have a commercial driver’s license?
       4. What salary would you expect for this position? {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following items is *not* a part of KSAs?
 
@@ -681,13 +676,10 @@ Review Questions
       3. skill
       4. other abilities {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Who is responsible for enforcing federal laws that make it illegal
       to discriminate against a job applicant?

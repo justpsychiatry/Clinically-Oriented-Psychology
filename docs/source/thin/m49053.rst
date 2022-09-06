@@ -264,12 +264,9 @@ behavior, and these help us function properly in various situations
 without having to “think twice” about them. Schemata show up in social
 situations and routines of daily behavior.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Cognitive psychology is the branch of psychology that focuses on
       the study of \________.
@@ -279,13 +276,11 @@ Review Questions
       3. human behavior
       4. human society {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following is an example of a prototype for the
       concept of leadership on an athletic team?
@@ -295,13 +290,11 @@ Review Questions
       3. the team captain
       4. the quietest member of the team {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which of the following is an example of an artificial concept?
 
@@ -310,13 +303,11 @@ Review Questions
       3. gemstones
       4. teachers {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       An event schema is also known as a cognitive \________.
 

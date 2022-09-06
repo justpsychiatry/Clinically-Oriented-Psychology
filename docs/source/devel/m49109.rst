@@ -1252,12 +1252,9 @@ through various stages. Finally, Lawrence Kohlberg turned his attention
 to moral development. He said that we pass through three levels of moral
 thinking that build on our cognitive development.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The idea that even if something is out of sight, it still exists
       is called \________.
@@ -1267,13 +1264,11 @@ Review Questions
       3. conservation
       4. reversibility {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       Which theorist proposed that moral thinking proceeds through a
       series of stages?
@@ -1283,13 +1278,10 @@ Review Questions
       3. John Watson
       4. Lawrence Kohlberg {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       According to Erikson’s theory of psychosocial development, what is
       the main task of the adolescent?

@@ -577,12 +577,9 @@ tests that are still in use today: the WAIS-IV and WISC-V. The Bell
 curve shows the range of scores that encompass average intelligence as
 well as standard deviations.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       In order for a test to be normed and standardized it must be
       tested on \________.
@@ -592,13 +589,11 @@ Review Questions
       3. children with mental disabilities
       4. children of average intelligence {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The mean score for a person with an average IQ is \________.
 
@@ -607,13 +602,10 @@ Review Questions
       3. 85
       4. 100 {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Who developed the IQ test most widely used today?
 
@@ -622,13 +614,10 @@ Review Questions
       3. Louis Terman
       4. David Wechsler {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The DSM-5 now uses \_______\_ as a diagnostic label for what was
       once referred to as mental retardation.

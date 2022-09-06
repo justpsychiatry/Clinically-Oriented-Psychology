@@ -331,12 +331,9 @@ determine which factors best predict the development of schizophrenia.
 Future research may enable us to pinpoint those especially at risk for
 developing schizophrenia and who may benefit from early intervention.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Clifford falsely believes that the police have planted secret
       cameras in his home to monitor his every movement. Clifford’s
@@ -347,13 +344,10 @@ Review Questions
       3. tangentiality
       4. a negative symptom {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       A study of adoptees whose biological mothers had schizophrenia
       found that the adoptees were most likely to develop schizophrenia

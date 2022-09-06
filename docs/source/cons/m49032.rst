@@ -177,12 +177,9 @@ important for physical growth and maturation are secreted during sleep.
 While the reason we sleep remains something of a mystery, there is some
 evidence to suggest that sleep is very important to learning and memory.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Growth hormone is secreted by the \_______\_ while we sleep.
 
@@ -191,13 +188,10 @@ Review Questions
       3. pituitary gland
       4. pancreas {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       The \_______\_ plays a role in controlling slow-wave sleep.
 
@@ -206,13 +200,10 @@ Review Questions
       3. pons
       4. both a and b {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ is a hormone secreted by the pineal gland that plays a
       role in regulating biological rhythms and immune function.
@@ -222,13 +213,11 @@ Review Questions
       3. LH
       4. FSH {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       \_______\_ appears to be especially important for enhanced
       performance on recently learned tasks.

@@ -492,12 +492,9 @@ Pavlov’s work. He tested humans by conditioning fear in an infant known
 as Little Albert. His findings suggest that classical conditioning can
 explain how some fears develop.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       A stimulus that does not initially elicit a response in an
       organism is a(n) \________.
@@ -507,13 +504,11 @@ Review Questions
       3. conditioned stimulus
       4. unconditioned response {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       In Watson and Rayner’s experiments, Little Albert was conditioned
       to fear a white rat, and then he began to be afraid of other furry
@@ -524,13 +519,10 @@ Review Questions
       3. stimulus discrimination
       4. stimulus generalization {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Extinction occurs when \________.
 
@@ -543,13 +535,10 @@ Review Questions
       4. the neutral stimulus is presented repeatedly without being
          paired with a conditioned stimulus {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       In Pavlov’s work with dogs, the psychic secretions were \________.
 

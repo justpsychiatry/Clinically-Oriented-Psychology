@@ -673,12 +673,9 @@ or a variety of other social identities. In-group’s who feel threatened
 may blame the out-groups for their plight, thus using the out-group as a
 scapegoat for their frustration.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       Prejudice is to \_______\_ as discrimination is to \________.
 
@@ -687,13 +684,10 @@ Review Questions
       3. feelings; thoughts
       4. behavior; feelings {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       A
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       Which of the following is *not* a type of prejudice?
 
@@ -702,13 +696,10 @@ Review Questions
       3. sexism
       4. individualism {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       D
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       \_______\_ occurs when the out-group is blamed for the in-group’s
       frustration.
@@ -718,13 +709,10 @@ Review Questions
       3. scapegoating
       4. ageism {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       C
-
-.. container::
-
-   .. container::
+  .. Card:: Question
 
       When we seek out information that supports our stereotypes we are
       engaged in \________.

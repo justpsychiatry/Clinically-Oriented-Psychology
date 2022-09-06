@@ -134,12 +134,9 @@ approaches that can be used to study personality in a cultural context:
 the cultural-comparative approach, the indigenous approach, and the
 combined approach, which incorporates both elements of both views.
 
-Review Questions
-================
+.. card-carousel:: Review Questions
 
-.. container::
-
-   .. container::
+    .. card:: Question
 
       The United States is considered a \_______\_ culture.
 
@@ -148,13 +145,11 @@ Review Questions
       3. traditional
       4. nontraditional {: type=“a”}
 
-   .. container::
+  .. dropdown:: Check Answer
 
       B
+  .. Card:: Question
 
-.. container::
-
-   .. container::
 
       The concept that people choose to move to places that are
       compatible with their personalities and needs is known as
