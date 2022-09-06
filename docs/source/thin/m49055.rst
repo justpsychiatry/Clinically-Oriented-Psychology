@@ -8,14 +8,14 @@ Language
    :depth: 3
 ..
 
-.. container::
+.. admonition:: Summary
 
    By the end of this section, you will be able to: \* Define language
    and demonstrate familiarity with the components of language \*
    Understand how the use of language develops \* Explain the
    relationship between language and thinking
 
-:term:`**Language**` {: data-type=“term”} is a communication system that
+:term:`Language` {: data-type=“term”} is a communication system that
 involves using words and systematic rules to organize those words to
 transmit information from one individual to another. While language is a
 form of communication, not all communication is language. Many species
@@ -32,7 +32,7 @@ COMPONENTS OF LANGUAGE
 ======================
 
 Language, be it spoken, signed, or written, has specific components: a
-lexicon and grammar. :term:`**Lexicon**` {: data-type=“term”} refers to the
+lexicon and grammar. :term:`Lexicon` {: data-type=“term”} refers to the
 words of a given language. Thus, lexicon is a language’s vocabulary.
 **Grammar**\ {: data-type=“term”} refers to the set of rules that are
 used to convey meaning through the use of the lexicon (Fernández &
@@ -40,7 +40,7 @@ Cairns, 2011). For instance, English grammar dictates that most verbs
 receive an “-ed” at the end to indicate past tense.
 
 Words are formed by combining the various phonemes that make up the
-language. A :term:`**phoneme**` {: data-type=“term”} (e.g., the sounds “ah”
+language. A :term:`phoneme` {: data-type=“term”} (e.g., the sounds “ah”
 vs. “eh”) is a basic sound unit of a given language, and different
 languages have different sets of phonemes. Phonemes are combined to form
 **morphemes**\ {: data-type=“term”}, which are the smallest units of
@@ -48,7 +48,7 @@ language that convey some type of meaning (e.g., “I” is both a phoneme
 and a morpheme). We use semantics and syntax to construct language.
 Semantics and syntax are part of a language’s grammar. **Semantics**\ {:
 data-type=“term”} refers to the process by which we derive meaning from
-morphemes and words. :term:`**Syntax**` {: data-type=“term”} refers to the way
+morphemes and words. :term:`Syntax` {: data-type=“term”} refers to the way
 words are organized into sentences (Chomsky, 1965; Fernández & Cairns,
 2011).
 
@@ -70,9 +70,9 @@ Given the remarkable complexity of a language, one might expect that
 mastering a language would be an especially arduous task; indeed, for
 those of us trying to learn a second language as adults, this might seem
 to be true. However, young children master language very quickly with
-relative ease. B. F. **Skinner**:term:`pastehere`
+relative ease. B. F. :term:`Skinner`
 (1957) proposed that language is learned through reinforcement. Noam
-**Chomsky**:term:`pastehere` (1965) criticized this
+****:term:`Chomsky` (1965) criticized this
 behaviorist approach, asserting instead that the mechanisms underlying
 language acquisition are biologically determined. The use of language
 develops in the absence of formal instruction and appears to follow a
@@ -713,7 +713,7 @@ Critical Thinking Questions
       rule, even if he or she doesn’t recognize all of the subtleties or
       exceptions involved in the rule’s application.
 
-Personal Application Question
+Personal Application Questions
 =============================
 
 .. container::
