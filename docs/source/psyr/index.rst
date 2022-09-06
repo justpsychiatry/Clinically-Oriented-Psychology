@@ -7,6 +7,10 @@ Chapter 2: Psychological Research
    :glob:
    :maxdepth: 2
    
-   m*
+   m49028*
+   m49013*
+   m49012*
+   m49011*
+   m49010*
    
    ...

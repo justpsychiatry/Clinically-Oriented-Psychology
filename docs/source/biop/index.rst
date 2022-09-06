@@ -8,6 +8,10 @@ Chapter 3: Biopsychology
    :maxdepth: 2
    
    m49029*
-   m*
+   m48993*
+   m49003*
+   m49005*
+   m49006*
+   m49007*
 
    ...
