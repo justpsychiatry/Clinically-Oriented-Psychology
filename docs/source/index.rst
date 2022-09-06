@@ -23,6 +23,7 @@ Clinically Oriented Psychology
    ./sens/index.rst
    ./learn/index.rst
    ./thin/index.rst
+   ./mem/index.rst
    ./devel/index.rst
    ./mot/index.rst
    ./pers/index.rst
