@@ -146,7 +146,7 @@ Review Questions
     .. dropdown:: Check Answer
 
        B
-  .. Card:: Question
+  .. Card:: Question 2
 
 
       If your \_______\_ is activated, you will feel relatively at ease.
@@ -159,7 +159,7 @@ Review Questions
     .. dropdown:: Check Answer
 
        C
-  .. Card:: Question
+  .. Card:: Question 3
 
       The central nervous system is comprised of \________.
 
@@ -171,7 +171,7 @@ Review Questions
     .. dropdown:: Check Answer
 
        D
-.. Card:: Question
+.. Card:: Question 4
 
       Sympathetic activation is associated with \________.
 

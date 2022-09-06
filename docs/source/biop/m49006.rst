@@ -560,9 +560,12 @@ advances in technology allow us to glean similar information by imaging
 brain structure and function. These techniques include CT, PET, MRI,
 fMRI, and EEG.
 
-.. card-carousel:: Review Questions
+Review Questions
+-----------------
 
-    .. card:: Question
+.. card-carousel:: 4
+
+    .. card:: Question 1
 
       The \_______\_ is a sensory relay station where all sensory
       information, except for smell, goes before being sent to other
@@ -573,10 +576,10 @@ fMRI, and EEG.
       3. hypothalamus
       4. thalamus {: type=“a”}
 
-  .. dropdown:: Check Answer
+     .. dropdown:: Check Answer
 
-      D
-  .. Card:: Question
+        D
+    .. card:: Question 2
 
       Damage to the \_______\_ disrupts one’s ability to comprehend
       language, but it leaves one’s ability to produce words intact.
@@ -586,10 +589,10 @@ fMRI, and EEG.
       3. Wernicke’s Area
       4. occipital lobe {: type=“a”}
 
-  .. dropdown:: Check Answer
+     .. dropdown:: Check Answer
 
-      C
-  .. Card:: Question
+       C
+    .. card:: Question 3
 
       A(n) \_______\_ uses magnetic fields to create pictures of a given
       tissue.
@@ -599,10 +602,10 @@ fMRI, and EEG.
       3. PET scan
       4. CT scan {: type=“a”}
 
-  .. dropdown:: Check Answer
+     .. dropdown:: Check Answer
 
-      B
-  .. Card:: Question
+       B
+    .. card:: Question 4
 
 
       Which of the following is **not** a structure of the forebrain?
@@ -612,9 +615,10 @@ fMRI, and EEG.
       3. amygdala
       4. substantia nigra {: type=“a”}
 
-   .. container::
+   .. dropdown::
 
       D
+
 
 Critical Thinking Questions
 ===========================
