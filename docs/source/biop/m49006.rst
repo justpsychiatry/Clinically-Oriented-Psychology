@@ -670,38 +670,49 @@ Personal Application Questions
    amygdala
       structure in the limbic system involved in our experience of
       emotion and tying emotional meaning to our memories ^
+   
    auditory cortex
       strip of cortex in the temporal lobe that is responsible for
       processing auditory information ^
+   
    Broca’s area
       region in the left hemisphere that is essential for language
       production ^
+   
    cerebellum
       hindbrain structure that controls our balance, coordination,
       movement, and motor skills, and it is thought to be important in
       processing some types of memory ^
+   
    cerebral cortex
       surface of the brain that is associated with our highest mental
       capabilities ^
+   
    computerized tomography (CT) scan
       imaging technique in which a computer coordinates and integrates
       multiple x-rays of a given area ^
+   
    corpus callosum
       thick band of neural fibers connecting the brain’s two hemispheres
       ^
    electroencephalography (EEG)
       recording the electrical activity of the brain via electrodes on
       the scalp ^
+   
    forebrain
       largest part of the brain, containing the cerebral cortex, the
       thalamus, and the limbic system, among other structures ^
+   
    frontal lobe
       part of the cerebral cortex involved in reasoning, motor control,
       emotion, and language; contains motor cortex ^
+   
    functional magnetic resonance imaging (fMRI)
       MRI that shows changes in metabolic activity over time ^
+   
    gyrus
       (plural: gyri) bump or ridge on the cerebral cortex ^
+   
    hemisphere
       left or right half of the brain ^
    hindbrain

@@ -127,9 +127,13 @@ activation prepares us for fight or flight, while parasympathetic
 activation is associated with normal functioning under relaxed
 conditions.
 
-.. card-carousel:: Review Questions
+Review Questions
+-----------------
 
-    .. card:: Question
+
+.. card-carousel:: 4
+
+   .. card:: Question 1
 
       Our ability to make our legs move as we walk across the room is
       controlled by the \_______\_ nervous system.
@@ -139,9 +143,9 @@ conditions.
       3. sympathetic
       4. parasympathetic {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
 
 
@@ -152,9 +156,9 @@ conditions.
       3. parasympathetic nervous system
       4. spinal cord {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      C
+       C
   .. Card:: Question
 
       The central nervous system is comprised of \________.
@@ -164,10 +168,10 @@ conditions.
       3. somatic and autonomic nervous systems
       4. brain and spinal cord {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      D
-  .. Card:: Question
+       D
+.. Card:: Question
 
       Sympathetic activation is associated with \________.
 
@@ -176,7 +180,7 @@ conditions.
       3. increased heart rate
       4. both A and C {: type=“a”}
 
-   .. container::
+    .. dropdown::
 
       D
 
