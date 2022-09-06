@@ -231,7 +231,7 @@ by the animal.
 Skinner box: a chamber with a speaker, lights, a lever, and a food
 dispenser.|\ {: #Figure06_03_Skinnerbox}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this brief `video clip <http://openstax.org/l/skinner1>`__ to
    learn more about operant conditioning: Skinner is interviewed, and
@@ -537,7 +537,7 @@ to the tone of a bell, and not to similar tones or sounds. This
 discrimination is also important in operant conditioning and in shaping
 behavior.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Here is a `brief video <http://openstax.org/l/pingpong>`__ of
    Skinner’s pigeons playing ping pong.
@@ -681,7 +681,7 @@ will be most successful if you present the reinforcer immediately after
 he sits, so that he can make an association between the target behavior
 (sitting) and the consequence (getting a treat).
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this `video
    clip <https://drsophiayin.com/videos/entry/teaching-a-dog-to-sit-politely-rather-than-jump>`__
@@ -1210,7 +1210,7 @@ this knowledge earlier.
    information to our cognitive map that can be used later to help find
    our way out of the building.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this `video <http://openstax.org/l/carlsonmaps>`__ to learn
    more about Carlson’s studies on cognitive maps and navigation in

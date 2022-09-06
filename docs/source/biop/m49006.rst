@@ -114,7 +114,7 @@ the left hand).
 brain in front and side views. Photograph (c) shows the corpus callosum
 in a dissected brain.|\ {: #CNX_Psych_03_04_CorpusCall}
 
-.. hint:: Link to Learning
+.. seealso::
 
    This `interactive animation <http://openstax.org/l/nobelanimation>`__
    on the Nobel Prize website walks users through the hemispheres of the
@@ -327,7 +327,7 @@ history (Hardt, Einarsson, & Nader, 2010; Squire, 2009). Indeed, his
 case has provided tremendous insight into the role that the hippocampus
 plays in the consolidation of new learning into explicit memory.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Clive Wearing, an accomplished musician, lost the ability to form new
    memories when his hippocampus was damaged through illness. Check out
@@ -382,9 +382,7 @@ associated with the cerebellum. Recall that H. M. was unable to form new
 explicit memories, but he could learn new tasks. This is likely due to
 the fact that H. M.’s cerebellum remained intact.
 
-.. container:: psychology what-do-you-think
-
-   .. container::
+.. seealso::
 
       Brain Dead and on Life Support
 
@@ -512,9 +510,10 @@ and functional differences exist between these populations.
 |A brain scan shows brain tissue in gray with some small areas
 highlighted red.|\ {: #CNX_Psych_03_04_fMRI}
 
-.. card:: Link to Learning
+.. seealso::
    :width: auto
    :shadow: md
+   :
 
    Visit this `virtual lab <http://openstax.org/l/mri>`__ to learn more
    about MRI and fMRI.
@@ -643,8 +642,6 @@ Critical Thinking Questions
       behavioral deficits. Such changes would not necessarily be obvious
       to someone performing an autopsy, as they may be functional in
       nature, rather than structural.
-
-.. container::
 
    .. container::
 

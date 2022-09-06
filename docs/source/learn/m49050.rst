@@ -96,7 +96,7 @@ or Internet sources (`[link] <#Figure06_04_Yoga>`__).
 group of students observes her and copies the pose. Photo B shows a
 child watching television.|\ {: #Figure06_04_Yoga}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Latent learning and modeling are used all the time in the world of
    marketing and advertising. `This
@@ -149,7 +149,7 @@ ignored (and not punished for her behavior), the children imitated what
 she did, and even what she said. They punched, kicked, and yelled at the
 doll.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this `video clip <http://openstax.org/l/bobodoll>`__ to see a
    portion of the famous Bobo doll experiment, including an interview
@@ -205,7 +205,7 @@ Psychologists are working to understand this dynamic.
 |A photograph shows two children playing a video game and pointing a
 gun-like object toward a screen.|\ {: #Figure06_04_Videogames}
 
-.. hint:: Link to Learning
+.. seealso::
 
    View this `video <http://openstax.org/l/videogamevio>`__ to hear Brad
    Bushman, a psychologist who has published extensively on human

@@ -67,7 +67,7 @@ requirements, interests, personality requirements, and work styles that
 are deemed necessary for success in that position. You can also see data
 on average earnings and projected job growth in that industry.
 
-.. hint:: Link to Learning
+.. seealso::
 
    The O*Net database describes the skills, knowledge, and education
    required for occupations, as well as what personality types and work
@@ -102,9 +102,7 @@ assessment of what scores on the test correlate with good performance
 given to candidates include IQ tests, integrity tests, and physical
 tests, such as drug tests or physical fitness tests.
 
-.. container:: psychology what-do-you-think
-
-   .. container::
+.. seealso::
 
       Using Cutoff Scores to Determine Job Selection
 
@@ -523,7 +521,7 @@ suits filed in a federal court, although the suits may represent the
 claims of more than one person. In 2013, there were 148 suits filed in
 federal courts.
 
-.. hint:: Link to Learning
+.. seealso::
 
    In 2011, the U.S. Supreme Court decided a case in which women
    plaintiffs were attempting to group together in a class-action suit
@@ -614,9 +612,7 @@ example in situations such as hires for nursing or custodial staff
 (Manley, 2009). Most cases of BFOQs are decided on a case-by-case basis
 and these court decisions inform policy and future case decisions.
 
-.. container:: psychology what-do-you-think
-
-   .. container::
+.. seealso::
 
       Hooters and BFOQ Laws
 

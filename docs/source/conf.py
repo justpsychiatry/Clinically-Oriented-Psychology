@@ -9,10 +9,33 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 project = 'Clinically Oriented Psychology'
-copyright = '2022, Justpsychiatry'
+copyright = '2022'
 author = 'Justpsychiatry'
 
 
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'myst',
+}
+
+
+myst_enable_extensions = [
+    "amsmath",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "linkify",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+]
 #release = 'latest'
 #version = 'latest'
 
@@ -28,7 +51,7 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinxcontrib.bibtex',
     'sphinxcontrib.apa',
-    'myst_parser',
+    "myst_parser",
     'sphinxcontrib.datatemplates',
     'sphinx_rtd_theme',
     "sphinx_design",
@@ -50,11 +73,11 @@ exclude_patterns = []
 
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
-html_title = "Justpsychiatry Article Archive"
-html_baseurl ='https://justpsychiatry.co.uk/'
+html_title = "Clinically-Oriented Psychology"
+html_baseurl ='https://psychology.mrcpsych.uk/'
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'
-sitemap_filename = "sphinxsitemap.xml"
+sitemap_filename = "psychsitemap.xml"
 sitemap_url_scheme = "{link}"
 hoverxref_auto_ref = True
 html_css_files = ['rootcss.css']
@@ -65,6 +88,8 @@ hoverxref_roles = [
     'term',
     'abbr',
     'ref',
+    'doc',
+    'cite',
 ]
 
 
@@ -84,21 +109,7 @@ epub_show_urls = 'footnote'
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 
-myst_enable_extensions = [
-    "amsmath",
-    "colon_fence",
-    "deflist",
-    "dollarmath",
-    "fieldlist",
-    "html_admonition",
-    "html_image",
-    "linkify",
-    "replacements",
-    "smartquotes",
-    "strikethrough",
-    "substitution",
-    "tasklist",
-]
+
 
 
 # -- General configuration ---------------------------------------------------
@@ -107,13 +118,6 @@ myst_enable_extensions = [
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
-
-
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.txt': 'restructuredtext',
-    '.md': 'myst',
-}
 
 
 rst_epilog= """

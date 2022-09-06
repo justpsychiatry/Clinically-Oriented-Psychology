@@ -41,7 +41,7 @@ are not determined by a single gene, but by a combination of many genes,
 as well as by epigenetic factors that control whether the genes are
 expressed.
 
-.. hint:: Link to Learning
+.. seealso::
 
    To what extent is our personality dictated by our genetic makeup?
    View this `video <http://openstax.org/l/persondna>`__ to learn more.

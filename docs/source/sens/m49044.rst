@@ -174,7 +174,7 @@ suffering from this disorder have much shorter life expectancies due to
 their injuries and secondary infections of injured sites (U.S. National
 Library of Medicine, 2013).
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this `video <http://openstax.org/l/congenital>`__ to learn more
    about congenital insensitivity to pain.

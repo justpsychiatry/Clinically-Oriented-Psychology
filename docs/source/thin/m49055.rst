@@ -536,9 +536,7 @@ behind what Sapir and Whorf proposed (Abler, 2013; Boroditsky, 2011; van
 Troyer, 1994). Today, psychologists continue to study and debate the
 relationship between language and thought.
 
-.. container:: psychology what-do-you-think
-
-   .. container::
+.. seealso::
 
       The Meaning of Language
 

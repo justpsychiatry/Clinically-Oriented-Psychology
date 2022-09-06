@@ -41,7 +41,7 @@ interesting person at a party and you wanted to remember his phone
 number, you would naturally chunk it, and you could repeat the number
 over and over, which is the rehearsal strategy.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Try this `fun activity <http://openstax.org/l/memgame>`__ that
    employs a memory-enhancing strategy.
@@ -86,7 +86,7 @@ It seems the more vivid or unusual the mnemonic, the easier it is to
 remember. The key to using any mnemonic successfully is to find a
 strategy that works for you.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this fascinating `TED Talks
    lecture <http://openstax.org/l/foer>`__ titled “Feats of Memory

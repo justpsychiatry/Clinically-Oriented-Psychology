@@ -76,7 +76,7 @@ be used below the feet. The seat should have an adjustable height to
 help in posturing oneself according to these suggested angles and
 distances.|\ {: #CNX_Psych_13_01_HumFact}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Find out what I-O psychologists do on the `Society for Industrial and
    Organizational Psychology (SIOP) <http://openstax.org/l/siop>`__
@@ -182,7 +182,7 @@ on the participants (McCarney et al., 2007).
 |A photograph shows a warehouse full of people working with machines
 along assembly lines.|\ {: #CNX_Psych_13_01_Employees}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this `video <http://openstax.org/l/ATT>`__ to hear first-hand
    accounts of the original Hawthorne studies from those who

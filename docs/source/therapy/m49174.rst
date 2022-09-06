@@ -219,7 +219,7 @@ length of time a person can be hospitalized for treatment. Usually
 individuals are hospitalized only if they are an imminent threat to
 themselves or others.
 
-.. hint:: Link to Learning
+.. seealso::
 
    View this `timeline <http://openstax.org/l/timeline>`__ showing the
    history of mental institutions in the United States.

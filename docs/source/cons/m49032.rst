@@ -146,7 +146,7 @@ formation (Stickgold, 2005). Understanding the impact of sleep on
 cognitive function should help you understand that cramming all night
 for a test may be not effective and can even prove counterproductive.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this brief `video <http://openstax.org/l/sleepdeprived>`__
    describing sleep deprivation in college students.
@@ -163,7 +163,7 @@ learning (Fenn, Nusbaum, & Margoliash, 2003; Gómez, Bootzin, & Nadel,
 Walker, 2007). It is possible that even the processing of emotional
 information is influenced by certain aspects of sleep (Walker, 2009).
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this brief `video <http://openstax.org/l/sleepmemory>`__
    describing the relationship between sleep and memory.

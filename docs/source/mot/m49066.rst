@@ -221,7 +221,7 @@ Gómez-Galán, Lindskog, & Magara, 2012).
 “hypothalamus,” “amygdala,” and “hippocampus.”|\ {:
 #Figure_10_04_Limbic}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Work through this Open Colleges `interactive 3D brain
    simulator <http://openstax.org/l/bparts1>`__ for a refresher on the

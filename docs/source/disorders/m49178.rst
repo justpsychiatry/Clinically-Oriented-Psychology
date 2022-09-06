@@ -269,7 +269,7 @@ better language and intellectual skills, can live and work independently
 as adults. However, most do not because the symptoms remain sufficient
 to cause serious impairment in many realms of life (APA, 2013).
 
-.. hint:: Link to Learning
+.. seealso::
 
    Here is an instructive and poignant
    `video <http://openstax.org/l/sevautism>`__ highlighting severe

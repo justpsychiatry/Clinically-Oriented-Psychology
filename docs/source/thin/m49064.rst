@@ -132,9 +132,7 @@ truly measure an individual’s intelligence, and the use of the results
 of IQ tests are still issues of debate (Gresham & Witt, 1997; Flynn,
 Shaughnessy, & Fulgham, 2012; Richardson, 2002; Schlinger, 2003).
 
-.. container:: psychology what-do-you-think
-
-   .. container::
+.. seealso::
 
       Intellectually Disabled Criminals and Capital Punishment
 

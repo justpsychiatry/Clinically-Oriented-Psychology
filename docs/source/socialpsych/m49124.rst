@@ -143,7 +143,7 @@ how likely it is that someone will demonstrate conformity to the group.
 These factors include the participant’s age, gender, and socio-cultural
 background (Bond & Smith, 1996; Larsen, 1990; Walker & Andrade, 1996).
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this `video <http://openstax.org/l/Asch2>`__ to see a
    replication of the Asch experiment.

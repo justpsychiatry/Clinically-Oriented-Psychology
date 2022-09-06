@@ -248,7 +248,7 @@ rapid-cycling subtype, which is characterized by at least four manic
 episodes (or some combination of at least four manic and major
 depressive episodes) within one year.
 
-.. hint:: Link to Learning
+.. seealso::
 
    In the 1997 independent film *Sweetheart*, actress Janeane Garofalo
    plays the part of Jasmine, a young woman with bipolar disorder. Watch

@@ -67,7 +67,7 @@ determine experimentally the true motivation for helping, whether is it
 largely self-serving (egoism) or selfless (altruism). Thus, a debate on
 whether pure altruism exists continues.
 
-.. hint:: Link to Learning
+.. seealso::
 
    See this excerpt from the popular TV series `Friends
    episode <http://openstax.org/l/friendsclip>`__ for a discussion of

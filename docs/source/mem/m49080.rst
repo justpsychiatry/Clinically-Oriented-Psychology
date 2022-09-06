@@ -25,7 +25,7 @@ respectively titled “Encoding,” “Storage,” and “Retrieval.” One
 right-facing arrow connects “Encoding” to “Storage” and another connects
 “Storage” to “Retrieval.”|\ {: #Figure_08_01_Memory}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch `this video <https://www.youtube.com/watch?v=sI_ceF5-OiQ>`__
    for more information on some unexpected facts about memory.
@@ -360,7 +360,7 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
    children in the United States appear to have memories from well
    before their tenth birthdays.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch these `Part 1 <https://www.youtube.com/watch?v=u-SBTRLoPuo>`__
    and `Part 2 <https://www.youtube.com/watch?v=I4V6aoYuDcg>`__ video

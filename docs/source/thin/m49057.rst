@@ -369,7 +369,7 @@ a way for the astronauts to use spare plastic bags, tape, and air hoses
 to create a makeshift air filter, which saved the lives of the
 astronauts.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Check out this `Apollo 13 scene <http://openstax.org/l/Apollo13>`__
    where the group of NASA engineers are given the task of overcoming
@@ -635,7 +635,7 @@ may be faulty
 
    </table>
 
-.. hint:: Link to Learning
+.. seealso::
 
    Please visit this `site <http://openstax.org/l/CogBias>`__ to see a
    clever music video that a high school teacher made to explain these

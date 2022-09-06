@@ -120,7 +120,7 @@ Sagaspe, & Bioulac, 2003). **Sleep regulation**\ {: data-type=“term”}
 refers to the brain’s control of switching between sleep and wakefulness
 as well as coordinating this cycle with the outside world.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this brief `video <http://openstax.org/l/circadian>`__
    describing circadian rhythms and how they affect sleep.
@@ -180,7 +180,7 @@ Chen, & Hsu, 2013).
 
 |A photograph shows a bright lamp.|\ {: #Figure_04_01_BrightLight}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this `video <https://www.youtube.com/watch?v=sbNkAcfNhh0>`__ to
    hear tips on how to overcome jet lag.
@@ -868,7 +868,7 @@ Risk of diabetes Type 2. Other risks include Growth suppression, Risk of
 obesity, Decreased temperature, and Impaired immune system.|\ {:
 #Figure_04_01_Sleepless}
 
-.. hint:: Link to Learning
+.. seealso::
 
    To assess your own sleeping habits, read this
    `article <http://openstax.org/l/sleephabits>`__ about sleep needs.

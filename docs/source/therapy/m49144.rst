@@ -61,7 +61,7 @@ table, a classroom of students, a group of people seated at a covered
 outdoor table, two children wearing robes, and two people being held up
 by other people during a wedding ceremony.|\ {: #CNX_Psych_16_05_Ethnic}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this short `video <http://openstax.org/l/culturalcomp>`__ to
    learn more about cultural competence and sociocultural treatments.

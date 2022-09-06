@@ -102,13 +102,13 @@ salivating over a bowl of food while a bell is rung. An illustration
 labeled “after conditioning” shows a dog salivating while a bell is
 rung.|\ {: #Figure06_02_Classical}
 
-.. hint:: Link to Learning
+.. seealso::
 
    Now that you have learned about the process of classical
    conditioning, do you think you can condition Pavlov’s dog? Visit this
    `website <http://openstax.org/l/pavlov1>`__ to play the game.
 
-.. hint:: Link to Learning
+.. seealso::
 
    View this `video <http://openstax.org/l/pavlov2>`__ to learn more
    about Pavlov and his dogs.
@@ -205,7 +205,7 @@ yard (conditioned stimulus) and stays within the set boundaries. In this
 example, the edge of the yard elicits fear and anxiety in the dog. Fear
 and anxiety are the conditioned response.
 
-.. hint:: Link to Learning
+.. seealso::
 
    For a humorous look at conditioning, watch this `video
    clip <http://openstax.org/l/theoffice>`__ from the television show
@@ -437,7 +437,7 @@ be considered unethical by today’s standards.
 close to a baby who is crawling away. A caption reads, “Now he fears
 even Santa Claus.”|\ {: #Figure06_02_Santaclaus}
 
-.. hint:: Link to Learning
+.. seealso::
 
    View scenes from `John Watson’s
    experiment <http://openstax.org/l/Watson1>`__ in which Little Albert

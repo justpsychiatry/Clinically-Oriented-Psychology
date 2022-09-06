@@ -93,7 +93,7 @@ a Hollywood movie. Bolzan fell, hit his head, and deleted 46 years of
 his life in an instant. He is now living with one of the most extreme
 cases of retrograde amnesia on record.
 
-.. hint:: Link to Learning
+.. seealso::
 
    View the `video story <http://openstax.org/l/bolzan>`__ profiling
    Scott Bolzan’s amnesia and his attempts to get his life back.
@@ -200,7 +200,7 @@ DNA evidence finally demonstrated that Ronald Cotton did not commit the
 rape, was innocent, and had served over a decade in prison for a crime
 he did not commit.
 
-.. hint:: Link to Learning
+.. seealso::
 
    To learn more about Ronald Cotton and the fallibility of memory,
    watch these excellent `Part 1 <http://openstax.org/l/Cotton1>`__ and

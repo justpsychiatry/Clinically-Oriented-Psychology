@@ -70,7 +70,7 @@ carries the sickle-cell mutation. Sena, on the other hand, develops
 malaria and dies just two weeks later. Luwi survives and eventually has
 children, to whom she may pass on the sickle-cell mutation.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Visit this `website <http://openstax.org/l/sickle1>`__ to learn more
    about how a mutation in DNA leads to sickle-cell anemia.
@@ -135,7 +135,7 @@ lines that split apart into branched structures.|\ {:
       into the relative importance of genes and environment for the
       expression of a given trait.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch this
    `interview <https://www.youtube.com/watch?v=xbRCFuet0Nk>`__ with
@@ -313,7 +313,7 @@ result of how that genetic information is expressed over time. The
 epigenetic perspective is very different from range of reaction, because
 here the genotype is not fixed and limited.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Visit this `site <http://openstax.org/l/twinstudy>`__ for an engaging
    video primer on the **epigenetics**\ {: data-type=“term”

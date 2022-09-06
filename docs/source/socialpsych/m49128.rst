@@ -356,7 +356,7 @@ individuals based on group membership; for example, they would show
 preferential treatment for people who are like themselves—that is, who
 share the same gender, race, or favorite sports team.
 
-.. hint:: Link to Learning
+.. seealso::
 
    This `video <http://openstax.org/l/racismexp>`__ demonstrates the
    concepts of prejudice, stereotypes, and discrimination. In the video,

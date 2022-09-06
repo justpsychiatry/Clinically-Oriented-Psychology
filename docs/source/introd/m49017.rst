@@ -352,7 +352,7 @@ many scholars. Furthermore, Rogers’ client-centered approach to therapy
 is still commonly used in psychotherapeutic settings today (O’hara,
 n.d.)
 
-.. hint:: Link to Learning
+.. seealso::
 
    View a brief `video <http://openstax.org/l/crogers1>`__ of Carl
    Rogers describing his therapeutic approach.
@@ -494,7 +494,7 @@ psychology of their communities, these organizations provide an
 opportunity for the growth of research on the impact of culture on
 individual and social psychology.
 
-.. hint:: Link to Learning
+.. seealso::
 
    Read a `news story <http://openstax.org/l/crogers2>`__ about the
    influence of an African American’s psychology research on the

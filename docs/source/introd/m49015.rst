@@ -500,7 +500,7 @@ Finance (accountant, auditor)
 
    </table>
 
-.. hint:: Link to Learning
+.. seealso::
 
    Watch a `brief video <http://cas2.umkc.edu/psychology/career.asp>`__
    describing some of the career options available to people earning
