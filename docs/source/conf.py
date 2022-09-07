@@ -122,6 +122,11 @@ epub_show_urls = 'footnote'
 
 rst_epilog= """
 
+.. meta::
+   :keywords: reStructuredText, demonstration, demo, parser
+   :description lang=en: A demonstration of the reStructuredText
+   :author: Justpsychiatry,
+   :date: 
 
 .. admonition:: Copyright Notice
  

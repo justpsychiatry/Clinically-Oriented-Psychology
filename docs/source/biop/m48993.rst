@@ -31,14 +31,22 @@ extent might there be a psychological basis to health conditions such as
 childhood obesity?
 
 To explore these questions, let’s start by focusing on a specific
-disease, **sickle-cell anemia**:term:`pastehere`, and
-how it might affect two infected sisters. Sickle-cell anemia is a
+disease, :term:`sickle-cell anemia`, and
+how it might affect two infected sisters. Sickle-cell anaemia is a
 genetic condition in which red blood cells, which are normally round,
 take on a crescent-like shape
 (`[link] <#CNX_Psych_03_01_SickleCell>`__). The changed shape of these
 cells affects how they function: sickle-shaped cells can clog blood
 vessels and block blood flow, leading to high fever, severe pain,
 swelling, and tissue damage.
+
+.. image:: CNX_Psych_03_01_SickleCell.*
+   :width: 2.16667in
+   :height: 2.16667in
+
+   **Figure 3.2** Normal blood cells travel freely through the blood
+   vessels, while sickle-shaped cells form blockages preventing blood
+   flow.
 
 |An illustration shows round and sickle-shaped blood cells.|\ {:
 #CNX_Psych_03_01_SickleCell}
@@ -83,9 +91,7 @@ the world. In parts of Africa where malaria is prevalent, having the
 sickle-cell mutation does provide health benefits for carriers
 (protection from malaria).
 
-This is precisely the situation that Charles **Darwin**\ {:
-data-type=“term” .no-emphasis} describes in the **theory of evolution by
-natural selection**\ {: data-type=“term”}
+This is precisely the situation that Charles :term:`Darwin` describes in the :term:`theory of evolution by natural selection`
 (`[link] <#CNX_Psych_03_01_Darwin>`__). In simple terms, the theory
 states that organisms that are better suited for their environment will
 survive and reproduce, while those that are poorly suited for their
