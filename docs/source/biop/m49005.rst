@@ -118,6 +118,7 @@ the form of glycogen for future use. These processes are associated with
 activation of the parasympathetic nervous system.
 
 .. admonition:: Summary
+ 
    The brain and spinal cord make up the central nervous system. The
    peripheral nervous system is comprised of the somatic and autonomic
    nervous systems. The somatic nervous system transmits sensory and motor

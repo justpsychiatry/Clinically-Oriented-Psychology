@@ -8,12 +8,18 @@ How Memory Functions
    :depth: 3
 ..
 
-.. admonition:: Note
+.. card:: Learning Objectives
+   :class-card: sd-border-1
+   :class-card: sd-rounded-2
+   :shadow: lg
 
-   By the end of this section, you will be able to: \* Discuss the three
-   basic functions of memory \* Describe the three stages of memory
-   storage \* Describe and distinguish between procedural and
-   declarative memory and semantic and episodic memory
+   By the end of this section, you will be able to: 
+
+   * Discuss the three basic functions of memory 
+   * Describe the three stages of memory storage 
+   * Describe and distinguish between procedural and declarative memory and semantic and episodic memory
+
+...
 
 Memory is an information processing system; therefore, we often compare
 it to a computer. :term:Memory is the set of
@@ -34,7 +40,7 @@ ENCODING
 ========
 
 We get information into our brains through a process called
-**encoding**\ {: data-type=“term”}, which is the input of information
+:term:`encoding`, which is the input of information
 into the memory system. Once we receive sensory information from the
 environment, our brains label or code it. We organize the information
 with other similar information and connect new concepts to existing
@@ -42,15 +48,14 @@ concepts. Encoding information occurs through automatic processing and
 effortful processing.
 
 If someone asks you what you ate for lunch today, more than likely you
-could recall this information quite easily. This is known as **automatic
-processing**\ {: data-type=“term”}, or the encoding of details like
+could recall this information quite easily. This is known as :term:`automatic processing`, 
+or the encoding of details like
 time, space, frequency, and the meaning of words. Automatic processing
 is usually done without any conscious awareness. Recalling the last time
 you studied for a test is another example of automatic processing. But
 what about the actual test material you studied? It probably required a
 lot of work and attention on your part in order to encode that
-information. This is known as **effortful processing**\ {:
-data-type=“term”} (`[link] <#Figure_08_01_Driving>`__).
+information. This is known as :term:`effortful processing` (`[link] <#Figure_08_01_Driving>`__).
 
 |A photograph shows a person driving a car.|\ {: #Figure_08_01_Driving}
 
@@ -84,8 +89,8 @@ remember the words, they tended to recall them in categories, showing
 that they paid attention to the meanings of the words as they learned
 them.
 
-**Visual encoding**\ {: data-type=“term”} is the encoding of images, and
-**acoustic encoding**\ {: data-type=“term”} is the encoding of sounds,
+:term:`Visual encoding` is the encoding of images, and
+:term:`acoustic encoding` is the encoding of sounds,
 words in particular. To see how visual encoding works, read over this
 list of words: *car, level, dog, truth, book, value*. If you were asked
 later to recall the words from this list, which ones do you think you’d
@@ -103,10 +108,15 @@ Now let’s turn our attention to acoustic encoding. You are driving in
 your car and a song comes on the radio that you haven’t heard in at
 least 10 years, but you sing along, recalling every word. In the United
 States, children often learn the alphabet through song, and they learn
-the number of days in each month through rhyme: *“*\ Thirty days hath
-September, / April, June, and November; / All the rest have thirty-one,
-/ Save February, with twenty-eight days clear, / And twenty-nine each
-leap year.” These lessons are easy to remember because of acoustic
+the number of days in each month through rhyme: 
+
+   “Thirty days hath September,
+    April, June, and November; 
+    All the rest have thirty-one,
+    Save February, with twenty-eight days clear,
+    And twenty-nine each leap year.” 
+   
+   These lessons are easy to remember because of acoustic
 encoding. We encode the sounds the words make. This is one of the
 reasons why much of what we teach young children is done through song,
 rhyme, and rhythm.
@@ -129,28 +139,27 @@ those encoded visually or acoustically. Semantic encoding involves a
 deeper level of processing than the shallower visual or acoustic
 encoding. Craik and Tulving concluded that we process verbal information
 best through semantic encoding, especially if we apply what is called
-the self-reference effect. The **self-reference effect**\ {:
-data-type=“term”} is the tendency for an individual to have better
+the self-reference effect. The :term:`self-reference effect` is the tendency for an individual to have better
 memory for information that relates to oneself in comparison to material
-that has less personal relevance (@rogersSelfreferenceEncodingPersonal1977). Could
-semantic encoding be beneficial to you as you attempt to memorize the
-concepts in this chapter?
+that has less personal relevance :footcite:p:`rogersSelfreferenceEncodingPersonal1977`. 
+
+.. hint:: 
+   
+   Could semantic encoding be beneficial to you as you attempt to memorize the concepts in this chapter?
 
 STORAGE
 =======
 
 Once the information has been encoded, we have to somehow retain it. Our
 brains take the encoded information and place it in storage.
-**Storage**\ {: data-type=“term”} is the creation of a permanent record
+:term:`Storage` is the creation of a permanent record
 of information.
 
 In order for a memory to go into storage (i.e., long-term memory), it
-has to pass through three distinct stages: **Sensory Memory**\ {:
-data-type=“term” .no-emphasis}, **Short-Term Memory**\ {:
-data-type=“term” .no-emphasis}, and finally **Long-Term Memory**\ {:
-data-type=“term” .no-emphasis}. These stages were first proposed by
-Richard **Atkinson**:term:`pastehere` and Richard
-**Shiffrin**:term:`pastehere` (1968). Their model of
+has to pass through three distinct stages: :term:`Sensory Memory`, :term:`Short-Term Memory`, 
+and finally :term:`Long-Term Memory`. These stages were first proposed by
+Richard :term:`Atkinson` and Richard
+:term:`Shiffrin` (1968). Their model of
 human memory (`[link] <#Figure_08_01_Atkinson>`__), called
 Atkinson-Shiffrin (A-S), is based on the belief that we process memories
 in the same way that a computer processes information.
@@ -183,7 +192,7 @@ Sensory Memory
 --------------
 
 In the Atkinson-Shiffrin model, stimuli from the environment are
-processed first in **sensory memory**\ {: data-type=“term”}: storage of
+processed first in :term:`sensory memory` storage of
 brief sensory events, such as sights, sounds, and tastes. It is very
 brief storage—up to a couple of seconds. We are constantly bombarded
 with sensory information. We cannot absorb all of it, or even most of
@@ -319,6 +328,8 @@ in our **semantic memory**\ {: data-type=“term”} is knowledge about
 words, concepts, and language-based knowledge and facts. For example,
 answers to the following questions are stored in your semantic memory:
 
+.. hlist::
+
 -  Who was the first President of the United States?
 -  What is democracy?
 -  What is the longest river in the world?
@@ -347,16 +358,15 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
    over the course of your life—meals, conversations, clothing choices,
    weather conditions, and so on? Most likely none of us could even come
    close to answering these questions; however, American actress Marilu
-   **Henner**:term:`pastehere`, best known for the
+   :term:`Henner`, best known for the
    television show *Taxi,* can remember. She has an amazing and highly
    superior autobiographical memory (`[link] <#Figure_08_01_Marilu>`__).
 
    |A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
 
    Very few people can recall events in this way; right now, only 12
-   known individuals have this ability, and only a few have been studied
-   (Parker, Cahill & McGaugh 2006). And although **hyperthymesia**\ {:
-   data-type=“term” .no-emphasis} normally appears in adolescence, two
+   known individuals have this ability, and only a few have been studied :footcite:p:`parkerCaseUnusualAutobiographical2006`
+   (Parker, Cahill & McGaugh 2006). And although :term:`hyperthymesia` normally appears in adolescence, two
    children in the United States appear to have memories from well
    before their tenth birthdays.
 
@@ -550,69 +560,95 @@ Personal Application Questions
 
    acoustic encoding
       input of sounds, words, and music ^
+
    Atkinson-Shiffrin model (A-S)
       memory model that states we process information through three
       systems: sensory memory, short-term memory, and long-term memory ^
+
    automatic processing
       encoding of informational details like time, space, frequency, and
       the meaning of words ^
+
    declarative memory
       type of long-term memory of facts and events we personally
       experience ^
+
    effortful processing
       encoding of information that takes effort and attention ^
+
    encoding
       input of information into the memory system ^
+
    episodic memory
       type of declarative memory that contains information about events
       we have personally experienced, also known as autobiographical
       memory ^
+
    explicit memory
       memories we consciously try to remember and recall ^
+
    implicit memory
       memories that are not part of our consciousness ^
+
    long-term memory (LTM)
       continuous storage of information ^
+
    memory
       system or process that stores what we learn for future use ^
+
    memory consolidation
       active rehearsal to move information from short-term memory into
       long-term memory ^
+
    procedural memory
       type of long-term memory for making skilled actions, such as how
       to brush your teeth, how to drive a car, and how to swim ^
+
    recall
       accessing information without cues ^
+
    recognition
       identifying previously learned information after encountering it
       again, usually in response to a cue ^
+
    rehearsal
       conscious repetition of information to be remembered ^
+
    relearning
       learning information that was previously learned ^
+
    retrieval
       act of getting information out of long-term memory storage and
       back into conscious awareness ^
+
    self-reference effect
       tendency for an individual to have better memory for information
       that relates to oneself in comparison to material that has less
       personal relevance ^
+
    semantic encoding
       input of words and their meaning ^
+
    semantic memory
       type of declarative memory about words, concepts, and
       language-based knowledge and facts ^
+
    sensory memory
       storage of brief sensory events, such as sights, sounds, and
       tastes ^
+
    short-term memory (STM)
       (also, working memory) holds about seven bits of information
       before it is forgotten or stored, as well as information that has
       been retrieved and is being used ^
+
    storage
       creation of a permanent record of information ^
+
    visual encoding
       input of images
+
+.. footbibliography::
 
 .. |A diagram shows three boxes, placed in a row from left to right, respectively titled “Encoding,” “Storage,” and “Retrieval.” One right-facing arrow connects “Encoding” to “Storage” and another connects “Storage” to “Retrieval.”| image:: ../resources/CNX_Psych_08_01_Memory.jpg
 .. |A photograph shows a person driving a car.| image:: ../resources/CNX_Psych_08_01_Drivingn.jpg
