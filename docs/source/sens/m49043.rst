@@ -237,7 +237,7 @@ resultant movement of the ossicles is called conductive hearing loss.
 Hearing loss that involves a failure of the transmission of auditory
 nerve impulses to the brain is called sensorineural hearing loss.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

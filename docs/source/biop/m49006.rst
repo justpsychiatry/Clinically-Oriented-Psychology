@@ -1,4 +1,4 @@
-=========================
+﻿=========================
 The Brain and Spinal Cord
 =========================
 
@@ -28,8 +28,8 @@ brain, the spinal cord.
 The Spinal Cord
 ===============
 
-It can be said that the **spinal cord**\ {: data-type=“term”
-.no-emphasis} is what connects the brain to the outside world. Because
+It can be said that the :term:`spinal cord`
+ is what connects the brain to the outside world. Because
 of it, the brain can act. The spinal cord is like a relay station, but a
 very smart one. It not only routes messages to and from the brain, but
 it also has its own system of automatic processes, called reflexes.
@@ -564,7 +564,7 @@ fMRI, and EEG.
 Review Questions
 -----------------
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question 1
 

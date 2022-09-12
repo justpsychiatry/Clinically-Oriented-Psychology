@@ -233,7 +233,7 @@ and kinesthetic systems provide information about body position and body
 movement through receptors that detect stretch and tension in the
 muscles, joints, tendons, and skin of the body.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

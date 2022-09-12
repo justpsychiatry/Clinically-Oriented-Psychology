@@ -152,7 +152,7 @@ substance-related disorder diagnosis and another psychiatric diagnosis,
 such as depression, bipolar disorder, or schizophrenia. The best
 treatment would address both problems simultaneously.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

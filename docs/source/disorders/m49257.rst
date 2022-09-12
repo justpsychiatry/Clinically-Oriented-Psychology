@@ -177,7 +177,7 @@ that people with an underlying diathesis, or vulnerability, for a
 psychological disorder are more likely than those without the diathesis
 to develop the disorder when faced with stressful events.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

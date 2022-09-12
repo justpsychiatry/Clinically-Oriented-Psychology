@@ -1457,7 +1457,7 @@ Often in combination with psychotherapy, people can be prescribed
 biologically based treatments such as psychotropic medications and/or
 other medical procedures such as electro-convulsive therapy.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

@@ -139,7 +139,7 @@ scientific study of mind and behavior. Students of psychology develop
 critical thinking skills, become familiar with the scientific method,
 and recognize the complexity of behavior.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

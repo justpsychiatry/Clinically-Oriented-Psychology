@@ -896,7 +896,7 @@ widely accepted trait theory today. The five factors are openness,
 conscientiousness, extroversion, agreeableness, and neuroticism. These
 traits occur along a continuum.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

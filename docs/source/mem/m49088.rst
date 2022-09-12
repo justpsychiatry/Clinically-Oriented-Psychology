@@ -1002,7 +1002,7 @@ when old information hinders the recall of newly learned information.
 Retroactive interference happens when information learned more recently
 hinders the recall of older information.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

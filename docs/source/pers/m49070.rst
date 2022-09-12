@@ -149,7 +149,7 @@ perspectives then emerged in reaction to the psychodynamic perspective,
 including the learning, humanistic, biological, trait, and cultural
 perspectives.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

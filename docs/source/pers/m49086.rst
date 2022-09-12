@@ -277,7 +277,7 @@ to our beliefs about the power we have over our lives. He said that
 people fall along a continuum between a purely internal and a purely
 external locus of control.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

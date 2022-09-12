@@ -166,7 +166,7 @@ awareness. Both hypnotic and meditative states may involve altered
 states of consciousness that have potential application for the
 treatment of a variety of physical and psychological disorders.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

@@ -141,7 +141,7 @@ however, environmental factors (such as family interactions) and
 maturation can affect the ways in which children’s personalities are
 expressed.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

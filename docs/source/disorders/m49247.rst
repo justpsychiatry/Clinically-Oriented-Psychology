@@ -766,7 +766,7 @@ agoraphobia: an intense fear and avoidance of situations in which it
 might be difficult to escape; and generalized anxiety disorder: a
 relatively continuous state of tension, apprehension, and dread.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

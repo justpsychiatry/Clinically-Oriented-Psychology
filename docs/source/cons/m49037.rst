@@ -449,7 +449,7 @@ hallucinogenic drugs cause pronounced changes in sensory and perceptual
 experiences. The hallucinogens are variable with regards to the specific
 neurotransmitter systems they affect.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

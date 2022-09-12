@@ -220,7 +220,7 @@ persistent difficulty in discarding or parting with objects, regardless
 of their actual value, often resulting in the accumulation of items that
 clutter and congest her living area.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

@@ -185,7 +185,7 @@ Nevertheless, the diagnostic criteria in the DSM are more explicit than
 that of any other system, which makes the DSM system highly desirable
 for both clinical diagnosis and research.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

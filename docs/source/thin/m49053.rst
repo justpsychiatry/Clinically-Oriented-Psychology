@@ -264,7 +264,7 @@ behavior, and these help us function properly in various situations
 without having to “think twice” about them. Schemata show up in social
 situations and routines of daily behavior.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

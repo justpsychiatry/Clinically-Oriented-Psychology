@@ -516,7 +516,7 @@ degrees in psychology have more limited psychology-related career
 options, the skills acquired as a function of an undergraduate education
 in psychology are useful in a variety of work contexts.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

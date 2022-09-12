@@ -432,7 +432,7 @@ explicit memory. Finally, retrieval is the act of getting memories out
 of storage and back into conscious awareness. This is done through
 recall, recognition, and relearning.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
   .. card:: Question
 

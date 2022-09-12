@@ -217,7 +217,7 @@ therapy. The therapy group is made up of one or more families. The goal
 of this approach is to enhance the growth of each individual family
 member and the family as a whole.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

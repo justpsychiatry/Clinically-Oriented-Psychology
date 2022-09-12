@@ -306,7 +306,7 @@ scientists to separate fact from simple opinion. Having good information
 generated from research aids in making wise decisions both in public
 policy and in our personal lives.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

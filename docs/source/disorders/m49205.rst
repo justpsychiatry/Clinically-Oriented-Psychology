@@ -331,7 +331,7 @@ determine which factors best predict the development of schizophrenia.
 Future research may enable us to pinpoint those especially at risk for
 developing schizophrenia and who may benefit from early intervention.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

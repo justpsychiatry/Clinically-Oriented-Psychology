@@ -576,7 +576,7 @@ tests that are still in use today: the WAIS-IV and WISC-V. The Bell
 curve shows the range of scores that encompass average intelligence as
 well as standard deviations.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

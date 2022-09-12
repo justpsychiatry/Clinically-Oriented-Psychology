@@ -448,7 +448,7 @@ engaging in sexual behavior in developing their concept of the sexual
 response cycle. While often confused, sexual orientation and gender
 identity are related, but distinct, concepts.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

@@ -134,7 +134,7 @@ Review Questions
 -----------------
 
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
    .. card:: Question 1
 

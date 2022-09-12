@@ -353,7 +353,7 @@ continuous or discontinuous, whether development follows one course or
 many, and the relative influence of nature versus nurture on
 development.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

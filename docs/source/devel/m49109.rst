@@ -1252,7 +1252,7 @@ through various stages. Finally, Lawrence Kohlberg turned his attention
 to moral development. He said that we pass through three levels of moral
 thinking that build on our cognitive development.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

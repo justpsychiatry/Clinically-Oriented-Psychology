@@ -528,7 +528,7 @@ explanations for our own and others behaviors can be biased due to not
 having enough information about others’ motivations for behaviors and by
 providing explanations that bolster our self-esteem.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

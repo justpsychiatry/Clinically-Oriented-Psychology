@@ -26,13 +26,11 @@ negative side of human behavior—aggression.
 AGGRESSION
 ==========
 
-Humans engage in **aggression**\ {: data-type=“term”} when they seek to
+Humans engage in :term:`aggression` when they seek to
 cause harm or pain to another person. Aggression takes two forms
-depending on one’s motives: hostile or instrumental. **Hostile
-aggression**\ {: data-type=“term”} is motivated by feelings of anger
+depending on one’s motives: hostile or instrumental. :term:`Hostile aggression` is motivated by feelings of anger
 with intent to cause pain; a fight in a bar with a stranger is an
-example of hostile aggression. In contrast, **instrumental
-aggression**\ {: data-type=“term”} is motivated by achieving a goal and
+example of hostile aggression. In contrast, :term:`instrumental aggression` is motivated by achieving a goal and
 does not necessarily involve intent to cause pain (Berkowitz, 1993); a
 contract killer who murders for hire displays instrumental aggression.
 
@@ -52,7 +50,7 @@ aggression serving as a means to an end (Dodge & Schwartz, 1997). For
 example, women may express their aggression covertly, for example, by
 communication that impairs the social standing of another person.
 Another theory that explains one of the functions of human aggression is
-**frustration aggression theory**:term:`pastehere`
+:term:`frustration aggression theory`
 (Dollard, Doob, Miller, Mowrer, & Sears, 1939). This theory states that
 when humans are prevented from achieving an important goal, they become
 frustrated and aggressive.
@@ -70,11 +68,11 @@ have experienced as a child, not all play behavior has positive
 outcomes. Some children are aggressive and want to play roughly. Other
 children are selfish and do not want to share toys. One form of negative
 social interactions among children that has become a national concern is
-bullying. **Bullying**\ {: data-type=“term”} is repeated negative
+bullying. :term:`Bullying` is repeated negative
 treatment of another person, often an adolescent, over time (Olweus,
 1993). A one-time incident in which one child hits another child on the
 playground would not be considered bullying: Bullying is repeated
-behavior. The negative treatment typical in bullying is the attempt to
+behaviour. The negative treatment typical in bullying is the attempt to
 inflict harm, injury, or humiliation, and bullying can include physical
 or verbal attacks. However, bullying doesn’t have to be physical or
 verbal, it can be psychological. Research finds gender differences in
@@ -103,6 +101,8 @@ Although there is not one single personality profile for who becomes a
 bully and who becomes a victim of **bullying**\ {: data-type=“term”
 .no-emphasis} (APA, 2010), researchers have identified some patterns in
 children who are at a greater risk of being bullied (Olweus, 1993):
+
+.. hlist::
 
 -  Children who are emotionally reactive are at a greater risk for being
    bullied. Bullies may be attracted to children who get upset easily
@@ -179,8 +179,7 @@ bystanders likely feared for their own lives—if they went to her aid the
 attacker might harm them. However, how difficult would it have been to
 make a phone call to the police from the safety of their apartments? Why
 do you think no one helped in any way? Social psychologists claim that
-diffusion of responsibility is the likely explanation. **Diffusion of
-responsibility**\ {: data-type=“term”} is the tendency for no one in a
+diffusion of responsibility is the likely explanation. :term:`Diffusion of responsibility` is the tendency for no one in a
 group to help because the responsibility to help is spread throughout
 the group (Bandura, 1999). Because there were many witnesses to the
 attack on Genovese, as evidenced by the number of lit apartment windows
@@ -209,7 +208,7 @@ Despite the social norm of helping others in need, when there are many
 bystanders witnessing an emergency, diffusion of responsibility will
 lead to a lower likelihood of any one person helping.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 
@@ -314,21 +313,27 @@ Personal Application Questions
 
    aggression
       seeking to cause harm or pain to another person ^
+   
    bullying
       a person, often an adolescent, being treated negatively repeatedly
       and over time ^
+   
    bystander effect
       situation in which a witness or bystander does not volunteer to
       help a victim or person in distress ^
+   
    cyberbullying
       repeated behavior that is intended to cause psychological or
       emotional harm to another person and that takes place online ^
+   
    diffusion of responsibility
       tendency for no one in a group to help because the responsibility
       to help is spread throughout the group ^
+   
    hostile aggression
       aggression motivated by feelings of anger with intent to cause
       pain ^
+   
    instrumental aggression
       aggression motivated by achieving a goal and does not necessarily
       involve intent to cause pain

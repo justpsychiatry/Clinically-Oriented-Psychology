@@ -322,7 +322,7 @@ clinical social workers, and religious personnel. These therapy sessions
 would be covered through insurance, government funds, or private (self)
 pay.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 

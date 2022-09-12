@@ -309,7 +309,7 @@ Sociocultural factors that emphasize thinness as a beauty ideal and a
 genetic predisposition contribute to the development of eating disorders
 in many young females, though eating disorders span ages and genders.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
    .. card:: Question
 

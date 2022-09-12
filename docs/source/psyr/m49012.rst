@@ -447,7 +447,7 @@ Longitudinal research has been incredibly helpful to researchers who
 need to collect data on how people change over time. Cross-sectional
 research compares multiple segments of a population at a single time.
 
-.. card-carousel:: 4
+.. card-carousel:: 2
 
     .. card:: Question
 
