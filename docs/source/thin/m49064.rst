@@ -502,7 +502,7 @@ intelligence. Members must have an IQ score in the top 2% of the
 population, and they may be required to pass other exams in their
 application to join the group.
 
-.. :tip:
+.. tip::
 
       What’s in a Name? Mental Retardation
 

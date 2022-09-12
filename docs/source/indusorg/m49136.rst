@@ -446,7 +446,7 @@ measurements would be more reliable and show better relationships with
 outcomes like performance if the measurement of job satisfaction
 separated these two possible elements of job satisfaction.
 
-.. :tip:
+.. tip::
 
       Job Satisfaction in Federal Government Agencies
 
@@ -993,7 +993,7 @@ under conditions in which they have equal standing, common goals,
 cooperation between the groups, and especially support on the part of
 the institution or authorities for the contact.
 
-.. :tip:
+.. tip::
 
       Managing Generational Differences
 

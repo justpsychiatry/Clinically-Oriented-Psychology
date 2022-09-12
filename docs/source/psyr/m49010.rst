@@ -76,7 +76,7 @@ how the data collected will be used, the reasons why deception was
 necessary, and information about how to obtain additional information
 about the study.
 
-.. :tip:
+.. :tip::
 
       Ethics and the Tuskegee Syphilis Study
 

@@ -8,7 +8,8 @@ Parts of the Nervous System
    :depth: 3
 ..
 
-.. container::
+.. card::
+   :shadow: lg
 
    By the end of this section, you will be able to: \* Describe the
    difference between the central and peripheral nervous systems \*

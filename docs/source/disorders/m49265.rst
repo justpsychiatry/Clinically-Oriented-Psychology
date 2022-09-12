@@ -118,7 +118,7 @@ way later, similar to how fashion trends from one era may elicit
 quizzical looks decades later—imagine how a headband, legwarmers, and
 the big hair of the 1980s would go over on your campus today.
 
-.. :tip:
+.. tip::
 
       The Myth of Mental Illness
 
