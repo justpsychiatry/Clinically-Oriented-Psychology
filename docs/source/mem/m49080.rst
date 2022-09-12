@@ -367,11 +367,16 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
       television show *Taxi,* can remember. She has an amazing and highly
       superior autobiographical memory (`[link] <#Figure_08_01_Marilu>`__).
 
-      |A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
+      A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
 
+ .. figure:: Figure_08_01_Marilu.jpg
+    :scale: 50 %
+    :alt: A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
+
+      
       Very few people can recall events in this way; right now, only 12
-      known individuals have this ability, and only a few have been studied :footcite:p:`parkerCaseUnusualAutobiographical2006`
-      (Parker, Cahill & McGaugh 2006). And although :term:`hyperthymesia` normally appears in adolescence, two
+      known individuals have this ability, and only a few have been studied (Parker, Cahill & McGaugh 2006) :footcite:p:`parkerCaseUnusualAutobiographical2006`
+      . And although :term:`hyperthymesia` normally appears in adolescence, two
       children in the United States appear to have memories from well
       before their tenth birthdays.
 
