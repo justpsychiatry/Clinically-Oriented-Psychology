@@ -2,22 +2,25 @@
 Measures of Intelligence
 ========================
 
-
+.. meta::
+   :description: This topic summarises the tools used for the assessment of intelligence.
 
 .. contents::
    :depth: 3
 ..
 
-.. container::
+.. card::
 
-   By the end of this section, you will be able to: \* Explain how
-   intelligence tests are developed \* Describe the history of the use
-   of IQ tests \* Describe the purposes and benefits of intelligence
-   testing
+   By the end of this section, you will be able to: 
+
+   * Explain how intelligence tests are developed 
+   * Describe the history of the use of IQ tests 
+   * Describe the purposes and benefits of intelligence testing
+...
 
 While you’re likely familiar with the term “IQ” and associate it with
 the idea of intelligence, what does IQ really mean? IQ stands for
-**intelligence quotient**\ {: data-type=“term”} and describes a score
+:term:`intelligence quotient` and describes a score
 earned on a test designed to measure intelligence. You’ve already
 learned that there are many ways psychologists describe intelligence (or
 more aptly, intelligences). Similarly, IQ tests—the tools designed to
@@ -44,7 +47,7 @@ were developed and the history of their use.
 
 The IQ test has been synonymous with intelligence for over a century. In
 the late 1800s, Sir Francis Galton developed the first broad test of
-intelligence (Flanagan & Kaufman, 2004). Although he was not a
+intelligence (Flanagan & Kaufman, 2004) :footcite:p:`flanaganEssentialsWISCIVAssessment`. Although he was not a
 psychologist, his contributions to the concepts of intelligence testing
 are still felt today (Gordon, 1995). Reliable intelligence testing (you
 may recall from earlier chapters that reliability refers to a test’s
@@ -504,7 +507,8 @@ application to join the group.
 
 .. tip::
 
-      What’s in a Name? Mental Retardation
+   What’s in a Name? Mental Retardation
+   -------------------------------------
 
    In the past, individuals with IQ scores below 70 and significant
    adaptive and social functioning delays were diagnosed with mental
@@ -585,7 +589,7 @@ well as standard deviations.
       3. children with mental disabilities
       4. children of average intelligence {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
       B
   .. Card:: Question
@@ -598,7 +602,7 @@ well as standard deviations.
       3. 85
       4. 100 {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
       D
   .. Card:: Question
@@ -610,7 +614,7 @@ well as standard deviations.
       3. Louis Terman
       4. David Wechsler {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
       D
   .. Card:: Question
@@ -623,9 +627,9 @@ well as standard deviations.
       3. intellectual disability
       4. cognitive disruption {: type=“a”}
 
-   .. container::
+    .. dropdown::
 
-      C
+        C
 
 Critical Thinking Questions
 ===========================
@@ -662,10 +666,9 @@ Critical Thinking Questions
 Personal Application Question
 =============================
 
-.. container::
 
-   .. container::
-
+.. hint::
+    
       In thinking about the case of Candace described earlier, do you
       think that Candace benefitted or suffered as a result of
       consistently being passed on to the next grade?
@@ -690,6 +693,11 @@ Personal Application Question
    standardization
       method of testing in which administration, scoring, and
       interpretation of results are consistent
+
+References
+-----------
+  .. footbibliography::
+   
 
 .. |Photograph A shows a portrait of Alfred Binet. Photograph B shows six sketches of human faces. Above these faces is the label “Guide for Binet-Simon Scale. 223” The faces are arranged in three rows of two, and these rows are labeled “1, 2, and 3.” At the bottom it reads: “The psychological clinic is indebted for the loan of these cuts and those on p. 225 to the courtesy of Dr. Oliver P. Cornman, Associate Superintendent of Schools of Philadelphia, and Chairman of Committee on Backward Children Investigation. See Report of Committee, Dec. 31, 1910, appendix.”| image:: ../resources/CNX_Psych_07_05_ChildIQ.jpg
 .. |A graph of a bell curve is labeled “Height of U.S. Women.” The x axis is labeled “Height” and the y axis is labeled “Frequency.” Between the heights of five feet tall and five feet and five inches tall, the frequency rises to a curved peak, then begins dropping off at the same rate until it hits five feet ten inches tall.| image:: ../resources/CNX_Psych_07_05_BellCurve1.jpg
