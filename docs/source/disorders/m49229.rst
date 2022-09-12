@@ -998,7 +998,7 @@ other people do.
       3. are impulsive and unpredictable
       4. tend to accomplish goals through cruelty {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
       C
   .. Card:: Question
