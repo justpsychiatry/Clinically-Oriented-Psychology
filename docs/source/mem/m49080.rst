@@ -68,7 +68,7 @@ information. This is known as :term:`effortful processing` (`[link] <#Figure_08_
 
 What are the most effective ways to ensure that important memories are
 well encoded? Even a simple sentence is easier to recall when it is
-meaningful (Anderson, 1984). Read the following sentences (Bransford &
+meaningful (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` . Read the following sentences (Bransford &
 McCarrell, 1974), then look away and count backwards from 30 by threes
 to zero, and then try to write down the sentences (no peeking back at
 this page!).
@@ -234,7 +234,7 @@ system that processes incoming sensory memory; sometimes it is called
 working memory. Short-term memory takes information from sensory memory
 and sometimes connects that memory to something already in long-term
 memory. Short-term memory storage lasts about 20 seconds. George Miller
-(1956):footcite:p:`millerMagicalNumberSeven1956`, in his research on the capacity of memory, found that most
+(1956) :footcite:p:`millerMagicalNumberSeven1956`, in his research on the capacity of memory, found that most
 people can retain about 7 items in STM. Some remember 5, some 9, so he
 called the capacity of STM 7 plus or minus 2.
 
@@ -269,7 +269,7 @@ Recall is somewhat better for random numbers than for random letters
 Long-term Memory
 ----------------
 
-**Long-term memory (LTM)**\ {: data-type=“term”} is the continuous
+:term:`Long-term memory (LTM)` is the continuous
 storage of information. Unlike short-term memory, the storage capacity
 of LTM has no limits. It encompasses all the things you can remember
 that happened more than just a few minutes ago to all of the things that
@@ -290,14 +290,13 @@ Long-term memory is divided into two types: explicit and implicit
 (`[link] <#Figure_08_01_Explicit>`__). Understanding the different types
 is important because a person’s age or particular types of brain trauma
 or disorders can leave certain types of LTM intact while having
-disastrous consequences for other types. **Explicit memories**\ {:
-data-type=“term”} are those we consciously try to remember and recall.
+disastrous consequences for other types. :term:`Explicit memories` are those we consciously try to remember and recall.
 For example, if you are studying for your chemistry exam, the material
 you are learning will be part of your explicit memory. (Note: Sometimes,
 but not always, the terms explicit memory and declarative memory are
 used interchangeably.)
 
-**Implicit memories**\ {: data-type=“term”} are memories that are not
+:term:`Implicit memories` are memories that are not
 part of our consciousness. They are memories formed from behaviors.
 Implicit memory is also called non-declarative memory.
 
@@ -311,7 +310,7 @@ are two boxes labeled “episodic (experienced events)” and “semantic
 “procedural (skills and actions)” and “emotional conditioning.”|\ {:
 #Figure_08_01_Explicit}
 
-**Procedural memory**\ {: data-type=“term”} is a type of implicit
+:term:`Procedural memory` is a type of implicit
 memory: it stores information about how to do things. It is the memory
 for skilled actions, such as how to brush your teeth, how to drive a
 car, how to swim the crawl (freestyle) stroke. If you are learning how
@@ -324,12 +323,12 @@ even if you do not swim for a couple of decades. Similarly, if you
 present an accomplished guitarist with a guitar, even if he has not
 played in a long time, he will still be able to play quite well.
 
-**Declarative memory**\ {: data-type=“term”} has to do with the storage
+:term:`Declarative memory` has to do with the storage
 of facts and events we personally experienced. Explicit (declarative)
 memory has two parts: semantic memory and episodic memory. Semantic
 means having to do with language and knowledge about language. An
 example would be the question “what does *argumentative* mean?” Stored
-in our **semantic memory**\ {: data-type=“term”} is knowledge about
+in our :term:`semantic memory` is knowledge about
 words, concepts, and language-based knowledge and facts. For example,
 answers to the following questions are stored in your semantic memory:
 
@@ -341,13 +340,13 @@ answers to the following questions are stored in your semantic memory:
 
 :term:`Episodic memory` is information about events we
 have personally experienced. The concept of episodic memory was first
-proposed about 40 years ago (Tulving, 1972):footcite:p:`tulvingEpisodicSemanticMemory1972`. Since then, Tulving and
+proposed about 40 years ago (Tulving, 1972) :footcite:p:`tulvingEpisodicSemanticMemory1972`. Since then, Tulving and
 others have looked at scientific evidence and reformulated the theory.
 Currently, scientists believe that episodic memory is memory about
 happenings in particular places at particular times, the what, where,
 and when of an event (Tulving, 2002) :footcite:p:`tulvingEpisodicMemoryMind2002`. It involves recollection of visual
 imagery as well as the feeling of familiarity (Hassabis & Maguire,
-2007) :footcite:p:`hassabisDeconstructingEpisodicMemory2007`.
+1)    :footcite:p:`hassabisDeconstructingEpisodicMemory2007`.
 
 .. card:: psychology everyday-connection
 
@@ -539,19 +538,9 @@ Critical Thinking Questions
 Personal Application Questions
 ==============================
 
-.. container::
-
-   .. container::
-
-      Describe something you have learned that is now in your procedural
-      memory. Discuss how you learned this information.
-
-.. container::
-
-   .. container::
-
-      Describe something you learned in high school that is now in your
-      semantic memory.
+1. Describe something you have learned that is now in your procedural memory. 
+   Discuss how you learned this information.
+2. Describe something you learned in high school that is now in your semantic memory.
 
 .. glossary::
 
