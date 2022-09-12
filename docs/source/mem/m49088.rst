@@ -8,7 +8,7 @@ Problems with Memory
    :depth: 3
 ..
 
-.. container::
+.. card::
 
    By the end of this section, you will be able to: \* Compare and
    contrast the two types of amnesia \* Discuss the unreliability of
@@ -380,423 +380,45 @@ offers seven ways our memories fail us. He calls them the seven sins of
 memory and categorizes them into three groups: forgetting, distortion,
 and intrusion (`[link] <#Table_08_03_01>`__).
 
-.. raw:: html
+.. table:: Schacter’s Seven Sins of Memory
+
+   +-----------------+------------+-----------------+-----------------+
+   | Sin             | Type       | Description     | Example         |
+   +=================+============+=================+=================+
+   | Transience      | Forgetting | Accessibility   | Forget events   |
+   |                 |            | of memory       | that occurred   |
+   |                 |            | decreases over  | long ago        |
+   |                 |            | time            |                 |
+   +-----------------+------------+-----------------+-----------------+
+   | a               | Forgetting | Forgetting      | Forget where    |
+   | bsentmindedness |            | caused by       | your phone is   |
+   |                 |            | lapses in       |                 |
+   |                 |            | attention       |                 |
+   +-----------------+------------+-----------------+-----------------+
+   | Blocking        | Forgetting | Accessibility   | Tip of the      |
+   |                 |            | of information  | tongue          |
+   |                 |            | is temporarily  |                 |
+   |                 |            | blocked         |                 |
+   +-----------------+------------+-----------------+-----------------+
+   | Misattribution  | Distortion | Source of       | Recalling a     |
+   |                 |            | memory is       | dream memory as |
+   |                 |            | confused        | a waking memory |
+   +-----------------+------------+-----------------+-----------------+
+   | Suggestibility  | Distortion | False memories  | Result from     |
+   |                 |            |                 | leading         |
+   |                 |            |                 | questions       |
+   +-----------------+------------+-----------------+-----------------+
+   | Bias            | Distortion | Memories        | Align memories  |
+   |                 |            | distorted by    | to current      |
+   |                 |            | current belief  | beliefs         |
+   |                 |            | system          |                 |
+   +-----------------+------------+-----------------+-----------------+
+   | Persistence     | Intrusion  | Inability to    | Traumatic       |
+   |                 |            | forget          | events          |
+   |                 |            | undesirable     |                 |
+   |                 |            | memories        |                 |
+   +-----------------+------------+-----------------+-----------------+
 
-   <table id="Table_08_03_01" summary="A table is titled “Schacter’s seven sins of memory” and has four columns labeled “sin,” type,” description,” and “example.” The sin of  “transcience” is the “forgetting” type; it is described as “accessibility of memory decreases over time,” and the example is “forget events that occurred long ago.” The sin of  “absentmindedness” is the “forgetting” type; it is described as “Forgetting caused by lapses in attention,” and the example is “Forget where your phone is.” The sin of  “Blocking” is the “forgetting” type; it is described as “Accessibility of information is temporarily blocked,” and the example is “Tip of the tongue.” The sin of  “Misattribution” is the “Distortion” type; it is described as “Source of memory is confused,” and the example is “Recalling a dream memory as a waking memory.” The sin of  “Suggestibility” is the “Distortion” type; it is described as “False memories,” and the example is “Result from leading questions.” The sin of  “Bias” is the “Distortion” type; it is described as “Memories distorted by current belief system,” and the example is “Align memories to current beliefs.” The sin of  “Persistence” is the “Intrusion” type; it is described as “Inability to forget undesirable memories,” and the example is “Traumatic events.”">
-
-.. raw:: html
-
-   <caption>
-
-Schacter’s Seven Sins of Memory
-
-.. raw:: html
-
-   </caption>
-
-.. raw:: html
-
-   <thead>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <th>
-
-Sin
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Type
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Description
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Example
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </thead>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Transience
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Forgetting
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Accessibility of memory decreases over time
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Forget events that occurred long ago
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-absentmindedness
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Forgetting
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Forgetting caused by lapses in attention
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Forget where your phone is
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Blocking
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Forgetting
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Accessibility of information is temporarily blocked
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Tip of the tongue
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Misattribution
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Distortion
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Source of memory is confused
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Recalling a dream memory as a waking memory
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Suggestibility
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Distortion
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-False memories
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Result from leading questions
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Bias
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Distortion
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Memories distorted by current belief system
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Align memories to current beliefs
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Persistence
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Intrusion
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Inability to forget undesirable memories
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Traumatic events
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
 
 Let’s look at the first sin of the forgetting errors: **transience**\ {:
 data-type=“term”}, which means that memories can fade over time. Here’s

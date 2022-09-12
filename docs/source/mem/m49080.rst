@@ -23,6 +23,7 @@ How Memory Functions
 Abbreviations
 -------------
 :abbr:`STM (short-term memory)`
+
 :abbr:`LTM (long-term memory)`
 
 

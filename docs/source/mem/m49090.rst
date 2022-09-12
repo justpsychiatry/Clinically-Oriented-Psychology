@@ -2,6 +2,19 @@
 Introduction
 ============
 
+.. card:: Syllabus
+
+ Official MRCPsych Syllabus includes the following on memory:
+
+.. hlist::
+ 
+ * Influences upon and optimal conditions for encoding, storage, and retrieval. 
+ * Primary working memory storage capacity and the principle of chunking. 
+ * Semantic episodic and skills memories and other aspects of long-term/secondary memory. 
+ * The process of forgetting. 
+ * Emotional factors and retrieval. 
+ * Distortion, inference, schemata, and elaboration in relation. 
+ * The relevance of this to memory disorders and their assessment.
 
 
 .. contents::

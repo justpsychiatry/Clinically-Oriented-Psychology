@@ -7,7 +7,6 @@ Chapter 8: Memory
    :glob:
    :maxdepth: 2
    
-   m*
    m49090*
    m49080*
    m49085*
