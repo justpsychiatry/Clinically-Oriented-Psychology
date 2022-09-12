@@ -8,7 +8,7 @@ Human Genetics
    :depth: 3
 ..
 
-.. container::
+.. admonition:: Learning Objectives
 
    By the end of this section, you will be able to: \* Explain the basic
    principles of the theory of evolution by natural selection \*
@@ -105,7 +105,7 @@ in her descendants and minor health problems of her own.
 lines that split apart into branched structures.|\ {:
 #CNX_Psych_03_01_Darwin}
 
-.. :tip::
+.. tip::
 
    Two Perspectives on Genetics and Behavior
 

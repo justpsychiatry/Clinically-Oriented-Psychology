@@ -118,17 +118,15 @@ the form of glycogen for future use. These processes are associated with
 activation of the parasympathetic nervous system.
 
 .. admonition:: Summary
-   
-
-The brain and spinal cord make up the central nervous system. The
-peripheral nervous system is comprised of the somatic and autonomic
-nervous systems. The somatic nervous system transmits sensory and motor
-signals to and from the central nervous system. The autonomic nervous
-system controls the function of our organs and glands, and can be
-divided into the sympathetic and parasympathetic divisions. Sympathetic
-activation prepares us for fight or flight, while parasympathetic
-activation is associated with normal functioning under relaxed
-conditions.
+   The brain and spinal cord make up the central nervous system. The
+   peripheral nervous system is comprised of the somatic and autonomic
+   nervous systems. The somatic nervous system transmits sensory and motor
+   signals to and from the central nervous system. The autonomic nervous
+   system controls the function of our organs and glands, and can be
+   divided into the sympathetic and parasympathetic divisions. Sympathetic
+   activation prepares us for fight or flight, while parasympathetic
+   activation is associated with normal functioning under relaxed
+   conditions.
 
 Review Questions
 -----------------
@@ -160,7 +158,7 @@ Review Questions
 
        .. dropdown:: Check Answer
 
-       C
+          C
    .. card:: Question 3
 
          The central nervous system is comprised of \________.
@@ -189,35 +187,20 @@ Review Questions
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. hint::
+   
+   1. What are the implications of compromised immune function as a result of exposure to chronic stress?
+      .. dropdown:: 
+         Chronic stress can lead to increased susceptibility to bacterial and viral infections, and potentially an increased risk of cancer. Ultimately, this could be a vicious cycle with stress leading to increased risk of disease, disease states leading to increased stress and so on.
+   
+   2. Examine `[link] <#CNX_Psych_03_03_Autonomic>`__, illustrating the effects of sympathetic nervous system activation. How would all of these things play into the fight or flight response?
 
-   .. container::
+     .. dropdown::
 
-      What are the implications of compromised immune function as a
-      result of exposure to chronic stress?
-
-   .. container::
-
-      Chronic stress can lead to increased susceptibility to bacterial
-      and viral infections, and potentially an increased risk of cancer.
-      Ultimately, this could be a vicious cycle with stress leading to
-      increased risk of disease, disease states leading to increased
-      stress and so on.
-
-.. container::
-
-   .. container::
-
-      Examine `[link] <#CNX_Psych_03_03_Autonomic>`__, illustrating the
-      effects of sympathetic nervous system activation. How would all of
-      these things play into the fight or flight response?
-
-   .. container::
-
-      Most of these effects directly impact energy availability and
-      redistribution of key resources and heightened sensory capacity.
-      The individual experiencing these effects would be better prepared
-      to fight or flee.
+       Most of these effects directly impact energy availability and
+       redistribution of key resources and heightened sensory capacity.
+       The individual experiencing these effects would be better prepared
+       to fight or flee.
 
 Personal Application Questions
 ==============================
