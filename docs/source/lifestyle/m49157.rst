@@ -483,7 +483,7 @@ support has beneficial physiological effects for people, and it seems to
 influence immune functioning. However, the beneficial effects of social
 support may be related to its influence on promoting healthy behaviors.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

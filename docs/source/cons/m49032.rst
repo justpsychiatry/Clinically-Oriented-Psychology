@@ -177,7 +177,7 @@ important for physical growth and maturation are secreted during sleep.
 While the reason we sleep remains something of a mystery, there is some
 evidence to suggest that sleep is very important to learning and memory.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

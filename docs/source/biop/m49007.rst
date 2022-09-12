@@ -129,7 +129,7 @@ secretes hormones that regulate blood sugar levels; and the ovaries and
 testes produce sex hormones that regulate sexual motivation and
 behavior.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

@@ -650,7 +650,7 @@ in depression. Both biological and psychological factors are important
 in the development of depression. People who suffer from mental health
 problems, especially mood disorders, are at heightened risk for suicide.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

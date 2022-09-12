@@ -474,7 +474,7 @@ mercury have also been linked to the development of this disorder.
 Although it is believed by some that autism is triggered by the MMR
 vaccination, evidence does not support this claim.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

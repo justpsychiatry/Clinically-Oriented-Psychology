@@ -544,7 +544,7 @@ reactions begin), resistance (the body begins to adapt to continuing
 stress), and exhaustion (adaptive energy is depleted, and stress begins
 to take a physical toll).
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

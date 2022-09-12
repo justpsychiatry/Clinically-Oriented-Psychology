@@ -1230,7 +1230,7 @@ likelihood of a behavioral response. Several types of reinforcement
 schedules are used to reward behavior depending on either a set or
 variable period of time.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

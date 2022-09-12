@@ -899,7 +899,7 @@ time without sleep, they will accrue a sleep debt and potentially
 experience a number of adverse psychological and physiological
 consequences.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

@@ -222,7 +222,7 @@ retention, reproduction, and motivation. Through modeling, Bandura has
 shown that children learn many things both good and bad simply by
 watching their parents, siblings, and others.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

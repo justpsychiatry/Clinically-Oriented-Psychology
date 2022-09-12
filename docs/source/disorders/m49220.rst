@@ -170,7 +170,7 @@ proneness toward outbursts, and a tendency to be easily startled. Not
 everyone who experiences a traumatic event will develop PTSD; a variety
 of risk factors associated with its development have been identified.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 
@@ -223,6 +223,7 @@ Critical Thinking Question
       psychological state lasting from a few seconds to several days,
       during which one relives a traumatic event and behaves as though
       the event were occurring at that moment ^
+   
    posttraumatic stress disorder (PTSD)
       experiencing a profoundly traumatic event leads to a constellation
       of symptoms that include intrusive and distressing memories of the

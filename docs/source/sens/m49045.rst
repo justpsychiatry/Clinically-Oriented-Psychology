@@ -149,7 +149,7 @@ continuation, and closure are all used to help explain how we organize
 sensory information. Our perceptions are not infallible, and they can be
 influenced by bias, prejudice, and other factors.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

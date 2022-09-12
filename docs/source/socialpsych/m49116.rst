@@ -227,7 +227,7 @@ the situation can dictate the social roles, norms, and scripts we follow
 in a given situation, even if this behavior is contrary to our typical
 behavior.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

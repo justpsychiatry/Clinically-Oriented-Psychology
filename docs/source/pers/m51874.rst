@@ -206,7 +206,7 @@ ambiguous stimuli to assess an individual’s unconscious fears, desires,
 and challenges. The Rorschach Inkblot Test, the TAT, the RISB, and the
 C-TCB are all forms of projective tests.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

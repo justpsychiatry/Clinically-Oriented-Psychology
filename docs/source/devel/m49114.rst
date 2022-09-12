@@ -98,7 +98,7 @@ of grief as a way to explain this process. Many people facing death
 choose hospice care, which allows their last days to be spent at home in
 a comfortable, supportive environment.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

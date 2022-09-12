@@ -305,7 +305,7 @@ in opponent pairs and accounts for the interesting phenomenon of a
 negative afterimage. We perceive depth through a combination of
 monocular and binocular depth cues.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

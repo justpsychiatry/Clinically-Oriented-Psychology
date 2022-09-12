@@ -243,7 +243,7 @@ phenomenon: our ability to remember significant life events. However,
 our memory for life events (autobiographical memory) is not always
 accurate.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

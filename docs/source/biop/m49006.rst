@@ -564,7 +564,7 @@ fMRI, and EEG.
 Review Questions
 -----------------
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question 1
 

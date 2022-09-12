@@ -554,7 +554,7 @@ transition. Ultimately, the cognitive revolution took hold, and people
 came to realize that cognition was crucial to a true appreciation and
 understanding of behavior.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

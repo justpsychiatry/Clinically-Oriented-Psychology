@@ -240,7 +240,7 @@ American counterparts. Barriers to treatment include lack of insurance,
 transportation, and time; cultural views that mental illness is a
 stigma; fears about treatment; and language barriers.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

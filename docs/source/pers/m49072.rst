@@ -732,7 +732,7 @@ on a specific erogenous zone. Failure to resolve a stage can lead one to
 become fixated in that stage, leading to unhealthy personality traits.
 Successful resolution of the stages leads to a healthy adult.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

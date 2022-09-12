@@ -680,7 +680,7 @@ overall solution. Roadblocks to problem solving include a mental set,
 functional fixedness, and various biases that can cloud decision making
 skills.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

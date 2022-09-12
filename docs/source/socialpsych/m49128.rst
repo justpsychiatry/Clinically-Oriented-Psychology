@@ -674,7 +674,7 @@ or a variety of other social identities. In-group’s who feel threatened
 may blame the out-groups for their plight, thus using the out-group as a
 scapegoat for their frustration.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

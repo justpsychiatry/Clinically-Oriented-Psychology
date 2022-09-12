@@ -299,7 +299,7 @@ behaviors; these disturbances must reflect some kind of dysfunction
 impairment in one’s life, and must not reflect culturally expected
 reactions to certain life events.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

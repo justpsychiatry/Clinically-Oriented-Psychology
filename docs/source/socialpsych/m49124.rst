@@ -743,7 +743,7 @@ on easy tasks, but inhibiting performance on difficult tasks. The
 presence of others can also lead to social loafing when individual
 efforts cannot be evaluated.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

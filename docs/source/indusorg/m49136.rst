@@ -1172,7 +1172,7 @@ of workplace violence and safety. This enables the organization to
 establish procedures that can identify these triggers before they become
 a problem.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

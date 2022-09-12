@@ -943,7 +943,7 @@ affectivity, and depression. Other psychophysiological disorders that
 are known to be influenced by stress and emotional factors include
 asthma and tension headaches.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

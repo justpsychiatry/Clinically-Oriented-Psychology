@@ -379,7 +379,7 @@ when a gene is expressed, and what the outcome will be—in terms of both
 physical and psychological characteristics—is a function of the
 interaction between our genes and our environments.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

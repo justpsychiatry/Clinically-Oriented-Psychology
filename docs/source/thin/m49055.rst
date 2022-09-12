@@ -604,7 +604,7 @@ predictable sequence for individuals around the world. Language has a
 strong influence on thought, and the concept of how language may
 influence cognition remains an area of study and debate in psychology.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

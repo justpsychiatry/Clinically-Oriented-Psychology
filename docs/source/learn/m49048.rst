@@ -492,7 +492,7 @@ Pavlov’s work. He tested humans by conditioning fear in an infant known
 as Little Albert. His findings suggest that classical conditioning can
 explain how some fears develop.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

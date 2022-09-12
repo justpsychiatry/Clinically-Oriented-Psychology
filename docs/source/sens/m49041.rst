@@ -182,7 +182,7 @@ color, and its amplitude is associated with brightness. In the auditory
 system, a sound’s frequency is associated with pitch, and its amplitude
 is associated with loudness.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

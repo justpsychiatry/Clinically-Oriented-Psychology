@@ -1148,7 +1148,7 @@ jobs that are especially demanding, offer little control over one’s
 working environment, or involve unfavorable working conditions can lead
 to job strain, thereby setting the stage for job burnout.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

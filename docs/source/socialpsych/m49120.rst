@@ -370,7 +370,7 @@ central route to persuasion uses facts and information to persuade
 potential consumers. The peripheral route uses positive association with
 cues such as beauty, fame, and positive emotions.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

@@ -261,7 +261,7 @@ maintain a relationship, individuals often use a social exchange
 approach and weigh the costs and benefits of forming and maintaining a
 relationship.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question 1
 

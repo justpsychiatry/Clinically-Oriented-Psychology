@@ -128,7 +128,7 @@ forms of associative learning where associations are made between events
 that occur together. Observational learning is just as it sounds:
 learning by observing others.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

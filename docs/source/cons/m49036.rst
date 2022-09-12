@@ -345,7 +345,7 @@ breathing during sleep and die. Narcolepsy involves an irresistible urge
 to fall asleep during waking hours and is often associated with
 cataplexy and hallucination.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 

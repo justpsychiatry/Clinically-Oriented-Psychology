@@ -704,7 +704,7 @@ in ensuring the legitimacy of published research. In the long run, only
 those findings that are capable of being replicated consistently will
 achieve consensus in the scientific community.
 
-.. card-carousel:: 2
+.. card-carousel:: 1
 
     .. card:: Question
 
