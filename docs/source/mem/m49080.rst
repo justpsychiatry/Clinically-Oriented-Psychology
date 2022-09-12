@@ -68,8 +68,9 @@ information. This is known as :term:`effortful processing` (`[link] <#Figure_08_
 
 What are the most effective ways to ensure that important memories are
 well encoded? Even a simple sentence is easier to recall when it is
-meaningful (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` . Read the following sentences (Bransford &
-McCarrell, 1974), then look away and count backwards from 30 by threes
+meaningful (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` . 
+
+Read the following sentences (Bransford & McCarrell, 1974), then look away and count backwards from 30 by threes
 to zero, and then try to write down the sentences (no peeking back at
 this page!).
 
@@ -109,7 +110,7 @@ read the words *car, dog,* and *book* you created images of these things
 in your mind. These are concrete, high-imagery words. On the other hand,
 abstract words like *level, truth,* and *value* are low-imagery words.
 High-imagery words are encoded both visually and semantically (Paivio,
-1986), thus building a stronger memory.
+1986) :footcite:p:`paivioMentalRepresentationsDual`, thus building a stronger memory.
 
 Now let’s turn our attention to acoustic encoding. You are driving in
 your car and a song comes on the radio that you haven’t heard in at
