@@ -347,7 +347,7 @@ Currently, scientists believe that episodic memory is memory about
 happenings in particular places at particular times, the what, where,
 and when of an event (Tulving, 2002) :footcite:p:`tulvingEpisodicMemoryMind2002`. It involves recollection of visual
 imagery as well as the feeling of familiarity (Hassabis & Maguire,
-2007):footcite:p:`hassabisDeconstructingEpisodicMemory2007`.
+2007) :footcite:p:`hassabisDeconstructingEpisodicMemory2007`.
 
 .. card:: psychology everyday-connection
 
@@ -369,11 +369,6 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
 
       A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
 
- .. figure:: Figure_08_01_Marilu.jpg
-    :scale: 50 %
-    :alt: A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
-
-      
       Very few people can recall events in this way; right now, only 12
       known individuals have this ability, and only a few have been studied (Parker, Cahill & McGaugh 2006) :footcite:p:`parkerCaseUnusualAutobiographical2006`
       . And although :term:`hyperthymesia` normally appears in adolescence, two
@@ -460,7 +455,7 @@ Review Questions
 
    .. card:: Question 1
 
-      \_______\_ is another name for short-term memory.
+      Another name for short-term memory:
             
       1. sensory memory
       2. episodic memory
@@ -482,7 +477,7 @@ Review Questions
     .. dropdown:: Check Answer
 
        D
-  .. card:: Question
+  .. card:: Question 3
 
       The three functions of memory are \________.
 
