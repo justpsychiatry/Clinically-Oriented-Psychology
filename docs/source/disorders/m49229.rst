@@ -1019,7 +1019,7 @@ Critical Thinking Question
 
 .. container::
 
-   .. container::
+
 
       Imagine that a child has a genetic vulnerability to antisocial
       personality disorder. How might this child’s environment shape the
