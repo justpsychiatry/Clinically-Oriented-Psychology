@@ -290,10 +290,7 @@ professionals are now more knowledgeable about autism spectrum disorder
 and are better equipped to make the diagnosis, even in subtle cases
 (Novella, 2008).
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Why Is the Prevalence Rate of ADHD Increasing?
 

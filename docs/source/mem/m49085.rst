@@ -182,10 +182,7 @@ planes were flown into them on the morning of September 11, 2001. Thick,
 black clouds of smoke stream from both buildings.|\ {:
 #Figure_08_02_911}
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Inaccurate and False Memories
 

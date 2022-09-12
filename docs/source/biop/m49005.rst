@@ -105,7 +105,7 @@ perceived threat with the :term:`fight or flight` response. This kind of respons
 in the modern world; in fact, we suffer negative health consequences
 when faced constantly with psychological threats that we can neither
 fight nor flee. Recent research suggests that an increase in
-susceptibility to heart disease cite:p:RN147 (Chandola, Brunner, & Marmot, 2006) and
+susceptibility to heart disease :cite:p:`RN147` (Chandola, Brunner, & Marmot, 2006) and
 impaired function of the immune system (Glaser & Kiecolt-Glaser, 2005)
 are among the many negative consequences of persistent and repeated
 exposure to stressful situations.
@@ -117,8 +117,8 @@ regains control of his bladder, and the liver begins to store glucose in
 the form of glycogen for future use. These processes are associated with
 activation of the parasympathetic nervous system.
 
-Summary
-=======
+.. admonition:: Summary
+   
 
 The brain and spinal cord make up the central nervous system. The
 peripheral nervous system is comprised of the somatic and autonomic

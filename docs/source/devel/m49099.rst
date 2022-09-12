@@ -280,10 +280,7 @@ Lobo, 2008). This chapter will show that there is a reciprocal
 interaction between nature and nurture as they both shape who we become,
 but the debate continues as to the relative contributions of each.
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
 
       The Achievement Gap: How Does Socioeconomic Status Affect

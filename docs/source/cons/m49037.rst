@@ -170,10 +170,7 @@ drug. Like many other stimulants, cocaine agonizes the dopamine
 neurotransmitter system by blocking the reuptake of dopamine in the
 neuronal synapse.
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Crack Cocaine
 
@@ -387,10 +384,7 @@ classes of drugs discussed in this section.
    Prescription Drugs Chart <http://openstax.org/l/Rxabuse>`__ from the
    National Institute on Drug Abuse.
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Medical Marijuana
 

@@ -108,10 +108,7 @@ their stress and anxiety levels were significantly reduced on days
 during which the widows felt greater perceived control (Ong, Bergeman, &
 Bisconti, 2005).
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Learned Helplessness
 
@@ -335,10 +332,7 @@ support may lead to better health behaviors, such as a healthy diet,
 exercising, smoking cessation, and cooperation with medical regimens
 (Uchino, 2009).
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Coping with Prejudice and Discrimination
 

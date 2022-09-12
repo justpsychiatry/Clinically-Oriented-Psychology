@@ -398,10 +398,7 @@ interdisciplinary approach often was referred to as the cognitive
 sciences, and the influence and prominence of this particular
 perspective resonates in modern-day psychology (Miller, 2003).
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Feminist Psychology
 

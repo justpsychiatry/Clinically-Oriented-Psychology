@@ -113,10 +113,7 @@ generate our perceptual set. For instance, research has demonstrated
 that those who are given verbal priming produce a biased interpretation
 of complex ambiguous figures (Goolkasian & Woodbury, 2010).
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       The Depths of Perception: Bias, Prejudice, and Cultural Factors
 

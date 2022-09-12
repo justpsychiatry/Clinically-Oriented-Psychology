@@ -431,10 +431,7 @@ produced lower levels of immune proteins necessary for wound healing
 the knight, so to speak; rather, it’s the sword that breaks the knight’s
 shield, and your immune system is that shield.
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Stress and Aging: A Tale of Telomeres
 

@@ -52,10 +52,7 @@ cultures in modern-day Nigeria (Aghukwa, 2012).
 |The Extraction of the Stone of Madness is shown.|\ {:
 #Figure_15_03_Madness}
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Dancing Mania
 

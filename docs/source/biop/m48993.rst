@@ -105,17 +105,12 @@ in her descendants and minor health problems of her own.
 lines that split apart into branched structures.|\ {:
 #CNX_Psych_03_01_Darwin}
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
    Two Perspectives on Genetics and Behavior
 
       It’s easy to get confused about two fields that study the interaction
-      of genes and the environment, such as the fields of **evolutionary
-      psychology**:term:`pastehere` and **behavioral
-      genetics**:term:`pastehere`. How can we tell them
+      of genes and the environment, such as the fields of :term:`evolutionary psychology` and :term:`behavioral genetics`. How can we tell them
       apart?
 
       In both fields, it is understood that genes not only code for

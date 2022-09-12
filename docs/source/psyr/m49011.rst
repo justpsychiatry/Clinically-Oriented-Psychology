@@ -567,10 +567,7 @@ taking a new drug helped individuals achieve a healthy weight without
 changing their diet. But if other scientists could not replicate the
 results, the original study’s claims would be questioned.
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       The Vaccine-Autism Myth and Retraction of Published Studies
 

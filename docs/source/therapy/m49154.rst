@@ -1379,10 +1379,7 @@ procedure approved by the FDA in 2008 that uses magnetic fields to
 stimulate nerve cells in the brain to improve depression symptoms; it is
 used when other treatments have not worked (Mayo Clinic, 2012).
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Evidence-based Practice
 

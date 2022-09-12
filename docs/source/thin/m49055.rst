@@ -433,10 +433,7 @@ Complex sentences; has conversations
 
    </table>
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       The Case of Genie
 

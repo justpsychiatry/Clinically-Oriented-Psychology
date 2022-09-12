@@ -80,10 +80,7 @@ behavior. The female gonads are the ovaries; the male gonads are the
 testes. Ovaries secrete estrogens and progesterone, and the testes
 secrete androgens, such as testosterone.
 
-.. card:: psychology dig-deeper
-   :width: auto
-   :shadow: md
-   :class-card: sd-rounded-2
+.. :tip::
 
       Athletes and Anabolic Steroids
 
