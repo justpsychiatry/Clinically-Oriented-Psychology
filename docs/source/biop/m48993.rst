@@ -320,7 +320,7 @@ here the genotype is not fixed and limited.
    video primer on the **epigenetics**\ {: data-type=“term”
    .no-emphasis} of twin studies.
 
-**Genes**:term:`pastehere` affect more than our
+:term:`Genes` affect more than our
 physical characteristics. Indeed, scientists have found genetic linkages
 to a number of behavioral characteristics, ranging from basic
 personality traits to sexual orientation to spirituality (for examples,
@@ -338,21 +338,15 @@ think best explains this evidence?
 In a study of people who were given up for adoption, adoptees whose
 biological mothers had schizophrenia *and* who had been raised in a
 disturbed family environment were much more likely to develop
-**schizophrenia**:term:`pastehere` or another
+:term:`schizophrenia` or another
 psychotic disorder than were any of the other groups in the study:
 
--  Of adoptees whose biological mothers had schizophrenia (high genetic
-   risk) and who were raised in disturbed family environments, 36.8%
-   were likely to develop schizophrenia.
--  Of adoptees whose biological mothers had schizophrenia (high genetic
-   risk) and who were raised in healthy family environments, 5.8% were
-   likely to develop schizophrenia.
--  Of adoptees with a low genetic risk (whose mothers did not have
-   schizophrenia) and who were raised in disturbed family environments,
-   5.3% were likely to develop schizophrenia.
--  Of adoptees with a low genetic risk (whose mothers did not have
-   schizophrenia) and who were raised in healthy family environments,
-   4.8% were likely to develop schizophrenia (Tienari et al., 2004).
+.. hlist::
+
+   -  Of adoptees whose biological mothers had schizophrenia (high genetic risk) and who were raised in disturbed family environments, 36.8%    were likely to develop schizophrenia.
+   -  Of adoptees whose biological mothers had schizophrenia (high genetic risk) and who were raised in healthy family environments, 5.8% were    likely to develop schizophrenia.
+   -  Of adoptees with a low genetic risk (whose mothers did not have schizophrenia) and who were raised in disturbed family environments,   5.3% were likely to develop schizophrenia.
+   -  Of adoptees with a low genetic risk (whose mothers did not have schizophrenia) and who were raised in healthy family environments,    4.8% were likely to develop schizophrenia (Tienari et al., 2004).
 
 The study shows that adoptees with high genetic risk were especially
 likely to develop schizophrenia only if they were raised in disturbed
@@ -376,7 +370,7 @@ interaction between our genes and our environments.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       A(n) \_______\_ is a sudden, permanent change in a sequence of
       DNA.
@@ -389,7 +383,7 @@ interaction between our genes and our environments.
   .. dropdown:: Check Answer
 
       D
-  .. Card:: Question
+    .. Card:: Question
 
       \_______\_ refers to a person’s genetic makeup, while \_______\_
       refers to a person’s physical characteristics.
@@ -399,7 +393,7 @@ interaction between our genes and our environments.
       3. DNA; gene
       4. Gene; DNA {: type=“a”}
 
-  .. dropdown:: Check Answer
+   .. dropdown:: Check Answer
 
       B
   .. Card:: Question
