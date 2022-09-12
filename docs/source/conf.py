@@ -92,11 +92,6 @@ hoverxref_roles = [
     'cite',
 ]
 
-html_theme_options = {
-  ...
-  "use_sidenotes": True,
-  ...
-}
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
