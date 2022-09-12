@@ -9,7 +9,6 @@ How Memory Functions
 ..
 
 .. card:: Learning Objectives
-   :class-card: sd-border-1
    :class-card: sd-rounded-2
    :shadow: lg
 
@@ -20,6 +19,14 @@ How Memory Functions
    * Describe and distinguish between procedural and declarative memory and semantic and episodic memory
 
 ...
+
+Abbreviations
+-------------
+:abbr:`STM (short-term memory)`
+:abbr:`LTM (long-term memory)`
+
+
+
 
 Memory is an information processing system; therefore, we often compare
 it to a computer. :term:Memory is the set of
@@ -80,7 +87,7 @@ each of the sentences was placed in context. Material is far better
 encoded when you make it meaningful.
 
 There are three types of encoding. The encoding of words and their
-meaning is known as **semantic encoding**\ {: data-type=“term”}. It was
+meaning is known as :term:`semantic encoding`. It was
 first demonstrated by William Bousfield (1935) in an experiment in which
 he asked people to memorize words. The 60 words were actually divided
 into 4 categories of meaning, although the participants did not know
@@ -111,19 +118,18 @@ States, children often learn the alphabet through song, and they learn
 the number of days in each month through rhyme: 
 
    “Thirty days hath September,
-    April, June, and November; 
-    All the rest have thirty-one,
-    Save February, with twenty-eight days clear,
-    And twenty-nine each leap year.” 
+   April, June, and November;
+   All the rest have thirty-one,
+   Save February, with twenty-eight days clear,
+   And twenty-nine each leap year.” 
    
-   These lessons are easy to remember because of acoustic
-encoding. We encode the sounds the words make. This is one of the
+These lessons are easy to remember because of acoustic encoding. We encode the sounds the words make. This is one of the
 reasons why much of what we teach young children is done through song,
 rhyme, and rhythm.
 
 Which of the three types of encoding do you think would give you the
 best memory of verbal information? Some years ago, psychologists Fergus
-Craik and Endel Tulving (1975) conducted a series of experiments to find
+Craik and Endel Tulving (1975) :footcite:p:`craikDepthProcessingRetention1975` conducted a series of experiments to find
 out. Participants were given words along with questions about them. The
 questions required the participants to process the words at one of the
 three levels. The visual processing questions included such things as
@@ -167,8 +173,8 @@ in the same way that a computer processes information.
 |A flow diagram consists of four boxes with connecting arrows. The first
 box is labeled “sensory input.” An arrow leads to the second box, which
 is labeled “sensory memory.” An arrow leads to the third box which is
-labeled “short-term memory (STM).” An arrow points to the fourth box,
-labeled “long-term memory (LTM),” and an arrow points in the reverse
+labeled **short-term memory (STM).** An arrow points to the fourth box,
+labeled **long-term memory (LTM)** and an arrow points in the reverse
 direction from the fourth to the third box. Above the short-term memory
 box, an arrow leaves the top-right of the box and curves around to point
 back to the top-left of the box; this arrow is labeled “rehearsal.” Both
@@ -176,7 +182,7 @@ the “sensory memory” and “short-term memory” boxes have an arrow beneath
 them pointing to the text “information not transferred is lost.”|\ {:
 #Figure_08_01_Atkinson}
 
-But A-S is just one model of memory. Others, such as Baddeley and Hitch
+But A-S is just one model of memory. Others, such as :footcite:p:`baddeleyWorkingMemory1974` Baddeley and Hitch
 (1974), have proposed a model where short-term memory itself has
 different forms. In this model, storing memories in short-term memory is
 like opening different files on a computer and adding information. The
@@ -207,8 +213,8 @@ short-term memory system.
 One study of sensory memory researched the significance of valuable
 information on short-term memory storage. J. R. Stroop discovered a
 memory phenomenon in the 1930s: you will name a color more easily if it
-appears printed in that color, which is called the **Stroop effect**\ {:
-data-type=“term” .no-emphasis}. In other words, the word “red” will be
+appears printed in that color, which is called the :term:`Stroop effect`. 
+In other words, the word “red” will be
 named more quickly, regardless of the color the word appears in, than
 any word that is colored red. Try an experiment: name the colors of the
 words you are given in `[link] <#Figure_08_01_Stroop>`__. Do not read
@@ -236,10 +242,9 @@ Think of short-term memory as the information you have displayed on your
 computer screen—a document, a spreadsheet, or a web page. Then,
 information in short-term memory goes to long-term memory (you save it
 to your hard drive), or it is discarded (you delete a document or close
-a web browser). This step of **rehearsal**\ {: data-type=“term”}, the
+a web browser). This step of :term:`rehearsal`, the
 conscious repetition of information to be remembered, to move STM into
-long-term memory is called **memory consolidation**\ {:
-data-type=“term”}.
+long-term memory is called :term:`memory consolidation`.
 
 You may find yourself asking, “How much information can our memory
 handle at once?” To explore the capacity and duration of your short-term
@@ -334,41 +339,41 @@ answers to the following questions are stored in your semantic memory:
 -  What is democracy?
 -  What is the longest river in the world?
 
-**Episodic memory**\ {: data-type=“term”} is information about events we
+:term:`Episodic memory` is information about events we
 have personally experienced. The concept of episodic memory was first
-proposed about 40 years ago (Tulving, 1972). Since then, Tulving and
+proposed about 40 years ago (Tulving, 1972):footcite:p:`tulvingEpisodicSemanticMemory1972`. Since then, Tulving and
 others have looked at scientific evidence and reformulated the theory.
 Currently, scientists believe that episodic memory is memory about
 happenings in particular places at particular times, the what, where,
-and when of an event (Tulving, 2002). It involves recollection of visual
+and when of an event (Tulving, 2002) :footcite:p:`tulvingEpisodicMemoryMind2002`. It involves recollection of visual
 imagery as well as the feeling of familiarity (Hassabis & Maguire,
-2007).
+2007):footcite:p:`hassabisDeconstructingEpisodicMemory2007`.
 
-.. container:: psychology everyday-connection
+.. card:: psychology everyday-connection
 
    .. container::
 
       Can You Remember Everything You Ever Did or Said?
 
-   Episodic memories are also called autobiographical memories. Let’s
-   quickly test your autobiographical memory. What were you wearing
-   exactly five years ago today? What did you eat for lunch on April 10,
-   2009? You probably find it difficult, if not impossible, to answer
-   these questions. Can you remember every event you have experienced
-   over the course of your life—meals, conversations, clothing choices,
-   weather conditions, and so on? Most likely none of us could even come
-   close to answering these questions; however, American actress Marilu
-   :term:`Henner`, best known for the
-   television show *Taxi,* can remember. She has an amazing and highly
-   superior autobiographical memory (`[link] <#Figure_08_01_Marilu>`__).
+      Episodic memories are also called autobiographical memories. Let’s
+      quickly test your autobiographical memory. What were you wearing
+      exactly five years ago today? What did you eat for lunch on April 10,
+      2009? You probably find it difficult, if not impossible, to answer
+      these questions. Can you remember every event you have experienced
+      over the course of your life—meals, conversations, clothing choices,
+      weather conditions, and so on? Most likely none of us could even come
+      close to answering these questions; however, American actress Marilu
+      :term:`Henner`, best known for the
+      television show *Taxi,* can remember. She has an amazing and highly
+      superior autobiographical memory (`[link] <#Figure_08_01_Marilu>`__).
 
-   |A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
+      |A photograph shows Marilu Henner.|\ {: #Figure_08_01_Marilu}
 
-   Very few people can recall events in this way; right now, only 12
-   known individuals have this ability, and only a few have been studied :footcite:p:`parkerCaseUnusualAutobiographical2006`
-   (Parker, Cahill & McGaugh 2006). And although :term:`hyperthymesia` normally appears in adolescence, two
-   children in the United States appear to have memories from well
-   before their tenth birthdays.
+      Very few people can recall events in this way; right now, only 12
+      known individuals have this ability, and only a few have been studied :footcite:p:`parkerCaseUnusualAutobiographical2006`
+      (Parker, Cahill & McGaugh 2006). And although :term:`hyperthymesia` normally appears in adolescence, two
+      children in the United States appear to have memories from well
+      before their tenth birthdays.
 
 .. seealso::
 
@@ -384,7 +389,7 @@ So you have worked hard to encode (via effortful processing) and store
 some important information for your upcoming final exam. How do you get
 that information back out of storage when you need it? The act of
 getting information out of memory storage and back into conscious
-awareness is known as **retrieval**\ {: data-type=“term”}. This would be
+awareness is known as :term:`retrieval`. This would be
 similar to finding and opening a paper you had previously saved on your
 computer’s hard drive. Now it’s back on your desktop, and you can work
 with it again. Our ability to retrieve information from long-term memory
@@ -395,10 +400,10 @@ your job once you get there.
 
 There are three ways you can retrieve information out of your long-term
 memory storage system: recall, recognition, and relearning.
-**Recall**\ {: data-type=“term”} is what we most often think about when
+:term:`Recall` is what we most often think about when
 we talk about memory retrieval: it means you can access information
 without cues. For example, you would use recall for an essay test.
-**Recognition**\ {: data-type=“term”} happens when you identify
+:term:`Recognition` happens when you identify
 information that you have previously learned after encountering it
 again. It involves a process of comparison. When you take a
 multiple-choice test, you are relying on recognition to help you choose
@@ -408,7 +413,7 @@ for your 10-year reunion. You may not be able to recall all of your
 classmates, but you recognize many of them based on their yearbook
 photos.
 
-The third form of retrieval is **relearning**\ {: data-type=“term”}, and
+The third form of retrieval is :term:`relearning`, and
 it’s just what it sounds like. It involves learning information that you
 previously learned. Whitney took Spanish in high school, but after high
 school she did not have the opportunity to speak Spanish. Whitney is now
@@ -647,6 +652,9 @@ Personal Application Questions
 
    visual encoding
       input of images
+
+References 
+----------
 
 .. footbibliography::
 
