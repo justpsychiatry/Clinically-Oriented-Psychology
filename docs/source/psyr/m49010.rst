@@ -170,7 +170,7 @@ inspections to ensure that animals are being treated humanely.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+ .. card:: Question 1
 
       \_______\_ is to animal research as \_______\_ is to human
       research.
@@ -180,14 +180,11 @@ inspections to ensure that animals are being treated humanely.
       3. IRB; IACUC
       4. deception; debriefing {: type=“a”}
 
-   .. container::
-      :name: eip-idm23000016
+    .. dropdown::
 
-      B
+          B
 
-.. container::
-
-   .. container::
+ .. card:: Question 2
 
       Researchers might use \_______\_ when providing participants with
       the full details of the experiment could skew their responses.
@@ -197,14 +194,11 @@ inspections to ensure that animals are being treated humanely.
       3. ethics
       4. debriefing {: type=“a”}
 
-   .. container::
-      :name: eip-idm73218576
+    .. dropdown::
 
-      B
+       B
 
-.. container::
-
-   .. container::
+ .. card::
 
       A person’s participation in a research project must be \________.
 
@@ -213,16 +207,12 @@ inspections to ensure that animals are being treated humanely.
       3. voluntary
       4. public {: type=“a”}
 
-   .. container::
-      :name: eip-idm7738432
+    .. dropdwon::
+       C
 
-      C
+ .. card::
 
-.. container::
-
-   .. container::
-
-      Before participating in an experiment, individuals should read and
+     Before participating in an experiment, individuals should read and
       sign the \_______\_ form.
 
       1. informed consent
@@ -230,10 +220,8 @@ inspections to ensure that animals are being treated humanely.
       3. IRB
       4. ethics {: type=“a”}
 
-   .. container::
-      :name: eip-idm75617056
-
-      A
+    .. dropdown::
+       A
 
 Critical Thinking Questions
 ===========================
