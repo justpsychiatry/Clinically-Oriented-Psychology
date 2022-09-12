@@ -379,6 +379,7 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
       . And although :term:`hyperthymesia` normally appears in adolescence, two
       children in the United States appear to have memories from well
       before their tenth birthdays.
+...
 
 .. seealso::
 
@@ -452,32 +453,35 @@ explicit memory. Finally, retrieval is the act of getting memories out
 of storage and back into conscious awareness. This is done through
 recall, recognition, and relearning.
 
+Review Questions
+-----------------
+
 .. card-carousel:: 1
 
-  .. card:: Question
+   .. card:: Question 1
 
       \_______\_ is another name for short-term memory.
-
+            
       1. sensory memory
       2. episodic memory
       3. working memory
-      4. implicit memory {: type=“a”}
+      4. implicit memory 
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      C
-  .. card:: Question
+       C
+  .. card:: Question 2
 
       The storage capacity of long-term memory is \________.
 
       1. one or two bits of information
       2. seven bits, plus or minus two
       3. limited
-      4. essentially limitless {: type=“a”}
+      4. essentially limitless
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      D
+       D
   .. card:: Question
 
       The three functions of memory are \________.
@@ -485,22 +489,19 @@ recall, recognition, and relearning.
       1. automatic processing, effortful processing, and storage
       2. encoding, processing, and storage
       3. automatic processing, effortful processing, and retrieval
-      4. encoding, storage, and retrieval {: type=“a”}
+      4. encoding, storage, and retrieval
 
-  .. dropdown::
+    .. dropdown:: Check Answer
 
-      D
+       D
+
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+1. Compare and contrast implicit and explicit memory.
 
-   .. container::
-
-      Compare and contrast implicit and explicit memory.
-
-   .. container::
+   .. dropdown::
 
       Both are types of long-term memory. Explicit memories are memories
       we consciously try to remember and recall. Explicit memory is also
@@ -512,14 +513,9 @@ Critical Thinking Questions
       procedural memory as well as things learned through classical
       conditioning.
 
-.. container::
+2. According to the Atkinson-Shiffrin model, name and describe the three stages of memory.
 
-   .. container::
-
-      According to the Atkinson-Shiffrin model, name and describe the
-      three stages of memory.
-
-   .. container::
+   .. dropdown::
 
       According to the Atkinson-Shiffrin model, memory is processed in
       three stages. The first is sensory memory; this is very brief: 1–2
@@ -531,13 +527,9 @@ Critical Thinking Questions
       memory is the permanent storage of information—its capacity is
       basically unlimited.
 
-.. container::
+3. Compare and contrast the two ways in which we encode information.
 
-   .. container::
-
-      Compare and contrast the two ways in which we encode information.
-
-   .. container::
+   .. dropdown::
 
       Information is encoded through automatic or effortful processing.
       Automatic processing refers to all information that enters
