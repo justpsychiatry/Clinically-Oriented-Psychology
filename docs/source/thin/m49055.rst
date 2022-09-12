@@ -433,7 +433,7 @@ Complex sentences; has conversations
 
    </table>
 
-.. :tip::
+.. :tip:
 
       The Case of Genie
 
