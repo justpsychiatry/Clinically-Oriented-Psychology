@@ -259,4 +259,4 @@ Personal Application Questions
    thyroid
       secretes hormones that regulate growth, metabolism, and appetite
 
-.. |A diagram of the human body illustrates the locations of the thymus, several parts within the brain (pineal gland, hypothalamus, thalamus, pituitary gland), several parts within the thyroid (cartilage, thyroid gland, parathyroid glands, trachea), the adrenal glands, pancreas, uterus, ovaries, and testes.| image:: ../resources/CNX_Psych_03_05_Endocrine.jpg
+.. |A diagram of the human body illustrates the locations of the thymus, several parts within the brain (pineal gland, hypothalamus, thalamus, pituitary gland), several parts within the thyroid (cartilage, thyroid gland, parathyroid glands, trachea), the adrenal glands, pancreas, uterus, ovaries, and testes.| .. figure:: ../resources/CNX_Psych_03_05_Endocrine.jpg

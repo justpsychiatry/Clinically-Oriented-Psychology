@@ -70,16 +70,14 @@ The surface of the brain, known as the **cerebral cortex**\ {:
 data-type=“term”}, is very uneven, characterized by a distinctive
 pattern of folds or bumps, known as **gyri**\ {: data-type=“term”}
 (singular: gyrus), and grooves, known as **sulci**\ {: data-type=“term”}
-(singular: sulcus), shown in `[link] <#CNX_Psych_03_04_Cortex>`__. These
+(singular: sulcus), shown in [#CNX_Psych_03_04_Cortex]__. These
 gyri and sulci form important landmarks that allow us to separate the
 brain into functional centers. The most prominent sulcus, known as the
 **longitudinal fissure**\ {: data-type=“term”}, is the deep groove that
 separates the brain into two halves or **hemispheres**\ {:
 data-type=“term”}: the left hemisphere and the right hemisphere.
 
-|An illustration of the brain’s exterior surface shows the ridges and
-depressions, and the deep fissure that runs through the center.|\ {:
-#CNX_Psych_03_04_Cortex}
+|CNX_Psych_03_04_Cortexn|\ {:#CNX_Psych_03_04_Cortex}
 
 There is evidence of some specialization of function—referred to as
 **lateralization**\ {: data-type=“term”}—in each hemisphere, mainly
@@ -794,7 +792,6 @@ Personal Application Questions
    Wernicke’s area
       important for speech comprehension
 
-.. rubric:: Footnotes
    
 .. |CNX_Psych_03_04_Cortexn| figure:: ../resources/CNX_Psych_03_04_Cortexn.jpg
                               :alt:  Cortex surface
