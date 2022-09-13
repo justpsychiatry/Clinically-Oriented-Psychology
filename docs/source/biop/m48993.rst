@@ -8,7 +8,7 @@ Human Genetics
    :depth: 3
 ..
 
-.. admonition:: Learning Objectives
+.. card:: Learning Objectives
 
    By the end of this section, you will be able to: \* Explain the basic
    principles of the theory of evolution by natural selection \*
