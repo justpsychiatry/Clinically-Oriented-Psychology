@@ -295,9 +295,9 @@ The limbic system is made up of a number of different structures, but
 three of the most important are the hippocampus, the amygdala, and the
 hypothalamus (`[link] <#CNX_Psych_03_04_Limbic>`__). The
 **hippocampus**\ {: data-type=“term”} is an essential structure for
-learning and memory. The **amygdala**\ {: data-type=“term”} is involved
+learning and memory. The :term:`amygdala` is involved
 in our experience of emotion and in tying emotional meaning to our
-memories. The **hypothalamus**\ {: data-type=“term”} regulates a number
+memories. The :term:`hypothalamus` regulates a number
 of homeostatic processes, including the regulation of body temperature,
 appetite, and blood pressure. The hypothalamus also serves as an
 interface between the nervous system and the endocrine system and in the
@@ -310,7 +310,7 @@ the limbic system: the hypothalamus, amygdala, and hippocampus.|\ {:
 The Case of Henry Molaison (H.M.)
 ---------------------------------
 
-In 1953, Henry Gustav **Molaison**:term:`pastehere`
+In 1953, Henry Gustav :term:`Molaison`
 (H. M.) was a 27-year-old man who experienced severe seizures. In an
 attempt to control his seizures, H. M. underwent brain surgery to remove
 his hippocampus and amygdala. Following the surgery, H.M’s seizures
@@ -423,7 +423,7 @@ the fact that H. M.’s cerebellum remained intact.
    still intact. Her medulla and pons maintained her breathing and
    caused involuntary movements of her eyes and the occasional groans.
    Over the 15-year period that she was on a feeding tube, Schiavo’s
-   medical costs may have topped $7 million (Arnst, 2003).
+   medical costs may have topped $7 million (Arnst, 2003) .
 
    These questions were brought to popular conscience 25 years ago in
    the case of Terri Schiavo, and they persist today. In 2013, a
@@ -620,7 +620,7 @@ Review Questions
 
    .. dropdown::
 
-      D
+       D
 
 
 Critical Thinking Questions
@@ -794,12 +794,17 @@ Personal Application Questions
    Wernicke’s area
       important for speech comprehension
 
-# |An illustration of the brain’s exterior surface shows the ridges and depressions, and the deep fissure that runs through the center.| image:: ../resources/CNX_Psych_03_04_Cortexn.jpg
-# |Illustrations (a) and (b) show the corpus callosum’s location in the brain in front and side views. Photograph (c) shows the corpus callosum in a dissected brain.| image:: ../resources/CNX_Psych_03_04_CorpusCall.jpg
-# |An illustration shows the position and size of the forebrain (the largest portion), midbrain (a small central portion), and hindbrain (a portion in the lower back part of the brain).| image:: ../resources/CNX_Psych_03_04_FMHBrain.jpg
-# |An illustration shows the four lobes of the brain.| image:: ../resources/CNX_Psych_03_04_Lobes.jpg
-# |Image (a) is a photograph of Phineas Gage holding a metal rod. Image (b) is an illustration of a skull with a metal rod passing through it from the cheek area to the top of the skull.| image:: ../resources/CNX_Psych_03_04_GageSkull.jpg
-# |A diagram shows the organization in the somatosensory cortex, with functions for these parts in this proximal sequential order: toes, ankles, knees, hips, trunk, shoulders, elbows, wrists, hands, fingers, thumbs, neck, eyebrows and eyelids, eyeballs, face, lips, jaw, tongue, salivation, chewing, and swallowing.| image:: ../resources/CNX_Psych_03_04_BrainOrg.jpg
+.. rubric:: Footnotes
+   
+.. |CNX_Psych_03_04_Cortexn| figure:: ../resources/CNX_Psych_03_04_Cortexn.jpg
+                              :alt:  Cortex surface
+                              
+                              An illustration of the brain’s exterior surface shows the ridges and depressions, and the deep fissure that runs through the center.                 
+.. |Illustrations (a) and (b) show the corpus callosum’s location in the brain in front and side views. Photograph (c) shows the corpus callosum in a dissected brain.| image:: ../resources/CNX_Psych_03_04_CorpusCall.jpg
+.. |An illustration shows the position and size of the forebrain (the largest portion), midbrain (a small central portion), and hindbrain (a portion in the lower back part of the brain).| image:: ../resources/CNX_Psych_03_04_FMHBrain.jpg
+.. |An illustration shows the four lobes of the brain.| image:: ../resources/CNX_Psych_03_04_Lobes.jpg
+.. |Image (a) is a photograph of Phineas Gage holding a metal rod. Image (b) is an illustration of a skull with a metal rod passing through it from the cheek area to the top of the skull.| image:: ../resources/CNX_Psych_03_04_GageSkull.jpg
+.. |A diagram shows the organization in the somatosensory cortex, with functions for these parts in this proximal sequential order: toes, ankles, knees, hips, trunk, shoulders, elbows, wrists, hands, fingers, thumbs, neck, eyebrows and eyelids, eyeballs, face, lips, jaw, tongue, salivation, chewing, and swallowing.| image:: ../resources/CNX_Psych_03_04_BrainOrg.jpg
 .. |An illustration shows the locations of Broca’s and Wernicke’s areas.| image:: ../resources/CNX_Psych_03_04_Broca.jpg
 .. |An illustration shows the location of the thalamus in the brain.| image:: ../resources/CNX_Psych_03_04_Thalamus.jpg
 .. |An illustration shows the locations of parts of the brain involved in the limbic system: the hypothalamus, amygdala, and hippocampus.| image:: ../resources/CNX_Psych_03_04_Limbic.jpg

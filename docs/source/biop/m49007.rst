@@ -8,12 +8,13 @@ The Endocrine System
    :depth: 3
 ..
 
-.. container::
+.. card::
 
-   By the end of this section, you will be able to: \* Identify the
-   major glands of the endocrine system \* Identify the hormones
-   secreted by each gland \* Describe each hormone’s role in regulating
-   bodily functions
+   By the end of this section, you will be able to: 
+   
+   * Identify the major glands of the endocrine system
+   * Identify the hormones secreted by each gland
+   * Describe each hormone’s role in regulating bodily functions
 
 The **endocrine system**\ {: data-type=“term”} consists of a series of
 glands that produce chemical substances known as **hormones**\ {:
