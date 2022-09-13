@@ -151,7 +151,7 @@ behavior.
       3. pituitary
       4. pancreas {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
       C
   .. Card:: Question
