@@ -8,11 +8,13 @@ What Is Psychology?
    :depth: 3
 ..
 
-.. container::
+.. card:: Learning Objectives
 
-   By the end of this section, you will be able to: \* Understand the
-   etymology of the word “psychology” \* Define psychology \* Understand
-   the merits of an education in psychology
+   By the end of this section, you will be able to: 
+
+   * Understand the etymology of the word “psychology” 
+   * Define psychology
+   * Understand the merits of an education in psychology
 
 In Greek mythology, Psyche was a mortal woman whose beauty was so great
 that it rivaled that of the goddess Aphrodite. Aphrodite became so
@@ -141,7 +143,7 @@ and recognize the complexity of behavior.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       Which of the following was mentioned as a skill to which
       psychology students would be exposed?
@@ -151,9 +153,9 @@ and recognize the complexity of behavior.
       3. critical evaluation of sources of information
       4. all of the above {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      D
+       D
   .. Card:: Question
 
       *Psyche* is a Greek word meaning \________.
@@ -163,9 +165,9 @@ and recognize the complexity of behavior.
       3. behavior
       4. love {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
 
 
@@ -177,9 +179,9 @@ and recognize the complexity of behavior.
       3. philosophy
       4. physics {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      C
+       C
   .. Card:: Question
 
       In the scientific method, a hypothesis is a(n) \________.
@@ -189,9 +191,9 @@ and recognize the complexity of behavior.
       3. test
       4. proposed explanation {: type=“a”}
 
-   .. container::
+    .. dropdown:: Check Answer
 
-      D
+       D
 
 Critical Thinking Questions
 ===========================
