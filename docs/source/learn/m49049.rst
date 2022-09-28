@@ -323,7 +323,7 @@ hitting. When the children in the study exhibited appropriate behavior
 they hit or pinched, they lost a token. The children could then exchange
 specified amounts of tokens for minutes of playtime.
 
-.. tip:: Behavior Modification in Children
+.. tip:: Behaviour Modification in Children
 
    Parents and teachers often use behavior modification to change a
    child’s behavior. Behavior modification uses the principles of
@@ -408,7 +408,7 @@ he sits, so that he can make an association between the target behavior
 
 Once a behavior is trained, researchers and trainers often turn to
 another type of reinforcement schedule—partial reinforcement. In
-**partial reinforcement**\ {: data-type=“term”}, also referred to as
+:term:`partial reinforcement`, also referred to as
 intermittent reinforcement, the person or animal does not get reinforced
 every time they perform the desired behavior. There are several
 different types of partial reinforcement schedules
@@ -421,308 +421,49 @@ which varies or changes. *Interval* means the schedule is based on the
 time between reinforcements, and *ratio* means the schedule is based on
 the number of responses between reinforcements.
 
-.. raw:: html
-
-   <table summary="This table has four columns and five rows. The first row is a header row with these headings: “reinforcement schedule,” “description,” “result,” and “example.” Row 1 is labeled “fixed interval”; the “description” reads “Reinforcement is delivered at predictable time intervals (e.g., after 5, 10, 15, and 20 minutes)”; the “result” reads “Moderate response rate with significant pauses after reinforcement”; the “example” reads “Hospital patient uses patient-controlled, doctor-timed pain relief.” Row 2 is labeled “fixed interval”; the “description” reads “Reinforcement is delivered at unpredictable time intervals (e.g., after 5, 7, 10, and 20 minutes)”; the “result” reads “Moderate yet steady response rate”; the “example” reads “Checking Facebook.” Row 3 is labeled “fixed ratio”; the “description” reads “Reinforcement is delivered after a predictable number of responses (e.g., after 2, 4, 6, and 8 responses)”; the “result” reads “High response rate with pauses after reinforcement”; the “example” reads “Piecework—factory worker getting paid for every x number of items manufactured.” Row 4 is labeled “variable ratio”; the “description” reads “Reinforcement is delivered after an unpredictable number of responses (e.g., after 1, 4, 5, and 9 responses).”; the “result” reads “High and steady response rate”; the “example” reads “Gambling.”">
-
-.. raw:: html
-
-   <caption>
-
-Reinforcement Schedules
-
-.. raw:: html
-
-   </caption>
-
-.. raw:: html
-
-   <colgroup>
-
-.. raw:: html
-
-   <col data-width="100" />
-
-.. raw:: html
-
-   <col data-width="200" />
-
-.. raw:: html
-
-   <col data-width="200" />
-
-.. raw:: html
-
-   <col data-width="200" />
-
-.. raw:: html
-
-   </colgroup>
-
-.. raw:: html
-
-   <thead>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <th>
-
-Reinforcement Schedule
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th data-valign="top">
-
-Description
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th data-valign="top">
-
-Result
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th data-valign="top">
-
-Example
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </thead>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Fixed interval
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Reinforcement is delivered at predictable time intervals (e.g., after 5,
-10, 15, and 20 minutes).
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Moderate response rate with significant pauses after reinforcement
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Hospital patient uses patient-controlled, doctor-timed pain relief
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Variable interval
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Reinforcement is delivered at unpredictable time intervals (e.g., after
-5, 7, 10, and 20 minutes).
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Moderate yet steady response rate
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Checking Facebook
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Fixed ratio
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Reinforcement is delivered after a predictable number of responses
-(e.g., after 2, 4, 6, and 8 responses).
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-High response rate with pauses after reinforcement
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Piecework—factory worker getting paid for every x number of items
-manufactured
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Variable ratio
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Reinforcement is delivered after an unpredictable number of responses
-(e.g., after 1, 4, 5, and 9 responses).
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-High and steady response rate
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Gambling
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
+.. table:: Reinforcement Schedules
+
+   +----------------+----------------+----------------+----------------+
+   | Reinforcement  | Description    | Result         | Example        |
+   | Schedule       |                |                |                |
+   +================+================+================+================+
+   | Fixed interval | Reinforcement  | Moderate       | Hospital       |
+   |                | is delivered   | response rate  | patient uses   |
+   |                | at predictable | with           | patie          |
+   |                | time intervals | significant    | nt-controlled, |
+   |                | (e.g., after   | pauses after   | doctor-timed   |
+   |                | 5, 10, 15, and | reinforcement  | pain relief    |
+   |                | 20 minutes).   |                |                |
+   +----------------+----------------+----------------+----------------+
+   | Variable       | Reinforcement  | Moderate yet   | Checking       |
+   | interval       | is delivered   | steady         | Facebook       |
+   |                | at             | response rate  |                |
+   |                | unpredictable  |                |                |
+   |                | time intervals |                |                |
+   |                | (e.g., after   |                |                |
+   |                | 5, 7, 10, and  |                |                |
+   |                | 20 minutes).   |                |                |
+   +----------------+----------------+----------------+----------------+
+   | Fixed ratio    | Reinforcement  | High response  | Pie            |
+   |                | is delivered   | rate with      | cework—factory |
+   |                | after a        | pauses after   | worker getting |
+   |                | predictable    | reinforcement  | paid for every |
+   |                | number of      |                | x number of    |
+   |                | responses      |                | items          |
+   |                | (e.g., after   |                | manufactured   |
+   |                | 2, 4, 6, and 8 |                |                |
+   |                | responses).    |                |                |
+   +----------------+----------------+----------------+----------------+
+   | Variable ratio | Reinforcement  | High and       | Gambling       |
+   |                | is delivered   | steady         |                |
+   |                | after an       | response rate  |                |
+   |                | unpredictable  |                |                |
+   |                | number of      |                |                |
+   |                | responses      |                |                |
+   |                | (e.g., after   |                |                |
+   |                | 1, 4, 5, and 9 |                |                |
+   |                | responses).    |                |                |
+   +----------------+----------------+----------------+----------------+
 
 Now let’s combine these four terms. A **fixed interval reinforcement
 schedule**\ {: data-type=“term”} is when behavior is rewarded after a
