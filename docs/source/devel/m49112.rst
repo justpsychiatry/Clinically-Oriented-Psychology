@@ -1778,12 +1778,12 @@ Critical Thinking Questions
 
 .. card::
 
-  .. card:: Question
+   .. card:: Question
 
       What are some known teratogens, and what kind of damage can they
       do to the developing fetus?
 
-  .. dropdwon:: Explanation
+   .. dropdown:: Explanation
 
       Alcohol is a teratogen. Excessive drinking can cause mental
       retardation in children. The child can also have a small head and

@@ -1,3 +1,10 @@
+.. meta::
+   
+   :title: Operant Conditioning
+   :author: Justpsychiatry
+   :description: This section covers operant conditioning, the processes in operant conditioning, and its clinical applications. It is based on OpenStax Psychology. 
+   :keywords: operant conditioning, instrumental learning, instrumental conditioning, Skinner's theory, reinforcement, reward-based learning
+
 ====================
 Operant Conditioning
 ====================
@@ -196,12 +203,12 @@ undesirable behavior. For example, imagine your four-year-old son,
 Brandon, hit his younger brother. You have Brandon write 100 times “I
 will not hit my brother" (positive punishment). Chances are he won’t
 repeat this behavior. While strategies like this are common today, in
-the past children were often subject to physical punishment, such as
+the past, children were often subject to physical punishment, such as
 spanking. It’s important to be aware of some of the drawbacks in using
 physical punishment on children. First, punishment may teach fear.
 Brandon may become fearful of the street, but he also may become fearful
 of the person who delivered the punishment—you, his parent. Similarly,
-children who are punished by teachers may come to fear the teacher and
+children whom teachers punish may come to fear the teacher and
 try to avoid school (Gershoff et al., 2010). Consequently, most schools
 in the United States have banned corporal punishment. Second, punishment
 may cause children to become more aggressive and prone to antisocial
@@ -228,9 +235,9 @@ of a target behavior.
 
 Why is shaping needed? 
 ~~~~~~~~~~~~~~~~~~~~~~
-Remember that in order for reinforcement to work, the organism must first display the behavior.
-Shaping is needed because it is extremely unlikely that an organism will
-display anything but the simplest of behaviors spontaneously. In
+Remember that the organism must first display the behavior for reinforcement to work.
+Shaping is needed because it is improbable that an organism will
+spontaneously display anything but the simplest of behaviors. In
 shaping, behaviors are broken down into many small, achievable steps.
 
 The specific steps used in the process are the following:
@@ -250,7 +257,7 @@ behaviors. Skinner used shaping to teach pigeons not only such
 relatively simple behaviors as pecking a disk in a Skinner box, but also
 many unusual and entertaining behaviors, such as turning in circles,
 walking in figure eights, and even playing ping pong; the technique is
-commonly used by animal trainers today. An important part of shaping is
+commonly used by animal trainers today. An essential part of shaping is
 stimulus discrimination. Recall Pavlov’s dogs—he trained them to respond
 to the tone of a bell, and not to similar tones or sounds. This
 discrimination is also important in operant conditioning and in shaping
@@ -326,8 +333,8 @@ specified amounts of tokens for minutes of playtime.
 
 .. card:: Behaviour Modification in Children
 
-   Clinical tip
-   ^^^
+    Clinical tip
+    ^^^
 
       Parents and teachers often use behavior modification to change a
       child’s behavior. Behavior modification uses the principles of
@@ -383,10 +390,7 @@ specified amounts of tokens for minutes of playtime.
       equipment. Photograph B shows a child sitting alone at a table
       looking at the playground.|\ {: #Figure06_03_Timeout}
 
-      +++
-      Photograph A shows several children climbing on playground
-      equipment. Photograph B shows a child sitting alone at a table
-      looking at the playground
+
 
 
 Reinforcement Schedules
@@ -486,8 +490,7 @@ receives a dose of medication. Since the reward (pain relief) only
 occurs on a fixed interval, there is no point in exhibiting the behavior
 when it will not be rewarded.
 
-With a **variable interval reinforcement schedule**\ {:
-data-type=“term”}, the person or animal gets the reinforcement based on
+With a :term:`variable interval reinforcement schedule`, the person or animal gets the reinforcement based on
 varying amounts of time, which are unpredictable. Say that Manuel is the
 manager at a fast-food restaurant. Every once in a while someone from
 the quality control division comes to Manuel’s restaurant. If the
@@ -516,24 +519,33 @@ quantity based, can lead to a higher quality of output.
 In a :term:`variable ratio reinforcement schedule`,
 the number of responses needed for a reward varies. This is the most
 powerful partial reinforcement schedule. An example of the variable
-ratio reinforcement schedule is gambling. Imagine that Sarah—generally a
-smart, thrifty woman—visits Las Vegas for the first time. She is not a
-gambler, but out of curiosity she puts a quarter into the slot machine,
+ratio reinforcement schedule is gambling. 
+
+
+Imagine that Sarah—generally an intelligent, thrifty woman—visits Las Vegas for the first time. She is not a
+gambler, but out of curiosity, she puts a quarter into the slot machine,
 and then another, and another. Nothing happens. Two dollars in quarters
 later, her curiosity is fading, and she is just about to quit. But then,
 the machine lights up, bells go off, and Sarah gets 50 quarters back.
-That’s more like it! Sarah gets back to inserting quarters with renewed
-interest, and a few minutes later she has used up all her gains and is
-$10 in the hole. Now might be a sensible time to quit. And yet, she
+That is more like it! Sarah gets back to inserting quarters with renewed
+interest, and a few minutes later, she has used up all her gains and is
+$10 in the hole. Now might be a reasonable time to quit. Nevertheless, she
 keeps putting money into the slot machine because she never knows when
-the next reinforcement is coming. She keeps thinking that with the next
-quarter she could win $50, or $100, or even more. Because the
+the next reinforcement is coming. She keeps thinking that she could win 
+$50, or $100, or even more in the next quarter. Because the
 reinforcement schedule in most types of gambling has a variable ratio
 schedule, people keep trying and hoping that the next time they will win
-big. This is one of the reasons that gambling is so addictive—and so
+big. This is one of the reasons that gambling is excessively addictive—and so
 resistant to extinction.
 
-In operant conditioning, extinction of a reinforced behavior occurs at
+.. attention::
+
+   .. card:: Clinical Correlate
+
+      - Gambling employs the variable-ratio schedule. 
+      - Behaviours reinforced through variable ratio schedule are most resistant to extinction. 
+
+In operant conditioning, the extinction of a reinforced behavior occurs at
 some point after reinforcement stops, and the speed at which this
 happens depends on the reinforcement schedule. In a variable ratio
 schedule, the point of extinction comes very slowly, as described above.
@@ -561,63 +573,65 @@ interval line has consistently spaced marks indicating where
 reinforcement has occurred, but after each reinforcement, there is a
 drop in the line.|\ {: #Figure06_03_Response}
 
-.. card:: clinical connection
+.. card:: Clinical Correlate
 
    .. card:: Gambling and the Brain
 
-      Skinner (1953) stated, 
+       Skinner (1953) stated, 
       
          “If the gambling establishment cannot persuade
          a patron to turn over money with no return, it may achieve the same
          effect by returning part of the patron's money on a variable-ratio
          schedule” (p. 397).
 
-      Skinner uses gambling as an example of the power and effectiveness of
-      conditioning behavior based on a variable ratio reinforcement
-      schedule. In fact, Skinner was so confident in his knowledge of
-      gambling addiction that he even claimed he could turn a pigeon into a
-      pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
-      variable ratio reinforcement, gambling seems to work on the brain in
-      the same way as some substances of abuse. The Illinois Institute for
-      Addiction Recovery (n.d.) reports evidence suggesting that
-      pathological gambling is an addiction similar to a chemical addiction
-      (`[link] <#Figure06_03_Gambling>`__). Specifically, gambling may
-      activate the reward centers of the brain, like other substances of abuse.
-      Research has shown that some pathological gamblers have lower levels
-      of norepinephrine than do normal gamblers (Roy, et al., 1988). 
-      
-      According to a study
-      conducted by Alec Roy and colleagues, norepinephrine is secreted when
-      a person feels stress, arousal, or thrill; pathological gamblers use
-      gambling to increase their levels of this neurotransmitter. 
-      Another
-      researcher, neuroscientist Hans Breiter, has done extensive research
-      on gambling and its effects on the brain. Breiter (as cited in
-      Franzen, 2001) reports that “Monetary reward in a gambling-like
-      experiment produces brain activation very similar to that observed in
-      a cocaine addict receiving an infusion of cocaine” (para. 1).
-      Deficiencies in serotonin might also
-      contribute to compulsive behavior, including a gambling addiction.
+         Skinner uses gambling as an example of the power and effectiveness of
+         conditioning behavior based on a variable ratio reinforcement
+         schedule. Skinner was so confident in his knowledge of
+         gambling addiction that he even claimed he could turn a pigeon into a
+         pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
+         variable ratio reinforcement, gambling seems to work on the brain in
+         the same way as some substances of abuse. The Illinois Institute for
+         Addiction Recovery (n.d.) reports evidence suggesting that
+         pathological gambling is an addiction similar to a chemical addiction
+         (`[link] <#Figure06_03_Gambling>`__). Specifically, gambling may
+         activate the brain's reward centers, like other substances of abuse.
+         Research has shown that some pathological gamblers have lower levels
+         of norepinephrine than do normal gamblers (Roy, et al., 1988). 
+         
+         According to a study conducted by Alec Roy and colleagues, 
+         norepinephrine is secreted during
+         stress, arousal, or thrill; pathological gamblers use
+         gambling to increase their levels of this neurotransmitter. 
+         
+         Another researcher, neuroscientist Hans Breiter, has done extensive research
+         on gambling and its effects on the brain. Breiter (as cited in
+         Franzen, 2001) reports that “Monetary reward in a gambling-like
+         experiment produces brain activation very similar to that observed in
+         a cocaine addict receiving an infusion of cocaine” (para. 1).
+         Deficiencies in serotonin might also
+         contribute to compulsive behavior, including a gambling addiction.
 
-      It may be that pathological gamblers’ brains are different than those
-      of other people, and perhaps this difference may somehow have led to
-      their gambling addiction, as these studies seem to suggest. However,
-      it is very difficult to ascertain the cause because it is impossible
-      to conduct a true experiment (it would be unethical to try to turn
-      randomly assigned participants into problem gamblers). Therefore, it
-      may be that causation actually moves in the opposite
-      direction—perhaps the act of gambling somehow changes
-      neurotransmitter levels in some gamblers’ brains. It also is possible
-      that some overlooked factor, or confounding variable, played a role
-      in both the gambling addiction and the differences in brain
-      chemistry.
+         It may be that pathological gamblers’ brains are different than those
+         of other people, and perhaps this difference may somehow have led to
+         their gambling addiction, as these studies seem to suggest. However,
+         it is very difficult to ascertain the cause because it is impossible
+         to conduct a true experiment (it would be unethical to try to turn
+         randomly assigned participants into problem gamblers). Therefore, it
+         may be that causation actually moves in the opposite
+         direction—perhaps the act of gambling somehow changes
+         neurotransmitter levels in some gamblers’ brains. It also is possible
+         that some overlooked factor, or confounding variable, played a role
+         in both the gambling addiction and the differences in brain
+         chemistry.
 
-      |A photograph shows four digital gaming machines.|\ {:
-      #Figure06_03_Gambling}
+         |A photograph shows four digital gaming machines.|\ {:
+         #Figure06_03_Gambling}
 
       .. seealso:: 
 
-         See the ICD-11 Criteria for `Gambling Disorder <https://www.mrcpsych.uk/2022/05/child-mania-rating-scale-parent-version.html>`
+         
+          See the ICD-11 Criteria for 
+          `Gambling Disorder <https://www.mrcpsych.uk/2022/05/child-mania-rating-scale-parent-version.html>`
 
 
 

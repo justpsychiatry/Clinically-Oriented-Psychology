@@ -12,8 +12,12 @@ Welcome to *Psychology*, an OpenStax resource. This textbook was written
 to increase student access to high-quality learning materials,
 maintaining highest standards of academic rigor at little to no cost.
 
-About OpenStax
-==============
+About Clinically Oriented Psychology
+====================================
+
+Clinically Oriented Psychology, at the time of writting, 
+is a project do transform OpenStax Psychology into book that is suitable for psychiatrists. 
+It focuses on the clinical relevance of concepts and their clinical applications. 
 
 OpenStax is a nonprofit based at Rice University, and it’s our mission
 to improve student access to education. Our first openly licensed
@@ -66,7 +70,7 @@ Format
 ------
 
 You can access this textbook for free in web view or PDF through
-openstax.org, and in low-cost print and iBooks editions.
+psychology.mrcpsych.uk, and in low-cost print and iBooks editions.
 
 About *Psychology*
 ==================

@@ -8,28 +8,28 @@ What Is Learning?
    :depth: 3
 ..
 
-.. container::
+.. card:: Learning Objectives
 
-   By the end of this section, you will be able to: \* Explain how
-   learned behaviors are different from instincts and reflexes \* Define
-   learning \* Recognize and define three basic forms of
-   learning—classical conditioning, operant conditioning, and
-   observational learning
+   By the end of this section, you will be able to: 
+
+   * Explain how learned behaviours are different from instincts and reflexes 
+   * Define learning
+   * Recognize and define three basic forms of learning—classical conditioning, operant conditioning, and observational learning
 
 Birds build nests and migrate as winter approaches. Infants suckle at
 their mother’s breast. Dogs shake water off wet fur. Salmon swim
 upstream to spawn, and spiders spin intricate webs. What do these
-seemingly unrelated behaviors have in common? They all are *unlearned*
-behaviors. Both instincts and reflexes are innate behaviors that
-organisms are born with. **Reflexes**\ {: data-type=“term”} are a motor
+seemingly unrelated behaviours have in common? They all are *unlearned*
+behaviours. Both instincts and reflexes are innate behaviours that
+organisms are born with. :term:`Reflexes` are a motor
 or neural reaction to a specific stimulus in the environment. They tend
 to be simpler than instincts, involve the activity of specific body
 parts and systems (e.g., the knee-jerk reflex and the contraction of the
 pupil in bright light), and involve more primitive centers of the
 central nervous system (e.g., the spinal cord and the medulla). In
-contrast, **instincts**\ {: data-type=“term”} are innate behaviors that
+contrast, :term:`instincts` are innate behaviours that
 are triggered by a broader range of events, such as aging and the change
-of seasons. They are more complex patterns of behavior, involve movement
+of seasons. They are more complex patterns of behaviour, involve movement
 of the organism as a whole (e.g., sexual activity and migration), and
 involve higher brain centers.
 
@@ -40,10 +40,9 @@ on a nipple, whether artificial (from a bottle) or human. Nobody teaches
 the baby to suck, just as no one teaches a sea turtle hatchling to move
 toward the ocean. Learning, like reflexes and instincts, allows an
 organism to adapt to its environment. But unlike instincts and reflexes,
-learned behaviors involve change and experience: **learning**\ {:
-data-type=“term”} is a relatively permanent change in behavior or
+learned behaviours involve change and experience: :term:`learning` is a relatively permanent change in behaviour or
 knowledge that results from experience. In contrast to the innate
-behaviors discussed above, learning involves acquiring knowledge and
+behaviours discussed above, learning involves acquiring knowledge and
 skills through experience. Looking back at our surfing scenario, Julian
 will have to spend much more time training with his surfboard before he
 learns how to ride the waves like his father.
@@ -54,7 +53,7 @@ interaction of conscious and unconscious processes. Learning has
 traditionally been studied in terms of its simplest components—the
 associations our minds automatically make between events. Our minds have
 a natural tendency to connect events that occur closely together or in
-sequence. **Associative learning**\ {: data-type=“term”} occurs when an
+sequence. :term:`Associative learning` occurs when an
 organism makes connections between stimuli or events that occur together
 in the environment. You will see that associative learning is central to
 all three basic learning processes discussed in this chapter; classical
@@ -75,18 +74,18 @@ makes you jump (loud noises have that effect by reflex). Because
 lightning reliably predicts the impending boom of thunder, you may
 associate the two and jump when you see lightning. Psychological
 researchers study this associative process by focusing on what can be
-seen and measured—behaviors. Researchers ask if one stimulus triggers a
+seen and measured—behaviours. Researchers ask if one stimulus triggers a
 reflex, can we train a different stimulus to trigger that same reflex?
 In operant conditioning, organisms learn, again, to associate events—a
-behavior and its consequence (reinforcement or punishment). A pleasant
-consequence encourages more of that behavior in the future, whereas a
-punishment deters the behavior. Imagine you are teaching your dog,
+behaviour and its consequence (reinforcement or punishment). A pleasant
+consequence encourages more of that behaviour in the future, whereas a
+punishment deters the behaviour. Imagine you are teaching your dog,
 Hodor, to sit. You tell Hodor to sit, and give him a treat when he does.
 After repeated experiences, Hodor begins to associate the act of sitting
 with receiving a treat. He learns that the consequence of sitting is
 that he gets a doggie biscuit (`[link] <#Figure06_01_Dog>`__).
-Conversely, if the dog is punished when exhibiting a behavior, it
-becomes conditioned to avoid that behavior (e.g., receiving a small
+Conversely, if the dog is punished when exhibiting a behaviour, it
+becomes conditioned to avoid that behaviour (e.g., receiving a small
 shock when crossing the boundary of an invisible electric fence).
 
 |A photograph shows a dog standing at attention and smelling a treat in
@@ -106,21 +105,21 @@ to failure. Can you think of something you have learned how to do after
 watching someone else?
 
 All of the approaches covered in this chapter are part of a particular
-tradition in psychology, called behaviorism, which we discuss in the
+tradition in psychology, called behaviourism, which we discuss in the
 next section. However, these approaches do not represent the entire
 study of learning. Separate traditions of learning have taken shape
 within different fields of psychology, such as memory and cognition, so
 you will find that other chapters will round out your understanding of
 the topic. Over time these traditions tend to converge. For example, in
 this chapter you will see how cognition has come to play a larger role
-in behaviorism, whose more extreme adherents once insisted that
-behaviors are triggered by the environment with no intervening thought.
+in behaviourism, whose more extreme adherents once insisted that
+behaviours are triggered by the environment with no intervening thought.
 
 Summary
 =======
 
-Instincts and reflexes are innate behaviors—they occur naturally and do
-not involve learning. In contrast, learning is a change in behavior or
+Instincts and reflexes are innate behaviours—they occur naturally and do
+not involve learning. In contrast, learning is a change in behaviour or
 knowledge that results from experience. There are three main types of
 learning: classical conditioning, operant conditioning, and
 observational learning. Both classical and operant conditioning are
@@ -130,7 +129,7 @@ learning by observing others.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       Which of the following is an example of a reflex that occurs at
       some point in the development of a human being?
@@ -140,22 +139,22 @@ learning by observing others.
       3. infant sucking on a nipple
       4. toddler walking {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      C
+       C
   .. Card:: Question
 
       Learning is best defined as a relatively permanent change in
-      behavior that \________.
+      behaviour that \________.
 
       1. is innate
       2. occurs as a result of experience
       3. is found only in humans
       4. occurs by observing others {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
 
 
@@ -166,60 +165,60 @@ learning by observing others.
       3. operant conditioning; observational learning
       4. operant conditioning; learning conditioning {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
       A
   .. Card:: Question
 
       In \_______\_ the stimulus or experience occurs before the
-      behavior and then gets paired with the behavior.
+      behaviour and then gets paired with the behaviour.
 
       1. associative learning
       2. observational learning
       3. operant conditioning
       4. classical conditioning {: type=“a”}
 
-   .. container::
+    .. dropdown::
 
-      D
+       D
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       Compare and contrast classical and operant conditioning. How are
       they alike? How do they differ?
 
-   .. container::
+   .. dropdown::
 
       Both classical and operant conditioning involve learning by
       association. In classical conditioning, responses are involuntary
       and automatic; however, responses are voluntary and learned in
       operant conditioning. In classical conditioning, the event that
-      drives the behavior (the stimulus) comes before the behavior; in
-      operant conditioning, the event that drives the behavior (the
-      consequence) comes after the behavior. Also, whereas classical
+      drives the behaviour (the stimulus) comes before the behaviour; in
+      operant conditioning, the event that drives the behaviour (the
+      consequence) comes after the behaviour. Also, whereas classical
       conditioning involves an organism forming an association between
       an involuntary (reflexive) response and a stimulus, operant
       conditioning involves an organism forming an association between a
-      voluntary behavior and a consequence.
+      voluntary behaviour and a consequence.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
-      What is the difference between a reflex and a learned behavior?
+      What is the difference between a reflex and a learned behaviour?
 
-   .. container::
+   .. dropdown::
 
-      A reflex is a behavior that humans are born knowing how to do,
-      such as sucking or blushing; these behaviors happen automatically
-      in response to stimuli in the environment. Learned behaviors are
+      A reflex is a behaviour that humans are born knowing how to do,
+      such as sucking or blushing; these behaviours happen automatically
+      in response to stimuli in the environment. Learned behaviours are
       things that humans are not born knowing how to do, such as
-      swimming and surfing. Learned behaviors are not automatic; they
+      swimming and surfing. Learned behaviours are not automatic; they
       occur as a result of practice or repeated experience in a
       situation.
 
@@ -248,12 +247,15 @@ Personal Application Questions
       form of learning that involves connecting certain stimuli or
       events that occur together in the environment (classical and
       operant conditioning) ^
+   
    instinct
-      unlearned knowledge, involving complex patterns of behavior;
+      unlearned knowledge, involving complex patterns of behaviour;
       instincts are thought to be more prevalent in lower animals than
       in humans ^
+   
    learning
-      change in behavior or knowledge that is the result of experience ^
+      change in behaviour or knowledge that is the result of experience ^
+   
    reflex
       unlearned, automatic response by an organism to a stimulus in the
       environment

@@ -15,15 +15,15 @@ Classical Conditioning
    - Explain how classical conditioning occurs
    - Summarize the processes of acquisition, extinction, spontaneous recovery, generalization, and discrimination
 
-Does the name Ivan **Pavlov**:term:`pastehere` ring a
+Does the name Ivan :term:`Pavlov` ring a
 bell? Even if you are new to the study of psychology, chances are that
 you have heard of Pavlov and his famous dogs.
 
 Pavlov (1849–1936), a Russian scientist, performed extensive research on
 dogs and is best known for his experiments in classical
-**conditioning**:term:`pastehere`
+:term:`conditioning`
 (`[link] <#Figure06_02_Pavlov>`__). As we discussed briefly in the
-previous section, **classical conditioning**\ {: data-type=“term”} is a
+previous section, :term:`classical conditioning` is a
 process by which we learn to associate stimuli and, consequently, to
 anticipate events.
 
@@ -56,7 +56,7 @@ environment: (1) unconditioned (unlearned) responses, or reflexes, and
 
 In Pavlov’s experiments, the dogs salivated each time meat powder was
 presented to them. The meat powder in this situation was an
-**unconditioned stimulus (UCS)**\ {: data-type=“term”}: a stimulus that
+:term:`unconditioned stimulus (UCS)`: a stimulus that
 elicits a reflexive response in an organism. The dogs’ salivation was an
 **unconditioned response (UCR)**\ {: data-type=“term”}: a natural
 (unlearned) reaction to a given stimulus. Before conditioning, think of
