@@ -84,9 +84,8 @@ html_css_files = ['rootcss.css']
 autosectionlabel_prefix_document = True
 
 html_theme_options = {
-  ...
+
   "logo_only": True,
-  ...
 }
 
 hoverxref_roles = [
@@ -115,8 +114,6 @@ epub_show_urls = 'footnote'
 #
 
 
-
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -127,13 +124,8 @@ epub_show_urls = 'footnote'
 
 rst_epilog= """
 
-.. meta::
-   :keywords: reStructuredText, demonstration, demo, parser
-   :description lang=en: A demonstration of the reStructuredText
-   :author: Justpsychiatry,
-   :date: 
-
 .. admonition:: Copyright Notice
+   :class: caution
  
    This work is (being) adapted from on OpenStax Psychology-2e which is licesed under creative commons 4.0 license. 
 """

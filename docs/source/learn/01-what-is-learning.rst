@@ -28,7 +28,7 @@ parts and systems (e.g., the knee-jerk reflex and the contraction of the
 pupil in bright light), and involve more primitive centers of the
 central nervous system (e.g., the spinal cord and the medulla). In
 contrast, :term:`instincts` are innate behaviours that
-are triggered by a broader range of events, such as aging and the change
+are triggered by a broader range of events, such as ageing and the change
 of seasons. They are more complex patterns of behaviour, involve movement
 of the organism as a whole (e.g., sexual activity and migration), and
 involve higher brain centers.
@@ -225,17 +225,21 @@ Critical Thinking Questions
 Personal Application Questions
 ==============================
 
-.. container::
+.. card:: Personal Application Questions
+   :class-card: sd-bg-info
 
-   .. container::
+   .. admonition::
+      :class: hint
 
       What is your personal definition of learning? How do your ideas
       about learning compare with the definition of learning presented
       in this text?
 
-.. container::
+.. card::
+   :card-class: sd-bg-info
 
-   .. container::
+   .. admonition::
+      :class: hint
 
       What kinds of things have you learned through the process of
       classical conditioning? Operant conditioning? Observational
