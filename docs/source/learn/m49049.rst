@@ -2,17 +2,17 @@
 Operant Conditioning
 ====================
 
-
-
 .. contents::
    :depth: 3
 ..
 
-.. container::
+.. card::
 
-   By the end of this section, you will be able to: \* Define operant
-   conditioning \* Explain the difference between reinforcement and
-   punishment \* Distinguish between reinforcement schedules
+   By the end of this section, you will be able to: 
+   
+   - Define operant conditioning
+   - Explain the difference between reinforcement and punishment
+   - Distinguish between reinforcement schedules
 
 The previous section of this chapter focused on the type of associative
 learning known as classical conditioning. Remember that in classical
@@ -60,7 +60,7 @@ the desired behavior in the future.
    +----------------------+----------------------+----------------------+
 
 
-Psychologist B. F. **Skinner**:term:`pastehere` saw
+Psychologist B. F. :term:`Skinner` saw
 that classical conditioning is limited to existing behaviors that are
 reflexively elicited, and it doesn’t account for new behaviors such as
 riding a bike. He proposed a theory about how such behaviors come about.
@@ -68,7 +68,7 @@ Skinner believed that behavior is motivated by the consequences we
 receive for the behavior: the reinforcements and punishments. His idea
 that learning is the result of consequences is based on the law of
 effect, which was first proposed by psychologist Edward
-**Thorndike**:term:`pastehere`. According to the **law
+:term:`Thorndike`. According to the **law
 of effect**\ {: data-type=“term”}, behaviors that are followed by
 consequences that are satisfying to the organism are more likely to be
 repeated, and behaviors that are followed by unpleasant consequences are
@@ -116,167 +116,20 @@ response. Now let’s combine these four terms: positive reinforcement,
 negative reinforcement, positive punishment, and negative punishment
 (`[link] <#fs-idm23618624>`__).
 
-.. raw:: html
 
-   <table summary="This table has three columns and three rows. The first row is a header row; the first column has no heading; the second column is labeled “reinforcement” and the third column is labeled “punishment.” The second row is labeled “positive” and the third row is labeled “negative.” The cell under “reinforcement” and “positive” reads, “Something is added to increase the likelihood of a behavior.” The cell under “punishment” and “positive” reads, “Something is added to decrease the likelihood of a behavior.” The cell under “reinforcement” and “negative” reads, “Something is removed to increase the likelihood of a behavior.” The cell under “punishment” and “negative” reads, “Something is removed to decrease the likelihood of a behavior.”">
-
-.. raw:: html
-
-   <caption>
-
-Positive and Negative Reinforcement and Punishment
-
-.. raw:: html
-
-   </caption>
-
-.. raw:: html
-
-   <colgroup>
-
-.. raw:: html
-
-   <col data-width="150" />
-
-.. raw:: html
-
-   <col data-width="250" />
-
-.. raw:: html
-
-   <col data-width="250" />
-
-.. raw:: html
-
-   </colgroup>
-
-.. raw:: html
-
-   <thead>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <th />
-
-.. raw:: html
-
-   <th>
-
-Reinforcement
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Punishment
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </thead>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Positive
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Something is added to increase the likelihood of a behavior.
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Something is added to decrease the likelihood of a behavior.
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Negative
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Something is removed to increase the likelihood of a behavior.
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Something is removed to decrease the likelihood of a behavior.
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
+.. table:: Positive and Negative Reinforcement and Punishment
+
+   +----------+----------------------------+----------------------------+
+   |          | Reinforcement              | Punishment                 |
+   +==========+============================+============================+
+   | Positive | Something is *added* to    | Something is *added* to    |
+   |          | *increase* the likelihood  | *decrease* the likelihood  |
+   |          | of a behavior.             | of a behavior.             |
+   +----------+----------------------------+----------------------------+
+   | Negative | Something is *removed* to  | Something is *removed* to  |
+   |          | *increase* the likelihood  | *decrease* the likelihood  |
+   |          | of a behavior.             | of a behavior.             |
+   +----------+----------------------------+----------------------------+
 
 REINFORCEMENT
 =============
@@ -407,6 +260,10 @@ behavior.
    Here is a `brief video <http://openstax.org/l/pingpong>`__ of
    Skinner’s pigeons playing ping pong.
 
+
+Clinical Application of Shaping
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 It’s easy to see how shaping is effective in teaching behaviors to
 animals, but how does shaping work with humans? Let’s consider parents
 whose goal is to have their child learn to clean his room. They use
@@ -426,7 +283,7 @@ rats learn to press the lever in the Skinner box? They were rewarded
 with food each time they pressed the lever. For animals, food would be
 an obvious reinforcer.
 
-What would be a good reinforce for humans? For your daughter Sydney, it
+What would be a good reinforcer for humans? For your daughter Sydney, it
 was the promise of a toy if she cleaned her room. How about Joaquin, the
 soccer player? If you gave Joaquin a piece of candy every time he made a
 goal, you would be using a **primary reinforcer**\ {: data-type=“term”}.
@@ -953,57 +810,55 @@ interval line has consistently spaced marks indicating where
 reinforcement has occurred, but after each reinforcement, there is a
 drop in the line.|\ {: #Figure06_03_Response}
 
-.. container:: psychology connect-the-concepts
+.. card:: clinical connection
 
-   .. container::
+   .. card:: Gambling and the Brain
 
-      Gambling and the Brain
+      Skinner (1953) stated, “If the gambling establishment cannot persuade
+      a patron to turn over money with no return, it may achieve the same
+      effect by returning part of the patron's money on a variable-ratio
+      schedule” (p. 397).
 
-   Skinner (1953) stated, “If the gambling establishment cannot persuade
-   a patron to turn over money with no return, it may achieve the same
-   effect by returning part of the patron's money on a variable-ratio
-   schedule” (p. 397).
+      Skinner uses gambling as an example of the power and effectiveness of
+      conditioning behavior based on a variable ratio reinforcement
+      schedule. In fact, Skinner was so confident in his knowledge of
+      gambling addiction that he even claimed he could turn a pigeon into a
+      pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
+      variable ratio reinforcement, gambling seems to work on the brain in
+      the same way as some addictive drugs. The Illinois Institute for
+      Addiction Recovery (n.d.) reports evidence suggesting that
+      pathological gambling is an addiction similar to a chemical addiction
+      (`[link] <#Figure06_03_Gambling>`__). Specifically, gambling may
+      activate the reward centers of the brain, much like cocaine does.
+      Research has shown that some pathological gamblers have lower levels
+      of the neurotransmitter (brain chemical) known as norepinephrine than
+      do normal gamblers (Roy, et al., 1988). According to a study
+      conducted by Alec Roy and colleagues, norepinephrine is secreted when
+      a person feels stress, arousal, or thrill; pathological gamblers use
+      gambling to increase their levels of this neurotransmitter. Another
+      researcher, neuroscientist Hans Breiter, has done extensive research
+      on gambling and its effects on the brain. Breiter (as cited in
+      Franzen, 2001) reports that “Monetary reward in a gambling-like
+      experiment produces brain activation very similar to that observed in
+      a cocaine addict receiving an infusion of cocaine” (para. 1).
+      Deficiencies in serotonin (another neurotransmitter) might also
+      contribute to compulsive behavior, including a gambling addiction.
 
-   Skinner uses gambling as an example of the power and effectiveness of
-   conditioning behavior based on a variable ratio reinforcement
-   schedule. In fact, Skinner was so confident in his knowledge of
-   gambling addiction that he even claimed he could turn a pigeon into a
-   pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
-   variable ratio reinforcement, gambling seems to work on the brain in
-   the same way as some addictive drugs. The Illinois Institute for
-   Addiction Recovery (n.d.) reports evidence suggesting that
-   pathological gambling is an addiction similar to a chemical addiction
-   (`[link] <#Figure06_03_Gambling>`__). Specifically, gambling may
-   activate the reward centers of the brain, much like cocaine does.
-   Research has shown that some pathological gamblers have lower levels
-   of the neurotransmitter (brain chemical) known as norepinephrine than
-   do normal gamblers (Roy, et al., 1988). According to a study
-   conducted by Alec Roy and colleagues, norepinephrine is secreted when
-   a person feels stress, arousal, or thrill; pathological gamblers use
-   gambling to increase their levels of this neurotransmitter. Another
-   researcher, neuroscientist Hans Breiter, has done extensive research
-   on gambling and its effects on the brain. Breiter (as cited in
-   Franzen, 2001) reports that “Monetary reward in a gambling-like
-   experiment produces brain activation very similar to that observed in
-   a cocaine addict receiving an infusion of cocaine” (para. 1).
-   Deficiencies in serotonin (another neurotransmitter) might also
-   contribute to compulsive behavior, including a gambling addiction.
+      It may be that pathological gamblers’ brains are different than those
+      of other people, and perhaps this difference may somehow have led to
+      their gambling addiction, as these studies seem to suggest. However,
+      it is very difficult to ascertain the cause because it is impossible
+      to conduct a true experiment (it would be unethical to try to turn
+      randomly assigned participants into problem gamblers). Therefore, it
+      may be that causation actually moves in the opposite
+      direction—perhaps the act of gambling somehow changes
+      neurotransmitter levels in some gamblers’ brains. It also is possible
+      that some overlooked factor, or confounding variable, played a role
+      in both the gambling addiction and the differences in brain
+      chemistry.
 
-   It may be that pathological gamblers’ brains are different than those
-   of other people, and perhaps this difference may somehow have led to
-   their gambling addiction, as these studies seem to suggest. However,
-   it is very difficult to ascertain the cause because it is impossible
-   to conduct a true experiment (it would be unethical to try to turn
-   randomly assigned participants into problem gamblers). Therefore, it
-   may be that causation actually moves in the opposite
-   direction—perhaps the act of gambling somehow changes
-   neurotransmitter levels in some gamblers’ brains. It also is possible
-   that some overlooked factor, or confounding variable, played a role
-   in both the gambling addiction and the differences in brain
-   chemistry.
-
-   |A photograph shows four digital gaming machines.|\ {:
-   #Figure06_03_Gambling}
+      |A photograph shows four digital gaming machines.|\ {:
+      #Figure06_03_Gambling}
 
 COGNITION AND LATENT LEARNING
 =============================
@@ -1029,7 +884,7 @@ without reinforcement, food was placed in a goal box at the end of the
 maze. As soon as the rats became aware of the food, they were able to
 find their way through the maze quickly, just as quickly as the
 comparison group, which had been rewarded with food all along. This is
-known as **latent learning**\ {: data-type=“term”}: learning that occurs
+known as :term:`latent learning`: learning that occurs
 but is not observable in behavior until there is a reason to demonstrate
 it.
 
@@ -1048,28 +903,26 @@ his dad would have taken in the car. This demonstrates latent learning.
 Ravi had learned the route to school, but had no need to demonstrate
 this knowledge earlier.
 
-.. container:: psychology everyday-connection
+.. card:: psychology everyday-connection
 
-   .. container::
+   .. card:: This Place Is Like a Maze
 
-      This Place Is Like a Maze
-
-   Have you ever gotten lost in a building and couldn’t find your way
-   back out? While that can be frustrating, you’re not alone. At one
-   time or another we’ve all gotten lost in places like a museum,
-   hospital, or university library. Whenever we go someplace new, we
-   build a mental representation—or cognitive map—of the location, as
-   Tolman’s rats built a cognitive map of their maze. However, some
-   buildings are confusing because they include many areas that look
-   alike or have short lines of sight. Because of this, it’s often
-   difficult to predict what’s around a corner or decide whether to turn
-   left or right to get out of a building. Psychologist Laura Carlson
-   (2010) suggests that what we place in our cognitive map can impact
-   our success in navigating through the environment. She suggests that
-   paying attention to specific features upon entering a building, such
-   as a picture on the wall, a fountain, a statue, or an escalator, adds
-   information to our cognitive map that can be used later to help find
-   our way out of the building.
+      Have you ever gotten lost in a building and couldn’t find your way
+      back out? While that can be frustrating, you’re not alone. At one
+      time or another we’ve all gotten lost in places like a museum,
+      hospital, or university library. Whenever we go someplace new, we
+      build a mental representation—or cognitive map—of the location, as
+      Tolman’s rats built a cognitive map of their maze. However, some
+      buildings are confusing because they include many areas that look
+      alike or have short lines of sight. Because of this, it’s often
+      difficult to predict what’s around a corner or decide whether to turn
+      left or right to get out of a building. Psychologist Laura Carlson
+      (2010) suggests that what we place in our cognitive map can impact
+      our success in navigating through the environment. She suggests that
+      paying attention to specific features upon entering a building, such
+      as a picture on the wall, a fountain, a statue, or an escalator, adds
+      information to our cognitive map that can be used later to help find
+      our way out of the building.
 
 .. seealso::
 
@@ -1093,7 +946,7 @@ variable period of time.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       \_______\_ is when you take away a pleasant stimulus to stop a
       behavior.
@@ -1103,9 +956,9 @@ variable period of time.
       3. positive punishment
       4. negative punishment {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      D
+       D
   .. Card:: Question
 
       Which of the following is *not* an example of a primary
@@ -1116,11 +969,10 @@ variable period of time.
       3. water
       4. sex {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
-
 
       Rewarding successive approximations toward a target behavior is
       \________.
@@ -1130,9 +982,9 @@ variable period of time.
       3. positive reinforcement
       4. negative reinforcement {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      A
+       A
   .. Card:: Question
 
       Slot machines reward gamblers with money according to which
@@ -1143,34 +995,34 @@ variable period of time.
       3. fixed interval
       4. variable interval {: type=“a”}
 
-   .. container::
+    .. dropdown::
 
-      B
+       B
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       What is a Skinner box and what is its purpose?
 
-   .. container::
+   .. dropdown::
 
       A Skinner box is an operant conditioning chamber used to train
       animals such as rats and pigeons to perform certain behaviors,
       like pressing a lever. When the animals perform the desired
       behavior, they receive a reward: food or water.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       What is the difference between negative reinforcement and
       punishment?
 
-   .. container::
+   .. dropdown::
 
       In negative reinforcement you are taking away an undesirable
       stimulus in order to increase the frequency of a certain behavior
@@ -1180,14 +1032,14 @@ Critical Thinking Questions
       scold your child for running into the street in order to decrease
       the unsafe behavior.)
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       What is shaping and how would you use shaping to teach a dog to
       roll over?
 
-   .. container::
+   .. dropdown::
 
       Shaping is an operant conditioning method in which you reward
       closer and closer approximations of the desired behavior. If you
@@ -1200,69 +1052,72 @@ Critical Thinking Questions
 Personal Application Questions
 ==============================
 
-.. container::
-
-   .. container::
-
-      Explain the difference between negative reinforcement and
-      punishment, and provide several examples of each based on your own
-      experiences.
-
-.. container::
-
-   .. container::
-
-      Think of a behavior that you have that you would like to change.
-      How could you use behavior modification, specifically positive
-      reinforcement, to change your behavior? What is your positive
-      reinforcer?
+1. Explain the difference between negative reinforcement and punishment, and provide several examples of each based on your own experiences.
+2. Think of a behavior that you have that you would like to change. How could you use behavior modification, specifically positive reinforcement, to change your behavior? What is your positive reinforcer?
 
 .. glossary::
 
    cognitive map
       mental picture of the layout of the environment ^
+   
    continuous reinforcement
       rewarding a behavior every time it occurs ^
+   
    fixed interval reinforcement schedule
       behavior is rewarded after a set amount of time ^
+   
    fixed ratio reinforcement schedule
       set number of responses must occur before a behavior is rewarded ^
+   
    latent learning
       learning that occurs, but it may not be evident until there is a
       reason to demonstrate it ^
+   
    law of effect
       behavior that is followed by consequences satisfying to the
       organism will be repeated and behaviors that are followed by
       unpleasant consequences will be discouraged ^
+   
    negative punishment
       taking away a pleasant stimulus to decrease or stop a behavior ^
+   
    negative reinforcement
       taking away an undesirable stimulus to increase a behavior ^
+   
    operant conditioning
       form of learning in which the stimulus/experience happens after
       the behavior is demonstrated ^
+   
    partial reinforcement
       rewarding behavior only some of the time ^
+   
    positive punishment
       adding an undesirable stimulus to stop or decrease a behavior ^
+   
    positive reinforcement
       adding a desirable stimulus to increase a behavior ^
+   
    primary reinforcer
       has innate reinforcing qualities (e.g., food, water, shelter, sex)
-      ^
+   
    punishment
       implementation of a consequence in order to decrease a behavior ^
+   
    reinforcement
       implementation of a consequence in order to increase a behavior ^
+
    secondary reinforcer
       has no inherent value unto itself and only has reinforcing
       qualities when linked with something else (e.g., money, gold
       stars, poker chips) ^
+
    shaping
       rewarding successive approximations toward a target behavior ^
+      
    variable interval reinforcement schedule
       behavior is rewarded after unpredictable amounts of time have
       passed ^
+   
    variable ratio reinforcement schedule
       number of responses differ before a behavior is rewarded
 
