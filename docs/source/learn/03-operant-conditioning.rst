@@ -1,13 +1,13 @@
+====================================
+Operant (Instrumental) Conditioning
+====================================
+
 .. meta::
    
-   :title: Operant Conditioning
+   :title: Operant (Instrumental) Conditioning
    :author: Justpsychiatry
    :description: This section covers operant conditioning, the processes in operant conditioning, and its clinical applications. It is based on OpenStax Psychology. 
    :keywords: operant conditioning, instrumental learning, instrumental conditioning, Skinner's theory, reinforcement, reward-based learning
-
-====================
-Operant Conditioning
-====================
 
 .. contents::
    :depth: 3
@@ -66,7 +66,7 @@ the desired behavior in the future.
    +----------------------+----------------------+----------------------+
 
 
-Psychologist B. F. :term:`Skinner` saw
+Psychologist BF :term:`Skinner` saw
 that classical conditioning is limited to existing behaviors that are
 reflexively elicited, and it doesn’t account for new behaviors such as
 riding a bike. He proposed a theory about how such behaviors come about.
@@ -111,14 +111,14 @@ dispenser.|\ {: #Figure06_03_Skinnerbox}
 In discussing operant conditioning, we use several everyday
 words—positive, negative, reinforcement, and punishment—in a specialized
 manner. In operant conditioning, positive and negative do not mean good
-and bad. Instead, *positive* means you are adding something, and
-*negative* means you are taking something away. *Reinforcement* means
-you are increasing a behavior, and *punishment* means you are decreasing
+and bad. Instead, *positive* means adding something, and
+*negative* means taking something away. *Reinforcement* means
+increasing a behavior, and *punishment* means decreasing
 a behavior. Reinforcement can be positive or negative, and punishment
 can also be positive or negative. All reinforcers (positive or negative)
-*increase* the likelihood of a behavioral response. All punishers
-(positive or negative) *decrease* the likelihood of a behavioral
-response. Now let’s combine these four terms: positive reinforcement,
+*increase* the likelihood of a behavioural response. All punishers
+(positive or negative) *decrease* the likelihood of a behavioural
+response. Now let us combine these four terms: positive reinforcement,
 negative reinforcement, positive punishment, and negative punishment
 (`[link] <#fs-idm23618624>`__).
 
@@ -140,28 +140,37 @@ negative reinforcement, positive punishment, and negative punishment
 Reinforcement
 =============
 
-The most effective way to teach a person or animal a new behavior is
-with positive reinforcement. In :term:`positive reinforcement`, a desirable stimulus is added to increase a behavior.
+An event that follows a response and increases the strength of the response and/or the likelihood that it will be repeated is known as a reinforcer. 
+A reinforcer always increases the probability or intensity of a response occurring. 
+Reinforcement is the process by which consequences—a stimulus or an event follows a behaviour—lead to an increase in the likelihood 
+that the response will occur again. Reinforcement may be positive or negative depending on whether the outcome of a behaviour a true reward—a positive stimulus 
+or reinforcer eg praise—OR the removal of an aversive stimulus.  
 
-For example, you tell your five-year-old son, Jerome, that if he cleans
-his room, he will get a toy. Jerome quickly cleans his room because he
-wants a new art set. Let’s pause for a moment. Some people might say,
-“Why should I reward my child for doing what is expected?” But in fact
+Positive Reinforcement
+----------------------
+
+Positive reinforcement is the most effective way to teach a person or animal a new behavior.
+In :term:`positive reinforcement`, a desirable stimulus is added to increase a behavior.
+
+For example, a parent tells his five-year-old son, Saad, that if he cleans
+his room, he will get a toy. Saad quickly cleans his room because he
+wants a new art set. Let us pause for a moment. Some people might say,
+“Why should I reward my child for doing what is expected?” But in fact,
 we are constantly and consistently rewarded in our lives. Our paychecks
 are rewards, as are high grades and acceptance into our preferred
-school. Being praised for doing a good job and for passing a driver’s
+school. Being praised for doing a good job and passing a driver’s
 test is also a reward. Positive reinforcement as a learning tool is
-extremely effective. It has been found that one of the most effective
+highly effective. It has been found that one of the most effective
 ways to increase achievement in school districts with below-average
 reading scores was to pay the children to read. Specifically,
 second-grade students in Dallas were paid $2 each time they read a book
-and passed a short quiz about the book. The result was a significant
-increase in reading comprehension (Fryer, 2010). What do you think about
+and passed a short quiz about it. The result was a significantly 
+increased reading comprehension (Fryer, 2010). What do you think about
 this program? If Skinner were alive today, he would probably think this
 was a great idea. He was a strong proponent of using operant
 conditioning principles to influence students’ behavior at school. In
-fact, in addition to the Skinner box, he also invented what he called a
-teaching machine that was designed to reward small steps in learning
+fact, in addition to the Skinner box, he also invented what he called 
+the teaching machine that was designed to reward small steps in learning
 (Skinner, 1961)—an early forerunner of computer-assisted learning. His
 teaching machine tested students’ knowledge as they worked through
 various school subjects. If students answered questions correctly, they
@@ -169,6 +178,9 @@ received immediate positive reinforcement and could continue; if they
 answered incorrectly, they did not receive any reinforcement. The idea
 was that students would spend additional time studying the material to
 increase their chance of being reinforced the next time (Skinner, 1961).
+
+Negative Reinforcement
+----------------------
 
 In :term:`negative reinforcement`, an undesirable
 stimulus is removed to increase a behavior. For example, car
@@ -194,7 +206,7 @@ undesirable stimulus to decrease a behavior. An example of positive
 punishment is scolding a student to get the student to stop texting in
 class. In this case, a stimulus (the reprimand) is added in order to
 decrease the behavior (texting in class). In :term:`negative punishment`, you remove a pleasant stimulus to decrease behavior.
-For example, when a child misbehaves, a parent can take away a favorite
+For example, when a child misbehaves, a parent can take away a favourite
 toy. In this case, a stimulus (the toy) is removed in order to decrease
 the behavior.
 
@@ -250,7 +262,7 @@ The specific steps used in the process are the following:
    resembles the desired behavior.
 4. Continue to reinforce closer and closer approximations of the desired
    behavior.
-5. Finally, only reinforce the desired behavior. {: type=“1”}
+5. Finally, only reinforce the desired behavior.
 
 Shaping is often used in teaching a complex behavior or chain of
 behaviors. Skinner used shaping to teach pigeons not only such
@@ -332,63 +344,60 @@ they hit or pinched, they lost a token. The children could then exchange
 specified amounts of tokens for minutes of playtime.
 
 .. card:: Behaviour Modification in Children
+   :shadow: md
+   :class-card: sd-bg-info
 
-    Clinical tip
+   Clinical tip
     ^^^
 
-      Parents and teachers often use behavior modification to change a
-      child’s behavior. Behavior modification uses the principles of
-      operant conditioning to accomplish behavior change so that
-      undesirable behaviors are switched for more socially acceptable ones.
-      Some teachers and parents create a sticker chart, in which several
-      behaviors are listed (`[link] <#Figure06_03_Stickers>`__). Sticker
-      charts are a form of token economies, as described in the text. Each
-      time children perform the behavior, they get a sticker, and after a
-      certain number of stickers, they get a prize, or reinforcer. The goal
-      is to increase acceptable behaviors and decrease misbehavior.
-      Remember, it is best to reinforce desired behaviors, rather than to
-      use punishment. In the classroom, the teacher can reinforce a wide
-      range of behaviors, from students raising their hands, to walking
-      quietly in the hall, to turning in their homework. At home, parents
-      might create a behavior chart that rewards children for things such
-      as putting away toys, brushing their teeth, and helping with dinner.
-      In order for behavior modification to be effective, the reinforcement
-      needs to be connected with the behavior; the reinforcement must
-      matter to the child and be done consistently.
+   Parents and teachers often use behavior modification to change a
+   child’s behavior. Behaviour modification uses the principles of
+   operant conditioning to accomplish behavior change so that
+   undesirable behaviors are switched for more socially acceptable ones.
+   Some teachers and parents create a sticker chart, in which several
+   behaviors are listed (`[link] <#Figure06_03_Stickers>`__). Sticker
+   charts are a form of token economies, as described in the text. Each
+   time children perform the behavior, they get a sticker, and after a
+   certain number of stickers, they get a prize, or reinforcer. The goal
+   is to increase acceptable behaviors and decrease misbehavior.
+   Remember, it is best to reinforce desired behaviors, rather than to
+   use punishment. In the classroom, the teacher can reinforce a wide
+   range of behaviors, from students raising their hands, to walking
+   quietly in the hall, to turning in their homework. At home, parents
+   might create a behavior chart that rewards children for things such
+   as putting away toys, brushing their teeth, and helping with dinner.
+   In order for behavior modification to be effective, the reinforcement
+   needs to be connected with the behavior; the reinforcement must
+   matter to the child and be done consistently.
 
-      |A photograph shows a child placing stickers on a chart hanging on
-      the wall.|\ {: #Figure06_03_Stickers}
+   |A photograph shows a child placing stickers on a chart hanging on
+   the wall.|\ {: #Figure06_03_Stickers}
 
-      Time-out is another popular technique used in behavior modification
-      with children. It operates on the principle of negative punishment.
-      When a child demonstrates an undesirable behavior, she is removed
-      from the desirable activity at hand
-      (`[link] <#Figure06_03_Timeout>`__). For example, say that Sophia and
-      her brother Mario are playing with building blocks. Sophia throws
-      some blocks at her brother, so you give her a warning that she will
-      go to time-out if she does it again. A few minutes later, she throws
-      more blocks at Mario. You remove Sophia from the room for a few
-      minutes. When she comes back, she doesn’t throw blocks.
+   **Time-out** is another popular technique used in behaviour modification
+   with children, especially those with intellectual disability. 
+   It works according to the principle of negative punishment.
+   When a child demonstrates an undesirable behavior, she is removed
+   from the desirable activity at hand. 
+   (`[link] <#Figure06_03_Timeout>`__). For example, say that Sadia and
+   her brother Salman are playing with building blocks. Sadia throws
+   some blocks at her brother, so her parent give her a warning that she will
+   go to time-out if she does it again. A few minutes later, she throws
+   more blocks at Salman. Caregiver removes Sadia from the room for a few
+   minutes. When she comes back, she doesn’t throw blocks.
+   This technique is especially useful for managing aggressive behaviour. 
 
-      There are several important points that you should know if you plan
-      to implement time-out as a behavior modification technique. First,
-      make sure the child is being removed from a desirable activity and
-      placed in a less desirable location. If the activity is something
-      undesirable for the child, this technique will backfire because it is
-      more enjoyable for the child to be removed from the activity. Second,
-      the length of the time-out is important. The general rule of thumb is
-      one minute for each year of the child’s age. Sophia is five;
-      therefore, she sits in a time-out for five minutes. Setting a timer
-      helps children know how long they have to sit in time-out. Finally,
-      as a caregiver, keep several guidelines in mind over the course of a
-      time-out: remain calm when directing your child to time-out; ignore
-      your child during time-out (because caregiver attention may reinforce
-      misbehavior); and give the child a hug or a kind word when time-out
-      is over.
+.. caution::
 
-      |Photograph A shows several children climbing on playground
-      equipment. Photograph B shows a child sitting alone at a table
-      looking at the playground.|\ {: #Figure06_03_Timeout}
+   There are several important points that a parent should know before 
+   implementing time-out as a behavior modification technique. 
+   
+   1. First, make sure the child is being removed from a desirable activity and placed in a less desirable location. If the activity is something undesirable for the child, this technique will backfire because it is more enjoyable for the child to be removed from the activity. 
+   2. Second, the length of the time-out is important. The general rule of thumb is **one minute** for each year of the child’s age. Sadia is five; therefore, she sits in a time-out for five minutes. Setting a timer helps children know how long they have to sit in time-out. 
+   3. Finally, as a caregiver, keep several guidelines in mind over the course of a time-out: remain calm when directing your child to time-out; ignore your child during time-out (because caregiver attention may reinforce misbehavior); and give the child a hug or a kind word when time-out is over.
+
+   |Photograph A shows several children climbing on playground
+   equipment. Photograph B shows a child sitting alone at a table
+   looking at the playground.|\ {: #Figure06_03_Timeout}
 
 
 
@@ -396,6 +405,8 @@ specified amounts of tokens for minutes of playtime.
 Reinforcement Schedules
 =======================
 
+Continuos Reinforcement
+------------------------
 Remember, the best way to teach a person or animal a behavior is to use
 positive reinforcement. For example, Skinner used positive reinforcement
 to teach rats to press a lever in a Skinner box. At first, the rat might
@@ -416,10 +427,12 @@ he sits, so that he can make an association between the target behavior
 .. seealso::
 
    Watch this `video
-   clip <https://drsophiayin.com/videos/entry/teaching-a-dog-to-sit-politely-rather-than-jump>`__
-   where veterinarian Dr. Sophia Yin shapes a dog’s behavior using the
+   clip <https://drSadiayin.com/videos/entry/teaching-a-dog-to-sit-politely-rather-than-jump>`__
+   where veterinarian Dr. Sadia Yin shapes a dog’s behavior using the
    steps outlined above.
 
+Partial Reinforcement
+---------------------
 Once a behavior is trained, researchers and trainers often turn to
 another type of reinforcement schedule—partial reinforcement. In
 :term:`partial reinforcement`, also referred to as
@@ -436,6 +449,7 @@ time between reinforcements, and *ratio* means the schedule is based on
 the number of responses between reinforcements.
 
 .. table:: Reinforcement Schedules
+   :widths: auto
 
    +----------------+----------------+----------------+----------------+
    | Reinforcement  | Description    | Result         | Example        |
@@ -479,6 +493,8 @@ the number of responses between reinforcements.
    |                | responses).    |                |                |
    +----------------+----------------+----------------+----------------+
 
+Fixed Interval Reinforcement Schedule
+-------------------------------------
 Now let’s combine these four terms. A :term:`fixed interval reinforcement schedule` 
 is when behavior is rewarded after a
 set amount of time. For example, June undergoes major surgery in a
@@ -489,6 +505,9 @@ dose per hour. June pushes a button when pain becomes difficult, and she
 receives a dose of medication. Since the reward (pain relief) only
 occurs on a fixed interval, there is no point in exhibiting the behavior
 when it will not be rewarded.
+
+Variable Interval Schedule
+--------------------------
 
 With a :term:`variable interval reinforcement schedule`, the person or animal gets the reinforcement based on
 varying amounts of time, which are unpredictable. Say that Manuel is the
@@ -720,9 +739,10 @@ this knowledge earlier.
 
 .. seealso::
 
-   Watch this `video <http://openstax.org/l/carlsonmaps>`__ to learn
-   more about Carlson’s studies on cognitive maps and navigation in
+   Watch this to learn more about Carlson’s studies on cognitive maps and navigation in
    buildings.
+
+   .. youtube:: TU6tSkdbPh4
 
 Escape and Avoidance Conditioning
 ----------------------------------
@@ -735,6 +755,16 @@ Two factors
 
 - Discrimination learning (cue) and 
 - Avoidance or escape learning. l
+
+.. admonition:: Clinical Correlate
+   :class: tip
+
+   Substance users begin to experience withdrawal symptoms in the course of development of drug dependence. 
+   At some point, the user learns that the use of the substance can help reduce—escape—this unpleasant state. 
+   This is an example of **escape** learning. 
+   Gradually, substance users learn to prevent withdrawal from happening by using the substance at the earliest cues of withdrawal. 
+   This would be **avoidance** learning. 
+
 
 
 Summary
@@ -761,7 +791,7 @@ variable period of time.
       1. positive reinforcement
       2. negative reinforcement
       3. positive punishment
-      4. negative punishment {: type=“a”}
+      4. negative punishment
 
     .. dropdown:: Check Answer
 
@@ -774,7 +804,7 @@ variable period of time.
       1. food
       2. money
       3. water
-      4. sex {: type=“a”}
+      4. sex
 
     .. dropdown:: Check Answer
 
@@ -787,7 +817,7 @@ variable period of time.
       1. shaping
       2. extinction
       3. positive reinforcement
-      4. negative reinforcement {: type=“a”}
+      4. negative reinforcement
 
     .. dropdown:: Check Answer
 
@@ -800,7 +830,7 @@ variable period of time.
       1. fixed ratio
       2. variable ratio
       3. fixed interval
-      4. variable interval {: type=“a”}
+      4. variable interval
 
     .. dropdown::
 
@@ -841,12 +871,12 @@ Critical Thinking Questions
 
 .. card::
 
-   .. card::
+  .. card::
 
       What is shaping and how would you use shaping to teach a dog to
       roll over?
 
-   .. dropdown::
+  .. dropdown::
 
       Shaping is an operant conditioning method in which you reward
       closer and closer approximations of the desired behavior. If you

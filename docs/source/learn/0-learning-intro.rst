@@ -1,12 +1,5 @@
-============
-Learning
-============
-
-
-
-.. contents::
-   :depth: 3
-..
+Chapter 6: Learning
+###################
 
 
 |A photograph shows a baby turtle moving across sand toward the ocean. A
@@ -40,3 +33,16 @@ we come to know what we know? This chapter focuses on the primary ways
 in which learning occurs.
 
 .. |A photograph shows a baby turtle moving across sand toward the ocean. A photograph shows a young child standing on a surfboard in a small wave.| image:: ../resources/CNX_Psych_06_00_Turtles.jpg
+
+.. toctree::
+   :caption: Table of Contents
+   :glob:
+   :maxdepth: 2
+   
+   01-what-is-learning*
+   02-classical-conditioning*
+   03-operant-conditioning*
+   04-observational-learning
+
+   *
+   ...

@@ -53,7 +53,7 @@ interaction of conscious and unconscious processes. Learning has
 traditionally been studied in terms of its simplest components—the
 associations our minds automatically make between events. Our minds have
 a natural tendency to connect events that occur closely together or in
-sequence. :term:`Associative learning` occurs when an
+sequence. :term:`associative learning` occurs when an
 organism makes connections between stimuli or events that occur together
 in the environment. You will see that associative learning is central to
 all three basic learning processes discussed in this chapter; classical
@@ -137,7 +137,7 @@ learning by observing others.
       1. child riding a bike
       2. teen socializing
       3. infant sucking on a nipple
-      4. toddler walking {: type=“a”}
+      4. toddler walking
 
     .. dropdown:: Check Answer
 
@@ -150,7 +150,7 @@ learning by observing others.
       1. is innate
       2. occurs as a result of experience
       3. is found only in humans
-      4. occurs by observing others {: type=“a”}
+      4. occurs by observing others
 
     .. dropdown:: Check Answer
 
@@ -163,11 +163,11 @@ learning by observing others.
       1. classical conditioning; operant conditioning
       2. classical conditioning; Pavlovian conditioning
       3. operant conditioning; observational learning
-      4. operant conditioning; learning conditioning {: type=“a”}
+      4. operant conditioning; learning conditioning
 
     .. dropdown:: Check Answer
 
-      A
+       A
   .. Card:: Question
 
       In \_______\_ the stimulus or experience occurs before the
@@ -176,7 +176,7 @@ learning by observing others.
       1. associative learning
       2. observational learning
       3. operant conditioning
-      4. classical conditioning {: type=“a”}
+      4. classical conditioning
 
     .. dropdown::
 

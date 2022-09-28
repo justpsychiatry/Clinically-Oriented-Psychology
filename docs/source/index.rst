@@ -21,7 +21,7 @@ Clinically Oriented Psychology
    ./biop/index.rst
    ./cons/index.rst
    ./sens/index.rst
-   ./learn/index.rst
+   ./learn/0-learning-intro.rst
    ./thin/index.rst
    ./mem/index.rst
    ./devel/index.rst

@@ -8,12 +8,13 @@ Observational Learning (Modeling)
    :depth: 3
 ..
 
-.. container::
+.. card:: Learning Objectives
 
-   By the end of this section, you will be able to: \* Define
-   observational learning \* Discuss the steps in the modeling process
-   \* Explain the prosocial and antisocial effects of observational
-   learning
+   By the end of this section, you will be able to: 
+   
+   * Define observational learning
+   * Discuss the steps in the modeling process
+   * Explain the prosocial and antisocial effects of observational learning
 
 Previous sections of this chapter focused on classical and operant
 conditioning, which are forms of associative learning. In
@@ -224,7 +225,7 @@ watching their parents, siblings, and others.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       The person who performs a behavior that serves as an example is
       called a \________.
@@ -232,11 +233,11 @@ watching their parents, siblings, and others.
       1. teacher
       2. model
       3. instructor
-      4. coach {: type=“a”}
+      4. coach 
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
 
 
@@ -247,11 +248,11 @@ watching their parents, siblings, and others.
       1. ignored the doll
       2. played nicely with the doll
       3. played with tinker toys
-      4. kicked and threw the doll {: type=“a”}
+      4. kicked and threw the doll 
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      D
+       D
   .. Card:: Question
 
       Which is the correct order of steps in the modeling process?
@@ -259,11 +260,11 @@ watching their parents, siblings, and others.
       1. attention, retention, reproduction, motivation
       2. motivation, attention, reproduction, retention
       3. attention, motivation, retention, reproduction
-      4. motivation, attention, retention, reproduction {: type=“a”}
+      4. motivation, attention, retention, reproduction 
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      A
+       A
   .. Card:: Question
 
       Who proposed observational learning?
@@ -271,65 +272,66 @@ watching their parents, siblings, and others.
       1. Ivan Pavlov
       2. John Watson
       3. Albert Bandura
-      4. B. F. Skinner {: type=“a”}
+      4. B. F. Skinner 
 
-   .. container::
+    .. dropdown:: Check Answer
 
-      C
+       C
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       What is the effect of prosocial modeling and antisocial modeling?
 
-   .. container::
+   .. dropdown::
 
       Prosocial modeling can prompt others to engage in helpful and
       healthy behaviors, while antisocial modeling can prompt others to
       engage in violent, aggressive, and unhealthy behaviors.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       Cara is 17 years old. Cara’s mother and father both drink alcohol
       every night. They tell Cara that drinking is bad and she shouldn’t
       do it. Cara goes to a party where beer is being served. What do
       you think Cara will do? Why?
 
-   .. container::
+   .. dropdown::
 
       Cara is more likely to drink at the party because she has observed
       her parents drinking regularly. Children tend to follow what a
       parent does rather than what they say.
 
-Personal Application Question
-=============================
+Personal Application Questions
+==============================
 
-.. container::
+.. card:: Personal Application Questions
+   :shadow: md
 
-   .. container::
+   .. hint::
 
-      What is something you have learned how to do after watching
-      someone else?
+      What is something you have learned how to do after watching someone else?
 
 .. glossary::
 
    model
-      person who performs a behavior that serves as an example (in
-      observational learning) ^
+      person who performs a behavior that serves as an example (in observational learning) ^
+
    observational learning
       type of learning that occurs by watching others ^
+
    vicarious punishment
       process where the observer sees the model punished, making the
       observer less likely to imitate the model’s behavior ^
+
    vicarious reinforcement
-      process where the observer sees the model rewarded, making the
-      observer more likely to imitate the model’s behavior
+      process where the observer sees the model rewarded, making the observer more likely to imitate the model’s behavior
 
 .. |A photograph shows a person drinking from a water bottle, and a monkey next to the person drinking water from a bottle in the same manner.| image:: ../resources/CNX_Psych_06_04_Monkey.jpg
 .. |Photograph A shows a yoga instructor demonstrating a yoga pose while a group of students observes her and copies the pose. Photo B shows a child watching television.| image:: ../resources/CNX_Psych_06_04_Yoga.jpg

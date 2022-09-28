@@ -83,6 +83,12 @@ hoverxref_auto_ref = True
 html_css_files = ['rootcss.css']
 autosectionlabel_prefix_document = True
 
+html_theme_options = {
+  ...
+  "logo_only": True,
+  ...
+}
+
 hoverxref_roles = [
     'numref',
     'term',
