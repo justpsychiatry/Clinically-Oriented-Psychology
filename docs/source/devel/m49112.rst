@@ -8,15 +8,14 @@ Stages of Development
    :depth: 3
 ..
 
-.. container::
+.. card:: Learning Objectives
 
-   By the end of this section, you will be able to: \* Describe the
-   stages of prenatal development and recognize the importance of
-   prenatal care \* Discuss physical, cognitive, and emotional
-   development that occurs from infancy through childhood \* Discuss
-   physical, cognitive, and emotional development that occurs during
-   adolescence \* Discuss physical, cognitive, and emotional development
-   that occurs in adulthood
+   By the end of this section, you will be able to:
+   
+   - Describe the stages of prenatal development and recognize the importance of prenatal care
+   - Discuss physical, cognitive, and emotional development that occurs from infancy through childhood
+   - Discuss physical, cognitive, and emotional development that occurs during adolescence
+   - Discuss physical, cognitive, and emotional development that occurs in adulthood
 
 From the moment we are born until the moment we die, we continue to
 develop.
@@ -28,7 +27,7 @@ Mirroring Erikson’s stages, lifespan development is divided into
 different stages that are based on age. We will discuss prenatal,
 infant, child, adolescent, and adult development.
 
-PRENATAL DEVELOPMENT
+Prenatal Development
 ====================
 
 How did you come to be who you are? From beginning as a one-cell
@@ -1303,9 +1302,9 @@ elicit warm and responsive parenting, while demanding, irritable,
 withdrawn children evoke irritation in their parents or cause their
 parents to withdraw (Sanson & Rothbart, 1995).
 
-.. container:: psychology everyday-connection
+.. card:: psychology everyday-connection
 
-   .. container::
+   .. ::
 
       The Importance of Play and Recess
 
@@ -1361,7 +1360,7 @@ Physical Development
 As noted above, adolescence begins with puberty. While the sequence of
 physical changes in puberty is predictable, the onset and pace of
 puberty vary widely. Several physical changes occur during puberty, such
-as **adrenarche**\ {: data-type=“term”} and **gonadarche**\ {:
+as :term:`adrenarche` and **gonadarche**\ {:
 data-type=“term”}, the maturing of the adrenal glands and sex glands,
 respectively. Also during this time, primary and secondary sexual
 characteristics develop and mature. **Primary sexual
@@ -1696,7 +1695,7 @@ remain important as we age.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       Which of the following is the correct order of prenatal
       development?
@@ -1706,9 +1705,9 @@ remain important as we age.
       3. fetus, zygote, embryo
       4. zygote, embryo, fetus {: type=“a”}
 
-  .. dropdown:: Check Answer
-
-      D
+    .. dropdown:: Check Answer
+ 
+       D
   .. Card:: Question
 
       The time during fetal growth when specific parts or organs develop
@@ -1719,9 +1718,9 @@ remain important as we age.
       3. conception
       4. pregnancy {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      A
+       A
   .. Card:: Question
 
       What begins as a single-cell structure that is created when a
@@ -1732,9 +1731,9 @@ remain important as we age.
       3. zygote
       4. infant {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      C
+       C
   .. Card:: Question
 
       Using scissors to cut out paper shapes is an example of \________.
@@ -1744,9 +1743,9 @@ remain important as we age.
       3. large motor skills
       4. small motor skills {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
 
 
@@ -1758,9 +1757,9 @@ remain important as we age.
       3. insecure ambivalent-resistant
       4. disorganized {: type=“a”}
 
-  .. dropdown:: Check Answer
-
-      A
+    .. dropdown:: Check Answer
+ 
+       A
   .. Card:: Question
 
       The frontal lobes become fully developed \________.
@@ -1770,21 +1769,21 @@ remain important as we age.
       3. at the end of adolescence
       4. by 25 years old {: type=“a”}
 
-   .. container::
+    .. dropdown::
 
-      D
+       D
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. card::
 
-   .. container::
+  .. card:: Question
 
       What are some known teratogens, and what kind of damage can they
       do to the developing fetus?
 
-   .. container::
+  .. dropdwon:: Explanation
 
       Alcohol is a teratogen. Excessive drinking can cause mental
       retardation in children. The child can also have a small head and
@@ -1793,27 +1792,27 @@ Critical Thinking Questions
       while pregnant can lead to low-birth weight, premature birth,
       stillbirth, and SIDS.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card:: Question
 
       What is prenatal care and why is it important?
 
-   .. container::
+   .. dropdown:: Explanation
 
       Prenatal care is medical care during pregnancy that monitors the
       health of both the mother and fetus. It’s important to receive
       prenatal care because it can reduce complications to the mother
       and fetus during pregnancy.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card:: Question
 
-      Describe what happens in the embryonic stage of development.
-      Describe what happens in the fetal stage of development.
+      1. Describe what happens in the embryonic stage of development.
+      2. Describe what happens in the fetal stage of development.
 
-   .. container::
+   .. dropdown:: Explanation
 
       In the embryonic stage, basic structures of the embryo start to
       develop into areas that will become the head, chest, and abdomen.
@@ -1823,26 +1822,26 @@ Critical Thinking Questions
       body continue to develop. Fingers and toes develop along with
       hearing, and internal organs form.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card:: Question
 
       What makes a personal quality part of someone’s personality?
 
-   .. container::
+   .. dropdown:: Explanation
 
       The particular quality or trait must be part of an enduring
       behavior pattern, so that it is a consistent or predictable
       quality.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card:: Question
 
       Describe some of the newborn reflexes. How might they promote
       survival?
 
-   .. container::
+   .. dropdown:: Explanation
 
       The sucking reflex is the automatic, unlearned sucking motions
       that infants do with their mouths. It may help promote survival
@@ -1852,14 +1851,14 @@ Critical Thinking Questions
       her head that way and begin to suck. This may aid survival because
       it helps the newborn locate a source of food.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card:: Question
 
       Compare and contrast the four parenting styles and describe the
       kinds of childhood outcomes we can expect with each.
 
-   .. container::
+   .. dropdown:: Explanation
 
       With the authoritative style, children are given reasonable
       demands and consistent limits, warmth and affection are expressed,
@@ -1881,14 +1880,14 @@ Critical Thinking Questions
       fearful, anxious, perform poorly in school, and are at an
       increased risk of substance abuse.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card:: Question
 
       What is emerging adulthood and what are some factors that have
       contributed to this new stage of development?
 
-   .. container::
+   .. dropdown:: Explanation
 
       Emerging adulthood is a relatively new period of lifespan
       development from 18 years old to the mid-20s, characterized as a

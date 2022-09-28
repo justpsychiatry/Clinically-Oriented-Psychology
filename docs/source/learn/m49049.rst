@@ -324,9 +324,10 @@ hitting. When the children in the study exhibited appropriate behavior
 they hit or pinched, they lost a token. The children could then exchange
 specified amounts of tokens for minutes of playtime.
 
-.. card::
+.. card:: Behaviour Modification in Children
 
-   .. tip:: Behaviour Modification in Children
+   Clinical tip
+   ^^^
 
       Parents and teachers often use behavior modification to change a
       child’s behavior. Behavior modification uses the principles of
@@ -382,6 +383,12 @@ specified amounts of tokens for minutes of playtime.
       equipment. Photograph B shows a child sitting alone at a table
       looking at the playground.|\ {: #Figure06_03_Timeout}
 
+      +++
+      Photograph A shows several children climbing on playground
+      equipment. Photograph B shows a child sitting alone at a table
+      looking at the playground
+
+
 Reinforcement Schedules
 =======================
 
@@ -393,7 +400,7 @@ pellet of food. After eating the pellet, what do you think the hungry
 rat did next? It hit the lever again, and received another pellet of
 food. Each time the rat hit the lever, a pellet of food came out. When
 an organism receives a reinforcer each time it displays a behavior, it
-is called **continuous reinforcement**\ {: data-type=“term”}. This
+is called :term:`continuous reinforcement`. This
 reinforcement schedule is the quickest way to teach someone a behavior,
 and it is especially effective in training a new behavior. Let’s look
 back at the dog that was learning to sit earlier in the chapter. Now,
@@ -617,6 +624,20 @@ drop in the line.|\ {: #Figure06_03_Response}
 Cognitive Learning
 ==================
 
+Mental processes such as thinking, knowing, problem-solving, and remembering
+According to cognitive theorists, these processes are critically important in a more complete, more comprehensive view of learning
+
+Three main types:  
+
+- Insight, 
+- Latent Learning, and 
+- Observational Learning
+
+Learning by insight
+~~~~~~~~~~~~~~~~~~~
+
+Developed by Wolfgang Köhler.  Insight  is the sudden realization of the relationship between elements in a problem situation, which makes the solution apparent. 
+Bet he never forgets the cage again!
 
 Cognition and Latent Learning
 -----------------------------
@@ -662,7 +683,9 @@ this knowledge earlier.
 
 .. card:: psychology everyday-connection
 
-   .. card:: This Place Is Like a Maze
+   
+   This Place Is Like a Maze
+   ^^^
 
       Have you ever gotten lost in a building and couldn’t find your way
       back out? While that can be frustrating, you’re not alone. At one
