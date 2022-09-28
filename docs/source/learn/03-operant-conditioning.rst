@@ -102,7 +102,7 @@ conducting scientific experiments on animals (mainly rats and pigeons)
 to determine how organisms learn through operant conditioning (Skinner,
 1938). He placed these animals inside an operant conditioning chamber,
 which has come to be known as a **Skinner box**
-(`[link] <#Figure06_03_Skinnerbox>`__). A Skinner box contains a lever
+(`[Skinner-Box] <#Figure06_03_Skinnerbox>`__). A Skinner box contains a lever
 (for rats) or disk (for pigeons) that the animal can press or peck for a
 food reward via the dispenser. Speakers and lights can be associated
 with certain behaviors. A recorder counts the number of responses made
@@ -113,7 +113,7 @@ Skinner box: a chamber with a speaker, lights, a lever, and a food
 dispenser.|\ {: #Figure06_03_Skinnerbox}
 
 .. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
-   :scale: 50 %
+   :scale: 100 %
    :alt: A photograph shows B.F. Skinner.
 
    An illustration shows a rat in a Skinner box: 
@@ -405,24 +405,32 @@ specified amounts of tokens for minutes of playtime.
    child’s behavior. Behaviour modification uses the principles of
    operant conditioning to accomplish behavior change so that
    undesirable behaviors are switched for more socially acceptable ones.
-   Some teachers and parents create a sticker chart, in which several
-   behaviors are listed (`[link] <#Figure06_03_Stickers>`__). Sticker
-   charts are a form of token economies, as described in the text. Each
-   time children perform the behavior, they get a sticker, and after a
-   certain number of stickers, they get a prize, or reinforcer. The goal
-   is to increase acceptable behaviors and decrease misbehavior.
+   
+   |A photograph shows a child placing stickers on a chart hanging on
+   the wall.|\ {: #Figure06_03_Stickers}
+
+   .. figure:: ../resources/CNX_Psych_06_03_Stickers.jpg
+      :scale: 100 %
+      :alt: A photograph shows B.F. Skinner.
+
+      A photograph shows a child placing stickers on a chart hanging on the wall.
+
+      Some teachers and parents create a sticker chart, in which several
+      behaviors are listed (`[link] <#Figure06_03_Stickers>`__). Sticker
+      charts are a form of token economies, as described in the text. Each
+      time children perform the behavior, they get a sticker, and after a
+      certain number of stickers, they get a prize, or reinforcer. The goal
+      is to increase acceptable behaviors and decrease misbehavior.
+   
    Remember, it is best to reinforce desired behaviors, rather than to
-   use punishment. In the classroom, the teacher can reinforce a wide
-   range of behaviors, from students raising their hands, to walking
-   quietly in the hall, to turning in their homework. At home, parents
-   might create a behavior chart that rewards children for things such
-   as putting away toys, brushing their teeth, and helping with dinner.
+   use punishment. 
+   
+   * In the classroom, the teacher can reinforce a wide range of behaviors, from students raising their hands, to walking quietly in the hall, to turning in their homework. 
+   * At home, parents might create a behavior chart that rewards children for things such as putting away toys, brushing their teeth, and helping with dinner.
+
    In order for behavior modification to be effective, the reinforcement
    needs to be connected with the behavior; the reinforcement must
    matter to the child and be done consistently.
-
-   |A photograph shows a child placing stickers on a chart hanging on
-   the wall.|\ {: #Figure06_03_Stickers}
 
    **Time-out** is another popular technique used in behaviour modification
    with children, especially those with intellectual disability. 
@@ -449,7 +457,15 @@ specified amounts of tokens for minutes of playtime.
    equipment. Photograph B shows a child sitting alone at a table
    looking at the playground.|\ {: #Figure06_03_Timeout}
 
+ .. figure:: ../resources/CNX_Psych_06_03_Timeout.jpg
+   :scale: 100 %
+   :alt: Two children acting differently
 
+   Photograph A shows several children climbing on playground
+   equipment. Photograph B shows a child sitting alone at a table
+   looking at the playground.
+
+..
 
 
 Reinforcement Schedules
@@ -635,19 +651,26 @@ the most productive and the most resistant to extinction. Fixed interval
 is the least productive and the easiest to extinguish
 (`[link] <#Figure06_03_Response>`__).
 
-|A graph has an x-axis labeled “Time” and a y-axis labeled “Cumulative
-number of responses.” Two lines labeled “Variable Ratio” and “Fixed
-Ratio” have similar, steep slopes. The variable ratio line remains
-straight and is marked in random points where reinforcement occurs. The
-fixed ratio line has consistently spaced marks indicating where
-reinforcement has occurred, but after each reinforcement, there is a
-small drop in the line before it resumes its overall slope. Two lines
-labeled “Variable Interval” and “Fixed Interval” have similar slopes at
-roughly a 45-degree angle. The variable interval line remains straight
-and is marked in random points where reinforcement occurs. The fixed
-interval line has consistently spaced marks indicating where
-reinforcement has occurred, but after each reinforcement, there is a
-drop in the line.|\ {: #Figure06_03_Response}
+.. figure:: ../resources/CNX_Psych_06_03_Response.jpg
+   :scale: 100 %
+   :alt: A graph with cumulative number of responses
+
+   A graph has an x-axis labeled “Time” and a y-axis labeled “Cumulative
+   number of responses.” 
+   
+   Two lines labeled “Variable Ratio” and “Fixed
+   Ratio” have similar, steep slopes. The variable ratio line remains
+   straight and is marked in random points where reinforcement occurs. The
+   fixed ratio line has consistently spaced marks indicating where
+   reinforcement has occurred, but after each reinforcement, there is a
+   small drop in the line before it resumes its overall slope. Two lines
+   labeled “Variable Interval” and “Fixed Interval” have similar slopes at
+   roughly a 45-degree angle. The variable interval line remains straight
+   and is marked in random points where reinforcement occurs. The fixed
+   interval line has consistently spaced marks indicating where
+   reinforcement has occurred, but after each reinforcement, there is a
+   drop in the line.
+..
 
 .. admonition:: Clinical Correlate
    :class: hint
@@ -701,8 +724,15 @@ drop in the line.|\ {: #Figure06_03_Response}
    in both the gambling addiction and the differences in brain
    chemistry.
 
-   |A photograph shows four digital gaming machines.|\ {:
-   #Figure06_03_Gambling}
+.. figure:: ../resources/CNX_Psych_06_03_Gambling.jpg
+   :scale: 100 %
+   :alt: A photograph shows B.F. Skinner.
+
+   A photograph shows four digital gaming machines.
+
+..
+
+
 
 .. seealso:: 
    
@@ -755,8 +785,15 @@ known as :term:`latent learning`: learning that occurs
 but is not observable in behavior until there is a reason to demonstrate
 it.
 
-|An illustration shows three rats in a maze, with a starting point and
-food at the end.|\ {: #Figure06_03_Ratmaze}
+||\ {: #Figure06_03_Ratmaze}
+
+.. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
+   :scale: 100 %
+   :alt: A ratmaze with three rats
+
+   An illustration shows three rats in a maze, with a starting point and food at the end.
+   
+..
 
 Latent learning also occurs in humans. Children may learn by watching
 the actions of their parents but only demonstrate it at a later date,
@@ -836,6 +873,7 @@ likelihood of a behavioral response. Several types of reinforcement
 schedules are used to reward behavior depending on either a set or
 variable period of time.
 
+
 .. card-carousel:: 1
 
   .. card:: Question
@@ -911,8 +949,7 @@ Critical Thinking Questions
 
    .. card::
 
-      What is the difference between negative reinforcement and
-      punishment?
+      What is the difference between negative reinforcement and punishment?
 
    .. dropdown::
 
@@ -940,6 +977,22 @@ Critical Thinking Questions
       and rolls onto his back. Finally, you would reward him only when
       he completes the entire sequence: lying down, rolling onto his
       back, and then continuing to roll over to his other side.
+
+.. card::
+  
+  .. card::
+
+    What type of reinforcement schedule is involved in the development of 
+    superstitious behaviour? 
+
+  .. dropdown::
+
+      When a reinforcer or punishment is delivered quickly after an independent behaviour
+      (temporal contiguity), superstitious behaviour results. 
+      As a result, the conduct is unintentionally promoted or punished, 
+      which raises the possibility that it will happen again.
+      For instance, let's say you step under a ladder, misstep, and fall a moment later. 
+      It is simple to blame your mishap on "poor luck" and the unrelated ladder. The fact that your fall occurred shortly after walking beneath the ladder positively reinforces your cultural idea that doing so will bring bad luck makes it simple for associations to establish.
 
 Personal Application Questions
 ==============================

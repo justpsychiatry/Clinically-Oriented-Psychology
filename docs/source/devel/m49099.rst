@@ -16,25 +16,19 @@ What Is Lifespan Development?
    - Discuss the normative approach to development
    - Understand the three major issues in development: continuity and discontinuity, one common course of development or many unique courses of development, and nature versus nurture
 
-.. pull-quote::
+.. epigraph::
 
-      My heart leaps up when I behold
-    
-      A rainbow in the sky
+   |My heart leaps up when I behold;
+   |A rainbow in the sky,
+   |So was it when my life began;
+   |So is it now I am a man;
+   |So be it when I shall grow old,
+   |Or let me die!
+   |The Child is father of the Man;
+   |I could wish my days to be
+   |Bound each to each by natural piety. 
 
-      So was it when my life began;
-
-      So is it now I am a man;
-
-      So be it when I shall grow old,
-
-      Or let me die!
-
-      The Child is father of the Man;
-
-      I could wish my days to be
-
-      Bound each to each by natural piety. (Wordsworth, 1802)
+     -- Wordsworth, 1802
 ...
 
 In this poem, William Wordsworth writes, “the child is father of the
