@@ -75,7 +75,7 @@ receive for the behavior: the reinforcements and punishments. His idea
 that learning is the result of consequences is based on the law of
 effect, which was first proposed by psychologist Edward
 :term:`Thorndike`. According to the :term:`law of effect`, 
-behaviors that are followed by
+behaviours that are followed by
 consequences that are satisfying to the organism are more likely to be
 repeated, and behaviors that are followed by unpleasant consequences are
 less likely to be repeated (Thorndike, 1911). Essentially, if an
@@ -86,6 +86,12 @@ again. An example of the law of effect is in employment. One of the
 reasons (and often the main reason) we show up for work is because we
 get paid to do so. If we stop getting paid, we will likely stop showing
 up—even if we love our job.
+
+.. admonition:: Law of Effect 
+   :class: important
+
+   Any response followed by a satisfying situation (drive reduction?) Is likely to be repeated. 
+   Behaviors resulting in an annoying situation is less likely to occur. Actions that subsequently lead to a "satisfying state of affairs" are more likely to be repeated.
 
 Working with Thorndike’s law of effect as his foundation, Skinner began
 conducting scientific experiments on animals (mainly rats and pigeons)
@@ -104,9 +110,12 @@ dispenser.|\ {: #Figure06_03_Skinnerbox}
 
 .. seealso::
 
-   Watch this brief `video clip <http://openstax.org/l/skinner1>`__ to
+   Watch this brief `video clip <https://www.youtube.com/watch?v=CtoH5tlr-bI>`__ to
    learn more about operant conditioning: Skinner is interviewed, and
    operant conditioning of pigeons is demonstrated.
+
+..  youtube:: CtoH5tlr-bI
+   :align: center
 
 In discussing operant conditioning, we use several everyday
 words—positive, negative, reinforcement, and punishment—in a specialized
@@ -200,12 +209,13 @@ Psychology of Punishment
 Many people confuse negative reinforcement with punishment in operant
 conditioning, but they are two very different mechanisms. Remember that
 reinforcement, even when it is negative, always increases a behavior. In
-contrast, **punishment**\ {: data-type=“term”} always decreases a
-behavior. In **positive punishment**\ {: data-type=“term”}, you add an
+contrast, :term:`punishment` always decreases a
+behavior. In :term:`positive punishment`, you add an
 undesirable stimulus to decrease a behavior. An example of positive
 punishment is scolding a student to get the student to stop texting in
 class. In this case, a stimulus (the reprimand) is added in order to
-decrease the behavior (texting in class). In :term:`negative punishment`, you remove a pleasant stimulus to decrease behavior.
+decrease the behavior (texting in class). 
+In :term:`negative punishment`, you remove a pleasant stimulus to decrease behavior.
 For example, when a child misbehaves, a parent can take away a favourite
 toy. In this case, a stimulus (the toy) is removed in order to decrease
 the behavior.
@@ -236,6 +246,18 @@ suggested that the use of punishment should be weighed against the
 possible negative effects. Today’s psychologists and parenting experts
 favor reinforcement over punishment—they recommend that you catch your
 child doing something good and reward her for it.
+
+.. warning::
+
+   Typically, studies show that children who receive corporal punishment have higher levels of aggression, 
+   delinquency, and behavioural issues (Gershoff, 2002). 
+   Doing so is also linked over time to a variety of mental health disorders,
+   increased criminal behaviour, and slower cognitive development. 
+   Some have argued that the evidence connecting spanking to harmful outcomes is correlational, 
+   and correlation does not imply causality. 
+   It really is possible that spanking makes kids more aggressive, but it's also conceivable that violent kids make their parents employ physical punishment more frequently. 
+   However, the American Psychological Association strictly advises against the use of corporal punishments in children. 
+
 
 Shaping
 -------
@@ -343,12 +365,10 @@ hitting. When the children in the study exhibited appropriate behavior
 they hit or pinched, they lost a token. The children could then exchange
 specified amounts of tokens for minutes of playtime.
 
-.. card:: Behaviour Modification in Children
-   :shadow: md
-   :class-card: sd-bg-info
+.. admonition:: Clinical Correlate
+   :class: hint
 
-   Clinical tip
-    ^^^
+   **Behaviour Modification in Children**
 
    Parents and teachers often use behavior modification to change a
    child’s behavior. Behaviour modification uses the principles of
@@ -386,7 +406,6 @@ specified amounts of tokens for minutes of playtime.
    minutes. When she comes back, she doesn’t throw blocks.
    This technique is especially useful for managing aggressive behaviour. 
 
-.. caution::
 
    There are several important points that a parent should know before 
    implementing time-out as a behavior modification technique. 
@@ -433,6 +452,7 @@ he sits, so that he can make an association between the target behavior
 
 Partial Reinforcement
 ---------------------
+
 Once a behavior is trained, researchers and trainers often turn to
 another type of reinforcement schedule—partial reinforcement. In
 :term:`partial reinforcement`, also referred to as
@@ -521,7 +541,7 @@ ensures that his employees provide prompt and courteous service. His
 productivity regarding prompt service and keeping a clean restaurant are
 steady because he wants his crew to earn the bonus.
 
-Fixed Interval reinforcement schedule
+Fixed Interval Reinforcement schedule
 --------------------------------------
 
 With a :term:`fixed ratio reinforcement schedule`,
@@ -564,12 +584,11 @@ schedule, people keep trying and hoping that the next time they will win
 big. This is one of the reasons that gambling is excessively addictive—and so
 resistant to extinction.
 
-.. attention::
+.. admonition:: Clinical Correlate
+   :class: hint
 
-   .. card:: Clinical Correlate
-
-      - Gambling employs the variable-ratio schedule. 
-      - Behaviours reinforced through variable ratio schedule are most resistant to extinction. 
+    - Gambling employs the variable-ratio schedule. 
+    - Behaviours reinforced through variable ratio schedule are most resistant to extinction. 
 
 In operant conditioning, the extinction of a reinforced behavior occurs at
 some point after reinforcement stops, and the speed at which this
@@ -599,66 +618,65 @@ interval line has consistently spaced marks indicating where
 reinforcement has occurred, but after each reinforcement, there is a
 drop in the line.|\ {: #Figure06_03_Response}
 
-.. card:: Clinical Correlate
+.. admonition:: Clinical Correlate
+   :class: hint
 
-   .. card:: Gambling and the Brain
+   **Gambling and the Brain**
 
-       Skinner (1953) stated, 
+   Skinner (1953) stated, 
       
-         “If the gambling establishment cannot persuade
-         a patron to turn over money with no return, it may achieve the same
-         effect by returning part of the patron's money on a variable-ratio
-         schedule” (p. 397).
+      “If the gambling establishment cannot persuade
+      a patron to turn over money with no return, it may achieve the same
+      effect by returning part of the patron's money on a variable-ratio
+      schedule” (p. 397).
 
-         Skinner uses gambling as an example of the power and effectiveness of
-         conditioning behavior based on a variable ratio reinforcement
-         schedule. Skinner was so confident in his knowledge of
-         gambling addiction that he even claimed he could turn a pigeon into a
-         pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
-         variable ratio reinforcement, gambling seems to work on the brain in
-         the same way as some substances of abuse. The Illinois Institute for
-         Addiction Recovery (n.d.) reports evidence suggesting that
-         pathological gambling is an addiction similar to a chemical addiction
-         (`[link] <#Figure06_03_Gambling>`__). Specifically, gambling may
-         activate the brain's reward centers, like other substances of abuse.
-         Research has shown that some pathological gamblers have lower levels
-         of norepinephrine than do normal gamblers (Roy, et al., 1988). 
-         
-         According to a study conducted by Alec Roy and colleagues, 
-         norepinephrine is secreted during
-         stress, arousal, or thrill; pathological gamblers use
-         gambling to increase their levels of this neurotransmitter. 
-         
-         Another researcher, neuroscientist Hans Breiter, has done extensive research
-         on gambling and its effects on the brain. Breiter (as cited in
-         Franzen, 2001) reports that “Monetary reward in a gambling-like
-         experiment produces brain activation very similar to that observed in
-         a cocaine addict receiving an infusion of cocaine” (para. 1).
-         Deficiencies in serotonin might also
-         contribute to compulsive behavior, including a gambling addiction.
+   Skinner uses gambling as an example of the power and effectiveness of
+   conditioning behavior based on a variable ratio reinforcement
+   schedule. Skinner was so confident in his knowledge of
+   gambling addiction that he even claimed he could turn a pigeon into a
+   pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
+   variable ratio reinforcement, gambling seems to work on the brain in
+   the same way as some substances of abuse. The Illinois Institute for
+   Addiction Recovery (n.d.) reports evidence suggesting that
+   pathological gambling is an addiction similar to a chemical addiction
+   (`[link] <#Figure06_03_Gambling>`__). Specifically, gambling may
+   activate the brain's reward centers, like other substances of abuse.
+   Research has shown that some pathological gamblers have lower levels
+   of norepinephrine than do normal gamblers (Roy, et al., 1988). 
+   
+   According to a study conducted by Alec Roy and colleagues, 
+   norepinephrine is secreted during
+   stress, arousal, or thrill; pathological gamblers use
+   gambling to increase their levels of this neurotransmitter. 
+   
+   Another researcher, neuroscientist Hans Breiter, has done extensive research
+   on gambling and its effects on the brain. Breiter (as cited in
+   Franzen, 2001) reports that “Monetary reward in a gambling-like
+   experiment produces brain activation very similar to that observed in
+   a cocaine addict receiving an infusion of cocaine” (para. 1).
+   Deficiencies in serotonin might also
+   contribute to compulsive behavior, including a gambling addiction.
 
-         It may be that pathological gamblers’ brains are different than those
-         of other people, and perhaps this difference may somehow have led to
-         their gambling addiction, as these studies seem to suggest. However,
-         it is very difficult to ascertain the cause because it is impossible
-         to conduct a true experiment (it would be unethical to try to turn
-         randomly assigned participants into problem gamblers). Therefore, it
-         may be that causation actually moves in the opposite
-         direction—perhaps the act of gambling somehow changes
-         neurotransmitter levels in some gamblers’ brains. It also is possible
-         that some overlooked factor, or confounding variable, played a role
-         in both the gambling addiction and the differences in brain
-         chemistry.
+   It may be that pathological gamblers’ brains are different than those
+   of other people, and perhaps this difference may somehow have led to
+   their gambling addiction, as these studies seem to suggest. However,
+   it is very difficult to ascertain the cause because it is impossible
+   to conduct a true experiment (it would be unethical to try to turn
+   randomly assigned participants into problem gamblers). Therefore, it
+   may be that causation actually moves in the opposite
+   direction—perhaps the act of gambling somehow changes
+   neurotransmitter levels in some gamblers’ brains. It also is possible
+   that some overlooked factor, or confounding variable, played a role
+   in both the gambling addiction and the differences in brain
+   chemistry.
 
-         |A photograph shows four digital gaming machines.|\ {:
-         #Figure06_03_Gambling}
+   |A photograph shows four digital gaming machines.|\ {:
+   #Figure06_03_Gambling}
 
-      .. seealso:: 
-
-         
-          See the ICD-11 Criteria for 
-          `Gambling Disorder <https://www.mrcpsych.uk/2022/05/child-mania-rating-scale-parent-version.html>`
-
+.. seealso:: 
+   
+   See the ICD-11 Criteria for 
+   `Gambling Disorder <https://www.mrcpsych.uk/2022/05/child-mania-rating-scale-parent-version.html>`__
 
 
 Cognitive Learning
@@ -721,35 +739,34 @@ his dad would have taken in the car. This demonstrates latent learning.
 Ravi had learned the route to school, but had no need to demonstrate
 this knowledge earlier.
 
-.. card:: psychology everyday-connection
-
+.. tip::
    
-   This Place Is Like a Maze
-   ^^^
+   **This Place Is Like a Maze**
 
-      Have you ever gotten lost in a building and couldn’t find your way
-      back out? While that can be frustrating, you’re not alone. At one
-      time or another we’ve all gotten lost in places like a museum,
-      hospital, or university library. Whenever we go someplace new, we
-      build a mental representation—or cognitive map—of the location, as
-      Tolman’s rats built a cognitive map of their maze. However, some
-      buildings are confusing because they include many areas that look
-      alike or have short lines of sight. Because of this, it’s often
-      difficult to predict what’s around a corner or decide whether to turn
-      left or right to get out of a building. Psychologist Laura Carlson
-      (2010) suggests that what we place in our cognitive map can impact
-      our success in navigating through the environment. She suggests that
-      paying attention to specific features upon entering a building, such
-      as a picture on the wall, a fountain, a statue, or an escalator, adds
-      information to our cognitive map that can be used later to help find
-      our way out of the building.
+   Have you ever gotten lost in a building and couldn’t find your way
+   back out? While that can be frustrating, you’re not alone. At one
+   time or another we’ve all gotten lost in places like a museum,
+   hospital, or university library. Whenever we go someplace new, we
+   build a mental representation—or cognitive map—of the location, as
+   Tolman’s rats built a cognitive map of their maze. However, some
+   buildings are confusing because they include many areas that look
+   alike or have short lines of sight. Because of this, it’s often
+   difficult to predict what’s around a corner or decide whether to turn
+   left or right to get out of a building. Psychologist Laura Carlson
+   (2010) suggests that what we place in our cognitive map can impact
+   our success in navigating through the environment. She suggests that
+   paying attention to specific features upon entering a building, such
+   as a picture on the wall, a fountain, a statue, or an escalator, adds
+   information to our cognitive map that can be used later to help find
+   our way out of the building.
 
 .. seealso::
 
    Watch this to learn more about Carlson’s studies on cognitive maps and navigation in
    buildings.
 
-   .. youtube:: TU6tSkdbPh4
+.. youtube:: TU6tSkdbPh4
+
 
 Escape and Avoidance Conditioning
 ----------------------------------
@@ -764,7 +781,7 @@ Two factors
 - Avoidance or escape learning. l
 
 .. admonition:: Clinical Correlate
-   :class: tip
+   :class: hint
 
    Substance users begin to experience withdrawal symptoms in the course of development of drug dependence. 
    At some point, the user learns that the use of the substance can help reduce—escape—this unpleasant state. 
