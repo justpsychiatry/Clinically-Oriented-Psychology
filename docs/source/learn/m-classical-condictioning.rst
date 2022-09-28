@@ -108,8 +108,6 @@ rung.|\ {: #Figure06_02_Classical}
    conditioning, do you think you can condition Pavlov’s dog? Visit this
    `website <http://openstax.org/l/pavlov1>`__ to play the game.
 
-.. seealso::
-
    View this `video <http://openstax.org/l/pavlov2>`__ to learn more
    about Pavlov and his dogs.
 
@@ -228,30 +226,35 @@ sometimes this interval is as little as five seconds (Chance, 2009).
 However, with other types of conditioning, the interval can be up to
 several hours.
 
-:term:`Taste aversion` is a type of
-conditioning in which an interval of several hours may pass between the
-conditioned stimulus (something ingested) and the unconditioned stimulus
-(nausea or illness). Here’s how it works. Between classes, you and a
-friend grab a quick lunch from a food cart on campus. You share a dish
-of chicken curry and head off to your next class. A few hours later, you
-feel nauseous and become ill. Although your friend is fine and you
-determine that you have intestinal flu (the food is not the culprit),
-you’ve developed a taste aversion; the next time you are at a restaurant
-and someone orders curry, you immediately feel ill. While the chicken
-dish is not what made you sick, you are experiencing taste aversion:
-you’ve been conditioned to be averse to a food after a single, negative
-experience.
+.. card:: Clinical Pearls
+   
+   :term:`Taste aversion` is a type of
+   conditioning in which an interval of several hours may pass between the
+   conditioned stimulus (something ingested) and the unconditioned stimulus
+   (nausea or illness). Here’s how it works. Between classes, you and a
+   friend grab a quick lunch from a food cart on campus. You share a dish
+   of chicken curry and head off to your next class. A few hours later, you
+   feel nauseous and become ill. Although your friend is fine and you
+   determine that you have intestinal flu (the food is not the culprit),
+   you’ve developed a taste aversion; the next time you are at a restaurant
+   and someone orders curry, you immediately feel ill. While the chicken
+   dish is not what made you sick, you are experiencing taste aversion:
+   you’ve been conditioned to be averse to a food after a single, negative
+   experience.
 
-How does this occur—conditioning based on a single instance and
-involving an extended time lapse between the event and the negative
-stimulus? Research into taste aversion suggests that this response may
-be an evolutionary adaptation designed to help organisms quickly learn
-to avoid harmful foods (Garcia & Rusiniak, 1980; Garcia & Koelling,
-1966). Not only may this contribute to species survival via natural
-selection, but it may also help us develop strategies for challenges
-such as helping cancer patients through the nausea induced by certain
-treatments (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
-Wismer, 2007; Skolin et al., 2006).
+   How does this occur—conditioning based on a single instance and
+   involving an extended time lapse between the event and the negative
+   stimulus? Research into taste aversion suggests that this response may
+   be an evolutionary adaptation designed to help organisms quickly learn
+   to avoid harmful foods (Garcia & Rusiniak, 1980; Garcia & Koelling,
+   1966). Not only may this contribute to species survival via natural
+   selection, but it may also help us develop strategies for challenges
+   such as helping cancer patients through the nausea induced by certain
+   treatments (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
+   Wismer, 2007; Skolin et al., 2006).
+
+Extinction
+~~~~~~~~~~
 
 Once we have established the connection between the unconditioned
 stimulus and the conditioned stimulus, how do we break that connection
@@ -271,6 +274,9 @@ response, and finally no response. In classical conditioning terms,
 there is a gradual weakening and disappearance of the conditioned
 response.
 
+Spontaneous recovery
+~~~~~~~~~~~~~~~~~~~~
+
 What happens when learning is not used for a while—when what was learned
 lies dormant? As we just discussed, Pavlov found that when he repeatedly
 presented the bell (conditioned stimulus) without the meat powder
@@ -282,8 +288,8 @@ your electric can opener broke, and you did not use it for several
 months? When you finally got it fixed and started using it to open
 Tiger’s food again, Tiger would remember the association between the can
 opener and her food—she would get excited and run to the kitchen when
-she heard the sound. The behavior of Pavlov’s dogs and Tiger illustrates
-a concept Pavlov called **spontaneous recovery**\ {: data-type=“term”}:
+she heard the sound. The behaviour of Pavlov’s dogs and Tiger illustrates
+a concept Pavlov called :term:`spontaneous recovery`
 the return of a previously extinguished conditioned response following a
 rest period (`[link] <#Figure06_02_Recovery>`__).
 
@@ -329,16 +335,24 @@ happens? Your mouth begins to water again. Why? After a break from
 conditioning, the conditioned response reappears, which indicates
 spontaneous recovery.
 
+
 Acquisition and extinction involve the strengthening and weakening,
 respectively, of a learned association. Two other learning
 processes—stimulus discrimination and stimulus generalization—are
 involved in distinguishing which stimuli will trigger the learned
-association. Animals (including humans) need to distinguish between
+association. 
+
+Stimulus-discrimination
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Animals (including humans) need to distinguish between
 stimuli—for example, between sounds that predict a threatening event and
 sounds that do not—so that they can respond appropriately (such as
 running away if the sound is threatening). When an organism learns to
 respond differently to various stimuli that are similar, it is called
-**stimulus discrimination**\ {: data-type=“term”}. In classical
+:term:`stimulus discrimination`. 
+
+In classical
 conditioning terms, the organism demonstrates the conditioned response
 only to the conditioned stimulus. Pavlov’s dogs discriminated between
 the basic tone that sounded before they were fed and other tones (e.g.,
@@ -348,9 +362,12 @@ can opener and the sound of the electric mixer. When the electric mixer
 is going, Tiger is not about to be fed, so she does not come running to
 the kitchen looking for food.
 
+Stimulus generalization
+~~~~~~~~~~~~~~~~~~~~~~~
+
 On the other hand, when an organism demonstrates the conditioned
 response to stimuli that are similar to the condition stimulus, it is
-called **stimulus generalization**\ {: data-type=“term”}, the opposite
+called :term:`stimulus generalization`, the opposite
 of stimulus discrimination. The more similar a stimulus is to the
 condition stimulus, the more likely the organism is to give the
 conditioned response. For instance, if the electric mixer sounds very
@@ -361,8 +378,11 @@ opener sound, she will quickly learn to discriminate between the two
 sounds (provided they are sufficiently dissimilar that she can tell them
 apart).
 
+Habituation
+~~~~~~~~~~~~
+
 Sometimes, classical conditioning can lead to habituation.
-**Habituation**\ {: data-type=“term”} occurs when we learn not to
+:term:`Habituation` occurs when we learn not to
 respond to a stimulus that is presented repeatedly without change. As
 the stimulus occurs over and over, we learn not to focus our attention
 on it. For example, imagine that your neighbor or roommate constantly
@@ -370,11 +390,12 @@ has the television blaring. This background noise is distracting and
 makes it difficult for you to focus when you’re studying. However, over
 time, you become accustomed to the stimulus of the television noise, and
 eventually you hardly notice it any longer.
+ 
 
 BEHAVIORISM
 ===========
 
-John B. **Watson**:term:`pastehere`, shown in
+John B. :term:`Watson`, shown in
 `[link] <#Figure06_02_Watson>`__, is considered the founder of
 behaviorism. Behaviorism is a school of thought that arose during the
 first part of the 20th century, which incorporates elements of Pavlov’s

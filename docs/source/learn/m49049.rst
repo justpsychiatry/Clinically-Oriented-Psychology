@@ -553,10 +553,12 @@ drop in the line.|\ {: #Figure06_03_Response}
 
    .. card:: Gambling and the Brain
 
-      Skinner (1953) stated, “If the gambling establishment cannot persuade
-      a patron to turn over money with no return, it may achieve the same
-      effect by returning part of the patron's money on a variable-ratio
-      schedule” (p. 397).
+      Skinner (1953) stated, 
+      
+         “If the gambling establishment cannot persuade
+         a patron to turn over money with no return, it may achieve the same
+         effect by returning part of the patron's money on a variable-ratio
+         schedule” (p. 397).
 
       Skinner uses gambling as an example of the power and effectiveness of
       conditioning behavior based on a variable ratio reinforcement
@@ -564,23 +566,25 @@ drop in the line.|\ {: #Figure06_03_Response}
       gambling addiction that he even claimed he could turn a pigeon into a
       pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
       variable ratio reinforcement, gambling seems to work on the brain in
-      the same way as some addictive drugs. The Illinois Institute for
+      the same way as some substances of abuse. The Illinois Institute for
       Addiction Recovery (n.d.) reports evidence suggesting that
       pathological gambling is an addiction similar to a chemical addiction
       (`[link] <#Figure06_03_Gambling>`__). Specifically, gambling may
-      activate the reward centers of the brain, much like cocaine does.
+      activate the reward centers of the brain, like other substances of abuse.
       Research has shown that some pathological gamblers have lower levels
-      of the neurotransmitter (brain chemical) known as norepinephrine than
-      do normal gamblers (Roy, et al., 1988). According to a study
+      of norepinephrine than do normal gamblers (Roy, et al., 1988). 
+      
+      According to a study
       conducted by Alec Roy and colleagues, norepinephrine is secreted when
       a person feels stress, arousal, or thrill; pathological gamblers use
-      gambling to increase their levels of this neurotransmitter. Another
+      gambling to increase their levels of this neurotransmitter. 
+      Another
       researcher, neuroscientist Hans Breiter, has done extensive research
       on gambling and its effects on the brain. Breiter (as cited in
       Franzen, 2001) reports that “Monetary reward in a gambling-like
       experiment produces brain activation very similar to that observed in
       a cocaine addict receiving an infusion of cocaine” (para. 1).
-      Deficiencies in serotonin (another neurotransmitter) might also
+      Deficiencies in serotonin might also
       contribute to compulsive behavior, including a gambling addiction.
 
       It may be that pathological gamblers’ brains are different than those
@@ -599,8 +603,15 @@ drop in the line.|\ {: #Figure06_03_Response}
       |A photograph shows four digital gaming machines.|\ {:
       #Figure06_03_Gambling}
 
-COGNITION AND LATENT LEARNING
-=============================
+      .. seealso:: 
+         
+
+Cognitive Learning
+==================
+
+
+Cognition and Latent Learning
+-----------------------------
 
 Although strict behaviorists such as Skinner and Watson refused to
 believe that cognition (such as thoughts and expectations) plays a role
@@ -668,6 +679,19 @@ this knowledge earlier.
    Watch this `video <http://openstax.org/l/carlsonmaps>`__ to learn
    more about Carlson’s studies on cognitive maps and navigation in
    buildings.
+
+Escape and Avoidance Conditioning
+----------------------------------
+
+Behaviours that are maintained by negative reinforcement (escape Behaviour because the organism's performance allows the organism to escape an undesirable stimulus).
+Escape behaviour is a two-factor form of learning (the organism learns to identify a stimulus that signals the initiation of an aversive stimulus). 
+If the organism performs the target behaviour in the presence of a cue, the organism can escape the negative reinforcer. 
+
+Two factors
+
+- Discrimination learning (cue) and 
+- Avoidance or escape learning. l
+
 
 Summary
 =======
