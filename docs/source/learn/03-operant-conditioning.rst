@@ -112,7 +112,7 @@ by the animal.
 Skinner box: a chamber with a speaker, lights, a lever, and a food
 dispenser.|\ {: #Figure06_03_Skinnerbox}
 
-.. figure:: Figure06_03_Skinnerbox.jpg
+.. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
    :scale: 50 %
    :alt: A photograph shows B.F. Skinner.
 
