@@ -8,16 +8,16 @@ What Is Lifespan Development?
    :depth: 3
 ..
 
-.. container::
+.. card:: Learning Objectives
 
-   By the end of this section, you will be able to: \* Define and
-   distinguish between the three domains of development: physical,
-   cognitive and psychosocial \* Discuss the normative approach to
-   development \* Understand the three major issues in development:
-   continuity and discontinuity, one common course of development or
-   many unique courses of development, and nature versus nurture
+   By the end of this section, you will be able to: 
+   
+   - Define and distinguish between the three domains of development: physical, cognitive and psychosocial
+   - Discuss the normative approach to development
+   - Understand the three major issues in development: continuity and discontinuity, one common course of development or many unique courses of development, and nature versus nurture
 
 .. pull-quote::
+
       My heart leaps up when I behold
     
       A rainbow in the sky
@@ -59,77 +59,75 @@ creativity. **Psychosocial development**\ {: data-type=“term”} involves
 emotions, personality, and social relationships. We refer to these
 domains throughout the chapter.
 
-.. container:: psychology connect-the-concepts
+.. card:: psychology connect-the-concepts
 
-   .. container::
+   .. card:: Research Methods in Developmental Psychology
 
-      Research Methods in Developmental Psychology
+      You’ve learned about a variety of research methods used by
+      psychologists. Developmental psychologists use many of these
+      approaches in order to better understand how individuals change
+      mentally and physically over time. These methods include naturalistic
+      observations, case studies, surveys, and experiments, among others.
 
-   You’ve learned about a variety of research methods used by
-   psychologists. Developmental psychologists use many of these
-   approaches in order to better understand how individuals change
-   mentally and physically over time. These methods include naturalistic
-   observations, case studies, surveys, and experiments, among others.
+      Naturalistic observations involve observing behavior in its natural
+      context. A developmental psychologist might observe how children
+      behave on a playground, at a daycare center, or in the child’s own
+      home. While this research approach provides a glimpse into how
+      children behave in their natural settings, researchers have very
+      little control over the types and/or frequencies of displayed
+      behavior.
 
-   Naturalistic observations involve observing behavior in its natural
-   context. A developmental psychologist might observe how children
-   behave on a playground, at a daycare center, or in the child’s own
-   home. While this research approach provides a glimpse into how
-   children behave in their natural settings, researchers have very
-   little control over the types and/or frequencies of displayed
-   behavior.
+      In a case study, developmental psychologists collect a great deal of
+      information from one individual in order to better understand
+      physical and psychological changes over the lifespan. This particular
+      approach is an excellent way to better understand individuals, who
+      are exceptional in some way, but it is especially prone to researcher
+      bias in interpretation, and it is difficult to generalize conclusions
+      to the larger population.
 
-   In a case study, developmental psychologists collect a great deal of
-   information from one individual in order to better understand
-   physical and psychological changes over the lifespan. This particular
-   approach is an excellent way to better understand individuals, who
-   are exceptional in some way, but it is especially prone to researcher
-   bias in interpretation, and it is difficult to generalize conclusions
-   to the larger population.
+      In one classic example of this research method being applied to a
+      study of lifespan development Sigmund Freud analyzed the development
+      of a child known as “Little Hans” (Freud, 1909/1949). Freud’s
+      findings helped inform his theories of psychosexual development in
+      children, which you will learn about later in this chapter. Little
+      Genie, the subject of a case study discussed in the chapter on
+      thinking and intelligence, provides another example of how
+      psychologists examine developmental milestones through detailed
+      research on a single individual. In Genie’s case, her neglectful and
+      abusive upbringing led to her being unable to speak until, at age 13,
+      she was removed from that harmful environment. As she learned to use
+      language, psychologists were able to compare how her language
+      acquisition abilities differed when occurring in her late-stage
+      development compared to the typical acquisition of those skills
+      during the ages of infancy through early childhood (Fromkin, Krashen,
+      Curtiss, Rigler, & Rigler, 1974; Curtiss, 1981).
 
-   In one classic example of this research method being applied to a
-   study of lifespan development Sigmund Freud analyzed the development
-   of a child known as “Little Hans” (Freud, 1909/1949). Freud’s
-   findings helped inform his theories of psychosexual development in
-   children, which you will learn about later in this chapter. Little
-   Genie, the subject of a case study discussed in the chapter on
-   thinking and intelligence, provides another example of how
-   psychologists examine developmental milestones through detailed
-   research on a single individual. In Genie’s case, her neglectful and
-   abusive upbringing led to her being unable to speak until, at age 13,
-   she was removed from that harmful environment. As she learned to use
-   language, psychologists were able to compare how her language
-   acquisition abilities differed when occurring in her late-stage
-   development compared to the typical acquisition of those skills
-   during the ages of infancy through early childhood (Fromkin, Krashen,
-   Curtiss, Rigler, & Rigler, 1974; Curtiss, 1981).
+      The survey method asks individuals to self-report important
+      information about their thoughts, experiences, and beliefs. This
+      particular method can provide large amounts of information in
+      relatively short amounts of time; however, validity of data collected
+      in this way relies on honest self-reporting, and the data is
+      relatively shallow when compared to the depth of information
+      collected in a case study.
 
-   The survey method asks individuals to self-report important
-   information about their thoughts, experiences, and beliefs. This
-   particular method can provide large amounts of information in
-   relatively short amounts of time; however, validity of data collected
-   in this way relies on honest self-reporting, and the data is
-   relatively shallow when compared to the depth of information
-   collected in a case study.
+      Experiments involve significant control over extraneous variables and
+      manipulation of the independent variable. As such, experimental
+      research allows developmental psychologists to make causal statements
+      about certain variables that are important for the developmental
+      process. Because experimental research must occur in a controlled
+      environment, researchers must be cautious about whether behaviors
+      observed in the laboratory translate to an individual’s natural
+      environment.
 
-   Experiments involve significant control over extraneous variables and
-   manipulation of the independent variable. As such, experimental
-   research allows developmental psychologists to make causal statements
-   about certain variables that are important for the developmental
-   process. Because experimental research must occur in a controlled
-   environment, researchers must be cautious about whether behaviors
-   observed in the laboratory translate to an individual’s natural
-   environment.
-
-   Later in this chapter, you will learn about several experiments in
-   which toddlers and young children observe scenes or actions so that
-   researchers can determine at what age specific cognitive abilities
-   develop. For example, children may observe a quantity of liquid
-   poured from a short, fat glass into a tall, skinny glass. As the
-   experimenters question the children about what occurred, the
-   subjects’ answers help psychologists understand at what age a child
-   begins to comprehend that the volume of liquid remained the same
-   although the shapes of the containers differs.
+      Later in this chapter, you will learn about several experiments in
+      which toddlers and young children observe scenes or actions so that
+      researchers can determine at what age specific cognitive abilities
+      develop. For example, children may observe a quantity of liquid
+      poured from a short, fat glass into a tall, skinny glass. As the
+      experimenters question the children about what occurred, the
+      subjects’ answers help psychologists understand at what age a child
+      begins to comprehend that the volume of liquid remained the same
+      although the shapes of the containers differs.
 
 Across these three domains—physical, cognitive, and psychosocial—the
 **normative approach**\ {: data-type=“term”} to development is also
@@ -282,9 +280,9 @@ but the debate continues as to the relative contributions of each.
 
 .. tip::
 
+   .. card::  Clinical Pearl 
 
-      The Achievement Gap: How Does Socioeconomic Status Affect
-      Development?
+      **The Achievement Gap—How Does Socioeconomic Status Affect Development?**
 
       The achievement gap refers to the persistent difference in grades,
       test scores, and graduation rates that exist among students of
@@ -352,7 +350,7 @@ development.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       The view that development is a cumulative process, gradually
       adding to the same type of skills is known as \________.
@@ -362,9 +360,9 @@ development.
       3. continuous development
       4. discontinuous development {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      C
+       C
   .. Card:: Question
 
       Developmental psychologists study human growth and development
@@ -376,11 +374,10 @@ development.
       3. physical
       4. psychosocial {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
-
 
       How is lifespan development defined?
 
@@ -391,21 +388,21 @@ development.
       4. The study of emotions, personality, and social relationships.
          {: type=“a”}
 
-   .. container::
+    .. dropdown::
 
-      A
+       A
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       Describe the nature versus nurture controversy, and give an
       example of a trait and how it might be influenced by each?
 
-   .. container::
+   .. dropdown::
 
       The nature versus nurture controversy seeks to understand whether
       our personalities and traits are the product of our genetic makeup
@@ -418,27 +415,27 @@ Critical Thinking Questions
       occurs, but culture can influence when a child masters this skill,
       as in Aché culture.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       Compare and contrast continuous and discontinuous development.
 
-   .. container::
+   .. dropdown::
 
       Continuous development sees our development as a cumulative
       process: Changes are gradual. On the other hand, discontinuous
       development sees our development as taking place in specific steps
       or stages: Changes are sudden.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       Why should developmental milestones only be used as a general
       guideline for normal child development?
 
-   .. container::
+   .. dropdown::
 
       Children develop at different rates. For example, some children
       may walk and talk as early as 8 months old, while others may not
@@ -448,21 +445,8 @@ Critical Thinking Questions
 Personal Application Questions
 ==============================
 
-.. container::
-
-   .. container::
-
-      How are you different today from the person you were at 6 years
-      old? What about at 16 years old? How are you the same as the
-      person you were at those ages?
-
-.. container::
-
-   .. container::
-
-      Your 3-year-old daughter is not yet potty trained. Based on what
-      you know about the normative approach, should you be concerned?
-      Why or why not?
+1. How are you different today from the person you were at 6 years old? What about at 16 years old? How are you the same as the person you were at those ages?
+2. Your 3-year-old daughter is not yet potty trained. Based on what you know about the normative approach, should you be concerned? Why or why not?
 
 .. glossary::
 
