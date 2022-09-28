@@ -27,173 +27,38 @@ Spirit, a dolphin at the National Aquarium in Baltimore, does a flip in
 the air when her trainer blows a whistle. The consequence is that she
 gets a fish.
 
-.. raw:: html
 
-   <table summary="This table has three columns and three rows. The first row is a header row; the first column has no heading; the second column is labeled “reinforcement” and the third column is labeled “punishment.” The second row is labeled “positive” and the third row is labeled “negative.” The cell under “reinforcement” and “positive” reads, “Something is added to increase the likelihood of a behavior.” The cell under “punishment” and “positive” reads, “Something is added to decrease the likelihood of a behavior.” The cell under “reinforcement” and “negative” reads, “Something is removed to increase the likelihood of a behavior.” The cell under “punishment” and “negative” reads, “Something is removed to decrease the likelihood of a behavior.”">
-
-.. raw:: html
-
-   <caption>
-
-Classical and Operant Conditioning Compared
-
-.. raw:: html
-
-   </caption>
-
-.. raw:: html
-
-   <colgroup>
-
-.. raw:: html
-
-   <col data-width="150" />
-
-.. raw:: html
-
-   <col data-width="250" />
-
-.. raw:: html
-
-   <col data-width="250" />
-
-.. raw:: html
-
-   </colgroup>
-
-.. raw:: html
-
-   <thead>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <th />
-
-.. raw:: html
-
-   <th>
-
-Classical Conditioning
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Operant Conditioning
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </thead>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Conditioning approach
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-An unconditioned stimulus (such as food) is paired with a neutral
-stimulus (such as a bell). The neutral stimulus eventually becomes the
-conditioned stimulus, which brings about the conditioned response
-(salivation).
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
 
 The target behavior is followed by reinforcement or punishment to either
 strengthen or weaken it, so that the learner is more likely to exhibit
 the desired behavior in the future.
 
-.. raw:: html
+.. table:: Classical and Operant Conditioning Compared
 
-   </td>
+   +----------------------+----------------------+----------------------+
+   |                      | Classical            | Operant Conditioning |
+   |                      | Conditioning         |                      |
+   +======================+======================+======================+
+   | Conditioning         | An unconditioned     | The target behavior  |
+   | approach             | stimulus (such as    | is followed by       |
+   |                      | food) is paired with | reinforcement or     |
+   |                      | a neutral stimulus   | punishment to either |
+   |                      | (such as a bell).    | strengthen or weaken |
+   |                      | The neutral stimulus | it, so that the      |
+   |                      | eventually becomes   | learner is more      |
+   |                      | the conditioned      | likely to exhibit    |
+   |                      | stimulus, which      | the desired behavior |
+   |                      | brings about the     | in the future.       |
+   |                      | conditioned response |                      |
+   |                      | (salivation).        |                      |
+   +----------------------+----------------------+----------------------+
+   | Stimulus timing      | The stimulus occurs  | The stimulus (either |
+   |                      | immediately before   | reinforcement or     |
+   |                      | the response.        | punishment) occurs   |
+   |                      |                      | soon after the       |
+   |                      |                      | response.            |
+   +----------------------+----------------------+----------------------+
 
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Stimulus timing
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-The stimulus occurs immediately before the response.
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-The stimulus (either reinforcement or punishment) occurs soon after the
-response.
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
 
 Psychologist B. F. **Skinner**:term:`pastehere` saw
 that classical conditioning is limited to existing behaviors that are
@@ -601,11 +466,7 @@ hitting. When the children in the study exhibited appropriate behavior
 they hit or pinched, they lost a token. The children could then exchange
 specified amounts of tokens for minutes of playtime.
 
-.. container:: psychology everyday-connection
-
-   .. container::
-
-      Behavior Modification in Children
+.. tip:: Behavior Modification in Children
 
    Parents and teachers often use behavior modification to change a
    child’s behavior. Behavior modification uses the principles of

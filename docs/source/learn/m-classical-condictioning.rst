@@ -8,12 +8,12 @@ Classical Conditioning
    :depth: 3
 ..
 
-.. container::
+.. card:: Learning Objectives
 
-   By the end of this section, you will be able to: \* Explain how
-   classical conditioning occurs \* Summarize the processes of
-   acquisition, extinction, spontaneous recovery, generalization, and
-   discrimination
+   By the end of this section, you will be able to: 
+   
+   - Explain how classical conditioning occurs
+   - Summarize the processes of acquisition, extinction, spontaneous recovery, generalization, and discrimination
 
 Does the name Ivan **Pavlov**:term:`pastehere` ring a
 bell? Even if you are new to the study of psychology, chances are that
@@ -504,7 +504,7 @@ explain how some fears develop.
       3. conditioned stimulus
       4. unconditioned response {: type=“a”}
 
-  .. dropdown:: Check Answer
+   .. dropdown:: Check Answer
 
       B
   .. Card:: Question
@@ -567,14 +567,14 @@ Critical Thinking Questions
       popping up is the CS; salivating to the sound of the toaster is
       the CR.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       Explain how the processes of stimulus generalization and stimulus
       discrimination are considered opposites.
 
-   .. container::
+   .. dropdown::
 
       In stimulus generalization, an organism responds to new stimuli
       that are similar to the original conditioned stimulus. For
@@ -587,13 +587,13 @@ Critical Thinking Questions
       not bark when he hears the oven timer ding because they sound
       different; the dog is able to distinguish between the two sounds.
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       How does a neutral stimulus become a conditioned stimulus?
 
-   .. container::
+   .. dropdown::
 
       This occurs through the process of acquisition. A human or an
       animal learns to connect a neutral stimulus and an unconditioned
