@@ -1081,6 +1081,14 @@ healthy psychosocial development.
    `video <http://openstax.org/l/monkeystudy>`__ to see actual footage
    of Harlow’s monkey studies.
 
+.. hint::
+     The Mnemonic PAID can help memorise and recall the longterm effects of maternal deprivation as described in the theory of attachment (Bowlby)
+     
+     - Psychopathy (affectionless)
+     - Aggression (increased)
+     - Intelligence (being low)
+     - Depression, delinquency  
+
 Building on the work of Harlow and others, John Bowlby developed the
 concept of attachment theory. He defined attachment as the affectional
 bond or tie that an infant forms with the mother (Bowlby, 1969). An
@@ -1128,7 +1136,7 @@ and responsive to their needs.
 |A photograph shows a person squatting down next to a small child who is
 standing up.|\ {: #Figure_09_04_Secure}
 
-With **avoidant attachment**\ {: data-type=“term”}, the child is
+With :term:`avoidant attachment`, the child is
 unresponsive to the parent, does not use the parent as a secure base,
 and does not care if the parent leaves. The toddler reacts to the parent
 the same way she reacts to a stranger. When the parent does return, the
@@ -1137,7 +1145,7 @@ these children were most likely to have a caregiver who was insensitive
 and inattentive to their needs (Ainsworth, Blehar, Waters, & Wall,
 1978).
 
-In cases of **resistant attachment**\ {: data-type=“term”}, children
+In cases of :term:`resistant attachment`, children
 tend to show clingy behavior, but then they reject the attachment
 figure’s attempts to interact with them (Ainsworth & Bell, 1970). These
 children do not explore the toys in the room, as they are too fearful.
