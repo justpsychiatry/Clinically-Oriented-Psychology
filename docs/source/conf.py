@@ -7,12 +7,6 @@ sys.path.insert(0, os.path.abspath('.'))
 
 numfig = True
 
-numfig_format {
-
-    'Fig. %s': 'figure',
-    'Table %s': 'table',
-    'Listing %s': 'code-block',
-}
 
 # -- Project information -----------------------------------------------------
 
