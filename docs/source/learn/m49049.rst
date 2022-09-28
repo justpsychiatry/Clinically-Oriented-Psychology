@@ -6,7 +6,7 @@ Operant Conditioning
    :depth: 3
 ..
 
-.. card::
+.. card:: Learning Objectives
 
    By the end of this section, you will be able to: 
    
@@ -26,7 +26,6 @@ that behavior more likely to be repeated in the future. For example,
 Spirit, a dolphin at the National Aquarium in Baltimore, does a flip in
 the air when her trainer blows a whistle. The consequence is that she
 gets a fish.
-
 
 
 The target behavior is followed by reinforcement or punishment to either
@@ -68,8 +67,8 @@ Skinner believed that behavior is motivated by the consequences we
 receive for the behavior: the reinforcements and punishments. His idea
 that learning is the result of consequences is based on the law of
 effect, which was first proposed by psychologist Edward
-:term:`Thorndike`. According to the **law
-of effect**\ {: data-type=“term”}, behaviors that are followed by
+:term:`Thorndike`. According to the :term:`law of effect`, 
+behaviors that are followed by
 consequences that are satisfying to the organism are more likely to be
 repeated, and behaviors that are followed by unpleasant consequences are
 less likely to be repeated (Thorndike, 1911). Essentially, if an
@@ -135,8 +134,7 @@ REINFORCEMENT
 =============
 
 The most effective way to teach a person or animal a new behavior is
-with positive reinforcement. In **positive reinforcement**\ {:
-data-type=“term”}, a desirable stimulus is added to increase a behavior.
+with positive reinforcement. In :term:`positive reinforcement`, a desirable stimulus is added to increase a behavior.
 
 For example, you tell your five-year-old son, Jerome, that if he cleans
 his room, he will get a toy. Jerome quickly cleans his room because he
@@ -165,7 +163,7 @@ answered incorrectly, they did not receive any reinforcement. The idea
 was that students would spend additional time studying the material to
 increase their chance of being reinforced the next time (Skinner, 1961).
 
-In **negative reinforcement**\ {: data-type=“term”}, an undesirable
+In :term:`negative reinforcement`, an undesirable
 stimulus is removed to increase a behavior. For example, car
 manufacturers use the principles of negative reinforcement in their
 seatbelt systems, which go “beep, beep, beep” until you fasten your
@@ -177,8 +175,8 @@ legs—and then remove the pressure when the horse performs the desired
 behavior, such as turning or speeding up. The pressure is the negative
 stimulus that the horse wants to remove.
 
-PUNISHMENT
-==========
+Psychology of Punishment
+========================
 
 Many people confuse negative reinforcement with punishment in operant
 conditioning, but they are two very different mechanisms. Remember that
@@ -226,7 +224,7 @@ Shaping
 
 In his operant conditioning experiments, Skinner often used an approach
 called shaping. Instead of rewarding only the target behavior, in
-**shaping**\ {: data-type=“term”}, we reward successive approximations
+:term:`shaping`, we reward successive approximations
 of a target behavior. Why is shaping needed? Remember that in order for
 reinforcement to work, the organism must first display the behavior.
 Shaping is needed because it is extremely unlikely that an organism will

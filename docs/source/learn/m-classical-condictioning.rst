@@ -62,7 +62,7 @@ elicits a reflexive response in an organism. The dogs’ salivation was an
 (unlearned) reaction to a given stimulus. Before conditioning, think of
 the dogs’ stimulus and response like this:
 
-.. container::
+.. card::
 
    Meat powder (UCS) → Salivation (UCR)
 
@@ -75,7 +75,7 @@ naturally elicit a response. Prior to conditioning, the dogs did not
 salivate when they just heard the tone because the tone had no
 association for the dogs. Quite simply this pairing means:
 
-.. container::
+.. card::
 
    Tone (NS) + Meat Powder (UCS) → Salivation (UCR)
 
@@ -91,7 +91,7 @@ is called the **conditioned response (CR)**\ {: data-type=“term”}. In
 the case of Pavlov’s dogs, they had learned to associate the tone (CS)
 with being fed, and they began to salivate (CR) in anticipation of food.
 
-.. container::
+.. card::
 
    Tone (CS) → Salivation (CR)
 
@@ -154,38 +154,36 @@ squeaky cabinet door labeled “second-order stimulus” followed by an
 equal sign and a picture of a salivating cat labeled “conditioned
 response.”|\ {: #Figure06_02_SecondOrdr}
 
-.. container:: psychology everyday-connection
+.. card:: Everyday-Connection
 
-   .. container::
+   .. card:: Classical Conditioning at Stingray City
 
-      Classical Conditioning at Stingray City
+      Kate and her husband Scott recently vacationed in the Cayman Islands,
+      and booked a boat tour to Stingray City, where they could feed and
+      swim with the southern stingrays. The boat captain explained how the
+      normally solitary stingrays have become accustomed to interacting
+      with humans. About 40 years ago, fishermen began to clean fish and
+      conch (unconditioned stimulus) at a particular sandbar near a barrier
+      reef, and large numbers of stingrays would swim in to eat
+      (unconditioned response) what the fishermen threw into the water;
+      this continued for years. By the late 1980s, word of the large group
+      of stingrays spread among scuba divers, who then started feeding them
+      by hand. Over time, the southern stingrays in the area were
+      classically conditioned much like Pavlov’s dogs. When they hear the
+      sound of a boat engine (neutral stimulus that becomes a conditioned
+      stimulus), they know that they will get to eat (conditioned
+      response).
 
-   Kate and her husband Scott recently vacationed in the Cayman Islands,
-   and booked a boat tour to Stingray City, where they could feed and
-   swim with the southern stingrays. The boat captain explained how the
-   normally solitary stingrays have become accustomed to interacting
-   with humans. About 40 years ago, fishermen began to clean fish and
-   conch (unconditioned stimulus) at a particular sandbar near a barrier
-   reef, and large numbers of stingrays would swim in to eat
-   (unconditioned response) what the fishermen threw into the water;
-   this continued for years. By the late 1980s, word of the large group
-   of stingrays spread among scuba divers, who then started feeding them
-   by hand. Over time, the southern stingrays in the area were
-   classically conditioned much like Pavlov’s dogs. When they hear the
-   sound of a boat engine (neutral stimulus that becomes a conditioned
-   stimulus), they know that they will get to eat (conditioned
-   response).
+      As soon as Kate and Scott reached Stingray City, over two dozen
+      stingrays surrounded their tour boat. The couple slipped into the
+      water with bags of squid, the stingrays’ favorite treat. The swarm of
+      stingrays bumped and rubbed up against their legs like hungry cats
+      (`[link] <#Figure06_02_Stingray>`__). Kate and Scott were able to
+      feed, pet, and even kiss (for luck) these amazing creatures. Then all
+      the squid was gone, and so were the stingrays.
 
-   As soon as Kate and Scott reached Stingray City, over two dozen
-   stingrays surrounded their tour boat. The couple slipped into the
-   water with bags of squid, the stingrays’ favorite treat. The swarm of
-   stingrays bumped and rubbed up against their legs like hungry cats
-   (`[link] <#Figure06_02_Stingray>`__). Kate and Scott were able to
-   feed, pet, and even kiss (for luck) these amazing creatures. Then all
-   the squid was gone, and so were the stingrays.
-
-   |A photograph shows a woman standing in the ocean holding a
-   stingray.|\ {: #Figure06_02_Stingray}
+      |A photograph shows a woman standing in the ocean holding a
+      stingray.|\ {: #Figure06_02_Stingray}
 
 Classical conditioning also applies to humans, even babies. For example,
 Sara buys formula in blue canisters for her six-month-old daughter,
@@ -218,7 +216,7 @@ GENERAL PROCESSES IN CLASSICAL CONDITIONING
 Now that you know how classical conditioning works and have seen several
 examples, let’s take a look at some of the general processes involved.
 In classical conditioning, the initial period of learning is known as
-**acquisition**\ {: data-type=“term”}, when an organism learns to
+:term:`acquisition`, when an organism learns to
 connect a neutral stimulus and an unconditioned stimulus. During
 acquisition, the neutral stimulus begins to elicit the conditioned
 response, and eventually the neutral stimulus becomes a conditioned
@@ -230,7 +228,7 @@ sometimes this interval is as little as five seconds (Chance, 2009).
 However, with other types of conditioning, the interval can be up to
 several hours.
 
-**Taste aversion**:term:`pastehere` is a type of
+:term:`Taste aversion` is a type of
 conditioning in which an interval of several hours may pass between the
 conditioned stimulus (something ingested) and the unconditioned stimulus
 (nausea or illness). Here’s how it works. Between classes, you and a
@@ -265,7 +263,7 @@ conditioning terms, you would be giving the conditioned stimulus, but
 not the unconditioned stimulus. Pavlov explored this scenario in his
 experiments with dogs: sounding the tone without giving the dogs the
 meat powder. Soon the dogs stopped responding to the tone.
-**Extinction**\ {: data-type=“term”} is the decrease in the conditioned
+:term:`Extinction` is the decrease in the conditioned
 response when the unconditioned stimulus is no longer presented with the
 conditioned stimulus. When presented with the conditioned stimulus
 alone, the dog, cat, or other organism would show a weaker and weaker
@@ -448,34 +446,32 @@ even Santa Claus.”|\ {: #Figure06_02_Santaclaus}
    after conditioning. Based on what you see, would you come to the same
    conclusions as the researchers?
 
-.. container:: psychology everyday-connection
+.. card:: Psychology Everyday Connection
 
-   .. container::
+   .. card:: Advertising and Associative Learning
 
-      Advertising and Associative Learning
+      Advertising executives are pros at applying the principles of
+      associative learning. Think about the car commercials you have seen
+      on television. Many of them feature an attractive model. By
+      associating the model with the car being advertised, you come to see
+      the car as being desirable (Cialdini, 2008). You may be asking
+      yourself, does this advertising technique actually work? According to
+      Cialdini (2008), men who viewed a car commercial that included an
+      attractive model later rated the car as being faster, more appealing,
+      and better designed than did men who viewed an advertisement for the
+      same car minus the model.
 
-   Advertising executives are pros at applying the principles of
-   associative learning. Think about the car commercials you have seen
-   on television. Many of them feature an attractive model. By
-   associating the model with the car being advertised, you come to see
-   the car as being desirable (Cialdini, 2008). You may be asking
-   yourself, does this advertising technique actually work? According to
-   Cialdini (2008), men who viewed a car commercial that included an
-   attractive model later rated the car as being faster, more appealing,
-   and better designed than did men who viewed an advertisement for the
-   same car minus the model.
+      Have you ever noticed how quickly advertisers cancel contracts with a
+      famous athlete following a scandal? As far as the advertiser is
+      concerned, that athlete is no longer associated with positive
+      feelings; therefore, the athlete cannot be used as an unconditioned
+      stimulus to condition the public to associate positive feelings (the
+      unconditioned response) with their product (the conditioned
+      stimulus).
 
-   Have you ever noticed how quickly advertisers cancel contracts with a
-   famous athlete following a scandal? As far as the advertiser is
-   concerned, that athlete is no longer associated with positive
-   feelings; therefore, the athlete cannot be used as an unconditioned
-   stimulus to condition the public to associate positive feelings (the
-   unconditioned response) with their product (the conditioned
-   stimulus).
-
-   Now that you are aware of how associative learning works, see if you
-   can find examples of these types of advertisements on television, in
-   magazines, or on the Internet.
+      Now that you are aware of how associative learning works, see if you
+      can find examples of these types of advertisements on television, in
+      magazines, or on the Internet.
 
 Summary
 =======
@@ -494,7 +490,7 @@ explain how some fears develop.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       A stimulus that does not initially elicit a response in an
       organism is a(n) \________.
@@ -504,9 +500,9 @@ explain how some fears develop.
       3. conditioned stimulus
       4. unconditioned response {: type=“a”}
 
-   .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      B
+       B
   .. Card:: Question
 
 
@@ -519,9 +515,9 @@ explain how some fears develop.
       3. stimulus discrimination
       4. stimulus generalization {: type=“a”}
 
-  .. dropdown:: Check Answer
+     .. dropdown:: Check Answer
 
-      D
+        D
   .. Card:: Question
 
       Extinction occurs when \________.
@@ -535,9 +531,9 @@ explain how some fears develop.
       4. the neutral stimulus is presented repeatedly without being
          paired with a conditioned stimulus {: type=“a”}
 
-  .. dropdown:: Check Answer
+     .. dropdown:: Check Answer
 
-      A
+       A
   .. Card:: Question
 
       In Pavlov’s work with dogs, the psychic secretions were \________.
@@ -547,21 +543,21 @@ explain how some fears develop.
       3. unconditioned stimuli
       4. conditioned stimuli {: type=“a”}
 
-   .. container::
+   .. dropdwon::
 
-      B
+       B
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. card::
 
-   .. container::
+   .. card::
 
       If the sound of your toaster popping up toast causes your mouth to
       water, what are the UCS, CS, and CR?
 
-   .. container::
+   .. dropdown::
 
       The food being toasted is the UCS; the sound of the toaster
       popping up is the CS; salivating to the sound of the toaster is
@@ -604,12 +600,12 @@ Critical Thinking Questions
       conditioned stimulus capable of eliciting the conditioned response
       by itself.
 
-Personal Application Question
-=============================
+Personal Application Questions
+==============================
 
-.. container::
+.. card::
 
-   .. container::
+   .. hint::
 
       Can you think of an example in your life of how classical
       conditioning has produced a positive emotional response, such as
@@ -623,34 +619,46 @@ Personal Application Question
       human or an animal begins to connect a neutral stimulus and an
       unconditioned stimulus so that the neutral stimulus will begin to
       elicit the conditioned response ^
+   
    classical conditioning
       learning in which the stimulus or experience occurs before the
       behavior and then gets paired or associated with the behavior ^
+   
    conditioned response (CR)
       response caused by the conditioned stimulus ^
+   
    conditioned stimulus (CS)
       stimulus that elicits a response due to its being paired with an
       unconditioned stimulus ^
+   
    extinction
       decrease in the conditioned response when the unconditioned
       stimulus is no longer paired with the conditioned stimulus ^
+   
    habituation
       when we learn not to respond to a stimulus that is presented
       repeatedly without change ^
+   
    higher-order conditioning
       (also, second-order conditioning) using a conditioned stimulus to
       condition a neutral stimulus ^
+   
    neutral stimulus (NS)
       stimulus that does not initially elicit a response ^
+   
    spontaneous recovery
       return of a previously extinguished conditioned response ^
+   
    stimulus discrimination
       ability to respond differently to similar stimuli ^
+   
    stimulus generalization
       demonstrating the conditioned response to stimuli that are similar
       to the conditioned stimulus ^
+   
    unconditioned response (UCR)
       natural (unlearned) behavior to a given stimulus ^
+   
    unconditioned stimulus (UCS)
       stimulus that elicits a reflexive response
 
