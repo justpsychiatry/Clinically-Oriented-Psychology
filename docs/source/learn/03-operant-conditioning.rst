@@ -27,17 +27,17 @@ conditioning, something in the environment triggers a reflex
 automatically, and researchers train the organism to react to a
 different stimulus. Now we turn to the second type of associative
 learning, :term:`operant conditioning`. In operant
-conditioning, organisms learn to associate a behavior and its
+conditioning, organisms learn to associate a behaviour and its
 consequence (`[link] <#fs-idp18763408>`__). A pleasant consequence makes
-that behavior more likely to be repeated in the future. For example,
+that behaviour more likely to be repeated in the future. For example,
 Spirit, a dolphin at the National Aquarium in Baltimore, does a flip in
 the air when her trainer blows a whistle. The consequence is that she
 gets a fish.
 
 
-The target behavior is followed by reinforcement or punishment to either
+The target behaviour is followed by reinforcement or punishment to either
 strengthen or weaken it, so that the learner is more likely to exhibit
-the desired behavior in the future.
+the desired behaviour in the future.
 
 .. table:: Classical and Operant Conditioning Compared
 
@@ -45,7 +45,7 @@ the desired behavior in the future.
    |                      | Classical            | Operant Conditioning |
    |                      | Conditioning         |                      |
    +======================+======================+======================+
-   | Conditioning         | An unconditioned     | The target behavior  |
+   | Conditioning         | An unconditioned     | The target behaviour  |
    | approach             | stimulus (such as    | is followed by       |
    |                      | food) is paired with | reinforcement or     |
    |                      | a neutral stimulus   | punishment to either |
@@ -53,7 +53,7 @@ the desired behavior in the future.
    |                      | The neutral stimulus | it, so that the      |
    |                      | eventually becomes   | learner is more      |
    |                      | the conditioned      | likely to exhibit    |
-   |                      | stimulus, which      | the desired behavior |
+   |                      | stimulus, which      | the desired behaviour |
    |                      | brings about the     | in the future.       |
    |                      | conditioned response |                      |
    |                      | (salivation).        |                      |
@@ -70,18 +70,18 @@ Law of Effect
 =============
 
 Psychologist BF :term:`Skinner` saw
-that classical conditioning is limited to existing behaviors that are
-reflexively elicited, and it doesn’t account for new behaviors such as
-riding a bike. He proposed a theory about how such behaviors come about.
-Skinner believed that behavior is motivated by the consequences we
-receive for the behavior: the reinforcements and punishments. His idea
+that classical conditioning is limited to existing behaviours that are
+reflexively elicited, and it doesn’t account for new behaviours such as
+riding a bike. He proposed a theory about how such behaviours come about.
+Skinner believed that behaviour is motivated by the consequences we
+receive for the behaviour: the reinforcements and punishments. His idea
 that learning is the result of consequences is based on the law of
 effect, which was first proposed by psychologist Edward
 :term:`Thorndike`. 
 
 According to the :term:`law of effect`, behaviours that are followed by
 consequences that are satisfying to the organism are more likely to be
-repeated, and behaviors that are followed by unpleasant consequences are
+repeated, and behaviours that are followed by unpleasant consequences are
 less likely to be repeated (Thorndike, 1911). Essentially, if an
 organism does something that brings about a desired result, the organism
 is more likely to do it again. If an organism does something that does
@@ -95,7 +95,7 @@ up—even if we love our job.
    :class: important
 
    Any response followed by a satisfying situation (drive reduction?) Is likely to be repeated. 
-   Behaviors resulting in an annoying situation is less likely to occur. Actions that subsequently lead to a "satisfying state of affairs" are more likely to be repeated.
+   behaviours resulting in an annoying situation is less likely to occur. Actions that subsequently lead to a "satisfying state of affairs" are more likely to be repeated.
 
 Working with Thorndike’s law of effect as his foundation, Skinner began
 conducting scientific experiments on animals (mainly rats and pigeons)
@@ -105,12 +105,9 @@ which has come to be known as a **Skinner box**
 (`[Skinner-Box] <#Figure06_03_Skinnerbox>`__). A Skinner box contains a lever
 (for rats) or disk (for pigeons) that the animal can press or peck for a
 food reward via the dispenser. Speakers and lights can be associated
-with certain behaviors. A recorder counts the number of responses made
+with certain behaviours. A recorder counts the number of responses made
 by the animal.
 
-|A photograph shows B.F. Skinner. An illustration shows a rat in a
-Skinner box: a chamber with a speaker, lights, a lever, and a food
-dispenser.|\ {: #Figure06_03_Skinnerbox}
 
 .. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
    :scale: 100 %
@@ -118,10 +115,6 @@ dispenser.|\ {: #Figure06_03_Skinnerbox}
 
    An illustration shows a rat in a Skinner box: 
    a chamber with a speaker, lights, a lever, and a food dispenser.
-
-   The legend consists of all elements after the caption.  In this
-   case, the legend consists of this paragraph and the following
-   table:
 
 ..
 .. seealso::
@@ -138,8 +131,8 @@ words—positive, negative, reinforcement, and punishment—in a specialized
 manner. In operant conditioning, positive and negative do not mean good
 and bad. Instead, *positive* means adding something, and
 *negative* means taking something away. *Reinforcement* means
-increasing a behavior, and *punishment* means decreasing
-a behavior. Reinforcement can be positive or negative, and punishment
+increasing a behaviour, and *punishment* means decreasing
+a behaviour. Reinforcement can be positive or negative, and punishment
 can also be positive or negative. All reinforcers (positive or negative)
 *increase* the likelihood of a behavioural response. All punishers
 (positive or negative) *decrease* the likelihood of a behavioural
@@ -155,11 +148,11 @@ negative reinforcement, positive punishment, and negative punishment
    +==========+============================+============================+
    | Positive | Something is *added* to    | Something is *added* to    |
    |          | *increase* the likelihood  | *decrease* the likelihood  |
-   |          | of a behavior.             | of a behavior.             |
+   |          | of a behaviour.             | of a behaviour.             |
    +----------+----------------------------+----------------------------+
    | Negative | Something is *removed* to  | Something is *removed* to  |
    |          | *increase* the likelihood  | *decrease* the likelihood  |
-   |          | of a behavior.             | of a behavior.             |
+   |          | of a behaviour.             | of a behaviour.             |
    +----------+----------------------------+----------------------------+
 
 Reinforcement
@@ -174,8 +167,8 @@ or reinforcer eg praise—OR the removal of an aversive stimulus.
 Positive Reinforcement
 ----------------------
 
-Positive reinforcement is the most effective way to teach a person or animal a new behavior.
-In :term:`positive reinforcement`, a desirable stimulus is added to increase a behavior.
+Positive reinforcement is the most effective way to teach a person or animal a new behaviour.
+In :term:`positive reinforcement`, a desirable stimulus is added to increase a behaviour.
 
 For example, a parent tells his five-year-old son, Saad, that if he cleans
 his room, he will get a toy. Saad quickly cleans his room because he
@@ -193,7 +186,7 @@ and passed a short quiz about it. The result was a significantly
 increased reading comprehension (Fryer, 2010). What do you think about
 this program? If Skinner were alive today, he would probably think this
 was a great idea. He was a strong proponent of using operant
-conditioning principles to influence students’ behavior at school. In
+conditioning principles to influence students’ behaviour at school. In
 fact, in addition to the Skinner box, he also invented what he called 
 the teaching machine that was designed to reward small steps in learning
 (Skinner, 1961)—an early forerunner of computer-assisted learning. His
@@ -208,15 +201,15 @@ Negative Reinforcement
 ----------------------
 
 In :term:`negative reinforcement`, an undesirable
-stimulus is removed to increase a behavior. For example, car
+stimulus is removed to increase a behaviour. For example, car
 manufacturers use the principles of negative reinforcement in their
 seatbelt systems, which go “beep, beep, beep” until you fasten your
 seatbelt. The annoying sound stops when you exhibit the desired
-behavior, increasing the likelihood that you will buckle up in the
+behaviour, increasing the likelihood that you will buckle up in the
 future. Negative reinforcement is also used frequently in horse
 training. Riders apply pressure—by pulling the reins or squeezing their
 legs—and then remove the pressure when the horse performs the desired
-behavior, such as turning or speeding up. The pressure is the negative
+behaviour, such as turning or speeding up. The pressure is the negative
 stimulus that the horse wants to remove.
 
 Psychology of Punishment
@@ -224,23 +217,27 @@ Psychology of Punishment
 
 Many people confuse negative reinforcement with punishment in operant
 conditioning, but they are two very different mechanisms. Remember that
-reinforcement, even when it is negative, always increases a behavior. In
+reinforcement, even when it is negative, always increases a behaviour. In
 contrast, :term:`punishment` always decreases a
-behavior. In :term:`positive punishment`, you add an
-undesirable stimulus to decrease a behavior. An example of positive
+behaviour. In :term:`positive punishment`, you add an
+undesirable stimulus to decrease a behaviour. An example of positive
 punishment is scolding a student to get the student to stop texting in
 class. In this case, a stimulus (the reprimand) is added in order to
-decrease the behavior (texting in class). 
-In :term:`negative punishment`, you remove a pleasant stimulus to decrease behavior.
+decrease the behaviour (texting in class). 
+In :term:`negative punishment`, you remove a pleasant stimulus to decrease behaviour.
 For example, when a child misbehaves, a parent can take away a favourite
 toy. In this case, a stimulus (the toy) is removed in order to decrease
-the behavior.
+the behaviour.
+
+.. attention:: 
+
+   Negative reinforcement and punishment are not the same. See text for more details. 
 
 Punishment, especially when it is immediate, is one way to decrease
-undesirable behavior. For example, imagine your four-year-old son,
+undesirable behaviour. For example, imagine your four-year-old son,
 Brandon, hit his younger brother. You have Brandon write 100 times “I
 will not hit my brother" (positive punishment). Chances are he won’t
-repeat this behavior. While strategies like this are common today, in
+repeat this behaviour. While strategies like this are common today, in
 the past, children were often subject to physical punishment, such as
 spanking. It’s important to be aware of some of the drawbacks in using
 physical punishment on children. First, punishment may teach fear.
@@ -250,17 +247,17 @@ children whom teachers punish may come to fear the teacher and
 try to avoid school (Gershoff et al., 2010). Consequently, most schools
 in the United States have banned corporal punishment. Second, punishment
 may cause children to become more aggressive and prone to antisocial
-behavior and delinquency (Gershoff, 2002). They see their parents resort
+behaviour and delinquency (Gershoff, 2002). They see their parents resort
 to spanking when they become angry and frustrated, so, in turn, they may
-act out this same behavior when they become angry and frustrated. For
+act out this same behaviour when they become angry and frustrated. For
 example, because you spank Brenda when you are angry with her for her
-misbehavior, she might start hitting her friends when they won’t share
+misbehaviour, she might start hitting her friends when they won’t share
 their toys.
 
 While positive punishment can be effective in some cases, Skinner
 suggested that the use of punishment should be weighed against the
 possible negative effects. Today’s psychologists and parenting experts
-favor reinforcement over punishment—they recommend that you catch your
+favour reinforcement over punishment—they recommend that you catch your
 child doing something good and reward her for it.
 
 .. warning::
@@ -279,16 +276,16 @@ Shaping
 -------
 
 In his operant conditioning experiments, Skinner often used an approach
-called shaping. Instead of rewarding only the target behavior, in
+called shaping. Instead of rewarding only the target behaviour, in
 :term:`shaping`, we reward successive approximations
-of a target behavior. 
+of a target behaviour. 
 
 Why is shaping needed? 
 ~~~~~~~~~~~~~~~~~~~~~~
-Remember that the organism must first display the behavior for reinforcement to work.
+Remember that the organism must first display the behaviour for reinforcement to work.
 Shaping is needed because it is improbable that an organism will
-spontaneously display anything but the simplest of behaviors. In
-shaping, behaviors are broken down into many small, achievable steps.
+spontaneously display anything but the simplest of behaviours. In
+shaping, behaviours are broken down into many small, achievable steps.
 
 .. admonition::
    :class: important
@@ -299,34 +296,34 @@ shaping, behaviors are broken down into many small, achievable steps.
 
 The specific steps used in the process are the following:
 
-1. Reinforce any response that resembles the desired behavior.
-2. Then reinforce the response that more closely resembles the desired behavior. You will no longer reinforce the previously reinforced
+1. Reinforce any response that resembles the desired behaviour.
+2. Then reinforce the response that more closely resembles the desired behaviour. You will no longer reinforce the previously reinforced
    response.
-3. Next, begin to reinforce the response that even more closely resembles the desired behavior.
+3. Next, begin to reinforce the response that even more closely resembles the desired behaviour.
 4. **Successive approximations**: Continue to reinforce closer and closer approximations of the desired
-   behavior.
-5. Finally, only reinforce the desired behavior.
+   behaviour.
+5. Finally, only reinforce the desired behaviour.
 
 Successive Approximations
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A series of gradual steps, each of which is more like the final desired response. 
-It involves rewarding behaviors that approximate the target behavior 
-and so behaviors come closer and closer to the target behavior. 
+It involves rewarding behaviours that approximate the target behaviour 
+and so behaviours come closer and closer to the target behaviour. 
 There is a reinforcement of each of these simple steps of behaviour 
-that lead to a desired, more complex behavior.
+that lead to a desired, more complex behaviour.
 
 
-Shaping is often used in teaching a complex behavior or chain of
-behaviors. Skinner used shaping to teach pigeons not only such
-relatively simple behaviors as pecking a disk in a Skinner box, but also
-many unusual and entertaining behaviors, such as turning in circles,
+Shaping is often used in teaching a complex behaviour or chain of
+behaviours. Skinner used shaping to teach pigeons not only such
+relatively simple behaviours as pecking a disk in a Skinner box, but also
+many unusual and entertaining behaviours, such as turning in circles,
 walking in figure eights, and even playing ping pong; the technique is
 commonly used by animal trainers today. An essential part of shaping is
 stimulus discrimination. Recall Pavlov’s dogs—he trained them to respond
 to the tone of a bell, and not to similar tones or sounds. This
 discrimination is also important in operant conditioning and in shaping
-behavior.
+behaviour.
 
 .. seealso::
 
@@ -337,7 +334,7 @@ behavior.
 Clinical Application of Shaping
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It’s easy to see how shaping is effective in teaching behaviors to
+It’s easy to see how shaping is effective in teaching behaviours to
 animals, but how does shaping work with humans? Let’s consider parents
 whose goal is to have their child learn to clean his room. They use
 shaping to help him master steps toward the goal. Instead of performing
@@ -378,20 +375,20 @@ it to buy other things—either things that satisfy basic needs (food,
 water, shelter—all primary reinforcers) or other secondary reinforcers.
 If you were on a remote island in the middle of the Pacific Ocean and
 you had stacks of money, the money would not be useful if you could not
-spend it. What about the stickers on the behavior chart? They also are
+spend it. What about the stickers on the behaviour chart? They also are
 secondary reinforcers.
 
 Sometimes, instead of stickers on a sticker chart, a token is used.
 Tokens, which are also secondary reinforcers, can then be traded in for
-rewards and prizes. Entire behavior management systems, known as token
+rewards and prizes. Entire behaviour management systems, known as token
 economies, are built around the use of these kinds of token reinforcers.
 Token economies have been found to be very effective at modifying
-behavior in a variety of settings such as schools, prisons, and mental
+behaviour in a variety of settings such as schools, prisons, and mental
 hospitals. For example, a study by Cangi and Daly (2013) found that use
-of a token economy increased appropriate social behaviors and reduced
-inappropriate behaviors in a group of autistic school children. Autistic
-children tend to exhibit disruptive behaviors such as pinching and
-hitting. When the children in the study exhibited appropriate behavior
+of a token economy increased appropriate social behaviours and reduced
+inappropriate behaviours in a group of autistic school children. Autistic
+children tend to exhibit disruptive behaviours such as pinching and
+hitting. When the children in the study exhibited appropriate behaviour
 (not hitting or pinching), they received a “quiet hands” token. When
 they hit or pinched, they lost a token. The children could then exchange
 specified amounts of tokens for minutes of playtime.
@@ -401,13 +398,11 @@ specified amounts of tokens for minutes of playtime.
 
    **Behaviour Modification in Children**
 
-   Parents and teachers often use behavior modification to change a
-   child’s behavior. Behaviour modification uses the principles of
-   operant conditioning to accomplish behavior change so that
-   undesirable behaviors are switched for more socially acceptable ones.
+   Parents and teachers often use behaviour modification to change a
+   child’s behaviour. Behaviour modification uses the principles of
+   operant conditioning to accomplish behaviour change so that
+   undesirable behaviours are switched for more socially acceptable ones.
    
-   |A photograph shows a child placing stickers on a chart hanging on
-   the wall.|\ {: #Figure06_03_Stickers}
 
    .. figure:: ../resources/CNX_Psych_06_03_Stickers.jpg
       :scale: 100 %
@@ -416,26 +411,26 @@ specified amounts of tokens for minutes of playtime.
       A photograph shows a child placing stickers on a chart hanging on the wall.
 
       Some teachers and parents create a sticker chart, in which several
-      behaviors are listed (`[link] <#Figure06_03_Stickers>`__). Sticker
+      behaviours are listed (`[link] <#Figure06_03_Stickers>`__). Sticker
       charts are a form of token economies, as described in the text. Each
-      time children perform the behavior, they get a sticker, and after a
+      time children perform the behaviour, they get a sticker, and after a
       certain number of stickers, they get a prize, or reinforcer. The goal
-      is to increase acceptable behaviors and decrease misbehavior.
+      is to increase acceptable behaviours and decrease misbehaviour.
    
-   Remember, it is best to reinforce desired behaviors, rather than to
+   Remember, it is best to reinforce desired behaviours, rather than to
    use punishment. 
    
-   * In the classroom, the teacher can reinforce a wide range of behaviors, from students raising their hands, to walking quietly in the hall, to turning in their homework. 
-   * At home, parents might create a behavior chart that rewards children for things such as putting away toys, brushing their teeth, and helping with dinner.
+   * In the classroom, the teacher can reinforce a wide range of behaviours, from students raising their hands, to walking quietly in the hall, to turning in their homework. 
+   * At home, parents might create a behaviour chart that rewards children for things such as putting away toys, brushing their teeth, and helping with dinner.
 
-   In order for behavior modification to be effective, the reinforcement
-   needs to be connected with the behavior; the reinforcement must
+   In order for behaviour modification to be effective, the reinforcement
+   needs to be connected with the behaviour; the reinforcement must
    matter to the child and be done consistently.
 
    **Time-out** is another popular technique used in behaviour modification
    with children, especially those with intellectual disability. 
    It works according to the principle of negative punishment.
-   When a child demonstrates an undesirable behavior, she is removed
+   When a child demonstrates an undesirable behaviour, she is removed
    from the desirable activity at hand. 
    (`[link] <#Figure06_03_Timeout>`__). For example, say that Sadia and
    her brother Salman are playing with building blocks. Sadia throws
@@ -447,23 +442,19 @@ specified amounts of tokens for minutes of playtime.
 
 
    There are several important points that a parent should know before 
-   implementing time-out as a behavior modification technique. 
+   implementing time-out as a behaviour modification technique. 
    
    1. First, make sure the child is being removed from a desirable activity and placed in a less desirable location. If the activity is something undesirable for the child, this technique will backfire because it is more enjoyable for the child to be removed from the activity. 
    2. Second, the length of the time-out is important. The general rule of thumb is **one minute** for each year of the child’s age. Sadia is five; therefore, she sits in a time-out for five minutes. Setting a timer helps children know how long they have to sit in time-out. 
-   3. Finally, as a caregiver, keep several guidelines in mind over the course of a time-out: remain calm when directing your child to time-out; ignore your child during time-out (because caregiver attention may reinforce misbehavior); and give the child a hug or a kind word when time-out is over.
+   3. Finally, as a caregiver, keep several guidelines in mind over the course of a time-out: remain calm when directing your child to time-out; ignore your child during time-out (because caregiver attention may reinforce misbehaviour); and give the child a hug or a kind word when time-out is over.
 
-   |Photograph A shows several children climbing on playground
-   equipment. Photograph B shows a child sitting alone at a table
-   looking at the playground.|\ {: #Figure06_03_Timeout}
+   .. figure:: ../resources/CNX_Psych_06_03_Timeout.jpg
+      :scale: 100 %
+      :alt: Two children acting differently
 
- .. figure:: ../resources/CNX_Psych_06_03_Timeout.jpg
-   :scale: 100 %
-   :alt: Two children acting differently
-
-   Photograph A shows several children climbing on playground
-   equipment. Photograph B shows a child sitting alone at a table
-   looking at the playground.
+      Photograph A shows several children climbing on playground
+      equipment. Photograph B shows a child sitting alone at a table
+      looking at the playground.
 
 ..
 
@@ -473,38 +464,38 @@ Reinforcement Schedules
 
 Continuos Reinforcement
 ------------------------
-Remember, the best way to teach a person or animal a behavior is to use
+Remember, the best way to teach a person or animal a behaviour is to use
 positive reinforcement. For example, Skinner used positive reinforcement
 to teach rats to press a lever in a Skinner box. At first, the rat might
 randomly hit the lever while exploring the box, and out would come a
 pellet of food. After eating the pellet, what do you think the hungry
 rat did next? It hit the lever again, and received another pellet of
 food. Each time the rat hit the lever, a pellet of food came out. When
-an organism receives a reinforcer each time it displays a behavior, it
+an organism receives a reinforcer each time it displays a behaviour, it
 is called :term:`continuous reinforcement`. This
-reinforcement schedule is the quickest way to teach someone a behavior,
-and it is especially effective in training a new behavior. Let’s look
+reinforcement schedule is the quickest way to teach someone a behaviour,
+and it is especially effective in training a new behaviour. Let’s look
 back at the dog that was learning to sit earlier in the chapter. Now,
 each time he sits, you give him a treat. Timing is important here: you
 will be most successful if you present the reinforcer immediately after
-he sits, so that he can make an association between the target behavior
+he sits, so that he can make an association between the target behaviour
 (sitting) and the consequence (getting a treat).
 
 .. seealso::
 
    Watch this `video
    clip <https://drSadiayin.com/videos/entry/teaching-a-dog-to-sit-politely-rather-than-jump>`__
-   where veterinarian Dr. Sadia Yin shapes a dog’s behavior using the
+   where veterinarian Dr. Sadia Yin shapes a dog’s behaviour using the
    steps outlined above.
 
 Partial Reinforcement
 ---------------------
 
-Once a behavior is trained, researchers and trainers often turn to
+Once a behaviour is trained, researchers and trainers often turn to
 another type of reinforcement schedule—partial reinforcement. In
 :term:`partial reinforcement`, also referred to as
 intermittent reinforcement, the person or animal does not get reinforced
-every time they perform the desired behavior. There are several
+every time they perform the desired behaviour. There are several
 different types of partial reinforcement schedules
 (`[link] <#fs-idp66772976>`__). These schedules are described as either
 fixed or variable, and as either interval or ratio. *Fixed* refers to
@@ -564,14 +555,14 @@ Fixed Interval Reinforcement Schedule
 -------------------------------------
 
 Now let’s combine these four terms. A :term:`fixed interval reinforcement schedule` 
-is when behavior is rewarded after a
+is when behaviour is rewarded after a
 set amount of time. For example, June undergoes major surgery in a
 hospital. During recovery, she is expected to experience pain and will
 require prescription medications for pain relief. June is given an IV
 drip with a patient-controlled painkiller. Her doctor sets a limit: one
 dose per hour. June pushes a button when pain becomes difficult, and she
 receives a dose of medication. Since the reward (pain relief) only
-occurs on a fixed interval, there is no point in exhibiting the behavior
+occurs on a fixed interval, there is no point in exhibiting the behaviour
 when it will not be rewarded.
 
 Variable Interval Schedule
@@ -592,7 +583,7 @@ Fixed Interval Reinforcement schedule
 --------------------------------------
 
 With a :term:`fixed ratio reinforcement schedule`,
-there are a set number of responses that must occur before the behavior
+there are a set number of responses that must occur before the behaviour
 is rewarded. Carla sells glasses at an eyeglass store, and she earns a
 commission every time she sells a pair of glasses. She always tries to
 sell people more pairs of glasses, including prescription sunglasses or
@@ -637,7 +628,7 @@ resistant to extinction.
     - Gambling employs the variable-ratio schedule. 
     - Behaviours reinforced through variable ratio schedule are most resistant to extinction. 
 
-In operant conditioning, the extinction of a reinforced behavior occurs at
+In operant conditioning, the extinction of a reinforced behaviour occurs at
 some point after reinforcement stops, and the speed at which this
 happens depends on the reinforcement schedule. In a variable ratio
 schedule, the point of extinction comes very slowly, as described above.
@@ -685,7 +676,7 @@ is the least productive and the easiest to extinguish
       schedule” (p. 397).
 
    Skinner uses gambling as an example of the power and effectiveness of
-   conditioning behavior based on a variable ratio reinforcement
+   conditioning behaviour based on a variable ratio reinforcement
    schedule. Skinner was so confident in his knowledge of
    gambling addiction that he even claimed he could turn a pigeon into a
    pathological gambler (“Skinner’s Utopia,” 1971). Beyond the power of
@@ -709,7 +700,7 @@ is the least productive and the easiest to extinguish
    experiment produces brain activation very similar to that observed in
    a cocaine addict receiving an infusion of cocaine” (para. 1).
    Deficiencies in serotonin might also
-   contribute to compulsive behavior, including a gambling addiction.
+   contribute to compulsive behaviour, including a gambling addiction.
 
    It may be that pathological gamblers’ brains are different than those
    of other people, and perhaps this difference may somehow have led to
@@ -726,7 +717,7 @@ is the least productive and the easiest to extinguish
 
 .. figure:: ../resources/CNX_Psych_06_03_Gambling.jpg
    :scale: 100 %
-   :alt: A photograph shows B.F. Skinner.
+   :alt: four digital gambling machines
 
    A photograph shows four digital gaming machines.
 
@@ -761,11 +752,10 @@ Bet he never forgets the cage again!
 Cognition and Latent Learning
 -----------------------------
 
-Although strict behaviorists such as Skinner and Watson refused to
+Although strict behaviourists such as Skinner and Watson refused to
 believe that cognition (such as thoughts and expectations) plays a role
-in learning, another behaviorist, Edward C. **Tolman**\ {:
-data-type=“term” .no-emphasis}, had a different opinion. Tolman’s
-experiments with rats demonstrated that organisms can learn even if they
+in learning, another behaviourist, Edward C. :term:`Tolman`, had a different opinion. 
+Tolman’s experiments with rats demonstrated that organisms can learn even if they
 do not receive immediate reinforcement (Tolman & Honzik, 1930; Tolman,
 Ritchie, & Kalish, 1946). This finding was in conflict with the
 prevailing idea at the time that reinforcement must be immediate in
@@ -782,10 +772,9 @@ maze. As soon as the rats became aware of the food, they were able to
 find their way through the maze quickly, just as quickly as the
 comparison group, which had been rewarded with food all along. This is
 known as :term:`latent learning`: learning that occurs
-but is not observable in behavior until there is a reason to demonstrate
+but is not observable in behaviour until there is a reason to demonstrate
 it.
 
-||\ {: #Figure06_03_Ratmaze}
 
 .. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
    :scale: 100 %
@@ -864,13 +853,13 @@ Summary
 
 Operant conditioning is based on the work of B. F. Skinner. Operant
 conditioning is a form of learning in which the motivation for a
-behavior happens *after* the behavior is demonstrated. An animal or a
-human receives a consequence after performing a specific behavior. The
+behaviour happens *after* the behaviour is demonstrated. An animal or a
+human receives a consequence after performing a specific behaviour. The
 consequence is either a reinforcer or a punisher. All reinforcement
-(positive or negative) *increases* the likelihood of a behavioral
+(positive or negative) *increases* the likelihood of a behavioural
 response. All punishment (positive or negative) *decreases* the
-likelihood of a behavioral response. Several types of reinforcement
-schedules are used to reward behavior depending on either a set or
+likelihood of a behavioural response. Several types of reinforcement
+schedules are used to reward behaviour depending on either a set or
 variable period of time.
 
 
@@ -879,7 +868,7 @@ variable period of time.
   .. card:: Question
 
       \_______\_ is when you take away a pleasant stimulus to stop a
-      behavior.
+      behaviour.
 
       1. positive reinforcement
       2. negative reinforcement
@@ -904,7 +893,7 @@ variable period of time.
        B
   .. Card:: Question
 
-      Rewarding successive approximations toward a target behavior is
+      Rewarding successive approximations toward a target behaviour is
       \________.
 
       1. shaping
@@ -941,9 +930,9 @@ Critical Thinking Questions
    .. dropdown::
 
       A Skinner box is an operant conditioning chamber used to train
-      animals such as rats and pigeons to perform certain behaviors,
+      animals such as rats and pigeons to perform certain behaviours,
       like pressing a lever. When the animals perform the desired
-      behavior, they receive a reward: food or water.
+      behaviour, they receive a reward: food or water.
 
 .. card::
 
@@ -954,12 +943,12 @@ Critical Thinking Questions
    .. dropdown::
 
       In negative reinforcement you are taking away an undesirable
-      stimulus in order to increase the frequency of a certain behavior
+      stimulus in order to increase the frequency of a certain behaviour
       (e.g., buckling your seat belt stops the annoying beeping sound in
       your car and increases the likelihood that you will wear your
-      seatbelt). Punishment is designed to reduce a behavior (e.g., you
+      seatbelt). Punishment is designed to reduce a behaviour (e.g., you
       scold your child for running into the street in order to decrease
-      the unsafe behavior.)
+      the unsafe behaviour.)
 
 .. card::
 
@@ -971,7 +960,7 @@ Critical Thinking Questions
   .. dropdown::
 
       Shaping is an operant conditioning method in which you reward
-      closer and closer approximations of the desired behavior. If you
+      closer and closer approximations of the desired behaviour. If you
       want to teach your dog to roll over, you might reward him first
       when he sits, then when he lies down, and then when he lies down
       and rolls onto his back. Finally, you would reward him only when
@@ -998,7 +987,7 @@ Personal Application Questions
 ==============================
 
 1. Explain the difference between negative reinforcement and punishment, and provide several examples of each based on your own experiences.
-2. Think of a behavior that you have that you would like to change. How could you use behavior modification, specifically positive reinforcement, to change your behavior? What is your positive reinforcer?
+2. Think of a behaviour that you have that you would like to change. How could you use behaviour modification, specifically positive reinforcement, to change your behaviour? What is your positive reinforcer?
 
 .. glossary::
 
@@ -1006,50 +995,50 @@ Personal Application Questions
       mental picture of the layout of the environment ^
    
    continuous reinforcement
-      rewarding a behavior every time it occurs ^
+      rewarding a behaviour every time it occurs ^
    
    fixed interval reinforcement schedule
-      behavior is rewarded after a set amount of time ^
+      behaviour is rewarded after a set amount of time ^
    
    fixed ratio reinforcement schedule
-      set number of responses must occur before a behavior is rewarded ^
+      set number of responses must occur before a behaviour is rewarded ^
    
    latent learning
       learning that occurs, but it may not be evident until there is a
       reason to demonstrate it ^
    
    law of effect
-      behavior that is followed by consequences satisfying to the
-      organism will be repeated and behaviors that are followed by
+      behaviour that is followed by consequences satisfying to the
+      organism will be repeated and behaviours that are followed by
       unpleasant consequences will be discouraged ^
    
    negative punishment
-      taking away a pleasant stimulus to decrease or stop a behavior ^
+      taking away a pleasant stimulus to decrease or stop a behaviour ^
    
    negative reinforcement
-      taking away an undesirable stimulus to increase a behavior ^
+      taking away an undesirable stimulus to increase a behaviour ^
    
    operant conditioning
       form of learning in which the stimulus/experience happens after
-      the behavior is demonstrated ^
+      the behaviour is demonstrated ^
    
    partial reinforcement
-      rewarding behavior only some of the time ^
+      rewarding behaviour only some of the time ^
    
    positive punishment
-      adding an undesirable stimulus to stop or decrease a behavior ^
+      adding an undesirable stimulus to stop or decrease a behaviour ^
    
    positive reinforcement
-      adding a desirable stimulus to increase a behavior ^
+      adding a desirable stimulus to increase a behaviour ^
    
    primary reinforcer
       has innate reinforcing qualities (e.g., food, water, shelter, sex)
    
    punishment
-      implementation of a consequence in order to decrease a behavior ^
+      implementation of a consequence in order to decrease a behaviour ^
    
    reinforcement
-      implementation of a consequence in order to increase a behavior ^
+      implementation of a consequence in order to increase a behaviour ^
 
    secondary reinforcer
       has no inherent value unto itself and only has reinforcing
@@ -1057,14 +1046,14 @@ Personal Application Questions
       stars, poker chips) ^
 
    shaping
-      rewarding successive approximations toward a target behavior ^
+      rewarding successive approximations toward a target behaviour ^
       
    variable interval reinforcement schedule
-      behavior is rewarded after unpredictable amounts of time have
+      behaviour is rewarded after unpredictable amounts of time have
       passed ^
    
    variable ratio reinforcement schedule
-      number of responses differ before a behavior is rewarded
+      number of responses differ before a behaviour is rewarded
 
 .. |A photograph shows B.F. Skinner. An illustration shows a rat in a Skinner box: a chamber with a speaker, lights, a lever, and a food dispenser.| image:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
 .. |A photograph shows a child placing stickers on a chart hanging on the wall.| image:: ../resources/CNX_Psych_06_03_Stickers.jpg
