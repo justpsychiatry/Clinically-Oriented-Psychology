@@ -2,6 +2,11 @@ Chapter 1: Introduction to Psychology
 #####################################
 
 
+.. meta::
+   :author: Justpsychiatry
+   :description: This section covers 
+   :keywords: psychology, clinically-oriented psychology, clinical psychology, MRCPsych, introduction
+   :date: 
 
 
 .. contents::

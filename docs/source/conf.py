@@ -5,11 +5,19 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 #import sphinx_rtd_theme
 
+numfig = True
+
+numfig_format {
+
+    'Fig. %s': 'figure',
+    'Table %s': 'table',
+    'Listing %s': 'code-block',
+}
 
 # -- Project information -----------------------------------------------------
 
-project = 'Clinically Oriented Psychology'
-copyright = '2022'
+project = 'Clinically-Oriented Psychology'
+Copyright = '2022'
 author = 'Justpsychiatry'
 
 
@@ -97,6 +105,9 @@ hoverxref_roles = [
     'cite',
 ]
 
+
+html_use_opensearch = 'https://psychology.mrcpsych.uk/'
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
@@ -113,7 +124,6 @@ epub_show_urls = 'footnote'
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -127,5 +137,8 @@ rst_epilog= """
 .. admonition:: Copyright Notice
    :class: caution
  
-   This work is (being) adapted from on OpenStax Psychology-2e which is licesed under creative commons 4.0 license. 
+   This work is (being) adapted from on OpenStax Psychology 2e which is licensed under creative commons attribution 4.0 license. We license our work under a similar license.
+   If you copy, adapt, remix or build up on work, you must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+   You may do so in any reasonable manner, 
+   but not in any way that suggests the licensor endorses you or your use.
 """

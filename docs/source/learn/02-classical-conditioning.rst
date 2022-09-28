@@ -2,6 +2,12 @@
 Classical Conditioning
 ======================
 
+.. meta::
+   
+   :title: Classical Conditioning
+   :author: Justpsychiatry
+   :description: This section covers operant conditioning, the processes in operant conditioning, and its clinical applications. It is based on OpenStax Psychology. 
+   :keywords: operant conditioning, instrumental learning, instrumental conditioning, Skinner's theory, reinforcement, reward-based learning
 
 
 .. contents::
@@ -111,7 +117,7 @@ rung.|\ {: #Figure06_02_Classical}
    View this `video <http://openstax.org/l/pavlov2>`__ to learn more
    about Pavlov and his dogs.
 
-REAL WORLD APPLICATION OF CLASSICAL CONDITIONING
+Real World Application Of Classical Conditioning
 ================================================
 
 How does classical conditioning work in the real world? Let’s say you
@@ -130,7 +136,7 @@ Tiger hears “squeak” (the cabinet), “zzhzhz” (the electric can opener),
 and then she gets her food. Tiger will learn to get excited when she
 hears the “squeak” of the cabinet. Pairing a new neutral stimulus
 (“squeak”) with the conditioned stimulus (“zzhzhz”) is called
-**higher-order conditioning**\ {: data-type=“term”}, or **second-order
+:term:`higher-order conditioning`, or **second-order
 conditioning**\ {: data-type=“term”}. This means you are using the
 conditioned stimulus of the can opener to condition another stimulus:
 the squeaky cabinet (`[link] <#Figure06_02_SecondOrdr>`__). It is hard
@@ -152,36 +158,36 @@ squeaky cabinet door labeled “second-order stimulus” followed by an
 equal sign and a picture of a salivating cat labeled “conditioned
 response.”|\ {: #Figure06_02_SecondOrdr}
 
-.. card:: Everyday-Connection
+.. admonition:: Classical Conditioning at Stingray City
+   :class: tip
+   
 
-   .. card:: Classical Conditioning at Stingray City
+   Kate and her husband Scott recently vacationed in the Cayman Islands,
+   and booked a boat tour to Stingray City, where they could feed and
+   swim with the southern stingrays. The boat captain explained how the
+   normally solitary stingrays have become accustomed to interacting
+   with humans. About 40 years ago, fishermen began to clean fish and
+   conch (unconditioned stimulus) at a particular sandbar near a barrier
+   reef, and large numbers of stingrays would swim in to eat
+   (unconditioned response) what the fishermen threw into the water;
+   this continued for years. By the late 1980s, word of the large group
+   of stingrays spread among scuba divers, who then started feeding them
+   by hand. Over time, the southern stingrays in the area were
+   classically conditioned much like Pavlov’s dogs. When they hear the
+   sound of a boat engine (neutral stimulus that becomes a conditioned
+   stimulus), they know that they will get to eat (conditioned
+   response).
 
-      Kate and her husband Scott recently vacationed in the Cayman Islands,
-      and booked a boat tour to Stingray City, where they could feed and
-      swim with the southern stingrays. The boat captain explained how the
-      normally solitary stingrays have become accustomed to interacting
-      with humans. About 40 years ago, fishermen began to clean fish and
-      conch (unconditioned stimulus) at a particular sandbar near a barrier
-      reef, and large numbers of stingrays would swim in to eat
-      (unconditioned response) what the fishermen threw into the water;
-      this continued for years. By the late 1980s, word of the large group
-      of stingrays spread among scuba divers, who then started feeding them
-      by hand. Over time, the southern stingrays in the area were
-      classically conditioned much like Pavlov’s dogs. When they hear the
-      sound of a boat engine (neutral stimulus that becomes a conditioned
-      stimulus), they know that they will get to eat (conditioned
-      response).
+   As soon as Kate and Scott reached Stingray City, over two dozen
+   stingrays surrounded their tour boat. The couple slipped into the
+   water with bags of squid, the stingrays’ favorite treat. The swarm of
+   stingrays bumped and rubbed up against their legs like hungry cats
+   (`[link] <#Figure06_02_Stingray>`__). Kate and Scott were able to
+   feed, pet, and even kiss (for luck) these amazing creatures. Then all
+   the squid was gone, and so were the stingrays.
 
-      As soon as Kate and Scott reached Stingray City, over two dozen
-      stingrays surrounded their tour boat. The couple slipped into the
-      water with bags of squid, the stingrays’ favorite treat. The swarm of
-      stingrays bumped and rubbed up against their legs like hungry cats
-      (`[link] <#Figure06_02_Stingray>`__). Kate and Scott were able to
-      feed, pet, and even kiss (for luck) these amazing creatures. Then all
-      the squid was gone, and so were the stingrays.
-
-      |A photograph shows a woman standing in the ocean holding a
-      stingray.|\ {: #Figure06_02_Stingray}
+   |A photograph shows a woman standing in the ocean holding a
+   stingray.|\ {: #Figure06_02_Stingray}
 
 Classical conditioning also applies to humans, even babies. For example,
 Sara buys formula in blue canisters for her six-month-old daughter,
@@ -208,7 +214,7 @@ and anxiety are the conditioned response.
    *The Office*, where Jim conditions Dwight to expect a breath mint
    every time Jim’s computer makes a specific sound.
 
-GENERAL PROCESSES IN CLASSICAL CONDITIONING
+General Processes In Classical Conditioning
 ===========================================
 
 Now that you know how classical conditioning works and have seen several
@@ -226,7 +232,8 @@ sometimes this interval is as little as five seconds (Chance, 2009).
 However, with other types of conditioning, the interval can be up to
 several hours.
 
-.. card:: Clinical Pearls
+.. admonition:: Clinical Correlate
+   :class: hint
    
    :term:`Taste aversion` is a type of
    conditioning in which an interval of several hours may pass between the
@@ -253,6 +260,7 @@ several hours.
    treatments (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
    Wismer, 2007; Skolin et al., 2006).
 
+
 Extinction
 ~~~~~~~~~~
 
@@ -274,7 +282,7 @@ response, and finally no response. In classical conditioning terms,
 there is a gradual weakening and disappearance of the conditioned
 response.
 
-Spontaneous recovery
+Spontaneous Recovery
 ~~~~~~~~~~~~~~~~~~~~
 
 What happens when learning is not used for a while—when what was learned
@@ -392,8 +400,8 @@ time, you become accustomed to the stimulus of the television noise, and
 eventually you hardly notice it any longer.
  
 
-BEHAVIORISM
-===========
+Behaviourism
+============
 
 John B. :term:`Watson`, shown in
 `[link] <#Figure06_02_Watson>`__, is considered the founder of
@@ -467,32 +475,32 @@ even Santa Claus.”|\ {: #Figure06_02_Santaclaus}
    after conditioning. Based on what you see, would you come to the same
    conclusions as the researchers?
 
-.. card:: Psychology Everyday Connection
 
-   .. card:: Advertising and Associative Learning
+.. admonition:: Advertising and Associative Learning
+   :class: tip
 
-      Advertising executives are pros at applying the principles of
-      associative learning. Think about the car commercials you have seen
-      on television. Many of them feature an attractive model. By
-      associating the model with the car being advertised, you come to see
-      the car as being desirable (Cialdini, 2008). You may be asking
-      yourself, does this advertising technique actually work? According to
-      Cialdini (2008), men who viewed a car commercial that included an
-      attractive model later rated the car as being faster, more appealing,
-      and better designed than did men who viewed an advertisement for the
-      same car minus the model.
+   Advertising executives are pros at applying the principles of
+   associative learning. Think about the car commercials you have seen
+   on television. Many of them feature an attractive model. By
+   associating the model with the car being advertised, you come to see
+   the car as being desirable (Cialdini, 2008). You may be asking
+   yourself, does this advertising technique actually work? According to
+   Cialdini (2008), men who viewed a car commercial that included an
+   attractive model later rated the car as being faster, more appealing,
+   and better designed than did men who viewed an advertisement for the
+   same car minus the model.
 
-      Have you ever noticed how quickly advertisers cancel contracts with a
-      famous athlete following a scandal? As far as the advertiser is
-      concerned, that athlete is no longer associated with positive
-      feelings; therefore, the athlete cannot be used as an unconditioned
-      stimulus to condition the public to associate positive feelings (the
-      unconditioned response) with their product (the conditioned
-      stimulus).
+   Have you ever noticed how quickly advertisers cancel contracts with a
+   famous athlete following a scandal? As far as the advertiser is
+   concerned, that athlete is no longer associated with positive
+   feelings; therefore, the athlete cannot be used as an unconditioned
+   stimulus to condition the public to associate positive feelings (the
+   unconditioned response) with their product (the conditioned
+   stimulus).
 
-      Now that you are aware of how associative learning works, see if you
-      can find examples of these types of advertisements on television, in
-      magazines, or on the Internet.
+   Now that you are aware of how associative learning works, see if you
+   can find examples of these types of advertisements on television, in
+   magazines, or on the Internet.
 
 Summary
 =======
@@ -564,7 +572,7 @@ explain how some fears develop.
       3. unconditioned stimuli
       4. conditioned stimuli {: type=“a”}
 
-   .. dropdwon::
+    .. dropdown:: Check Answer
 
        B
 

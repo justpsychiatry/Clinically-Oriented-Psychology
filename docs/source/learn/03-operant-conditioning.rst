@@ -495,6 +495,7 @@ the number of responses between reinforcements.
 
 Fixed Interval Reinforcement Schedule
 -------------------------------------
+
 Now let’s combine these four terms. A :term:`fixed interval reinforcement schedule` 
 is when behavior is rewarded after a
 set amount of time. For example, June undergoes major surgery in a
@@ -520,6 +521,9 @@ ensures that his employees provide prompt and courteous service. His
 productivity regarding prompt service and keeping a clean restaurant are
 steady because he wants his crew to earn the bonus.
 
+Fixed Interval reinforcement schedule
+--------------------------------------
+
 With a :term:`fixed ratio reinforcement schedule`,
 there are a set number of responses that must occur before the behavior
 is rewarded. Carla sells glasses at an eyeglass store, and she earns a
@@ -534,6 +538,9 @@ determine which reinforcement method is most appropriate for a
 particular situation. Fixed ratios are better suited to optimize the
 quantity of output, whereas a fixed interval, in which the reward is not
 quantity based, can lead to a higher quality of output.
+
+Variable Ratio Reinforcement Schedule
+-------------------------------------
 
 In a :term:`variable ratio reinforcement schedule`,
 the number of responses needed for a reward varies. This is the most
