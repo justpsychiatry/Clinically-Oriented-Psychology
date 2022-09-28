@@ -66,6 +66,9 @@ the desired behavior in the future.
    +----------------------+----------------------+----------------------+
 
 
+Law of Effect
+=============
+
 Psychologist BF :term:`Skinner` saw
 that classical conditioning is limited to existing behaviors that are
 reflexively elicited, and it doesn’t account for new behaviors such as
@@ -74,8 +77,9 @@ Skinner believed that behavior is motivated by the consequences we
 receive for the behavior: the reinforcements and punishments. His idea
 that learning is the result of consequences is based on the law of
 effect, which was first proposed by psychologist Edward
-:term:`Thorndike`. According to the :term:`law of effect`, 
-behaviours that are followed by
+:term:`Thorndike`. 
+
+According to the :term:`law of effect`, behaviours that are followed by
 consequences that are satisfying to the organism are more likely to be
 repeated, and behaviors that are followed by unpleasant consequences are
 less likely to be repeated (Thorndike, 1911). Essentially, if an
@@ -97,7 +101,7 @@ Working with Thorndike’s law of effect as his foundation, Skinner began
 conducting scientific experiments on animals (mainly rats and pigeons)
 to determine how organisms learn through operant conditioning (Skinner,
 1938). He placed these animals inside an operant conditioning chamber,
-which has come to be known as a “Skinner box”
+which has come to be known as a **Skinner box**
 (`[link] <#Figure06_03_Skinnerbox>`__). A Skinner box contains a lever
 (for rats) or disk (for pigeons) that the animal can press or peck for a
 food reward via the dispenser. Speakers and lights can be associated
@@ -108,6 +112,18 @@ by the animal.
 Skinner box: a chamber with a speaker, lights, a lever, and a food
 dispenser.|\ {: #Figure06_03_Skinnerbox}
 
+.. figure:: Figure06_03_Skinnerbox.jpg
+   :scale: 50 %
+   :alt: A photograph shows B.F. Skinner.
+
+   An illustration shows a rat in a Skinner box: 
+   a chamber with a speaker, lights, a lever, and a food dispenser.
+
+   The legend consists of all elements after the caption.  In this
+   case, the legend consists of this paragraph and the following
+   table:
+
+..
 .. seealso::
 
    Watch this brief `video clip <https://www.youtube.com/watch?v=CtoH5tlr-bI>`__ to
@@ -274,17 +290,32 @@ Shaping is needed because it is improbable that an organism will
 spontaneously display anything but the simplest of behaviors. In
 shaping, behaviors are broken down into many small, achievable steps.
 
+.. admonition::
+   :class: important
+
+   In shaping, the desired behaviour is achieved in several 
+   small achievable steps—much like in systematic desensitization. 
+   This this step is key to the success of behaviour modification with shaping. 
+
 The specific steps used in the process are the following:
 
 1. Reinforce any response that resembles the desired behavior.
-2. Then reinforce the response that more closely resembles the desired
-   behavior. You will no longer reinforce the previously reinforced
+2. Then reinforce the response that more closely resembles the desired behavior. You will no longer reinforce the previously reinforced
    response.
-3. Next, begin to reinforce the response that even more closely
-   resembles the desired behavior.
-4. Continue to reinforce closer and closer approximations of the desired
+3. Next, begin to reinforce the response that even more closely resembles the desired behavior.
+4. **Successive approximations**: Continue to reinforce closer and closer approximations of the desired
    behavior.
 5. Finally, only reinforce the desired behavior.
+
+Successive Approximations
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A series of gradual steps, each of which is more like the final desired response. 
+It involves rewarding behaviors that approximate the target behavior 
+and so behaviors come closer and closer to the target behavior. 
+There is a reinforcement of each of these simple steps of behaviour 
+that lead to a desired, more complex behavior.
+
 
 Shaping is often used in teaching a complex behavior or chain of
 behaviors. Skinner used shaping to teach pigeons not only such
