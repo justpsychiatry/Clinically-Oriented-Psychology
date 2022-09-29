@@ -33,7 +33,16 @@ previous section, :term:`classical conditioning` is a
 process by which we learn to associate stimuli and, consequently, to
 anticipate events.
 
-|A portrait shows Ivan Pavlov.|\ {: #Figure06_02_Pavlov}
+
+.. figure:: ../resources/CNX_Psych_06_02_Pavlov.jpg
+   :scale: 100 %
+   :target: `Figure06_02_Pavlov`
+   :alt: A portrait shows Ivan Pavlov.
+
+   A portrait shows Ivan Pavlov. 
+   
+
+..
 
 Pavlov came to his conclusions about how learning occurs completely by
 accident. Pavlov was a physiologist, not a psychologist. Physiologists
@@ -92,7 +101,7 @@ salivation from the dogs. Thus, the neutral stimulus became the
 that elicits a response after repeatedly being paired with an
 unconditioned stimulus. Eventually, the dogs began to salivate to the
 tone alone, just as they previously had salivated at the sound of the
-assistants’ footsteps. The behavior caused by the conditioned stimulus
+assistants’ footsteps. The behaviour caused by the conditioned stimulus
 is called the **conditioned response (CR)**\ {: data-type=“term”}. In
 the case of Pavlov’s dogs, they had learned to associate the tone (CS)
 with being fed, and they began to salivate (CR) in anticipation of food.
@@ -101,11 +110,11 @@ with being fed, and they began to salivate (CR) in anticipation of food.
 
    Tone (CS) → Salivation (CR)
 
-|Two illustrations are labeled “before conditioning” and show a dog
+|Two illustrations are labelled “before conditioning” and show a dog
 salivating over a dish of food, and a dog not salivating while a bell is
-rung. An illustration labeled “during conditioning” shows a dog
+rung. An illustration labelled “during conditioning” shows a dog
 salivating over a bowl of food while a bell is rung. An illustration
-labeled “after conditioning” shows a dog salivating while a bell is
+labelled “after conditioning” shows a dog salivating while a bell is
 rung.|\ {: #Figure06_02_Classical}
 
 .. seealso::
@@ -145,17 +154,17 @@ ring a bell, open the cabinet (“squeak”), use the can opener (“zzhzhz”),
 and then feed Tiger, Tiger will likely never get excited when hearing
 the bell alone.
 
-|A diagram is labeled “Higher-Order / Second-Order Conditioning” and has
-three rows. The first row shows an electric can opener labeled
+|A diagram is labelled “Higher-Order / Second-Order Conditioning” and has
+three rows. The first row shows an electric can opener labelled
 “conditioned stimulus” followed by a plus sign and then a dish of food
-labeled “unconditioned stimulus,” followed by an equal sign and a
-picture of a salivating cat labeled “unconditioned response.” The second
-row shows a squeaky cabinet door labeled “second-order stimulus”
-followed by a plus sign and then an electric can opener labeled
+labelled “unconditioned stimulus,” followed by an equal sign and a
+picture of a salivating cat labelled “unconditioned response.” The second
+row shows a squeaky cabinet door labelled “second-order stimulus”
+followed by a plus sign and then an electric can opener labelled
 “conditioned stimulus,” followed by an equal sign and a picture of a
-salivating cat labeled “conditioned response.” The third row shows a
-squeaky cabinet door labeled “second-order stimulus” followed by an
-equal sign and a picture of a salivating cat labeled “conditioned
+salivating cat labelled “conditioned response.” The third row shows a
+squeaky cabinet door labelled “second-order stimulus” followed by an
+equal sign and a picture of a salivating cat labelled “conditioned
 response.”|\ {: #Figure06_02_SecondOrdr}
 
 .. admonition:: Classical Conditioning at Stingray City
@@ -178,16 +187,26 @@ response.”|\ {: #Figure06_02_SecondOrdr}
    stimulus), they know that they will get to eat (conditioned
    response).
 
-   As soon as Kate and Scott reached Stingray City, over two dozen
-   stingrays surrounded their tour boat. The couple slipped into the
-   water with bags of squid, the stingrays’ favorite treat. The swarm of
-   stingrays bumped and rubbed up against their legs like hungry cats
-   (`[link] <#Figure06_02_Stingray>`__). Kate and Scott were able to
-   feed, pet, and even kiss (for luck) these amazing creatures. Then all
-   the squid was gone, and so were the stingrays.
 
-   |A photograph shows a woman standing in the ocean holding a
-   stingray.|\ {: #Figure06_02_Stingray}
+   .. figure:: ../resources/CNX_Psych_06_02_Stingray.jpg
+      :scale: 100 %
+      :target: `Figure06_02_Stingray`
+      :alt: A woman is holding Stingray
+      
+      A photograph shows a woman standing in the ocean holding a stingray. 
+ 
+
+      As soon as Kate and Scott reached Stingray City, over two dozen
+      stingrays surrounded their tour boat. The couple slipped into the
+      water with bags of squid, the stingrays’ favourite treat. The swarm of
+      stingrays bumped and rubbed up against their legs like hungry cats
+      (`[Stingray] <#Figure06_02_Stingray>`__). Kate and Scott were able to
+      feed, pet, and even kiss (for luck) these amazing creatures. Then all
+      the squid was gone, and so were the stingrays.
+..
+
+Classical Conditioning in humans
+================================
 
 Classical conditioning also applies to humans, even babies. For example,
 Sara buys formula in blue canisters for her six-month-old daughter,
@@ -210,55 +229,84 @@ and anxiety are the conditioned response.
 .. seealso::
 
    For a humorous look at conditioning, watch this `video
-   clip <http://openstax.org/l/theoffice>`__ from the television show
+   clip <https://youtu.be/bqgVB6Vl-lI?t=194>`__ from the television show
    *The Office*, where Jim conditions Dwight to expect a breath mint
    every time Jim’s computer makes a specific sound.
+...
 
 General Processes In Classical Conditioning
 ===========================================
 
 Now that you know how classical conditioning works and have seen several
 examples, let’s take a look at some of the general processes involved.
+
+Acquisition
+-----------
+
 In classical conditioning, the initial period of learning is known as
 :term:`acquisition`, when an organism learns to
 connect a neutral stimulus and an unconditioned stimulus. During
 acquisition, the neutral stimulus begins to elicit the conditioned
 response, and eventually the neutral stimulus becomes a conditioned
-stimulus capable of eliciting the conditioned response by itself. Timing
-is important for conditioning to occur. Typically, there should only be
+stimulus capable of eliciting the conditioned response by itself. 
+
+There are four major factors that facilitate the acquisition of a classically conditioned response:
+
+A.  How reliably the conditioned stimulus predicts the unconditioned stimulus
+B.  The number of pairings of the conditioned stimulus and the unconditioned stimulus
+C.  The intensity of the unconditioned stimulus
+D.  The temporal relationship between the conditioned stimulus and the unconditioned stimulus
+
+.. admonition:: Clinical Correlate: Conditioned Fear in OCD 
+   :class: hint
+   
+   Patients with Obsessive-compulsive disorder experience immense distress because of their 
+   intrusive thoughts, for example about dusty hands, or germs. Overtime, this fear develops
+   an association with the feared stimuli, eg, dust, if the patient remains untreated for long. 
+   Thus, patients with chronic OCD experience the distress directly because of the feared stimuli. 
+
+Immediacy
+~~~~~~~~~
+Timing is important for conditioning to occur. Typically, there should only be
 a brief interval between presentation of the conditioned stimulus and
 the unconditioned stimulus. Depending on what is being conditioned,
 sometimes this interval is as little as five seconds (Chance, 2009).
 However, with other types of conditioning, the interval can be up to
 several hours.
 
-.. admonition:: Clinical Correlate
-   :class: hint
-   
-   :term:`Taste aversion` is a type of
-   conditioning in which an interval of several hours may pass between the
-   conditioned stimulus (something ingested) and the unconditioned stimulus
-   (nausea or illness). Here’s how it works. Between classes, you and a
-   friend grab a quick lunch from a food cart on campus. You share a dish
-   of chicken curry and head off to your next class. A few hours later, you
-   feel nauseous and become ill. Although your friend is fine and you
-   determine that you have intestinal flu (the food is not the culprit),
-   you’ve developed a taste aversion; the next time you are at a restaurant
-   and someone orders curry, you immediately feel ill. While the chicken
-   dish is not what made you sick, you are experiencing taste aversion:
-   you’ve been conditioned to be averse to a food after a single, negative
-   experience.
 
-   How does this occur—conditioning based on a single instance and
-   involving an extended time lapse between the event and the negative
-   stimulus? Research into taste aversion suggests that this response may
-   be an evolutionary adaptation designed to help organisms quickly learn
-   to avoid harmful foods (Garcia & Rusiniak, 1980; Garcia & Koelling,
-   1966). Not only may this contribute to species survival via natural
-   selection, but it may also help us develop strategies for challenges
-   such as helping cancer patients through the nausea induced by certain
-   treatments (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
-   Wismer, 2007; Skolin et al., 2006).
+Taste-aversion
+--------------
+
+:term:`Taste aversion` is a type of
+conditioning in which an interval of several hours may pass between the
+conditioned stimulus (something ingested) and the unconditioned stimulus
+(nausea or illness). Here’s how it works. Between classes, you and a
+friend grab a quick lunch from a food cart on campus. You share a dish
+of chicken curry and head off to your next class. A few hours later, you
+feel nauseous and become ill. Although your friend is fine and you
+determine that you have intestinal flu (the food is not the culprit),
+you’ve developed a taste aversion; the next time you are at a restaurant
+and someone orders curry, you immediately feel ill. While the chicken
+dish is not what made you sick, you are experiencing taste aversion:
+you’ve been conditioned to be averse to a food after a single, negative
+experience.
+
+How does this occur—conditioning based on a single instance and
+involving an extended time lapse between the event and the negative
+stimulus? Research into taste aversion suggests that this response may
+be an **evolutionary adaptation** designed to help organisms quickly learn
+to avoid harmful foods (Garcia & Rusiniak, 1980; Garcia & Koelling,
+1966). Not only may this contribute to species survival via natural
+selection, but it may also help us develop strategies for challenges
+such as helping cancer patients through the nausea induced by certain
+treatments (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
+Wismer, 2007; Skolin et al., 2006).
+
+   .. important::
+
+      Conditioned taste-aversion may be evolutionary adaptation to help survival. 
+... 
 
 
 Extinction
@@ -282,6 +330,13 @@ response, and finally no response. In classical conditioning terms,
 there is a gradual weakening and disappearance of the conditioned
 response.
 
+.. admonition:: Clinical Correlate: Extinction with Response Prevention
+   :class: hint
+
+   
+
+
+
 Spontaneous Recovery
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -291,7 +346,7 @@ presented the bell (conditioned stimulus) without the meat powder
 (unconditioned stimulus), extinction occurred; the dogs stopped
 salivating to the bell. However, after a couple of hours of resting from
 this extinction training, the dogs again began to salivate when Pavlov
-rang the bell. What do you think would happen with Tiger’s behavior if
+rang the bell. What do you think would happen with Tiger’s behaviour if
 your electric can opener broke, and you did not use it for several
 months? When you finally got it fixed and started using it to open
 Tiger’s food again, Tiger would remember the association between the can
@@ -301,23 +356,28 @@ a concept Pavlov called :term:`spontaneous recovery`
 the return of a previously extinguished conditioned response following a
 rest period (`[link] <#Figure06_02_Recovery>`__).
 
-|A chart has an x-axis labeled “time” and a y-axis labeled “strength of
-CR;” there are four columns of graphed data. The first column is labeled
-“acquisition (CS + UCS) and the line rises steeply from the bottom to
-the top. The second column is labeled “Extinction (CS alone)” and the
-line drops rapidly from the top to the bottom. The third column is
-labeled “Pause” and has no line. The fourth column has a line that
-begins midway and drops sharply to the bottom. At the point where the
-line begins, it is labeled “Spontaneous recovery of CR”; the halfway
-point on the line is labeled “Extinction (CS alone).”|\ {:
-#Figure06_02_Recovery}
+.. figure:: ../resources/CNX_Psych_06_02_Recovery.jpg
+   :scale: 100 %
+   :target: `Figure06_02_Recovery`
+   :alt: A chart has an x-axis labelled “time” and a y-axis labelled “strength of CR”
+
+   A chart has an x-axis labelled “time” and a y-axis labelled “strength of CR”
+
+   There are four columns of graphed data. The first column is labelled
+   “acquisition (CS + UCS) and the line rises steeply from the bottom to
+   the top. The second column is labelled “Extinction (CS alone)” and the
+   line drops rapidly from the top to the bottom. The third column is
+   labelled “Pause” and has no line. The fourth column has a line that
+   begins midway and drops sharply to the bottom. At the point where the
+   line begins, it is labelled “Spontaneous recovery of CR”; the halfway
+   point on the line is labelled “Extinction (CS alone).”
 
 Of course, these processes also apply in humans. For example, let’s say
 that every day when you walk to campus, an ice cream truck passes your
 route. Day after day, you hear the truck’s music (neutral stimulus), so
 you finally stop and purchase a chocolate ice cream bar. You take a bite
 (unconditioned stimulus) and then your mouth waters (unconditioned
-response). This initial period of learning is known as acquisition, when
+response). This initial period of learning is known as **acquisition**, when
 you begin to connect the neutral stimulus (the sound of the truck) and
 the unconditioned stimulus (the taste of the chocolate ice cream in your
 mouth). During acquisition, the conditioned response gets stronger and
@@ -342,6 +402,17 @@ You round the corner and hear the truck again. What do you think
 happens? Your mouth begins to water again. Why? After a break from
 conditioning, the conditioned response reappears, which indicates
 spontaneous recovery.
+
+.. admonition:: Clinical Correlate
+   :class: hint
+
+   Upon returning to home, patients with substance use disorders
+   who have been detoxified and even rehabilitated, are at a high risk
+   of relapse, because of spontaneous recovery. Cues to which the patient has 
+   previous been conditioned may trigger this relapse. **Cue Exposure Therapy**
+   aims to reduce this risk. In addition to extinction, patients are repeatedly
+   exposed to the cues that are likely to trigger relapse, thus causing 
+   desensitization.  
 
 
 Acquisition and extinction involve the strengthening and weakening,
@@ -369,6 +440,14 @@ food. Similarly, Tiger, the cat, discriminated between the sound of the
 can opener and the sound of the electric mixer. When the electric mixer
 is going, Tiger is not about to be fed, so she does not come running to
 the kitchen looking for food.
+
+.. tip::
+
+   Manipulative patients may exhibit manipulative behaviour at the ward
+   just when the conditions are right—unusually when most staff is not 
+   on duty. Overtime, discriminative conditioning helps them learn the 
+   conditions including the time of the day, when their behaviour is most likely
+   to be rewarded. This involves both, classical and operant conditioning. 
 
 Stimulus generalization
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -405,22 +484,29 @@ Behaviourism
 
 John B. :term:`Watson`, shown in
 `[link] <#Figure06_02_Watson>`__, is considered the founder of
-behaviorism. Behaviorism is a school of thought that arose during the
+behaviourism. behaviourism is a school of thought that arose during the
 first part of the 20th century, which incorporates elements of Pavlov’s
 classical conditioning (Hunt, 2007). In stark contrast with Freud, who
-considered the reasons for behavior to be hidden in the unconscious,
-Watson championed the idea that all behavior can be studied as a simple
+considered the reasons for behaviour to be hidden in the unconscious,
+Watson championed the idea that all behaviour can be studied as a simple
 stimulus-response reaction, without regard for internal processes.
 Watson argued that in order for psychology to become a legitimate
 science, it must shift its concern away from internal mental processes
 because mental processes cannot be seen or measured. Instead, he
-asserted that psychology must focus on outward observable behavior that
+asserted that psychology must focus on outward observable behaviour that
 can be measured.
 
 |A photograph shows John B. Watson.|\ {: #Figure06_02_Watson}
+.. figure:: ../resources/CNX_Psych_06_02_Watson.jpg
+   :scale: 100 %
+   :alt: A photograph shows John B. Watson.
+
+   John B. Watson.
+...
+
 
 Watson’s ideas were influenced by Pavlov’s work. According to Watson,
-human behavior, just like animal behavior, is primarily the result of
+human behaviour, just like animal behaviour, is primarily the result of
 conditioned responses. Whereas Pavlov’s work with dogs involved the
 conditioning of reflexes, Watson believed the same principles could be
 extended to the conditioning of human emotions (Watson, 1919). Thus
@@ -460,14 +546,22 @@ and Little Albert himself died a few years later of unrelated causes.
 While Watson’s research provided new insight into conditioning, it would
 be considered unethical by today’s standards.
 
-|A photograph shows a man wearing a mask with a white beard; his face is
-close to a baby who is crawling away. A caption reads, “Now he fears
-even Santa Claus.”|\ {: #Figure06_02_Santaclaus}
+
+.. figure:: ../resources/CNX_Psych_06_02_Santaclaus.jpg
+   :scale: 100 %
+   :alt: A photograph shows B.F. Skinner.
+
+   “Now he fears even Santa Claus.”
+
+   A photograph shows a man wearing a mask with a white beard; his face is
+   close to a baby who is crawling away.
+
+..
 
 .. seealso::
 
    View scenes from `John Watson’s
-   experiment <http://openstax.org/l/Watson1>`__ in which Little Albert
+   experiment <https://youtu.be/FMnhyGozLyE>`__ in which Little Albert
    was conditioned to respond in fear to furry objects.
 
    As you watch the video, look closely at Little Albert’s reactions and
@@ -512,7 +606,7 @@ organisms learn to associate events that repeatedly happen together, and
 researchers study how a reflexive response to a stimulus can be mapped
 to a different stimulus—by training an association between the two
 stimuli. Pavlov’s experiments show how stimulus-response bonds are
-formed. Watson, the founder of behaviorism, was greatly influenced by
+formed. Watson, the founder of behaviourism, was greatly influenced by
 Pavlov’s work. He tested humans by conditioning fear in an infant known
 as Little Albert. His findings suggest that classical conditioning can
 explain how some fears develop.
@@ -641,6 +735,11 @@ Personal Application Questions
       happiness or excitement? How about a negative emotional response,
       such as fear, anxiety, or anger?
 
+...
+
+Glossary
+========
+
 .. glossary::
 
    acquisition
@@ -651,7 +750,7 @@ Personal Application Questions
    
    classical conditioning
       learning in which the stimulus or experience occurs before the
-      behavior and then gets paired or associated with the behavior ^
+      behaviour and then gets paired or associated with the behaviour ^
    
    conditioned response (CR)
       response caused by the conditioned stimulus ^
@@ -686,15 +785,15 @@ Personal Application Questions
       to the conditioned stimulus ^
    
    unconditioned response (UCR)
-      natural (unlearned) behavior to a given stimulus ^
+      natural (unlearned) behaviour to a given stimulus ^
    
    unconditioned stimulus (UCS)
       stimulus that elicits a reflexive response
 
 .. |A portrait shows Ivan Pavlov.| image:: ../resources/CNX_Psych_06_02_Pavlov.jpg
-.. |Two illustrations are labeled “before conditioning” and show a dog salivating over a dish of food, and a dog not salivating while a bell is rung. An illustration labeled “during conditioning” shows a dog salivating over a bowl of food while a bell is rung. An illustration labeled “after conditioning” shows a dog salivating while a bell is rung.| image:: ../resources/CNX_Psych_06_02_Classical.jpg
-.. |A diagram is labeled “Higher-Order / Second-Order Conditioning” and has three rows. The first row shows an electric can opener labeled “conditioned stimulus” followed by a plus sign and then a dish of food labeled “unconditioned stimulus,” followed by an equal sign and a picture of a salivating cat labeled “unconditioned response.” The second row shows a squeaky cabinet door labeled “second-order stimulus” followed by a plus sign and then an electric can opener labeled “conditioned stimulus,” followed by an equal sign and a picture of a salivating cat labeled “conditioned response.” The third row shows a squeaky cabinet door labeled “second-order stimulus” followed by an equal sign and a picture of a salivating cat labeled “conditioned response.”| image:: ../resources/CNX_Psych_06_02_SecondOrdrn.jpg
+.. |Two illustrations are labelled “before conditioning” and show a dog salivating over a dish of food, and a dog not salivating while a bell is rung. An illustration labelled “during conditioning” shows a dog salivating over a bowl of food while a bell is rung. An illustration labelled “after conditioning” shows a dog salivating while a bell is rung.| image:: ../resources/CNX_Psych_06_02_Classical.jpg
+.. |A diagram is labelled “Higher-Order / Second-Order Conditioning” and has three rows. The first row shows an electric can opener labelled “conditioned stimulus” followed by a plus sign and then a dish of food labelled “unconditioned stimulus,” followed by an equal sign and a picture of a salivating cat labelled “unconditioned response.” The second row shows a squeaky cabinet door labelled “second-order stimulus” followed by a plus sign and then an electric can opener labelled “conditioned stimulus,” followed by an equal sign and a picture of a salivating cat labelled “conditioned response.” The third row shows a squeaky cabinet door labelled “second-order stimulus” followed by an equal sign and a picture of a salivating cat labelled “conditioned response.”| image:: ../resources/CNX_Psych_06_02_SecondOrdrn.jpg
 .. |A photograph shows a woman standing in the ocean holding a stingray.| image:: ../resources/CNX_Psych_06_02_Stingray.jpg
-.. |A chart has an x-axis labeled “time” and a y-axis labeled “strength of CR;” there are four columns of graphed data. The first column is labeled “acquisition (CS + UCS) and the line rises steeply from the bottom to the top. The second column is labeled “Extinction (CS alone)” and the line drops rapidly from the top to the bottom. The third column is labeled “Pause” and has no line. The fourth column has a line that begins midway and drops sharply to the bottom. At the point where the line begins, it is labeled “Spontaneous recovery of CR”; the halfway point on the line is labeled “Extinction (CS alone).”| image:: ../resources/CNX_Psych_06_02_Recovery.jpg
+.. |A chart has an x-axis labelled “time” and a y-axis labelled “strength of CR;” there are four columns of graphed data. The first column is labelled “acquisition (CS + UCS) and the line rises steeply from the bottom to the top. The second column is labelled “Extinction (CS alone)” and the line drops rapidly from the top to the bottom. The third column is labelled “Pause” and has no line. The fourth column has a line that begins midway and drops sharply to the bottom. At the point where the line begins, it is labelled “Spontaneous recovery of CR”; the halfway point on the line is labelled “Extinction (CS alone).”| image:: ../resources/CNX_Psych_06_02_Recovery.jpg
 .. |A photograph shows John B. Watson.| image:: ../resources/CNX_Psych_06_02_Watson.jpg
 .. |A photograph shows a man wearing a mask with a white beard; his face is close to a baby who is crawling away. A caption reads, “Now he fears even Santa Claus.”| image:: ../resources/CNX_Psych_06_02_Santaclaus.jpg

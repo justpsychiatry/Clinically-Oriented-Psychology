@@ -112,7 +112,7 @@ by the animal.
 .. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
    :scale: 100 %
    :alt: A photograph shows B.F. Skinner.
-   :target: `#Figure06_03_Skinnerbox`__
+   :target: `Figure06_03_Skinnerbox`__
 
    An illustration shows a rat in a Skinner box: 
    a chamber with a speaker, lights, a lever, and a food dispenser.
@@ -124,8 +124,6 @@ by the animal.
    learn more about operant conditioning: Skinner is interviewed, and
    operant conditioning of pigeons is demonstrated.
 
-..  youtube:: CtoH5tlr-bI
-   :align: center
 
 In discussing operant conditioning, we use several everyday
 words—positive, negative, reinforcement, and punishment—in a specialized
