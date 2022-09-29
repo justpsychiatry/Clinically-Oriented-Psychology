@@ -112,6 +112,7 @@ by the animal.
 .. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
    :scale: 100 %
    :alt: A photograph shows B.F. Skinner.
+   :target: `#Figure06_03_Skinnerbox`__
 
    An illustration shows a rat in a Skinner box: 
    a chamber with a speaker, lights, a lever, and a food dispenser.
@@ -439,11 +440,12 @@ specified amounts of tokens for minutes of playtime.
    .. figure:: ../resources/CNX_Psych_06_03_Stickers.jpg
       :scale: 100 %
       :alt: A photograph shows B.F. Skinner.
+      :target: `#Figure06_03_Stickers`__
 
       A photograph shows a child placing stickers on a chart hanging on the wall.
 
       Some teachers and parents create a sticker chart, in which several
-      behaviours are listed (`[link] <#Figure06_03_Stickers>`__). Sticker
+      behaviours are listed (`[Stickers] <#Figure06_03_Stickers>`__). Sticker
       charts are a form of token economies, as described in the text. Each
       time children perform the behaviour, they get a sticker, and after a
       certain number of stickers, they get a prize, or reinforcer. The goal
@@ -656,9 +658,9 @@ resistant to extinction.
 
 .. admonition:: Clinical Correlate
    :class: hint
-
-    - Gambling employs the variable-ratio schedule. 
-    - Behaviours reinforced through variable ratio schedule are most resistant to extinction. 
+   
+   - Gambling employs the variable-ratio schedule. 
+   - Behaviours reinforced through variable ratio schedule are most resistant to extinction. 
 
 Operant Extinction
 ~~~~~~~~~~~~~~~~~~
