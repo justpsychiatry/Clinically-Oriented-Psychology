@@ -930,7 +930,7 @@ Escape behaviour is a two-factor form of learning (the organism learns to identi
 If the organism performs the target behaviour in the presence of a cue, the organism can escape the negative reinforcer. 
 
 .. figure:: ../resources/CNX_Psych_06_03_Avoidance.png
-   :scale: 100 %
+   :scale: 25 %
    :alt: Two Factors in Avoidance Learning
 
    Two factors involved in avoidance learning
