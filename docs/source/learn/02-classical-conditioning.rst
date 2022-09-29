@@ -459,6 +459,8 @@ opener sound, she will quickly learn to discriminate between the two
 sounds (provided they are sufficiently dissimilar that she can tell them
 apart).
 
+
+
 Habituation
 ~~~~~~~~~~~~
 
@@ -474,6 +476,14 @@ eventually you hardly notice it any longer.
 
 .. admonition:: Clinical Correlate: Extinction with Response Prevention
    :class: hint
+
+   Exposure with Response-prevention is the most commonly used behavioural
+   treatment for OCD. In this technique, the patient is asked to inhibit
+   responses (eg washing hands or checking door) for increasing duration while
+   being exposed to the conditions that provoke distress. When the patient practices
+   this repeatedly, habituation takes place. The feared situation induces gradually 
+   decreasing amount of anxiety. This is done in a stepwise, structured manner to
+   avoid inducing unbearable anxiety in the patient. 
 
  
 
@@ -494,12 +504,12 @@ because mental processes cannot be seen or measured. Instead, he
 asserted that psychology must focus on outward observable behaviour that
 can be measured.
 
-|A photograph shows John B. Watson.|\ {: #Figure06_02_Watson}
 .. figure:: ../resources/CNX_Psych_06_02_Watson.jpg
    :scale: 100 %
    :alt: A photograph shows John B. Watson.
 
    John B. Watson.
+
 ...
 
 
