@@ -108,6 +108,7 @@ food reward via the dispenser. Speakers and lights can be associated
 with certain behaviours. A recorder counts the number of responses made
 by the animal.
 
+.. _my-figure:
 
 .. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
    :scale: 100 %
@@ -139,6 +140,7 @@ response. Now let us combine these four terms: positive reinforcement,
 negative reinforcement, positive punishment, and negative punishment
 (`[link] <#fs-idm23618624>`__).
 
+.. _my-reference-label:
 
 .. table:: Positive and Negative Reinforcement and Punishment
 
@@ -226,6 +228,8 @@ who exhibits an unwanted behaviour; attention to the unwanted behaviour is reduc
 while the child may be reinforced for an alternative, though not 
 incompatible behaviour. 
 
+.. _my-reference-label:
+
 .. admonition:: Clinical Correlate
    :class: hint
 
@@ -262,6 +266,8 @@ In :term:`negative punishment`, you remove a pleasant stimulus to decrease behav
 For example, when a child misbehaves, a parent can take away a favourite
 toy. In this case, a stimulus (the toy) is removed in order to decrease
 the behaviour.
+
+.. _attention-vs-neg-re:
 
 .. attention:: 
 
@@ -334,7 +340,7 @@ Shaping is needed because it is improbable that an organism will
 spontaneously display anything but the simplest of behaviours. In
 shaping, behaviours are broken down into many small, achievable steps.
 
-.. admonition::
+.. admonition:: Steps of Shaping
    :class: important
 
    In shaping, the desired behaviour is achieved in several 
@@ -466,6 +472,7 @@ specified amounts of tokens for minutes of playtime.
    operant conditioning to accomplish behaviour change so that
    undesirable behaviours are switched for more socially acceptable ones.
    
+.. _Figure06_03_Stickers:
 
    .. figure:: ../resources/CNX_Psych_06_03_Stickers.jpg
       :scale: 100 %
@@ -512,6 +519,9 @@ specified amounts of tokens for minutes of playtime.
    2. Second, the length of the time-out is important. The general rule of thumb is **one minute** for each year of the child’s age. Sadia is five; therefore, she sits in a time-out for five minutes. Setting a timer helps children know how long they have to sit in time-out. 
    3. Finally, as a caregiver, keep several guidelines in mind over the course of a time-out: remain calm when directing your child to time-out; ignore your child during time-out (because caregiver attention may reinforce misbehaviour); and give the child a hug or a kind word when time-out is over.
 
+
+.. _Figure06_03_Timeout:
+
    .. figure:: ../resources/CNX_Psych_06_03_Timeout.jpg
       :scale: 100 %
       :alt: Two children acting differently
@@ -522,6 +532,7 @@ specified amounts of tokens for minutes of playtime.
 
 ..
 
+:numref:`Image of Sphinx (Fig. %s) <Figure06_03_Timeout>`
 
 Reinforcement Schedules
 =======================
@@ -800,7 +811,7 @@ is the least productive and the easiest to extinguish
 
 .. note::
 
-   `Gaming disorder <https://www.mrcpsych.uk/2022/05/icd-11-criteria-for-gaming-disorder-6c51.html>` is a new diagnostic category in the ICD-11. Game studios intentionally 
+   `Gaming disorder <https://www.mrcpsych.uk/2022/05/icd-11-criteria-for-gaming-disorder-6c51.html>`__ is a new diagnostic category in the ICD-11. Game studios intentionally 
    employ reinforcements in different forms. Enough evidence has now emerged to convince the
    World Health Organization to officially recognize gaming addiction as health condition.
    It is however, like gambling disorder, classified under
@@ -917,6 +928,19 @@ Escape and Avoidance Conditioning
 Behaviours that are maintained by negative reinforcement (escape Behaviour because the organism's performance allows the organism to escape an undesirable stimulus).
 Escape behaviour is a two-factor form of learning (the organism learns to identify a stimulus that signals the initiation of an aversive stimulus). 
 If the organism performs the target behaviour in the presence of a cue, the organism can escape the negative reinforcer. 
+
+.. figure:: ../resources/CNX_Psych_06_03_Avoidance.png
+   :scale: 100 %
+   :alt: A photograph shows B.F. Skinner.
+
+   An illustration shows a rat in a Skinner box: 
+   a chamber with a speaker, lights, a lever, and a food dispenser.
+
+   The legend consists of all elements after the caption.  In this
+   case, the legend consists of this paragraph and the following
+   table:
+
+..
 
 Two factors
 

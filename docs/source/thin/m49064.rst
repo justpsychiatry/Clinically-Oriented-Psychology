@@ -47,7 +47,8 @@ were developed and the history of their use.
 
 The IQ test has been synonymous with intelligence for over a century. In
 the late 1800s, Sir Francis Galton developed the first broad test of
-intelligence (Flanagan & Kaufman, 2004) :footcite:p:`flanaganEssentialsWISCIVAssessment`. Although he was not a
+intelligence (Flanagan & Kaufman, 2004) :footcite:p:`flanaganEssentialsWISCIVAssessment`. 
+Although he was not a
 psychologist, his contributions to the concepts of intelligence testing
 are still felt today (Gordon, 1995). Reliable intelligence testing (you
 may recall from earlier chapters that reliability refers to a test’s
