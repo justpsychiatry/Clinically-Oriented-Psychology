@@ -37,14 +37,13 @@ Fryer, R. G., Jr. (2010, April). Financial incentives and student
 achievement: Evidence from randomized trials. *National Bureau of
 Economic Research [NBER] Working Paper, No. 15898*. Retrieved from
 http://www.nber.org/papers/w15898
+.. [Garcia1966] Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in
+ avoidance learning. *Psychonomic Science, 4*, 123–124.
 
-Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in
-avoidance learning. *Psychonomic Science, 4*, 123–124.
-
-Garcia, J., & Rusiniak, K. W. (1980). What the nose learns from the
-mouth. In D. Müller-Schwarze & R. M. Silverstein (Eds.), *Chemical
-signals: Vertebrates and aquatic invertebrates* (pp. 141–156). New York,
-NY: Plenum Press.
+.. [Garcia1980] Garcia, J., & Rusiniak, K. W. (1980). What the nose learns from the
+ mouth. In D. Müller-Schwarze & R. M. Silverstein (Eds.), *Chemical
+ signals: Vertebrates and aquatic invertebrates* (pp. 141–156). New York,
+ NY: Plenum Press.
 
 Gershoff, E. T. (2002). Corporal punishment by parents and associated
 child behaviors and experiences: A meta-analytic and theoretical review.
@@ -138,13 +137,13 @@ children, parents and nurses. *Supportive Care in Cancer, 14*, 369–78.
 Thorndike, E. L. (1911). Animal intelligence: An experimental study of
 the associative processes in animals. *Psychological Monographs, 8*.
 
-Tolman, E. C., & Honzik, C. H. (1930). Degrees of hunger, reward, and
-non-reward, and maze performance in rats. *University of California
-Publications in Psychology, 4*, 241–256.
+.. [Tolman1930] Tolman, E. C., & Honzik, C. H. (1930). Degrees of hunger, reward, and
+ non-reward, and maze performance in rats. *University of California
+ Publications in Psychology, 4*, 241–256.
 
-Tolman, E. C., Ritchie, B. F., & Kalish, D. (1946). Studies in spatial
-learning: II. Place learning versus response learning. *Journal of
-Experimental Psychology, 36*, 221–229. doi:10.1037/h0060262
+.. [Tolman1946] Tolman, E. C., Ritchie, B. F., & Kalish, D. (1946). Studies in spatial
+ learning: II. Place learning versus response learning. *Journal of
+ Experimental Psychology, 36*, 221–229. doi:10.1037/h0060262
 
 Watson, J. B. & Rayner, R. (1920). Conditioned emotional reactions.
 *Journal of Experimental Psychology, 3*, 1–14.

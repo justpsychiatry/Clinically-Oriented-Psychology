@@ -309,7 +309,7 @@ How does this occur—conditioning based on a single instance and
 involving an extended time lapse between the event and the negative
 stimulus? Research into taste aversion suggests that this response may
 be an **evolutionary adaptation** designed to help organisms quickly learn
-to avoid harmful foods (Garcia & Rusiniak, 1980; Garcia & Koelling,
+to avoid harmful foods [Garcia1980]_ (Garcia & Rusiniak, 1980; Garcia & Koelling,
 1966). Not only may this contribute to species survival via natural
 selection, but it may also help us develop strategies for challenges
 such as helping cancer patients through the nausea induced by certain

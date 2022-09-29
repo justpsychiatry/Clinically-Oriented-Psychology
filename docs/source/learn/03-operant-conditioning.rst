@@ -477,7 +477,7 @@ specified amounts of tokens for minutes of playtime.
    .. figure:: ../resources/CNX_Psych_06_03_Stickers.jpg
       :scale: 100 %
       :alt: A photograph shows B.F. Skinner.
-      :target: `#Figure06_03_Stickers`__
+      :target: `https://psychology.mrcpsych.uk/learn/03-operant-conditioning.html#Figure06_03_Stickers`
 
       A photograph shows a child placing stickers on a chart hanging on the wall.
 
@@ -532,7 +532,8 @@ specified amounts of tokens for minutes of playtime.
 
 ..
 
-:numref:`Image of Sphinx (Fig. %s) <Figure06_03_Timeout>`
+:numref:`Image of Sphinx (Fig. %s) <Figure06_03_Timeout>`__
+
 
 Reinforcement Schedules
 =======================
@@ -853,7 +854,7 @@ Although strict behaviourists such as Skinner and Watson refused to
 believe that cognition (such as thoughts and expectations) plays a role
 in learning, another behaviourist, Edward C. :term:`Tolman`, had a different opinion. 
 Tolman’s experiments with rats demonstrated that organisms can learn even if they
-do not receive immediate reinforcement (Tolman & Honzik, 1930; Tolman,
+do not receive immediate reinforcement [Tolman1930]_ [Tolman1946]_ (Tolman & Honzik, 1930; Tolman,
 Ritchie, & Kalish, 1946). This finding was in conflict with the
 prevailing idea at the time that reinforcement must be immediate in
 order for learning to occur, thus suggesting a cognitive aspect to
