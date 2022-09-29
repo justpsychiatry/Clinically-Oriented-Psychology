@@ -212,6 +212,38 @@ legs—and then remove the pressure when the horse performs the desired
 behaviour, such as turning or speeding up. The pressure is the negative
 stimulus that the horse wants to remove.
 
+Behavioural Contrast
+`````````````````````
+
+When two different behaviours are reinforced and then the reinforcement of 
+one behaviour is withdrawn to extinguish it, the other behaviour is likely to increase. 
+
+Differential Reinforcement
+```````````````````````````
+
+Differential reinforcement is defined as reinforcing a specific type behaviour 
+while withholding reinforcement for another behaviour. It may be useful for a child 
+who exhibits an unwanted behaviour; attention to the unwanted behaviour is reduced
+while the child may be reinforced for an alternative, though not 
+incompatible behaviour. 
+
+.. admonition:: Clinical Correlate
+   :class: hint
+
+   Amina, for instance, rips hair out of her head while finishing her personal tasks. 
+   Her therapist chooses to reinforce the lack of hair pulling by using differential reinforcement. 
+   The therapist follows these steps and places a three-minute timer on Amina's desk. 
+   Amina is reinforced if she refrains from pulling her hair for the full three minutes.
+   If Amina does pull her hair, the countdown is restarted and she is not reinforced.
+
+
+Primack Principle
+``````````````````
+A high-probability behaviour can be used to reinforce a low-probability behaviour.  
+For example, listening to online classes over favourite devices, 
+or listening to music while doing heavy workouts. 
+
+
 Psychology of Punishment
 ========================
 
@@ -628,6 +660,9 @@ resistant to extinction.
     - Gambling employs the variable-ratio schedule. 
     - Behaviours reinforced through variable ratio schedule are most resistant to extinction. 
 
+Operant Extinction
+~~~~~~~~~~~~~~~~~~
+
 In operant conditioning, the extinction of a reinforced behaviour occurs at
 some point after reinforcement stops, and the speed at which this
 happens depends on the reinforcement schedule. In a variable ratio
@@ -719,7 +754,7 @@ is the least productive and the easiest to extinguish
    :scale: 100 %
    :alt: four digital gambling machines
 
-   A photograph shows four digital gaming machines.
+   A photograph shows four digital gambling machines.
 
 ..
 
@@ -731,6 +766,14 @@ is the least productive and the easiest to extinguish
    `Gambling Disorder <https://www.mrcpsych.uk/2022/05/child-mania-rating-scale-parent-version.html>`__
 
 
+.. note::
+
+   Gaming disorder is a new diagnostic category in the ICD-11. Game studios intentionally 
+   employ reinforcements in different forms. Enough evidence has now emerged to convince the
+   World Health Organization to officially recognize gaming addiction as health condition.
+   It, like gambling disorder, is classified under habit and impulse control disorders.   
+
+
 Cognitive Learning
 ==================
 
@@ -739,14 +782,15 @@ According to cognitive theorists, these processes are critically important in a 
 
 Three main types:  
 
-- Insight, 
-- Latent Learning, and 
-- Observational Learning
+- Insight learning
+- Latent learning, and 
+- Observational learning
 
 Learning by insight
 ~~~~~~~~~~~~~~~~~~~
 
-Developed by Wolfgang Köhler.  Insight  is the sudden realization of the relationship between elements in a problem situation, which makes the solution apparent. 
+Proposed by Wolfgang Köhler.  Insight  is the sudden realization of the 
+relationship between elements in a problem situation, which makes the solution apparent. 
 Bet he never forgets the cage again!
 
 Cognition and Latent Learning
@@ -988,6 +1032,10 @@ Personal Application Questions
 
 1. Explain the difference between negative reinforcement and punishment, and provide several examples of each based on your own experiences.
 2. Think of a behaviour that you have that you would like to change. How could you use behaviour modification, specifically positive reinforcement, to change your behaviour? What is your positive reinforcer?
+
+
+Glossary
+=========
 
 .. glossary::
 
