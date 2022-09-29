@@ -872,6 +872,7 @@ known as :term:`latent learning`: learning that occurs
 but is not observable in behaviour until there is a reason to demonstrate
 it.
 
+.. _Figure06_03_Ratmaze:
 
 .. figure:: ../resources/CNX_Psych_06_03_Ratmaze.jpg
    :scale: 100 %
@@ -919,7 +920,6 @@ this knowledge earlier.
    Watch this to learn more about Carlson’s studies on cognitive maps and navigation in
    buildings.
 
-.. youtube:: TU6tSkdbPh4
 
 
 Escape and Avoidance Conditioning
@@ -931,21 +931,13 @@ If the organism performs the target behaviour in the presence of a cue, the orga
 
 .. figure:: ../resources/CNX_Psych_06_03_Avoidance.png
    :scale: 100 %
-   :alt: A photograph shows B.F. Skinner.
+   :alt: Two Factors in Avoidance Learning
 
-   An illustration shows a rat in a Skinner box: 
-   a chamber with a speaker, lights, a lever, and a food dispenser.
+   Two factors involved in avoidance learning
 
-   The legend consists of all elements after the caption.  In this
-   case, the legend consists of this paragraph and the following
-   table:
-
-..
-
-Two factors
-
-- Discrimination learning (cue) and 
-- Avoidance or escape learning. l
+   Two factors
+  - Discrimination learning (cue) and 
+  - Avoidance or escape learning. l
 
 .. admonition:: Clinical Correlate
    :class: hint
