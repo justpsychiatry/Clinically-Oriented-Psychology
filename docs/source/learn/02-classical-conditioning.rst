@@ -73,7 +73,7 @@ In Pavlov’s experiments, the dogs salivated each time meat powder was
 presented to them. The meat powder in this situation was an
 :term:`unconditioned stimulus (UCS)`: a stimulus that
 elicits a reflexive response in an organism. The dogs’ salivation was an
-**unconditioned response (UCR)**\ {: data-type=“term”}: a natural
+:term:`unconditioned response (UCR)` a natural
 (unlearned) reaction to a given stimulus. Before conditioning, think of
 the dogs’ stimulus and response like this:
 
@@ -84,8 +84,8 @@ the dogs’ stimulus and response like this:
 In classical conditioning, a neutral stimulus is presented immediately
 before an unconditioned stimulus. Pavlov would sound a tone (like
 ringing a bell) and then give the dogs the meat powder
-(`[link] <#Figure06_02_Classical>`__). The tone was the **neutral
-stimulus (NS)**\ {: data-type=“term”}, which is a stimulus that does not
+(`[link] <#Figure06_02_Classical>`__). 
+The tone was the :term:`neutral stimulus (NS)`, which is a stimulus that does not
 naturally elicit a response. Prior to conditioning, the dogs did not
 salivate when they just heard the tone because the tone had no
 association for the dogs. Quite simply this pairing means:
@@ -97,12 +97,12 @@ association for the dogs. Quite simply this pairing means:
 When Pavlov paired the tone with the meat powder over and over again,
 the previously neutral stimulus (the tone) also began to elicit
 salivation from the dogs. Thus, the neutral stimulus became the
-**conditioned stimulus (CS)**\ {: data-type=“term”}, which is a stimulus
+:term:`conditioned stimulus (CS)`, which is a stimulus
 that elicits a response after repeatedly being paired with an
 unconditioned stimulus. Eventually, the dogs began to salivate to the
 tone alone, just as they previously had salivated at the sound of the
 assistants’ footsteps. The behaviour caused by the conditioned stimulus
-is called the **conditioned response (CR)**\ {: data-type=“term”}. In
+is called the :term:`conditioned response (CR)`. In
 the case of Pavlov’s dogs, they had learned to associate the tone (CS)
 with being fed, and they began to salivate (CR) in anticipation of food.
 
@@ -110,12 +110,19 @@ with being fed, and they began to salivate (CR) in anticipation of food.
 
    Tone (CS) → Salivation (CR)
 
-|Two illustrations are labelled “before conditioning” and show a dog
-salivating over a dish of food, and a dog not salivating while a bell is
-rung. An illustration labelled “during conditioning” shows a dog
-salivating over a bowl of food while a bell is rung. An illustration
-labelled “after conditioning” shows a dog salivating while a bell is
-rung.|\ {: #Figure06_02_Classical}
+.. figure:: ../resources/CNX_Psych_06_02_Classical.jpg
+   :scale: 100 %
+   :target: `Figure06_02_Classical`__
+   :alt: Two illustrations of Classical Conditioning
+
+   Two illustrations are labelled “before conditioning” and show a dog
+   salivating over a dish of food, and a dog not salivating while a bell is
+   rung.
+
+   An illustration labelled “during conditioning” shows a dog
+   salivating over a bowl of food while a bell is rung. An illustration
+   labelled “after conditioning” shows a dog salivating while a bell is
+   rung.
 
 .. seealso::
 
@@ -145,8 +152,8 @@ Tiger hears “squeak” (the cabinet), “zzhzhz” (the electric can opener),
 and then she gets her food. Tiger will learn to get excited when she
 hears the “squeak” of the cabinet. Pairing a new neutral stimulus
 (“squeak”) with the conditioned stimulus (“zzhzhz”) is called
-:term:`higher-order conditioning`, or **second-order
-conditioning**\ {: data-type=“term”}. This means you are using the
+:term:`higher-order conditioning`, or :term:`second-order conditioning`. 
+This means you are using the
 conditioned stimulus of the can opener to condition another stimulus:
 the squeaky cabinet (`[link] <#Figure06_02_SecondOrdr>`__). It is hard
 to achieve anything above second-order conditioning. For example, if you
@@ -154,19 +161,25 @@ ring a bell, open the cabinet (“squeak”), use the can opener (“zzhzhz”),
 and then feed Tiger, Tiger will likely never get excited when hearing
 the bell alone.
 
-|A diagram is labelled “Higher-Order / Second-Order Conditioning” and has
-three rows. The first row shows an electric can opener labelled
-“conditioned stimulus” followed by a plus sign and then a dish of food
-labelled “unconditioned stimulus,” followed by an equal sign and a
-picture of a salivating cat labelled “unconditioned response.” The second
-row shows a squeaky cabinet door labelled “second-order stimulus”
-followed by a plus sign and then an electric can opener labelled
-“conditioned stimulus,” followed by an equal sign and a picture of a
-salivating cat labelled “conditioned response.” The third row shows a
-squeaky cabinet door labelled “second-order stimulus” followed by an
-equal sign and a picture of a salivating cat labelled “conditioned
-response.”|\ {: #Figure06_02_SecondOrdr}
+.. figure:: ../resources/CNX_Psych_06_02_SecondOrdrn.jpg
+   :scale: 100 %
+   :target: `Figure06_02_SecondOrdr`
+   :alt: A diagram is labelled “Higher-Order / Second-Order Conditioning” and has three rows.
 
+   A diagram is labelled “Higher-Order / Second-Order Conditioning” and has three rows. 
+   
+   The first row shows an electric can opener labelled
+   “conditioned stimulus” followed by a plus sign and then a dish of food
+   labelled “unconditioned stimulus,” followed by an equal sign and a
+   picture of a salivating cat labelled “unconditioned response.” The second
+   row shows a squeaky cabinet door labelled “second-order stimulus”
+   followed by a plus sign and then an electric can opener labelled
+   “conditioned stimulus,” followed by an equal sign and a picture of a
+   salivating cat labelled “conditioned response.” The third row shows a
+   squeaky cabinet door labelled “second-order stimulus” followed by an
+   equal sign and a picture of a salivating cat labelled “conditioned
+   response.”
+..
 .. admonition:: Classical Conditioning at Stingray City
    :class: tip
    
