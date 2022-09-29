@@ -1,8 +1,6 @@
 =================================
-Observational Learning (Modeling)
+Observational Learning (Modelling)
 =================================
-
-
 
 .. contents::
    :depth: 3
@@ -13,15 +11,15 @@ Observational Learning (Modeling)
    By the end of this section, you will be able to: 
    
    * Define observational learning
-   * Discuss the steps in the modeling process
+   * Discuss the steps in the Modelling process
    * Explain the prosocial and antisocial effects of observational learning
 
 Previous sections of this chapter focused on classical and operant
 conditioning, which are forms of associative learning. In
-**observational learning**\ {: data-type=“term”}, we learn by watching
-others and then imitating, or modeling, what they do or say. The
-individuals performing the imitated behavior are called **models**\ {:
-data-type=“term”}. Research suggests that this imitative learning
+:term:`observational learning`, we learn by watching
+others and then imitating, or Modelling, what they do or say. The
+individuals performing the imitated behavior are called :term:`models`.
+ Research suggests that this imitative learning
 involves a specific type of neuron, called a mirror neuron (Hickock,
 2010; Rizzolatti, Fadiga, Fogassi, & Gallese, 2002; Rizzolatti, Fogassi,
 & Gallese, 2006).
@@ -37,16 +35,19 @@ second group sucked through the straw directly, getting much more juice.
 When the first group, the “dippers,” observed the second group, “the
 suckers,” what do you think happened? All of the “dippers” in the first
 group switched to sucking through the straws directly. By simply
-observing the other chimps and modeling their behavior, they learned
+observing the other chimps and Modelling their behavior, they learned
 that this was a more efficient method of getting juice (Yamamoto, Humle,
 and Tanaka, 2013).
 
-|A photograph shows a person drinking from a water bottle, and a monkey
-next to the person drinking water from a bottle in the same manner.|\ {:
-#Figure06_04_Monkey}
+.. figure:: ../resources/CNX_Psych_06_04_Monkey
+   :scale: 100 %
+   :alt:  A photograph shows a person drinking from a water bottle, and a monkey next to the person drinking water from a bottle in the same manner.
 
-Imitation is much more obvious in humans, but is **imitation**\ {:
-data-type=“term” .no-emphasis} really the sincerest form of flattery?
+   A photograph shows a person drinking from a water bottle, and a monkey
+   next to the person drinking water from a bottle in the same manner. 
+
+Imitation is much more obvious in humans, but is :term:`imitation` 
+really the sincerest form of flattery?
 Consider Claire’s experience with observational learning. Claire’s
 nine-year-old son, Jay, was getting into trouble at school and was
 defiant at home. Claire feared that Jay would end up like her brothers,
@@ -63,7 +64,7 @@ to learning, psychologist Albert Bandura’s ideas about learning were
 different from those of strict behaviorists. Bandura and other
 researchers proposed a brand of behaviorism called social learning
 theory, which took cognitive processes into account. According to
-**Bandura**:term:`pastehere`, pure behaviorism could
+:term:`Bandura`, pure behaviorism could
 not explain why learning can take place in the absence of external
 reinforcement. He felt that internal mental states must also have a role
 in learning and that observational learning involves much more than
@@ -80,8 +81,7 @@ Observational learning is much more complex. According to Lefrançois
    successfully on his surfboard and then attempt to do the same thing.
    On the other hand, Julian might learn not to touch a hot stove after
    watching his father get burned on a stove.
-3. You learn a general rule that you can apply to other situations. {:
-   type=“1”}
+3. You learn a general rule that you can apply to other situations. 
 
 Bandura identified three kinds of models: live, verbal, and symbolic. A
 live model demonstrates a behavior in person, as when Ben stood up on
@@ -99,7 +99,7 @@ child watching television.|\ {: #Figure06_04_Yoga}
 
 .. seealso::
 
-   Latent learning and modeling are used all the time in the world of
+   Latent learning and Modelling are used all the time in the world of
    marketing and advertising. `This
    commercial <http://openstax.org/l/jeter>`__ played for months across
    the New York, New Jersey, and Connecticut areas, Derek Jeter, an
@@ -110,11 +110,11 @@ child watching television.|\ {: #Figure06_04_Yoga}
    advertisers sending by having him featured in the ad? How effective
    do you think it is?
 
-STEPS IN THE MODELING PROCESS
+Steps In The Modelling Process
 =============================
 
 Of course, we don’t learn a behavior simply by observing a model.
-Bandura described specific steps in the process of modeling that must be
+Bandura described specific steps in the process of Modelling that must be
 followed if learning is to be successful: attention, retention,
 reproduction, and motivation. First, you must be focused on what the
 model is doing—you have to pay attention. Next, you must be able to
@@ -136,7 +136,7 @@ she did? Once you actually demonstrate the new behavior, the
 reinforcement you receive plays a part in whether or not you will repeat
 the behavior.
 
-Bandura researched modeling behavior, particularly children’s modeling
+Bandura researched Modelling behavior, particularly children’s Modelling
 of adults’ aggressive and violent behaviors (Bandura, Ross, & Ross,
 1961). He conducted an experiment with a five-foot inflatable doll that
 he called a Bobo doll. In the experiment, children’s aggressive behavior
@@ -216,10 +216,10 @@ Summary
 =======
 
 According to Bandura, learning can occur by watching others and then
-modeling what they do or say. This is known as observational learning.
-There are specific steps in the process of modeling that must be
+Modelling what they do or say. This is known as observational learning.
+There are specific steps in the process of Modelling that must be
 followed if learning is to be successful. These steps include attention,
-retention, reproduction, and motivation. Through modeling, Bandura has
+retention, reproduction, and motivation. Through Modelling, Bandura has
 shown that children learn many things both good and bad simply by
 watching their parents, siblings, and others.
 
@@ -255,7 +255,7 @@ watching their parents, siblings, and others.
        D
   .. Card:: Question
 
-      Which is the correct order of steps in the modeling process?
+      Which is the correct order of steps in the Modelling process?
 
       1. attention, retention, reproduction, motivation
       2. motivation, attention, reproduction, retention
@@ -285,12 +285,12 @@ Critical Thinking Questions
 
    .. card::
 
-      What is the effect of prosocial modeling and antisocial modeling?
+      What is the effect of prosocial Modelling and antisocial Modelling?
 
    .. dropdown::
 
-      Prosocial modeling can prompt others to engage in helpful and
-      healthy behaviors, while antisocial modeling can prompt others to
+      Prosocial Modelling can prompt others to engage in helpful and
+      healthy behaviors, while antisocial Modelling can prompt others to
       engage in violent, aggressive, and unhealthy behaviors.
 
 .. card::

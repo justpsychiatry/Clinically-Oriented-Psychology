@@ -47,6 +47,5 @@ in which learning occurs.
    04-observational-learning
 
    *
-   ...
-   
+...
 .. |A photograph shows a baby turtle moving across sand toward the ocean. A photograph shows a young child standing on a surfboard in a small wave.| image:: ../resources/CNX_Psych_06_00_Turtles.jpg
