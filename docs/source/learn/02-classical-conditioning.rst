@@ -330,12 +330,6 @@ response, and finally no response. In classical conditioning terms,
 there is a gradual weakening and disappearance of the conditioned
 response.
 
-.. admonition:: Clinical Correlate: Extinction with Response Prevention
-   :class: hint
-
-   
-
-
 
 Spontaneous Recovery
 ~~~~~~~~~~~~~~~~~~~~
@@ -403,7 +397,7 @@ happens? Your mouth begins to water again. Why? After a break from
 conditioning, the conditioned response reappears, which indicates
 spontaneous recovery.
 
-.. admonition:: Clinical Correlate
+.. admonition:: Clinical Correlate: Spontaneous Recovery in Substance Use
    :class: hint
 
    Upon returning to home, patients with substance use disorders
@@ -472,11 +466,15 @@ Sometimes, classical conditioning can lead to habituation.
 :term:`Habituation` occurs when we learn not to
 respond to a stimulus that is presented repeatedly without change. As
 the stimulus occurs over and over, we learn not to focus our attention
-on it. For example, imagine that your neighbor or roommate constantly
+on it. For example, imagine that your neighbour or roommate constantly
 has the television blaring. This background noise is distracting and
 makes it difficult for you to focus when you’re studying. However, over
 time, you become accustomed to the stimulus of the television noise, and
 eventually you hardly notice it any longer.
+
+.. admonition:: Clinical Correlate: Extinction with Response Prevention
+   :class: hint
+
  
 
 Behaviourism
@@ -549,6 +547,7 @@ be considered unethical by today’s standards.
 
 .. figure:: ../resources/CNX_Psych_06_02_Santaclaus.jpg
    :scale: 100 %
+   :target: `Figure06_02_Santaclaus`
    :alt: A photograph shows B.F. Skinner.
 
    “Now he fears even Santa Claus.”
@@ -726,7 +725,9 @@ Critical Thinking Questions
 Personal Application Questions
 ==============================
 
-.. card::
+.. card:: Personal Application Question
+   :shadow: md
+   :card-class: sd-rounded-2
 
    .. hint::
 
