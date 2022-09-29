@@ -253,10 +253,13 @@ conditioning, but they are two very different mechanisms. Remember that
 reinforcement, even when it is negative, always increases a behaviour. In
 contrast, :term:`punishment` always decreases a
 behaviour. In :term:`positive punishment`, you add an
-undesirable stimulus to decrease a behaviour. An example of positive
+undesirable stimulus to decrease a behaviour. 
+
+An example of positive
 punishment is scolding a student to get the student to stop texting in
 class. In this case, a stimulus (the reprimand) is added in order to
 decrease the behaviour (texting in class). 
+
 In :term:`negative punishment`, you remove a pleasant stimulus to decrease behaviour.
 For example, when a child misbehaves, a parent can take away a favourite
 toy. In this case, a stimulus (the toy) is removed in order to decrease
@@ -266,21 +269,30 @@ the behaviour.
 
    Negative reinforcement and punishment are not the same. See text for more details. 
 
+Immediacy
+---------
 Punishment, especially when it is immediate, is one way to decrease
 undesirable behaviour. For example, imagine your four-year-old son,
 Brandon, hit his younger brother. You have Brandon write 100 times “I
 will not hit my brother" (positive punishment). Chances are he won’t
-repeat this behaviour. While strategies like this are common today, in
+repeat this behaviour. 
+
+Use of Corporal Punishments for Children
+=========================================
+
+While strategies like this are common today, in
 the past, children were often subject to physical punishment, such as
 spanking. It’s important to be aware of some of the drawbacks in using
-physical punishment on children. First, punishment may teach fear.
+physical punishment on children. 
+
+First, punishment may teach **fear**.
 Brandon may become fearful of the street, but he also may become fearful
 of the person who delivered the punishment—you, his parent. Similarly,
 children whom teachers punish may come to fear the teacher and
-try to avoid school (Gershoff et al., 2010). Consequently, most schools
+try to **avoid school** (Gershoff et al., 2010). Consequently, most schools
 in the United States have banned corporal punishment. Second, punishment
-may cause children to become more aggressive and prone to antisocial
-behaviour and delinquency (Gershoff, 2002). They see their parents resort
+may cause children to become more **aggressive** and prone to **antisocial
+behaviour and delinquency** (Gershoff, 2002). They see their parents resort
 to spanking when they become angry and frustrated, so, in turn, they may
 act out this same behaviour when they become angry and frustrated. For
 example, because you spank Brenda when you are angry with her for her
@@ -293,20 +305,24 @@ possible negative effects. Today’s psychologists and parenting experts
 favour reinforcement over punishment—they recommend that you catch your
 child doing something good and reward her for it.
 
+Typically, studies show that children who receive corporal punishment have higher levels of aggression, 
+delinquency, and behavioural issues (Gershoff, 2002). 
+Doing so is also linked over time to a variety of mental health disorders,
+increased criminal behaviour, and slower cognitive development. 
+Some have argued that the evidence connecting spanking to harmful outcomes is correlational, 
+and correlation does not imply causality. 
+It really is possible that spanking makes kids more aggressive, but it's also conceivable that violent kids make their parents employ physical punishment more frequently. 
+However, the American Psychological Association strictly advises against the use of corporal punishments in children. 
+
 .. warning::
 
-   Typically, studies show that children who receive corporal punishment have higher levels of aggression, 
-   delinquency, and behavioural issues (Gershoff, 2002). 
-   Doing so is also linked over time to a variety of mental health disorders,
-   increased criminal behaviour, and slower cognitive development. 
-   Some have argued that the evidence connecting spanking to harmful outcomes is correlational, 
-   and correlation does not imply causality. 
-   It really is possible that spanking makes kids more aggressive, but it's also conceivable that violent kids make their parents employ physical punishment more frequently. 
-   However, the American Psychological Association strictly advises against the use of corporal punishments in children. 
-
+   Corporal punishment must not be avoided in children. Children exposed to corporal punishments
+   are likely to develop aggressive and violent traits as adults, 
+   and are predisposed to a variety of psychiatric disorders. 
+   Delinquency and slower cognitive development are also associated with corporal punishments.  
 
 Shaping
--------
+=======
 
 In his operant conditioning experiments, Skinner often used an approach
 called shaping. Instead of rewarding only the target behaviour, in
@@ -364,8 +380,8 @@ behaviour.
    Skinner’s pigeons playing ping pong.
 
 
-Clinical Application of Shaping
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Application of Shaping
+~~~~~~~~~~~~~~~~~~~~~~
 
 It’s easy to see how shaping is effective in teaching behaviours to
 animals, but how does shaping work with humans? Let’s consider parents
@@ -386,6 +402,9 @@ rats learn to press the lever in the Skinner box? They were rewarded
 with food each time they pressed the lever. For animals, food would be
 an obvious reinforcer.
 
+Primary Reinforcers
+-------------------
+
 What would be a good reinforcer for humans? For your daughter Sydney, it
 was the promise of a toy if she cleaned her room. How about Joaquin, the
 soccer player? If you gave Joaquin a piece of candy every time he made a
@@ -399,6 +418,9 @@ day would be reinforcing and the cool lake would be innately
 reinforcing—the water would cool the person off (a physical need), as
 well as provide pleasure.
 
+Primary Reinforcers
+-------------------
+
 A :term:`secondary reinforcer` has no inherent value
 and only has reinforcing qualities when linked with a primary
 reinforcer. Praise, linked to affection, is one example of a secondary
@@ -411,18 +433,28 @@ you had stacks of money, the money would not be useful if you could not
 spend it. What about the stickers on the behaviour chart? They also are
 secondary reinforcers.
 
+.. important::
+
+   Star charts use secondary reinforcers. Tokens used in token economies (see below)
+   are also secondary reinforcers.
+
+Token economies
+----------------
+
 Sometimes, instead of stickers on a sticker chart, a token is used.
 Tokens, which are also secondary reinforcers, can then be traded in for
-rewards and prizes. Entire behaviour management systems, known as token
-economies, are built around the use of these kinds of token reinforcers.
+rewards and prizes. Entire behaviour management systems, known as **token
+economies**, are built around the use of these kinds of token reinforcers.
 Token economies have been found to be very effective at modifying
 behaviour in a variety of settings such as schools, prisons, and mental
-hospitals. For example, a study by Cangi and Daly (2013) found that use
-of a token economy increased appropriate social behaviours and reduced
-inappropriate behaviours in a group of autistic school children. Autistic
-children tend to exhibit disruptive behaviours such as pinching and
+hospitals. 
+
+For example, a study by Cangi and Daly (2013) found that use
+of a token economy *increased appropriate social behaviours and reduced
+inappropriate behaviours in a group of autistic school children.* Autistic
+children tend to exhibit **disruptive behaviours** such as pinching and
 hitting. When the children in the study exhibited appropriate behaviour
-(not hitting or pinching), they received a “quiet hands” token. When
+(not hitting or pinching), they received a **“quiet hands”** token. When
 they hit or pinched, they lost a token. The children could then exchange
 specified amounts of tokens for minutes of playtime.
 
@@ -519,7 +551,7 @@ he sits, so that he can make an association between the target behaviour
 
    Watch this `video
    clip <https://drSadiayin.com/videos/entry/teaching-a-dog-to-sit-politely-rather-than-jump>`__
-   where veterinarian Dr. Sadia Yin shapes a dog’s behaviour using the
+   where veterinarian Dr. Sofia Yin shapes a dog’s behaviour using the
    steps outlined above.
 
 Partial Reinforcement
@@ -765,15 +797,16 @@ is the least productive and the easiest to extinguish
 .. seealso:: 
    
    See the ICD-11 Criteria for 
-   `Gambling Disorder <https://www.mrcpsych.uk/2022/05/child-mania-rating-scale-parent-version.html>`__
+   `Gambling Disorder <https://www.mrcpsych.uk/2022/05/icd-11-criteria-for-gambling-disorder.html>`__
 
 
 .. note::
 
-   Gaming disorder is a new diagnostic category in the ICD-11. Game studios intentionally 
+   `Gaming disorder <https://www.mrcpsych.uk/2022/05/icd-11-criteria-for-gaming-disorder-6c51.html>` is a new diagnostic category in the ICD-11. Game studios intentionally 
    employ reinforcements in different forms. Enough evidence has now emerged to convince the
    World Health Organization to officially recognize gaming addiction as health condition.
-   It, like gambling disorder, is classified under habit and impulse control disorders.   
+   It is however, like gambling disorder, classified under
+    `Impulse Control Disorders <https://www.mrcpsych.uk/p/impulse-control-disorders.html>`__   
 
 
 Cognitive Learning
@@ -789,11 +822,20 @@ Three main types:
 - Observational learning
 
 Learning by insight
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 Proposed by Wolfgang Köhler.  Insight  is the sudden realization of the 
 relationship between elements in a problem situation, which makes the solution apparent. 
-Bet he never forgets the cage again!
+
+A method of learning where a problem is solved by using reason, particularly to draw conclusions,
+inferences, or judgments. In contrast to trial-and-error learning, insight learning involves addressing 
+problems based on conceptual experiments rather than actual experience (unlike trial-and-error stages). 
+When someone has been stuck in a difficulty for a while and all of a sudden realises how to fix it, 
+this happens frequently. This was seen in Wolfgang Kohler's chimpanzee experimentation in the 1900s. 
+Kohler discovered that chimpanzees could answer issues without error by using insight learning. 
+In one instance, a banana was positioned such that chimpanzees couldn't reach it, but they managed to do it. 
+To get there, they stacked boxes on top of one another, then they used sticks to knock the banana over.
+
 
 Cognition and Latent Learning
 -----------------------------
@@ -822,7 +864,7 @@ but is not observable in behaviour until there is a reason to demonstrate
 it.
 
 
-.. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
+.. figure:: ../resources/CNX_Psych_06_03_Ratmaze.jpg
    :scale: 100 %
    :alt: A ratmaze with three rats
 
