@@ -442,8 +442,8 @@ secondary reinforcers.
    Star charts use secondary reinforcers. Tokens used in token economies (see below)
    are also secondary reinforcers.
 
-Token economies
-----------------
+Token Economy
+-------------
 
 Sometimes, instead of stickers on a sticker chart, a token is used.
 Tokens, which are also secondary reinforcers, can then be traded in for
@@ -520,7 +520,6 @@ specified amounts of tokens for minutes of playtime.
    3. Finally, as a caregiver, keep several guidelines in mind over the course of a time-out: remain calm when directing your child to time-out; ignore your child during time-out (because caregiver attention may reinforce misbehaviour); and give the child a hug or a kind word when time-out is over.
 
 
-.. _Figure06_03_Timeout:
 
    .. figure:: ../resources/CNX_Psych_06_03_Timeout.jpg
       :scale: 100 %
@@ -531,9 +530,6 @@ specified amounts of tokens for minutes of playtime.
       looking at the playground.
 
 ..
-
-:numref:`Image of Sphinx (Fig. %s) <Figure06_03_Timeout>`__
-
 
 Reinforcement Schedules
 =======================
@@ -747,7 +743,7 @@ is the least productive and the easiest to extinguish
 
    **Gambling and the Brain**
 
-   Skinner (1953) stated, 
+   Skinner :footcite:p:`SkinnerScienceHuman1954` stated, 
       
       “If the gambling establishment cannot persuade
       a patron to turn over money with no return, it may achieve the same
@@ -816,7 +812,7 @@ is the least productive and the easiest to extinguish
    employ reinforcements in different forms. Enough evidence has now emerged to convince the
    World Health Organization to officially recognize gaming addiction as health condition.
    It is however, like gambling disorder, classified under
-    `Impulse Control Disorders <https://www.mrcpsych.uk/p/impulse-control-disorders.html>`__   
+   `Impulse Control Disorders <https://www.mrcpsych.uk/p/impulse-control-disorders.html>`__   
 
 
 Cognitive Learning
@@ -854,8 +850,9 @@ Although strict behaviourists such as Skinner and Watson refused to
 believe that cognition (such as thoughts and expectations) plays a role
 in learning, another behaviourist, Edward C. :term:`Tolman`, had a different opinion. 
 Tolman’s experiments with rats demonstrated that organisms can learn even if they
-do not receive immediate reinforcement [Tolman1930]_ [Tolman1946]_ (Tolman & Honzik, 1930; Tolman,
-Ritchie, & Kalish, 1946). This finding was in conflict with the
+do not receive immediate 
+reinforcement. :footcite:p:`tolmanMazePerformanceFunction1930,tolmanStudiesSpatialLearning1946` 
+This finding was in conflict with the
 prevailing idea at the time that reinforcement must be immediate in
 order for learning to occur, thus suggesting a cognitive aspect to
 learning.
@@ -909,7 +906,8 @@ this knowledge earlier.
    alike or have short lines of sight. Because of this, it’s often
    difficult to predict what’s around a corner or decide whether to turn
    left or right to get out of a building. Psychologist Laura Carlson
-   (2010) suggests that what we place in our cognitive map can impact
+   (2010) :footcite:p:`@carlsonGettingLostBuildings2010` suggests that 
+   what we place in our cognitive map can impact
    our success in navigating through the environment. She suggests that
    paying attention to specific features upon entering a building, such
    as a picture on the wall, a fountain, a statue, or an escalator, adds
@@ -922,7 +920,6 @@ this knowledge earlier.
    buildings.
 
 
-
 Escape and Avoidance Conditioning
 ----------------------------------
 
@@ -930,11 +927,6 @@ Behaviours that are maintained by negative reinforcement (escape Behaviour becau
 Escape behaviour is a two-factor form of learning (the organism learns to identify a stimulus that signals the initiation of an aversive stimulus). 
 If the organism performs the target behaviour in the presence of a cue, the organism can escape the negative reinforcer. 
 
-.. figure:: ../resources/CNX_Psych_06_03_Avoidance.png
-   :scale: 25 %
-   :alt: Two Factors in Avoidance Learning
-
-   Two factors involved in avoidance learning
 
    Two factors
   - Discrimination learning (cue) and 
@@ -1168,3 +1160,7 @@ Glossary
 .. |A graph has an x-axis labeled “Time” and a y-axis labeled “Cumulative number of responses.” Two lines labeled “Variable Ratio” and “Fixed Ratio” have similar, steep slopes. The variable ratio line remains straight and is marked in random points where reinforcement occurs. The fixed ratio line has consistently spaced marks indicating where reinforcement has occurred, but after each reinforcement, there is a small drop in the line before it resumes its overall slope. Two lines labeled “Variable Interval” and “Fixed Interval” have similar slopes at roughly a 45-degree angle. The variable interval line remains straight and is marked in random points where reinforcement occurs. The fixed interval line has consistently spaced marks indicating where reinforcement has occurred, but after each reinforcement, there is a drop in the line.| image:: ../resources/CNX_Psych_06_03_Response.jpg
 .. |A photograph shows four digital gaming machines.| image:: ../resources/CNX_Psych_06_03_Gambling.jpg
 .. |An illustration shows three rats in a maze, with a starting point and food at the end.| image:: ../resources/CNX_Psych_06_03_Ratmaze.jpg
+
+References
+-----------
+  .. footbibliography::

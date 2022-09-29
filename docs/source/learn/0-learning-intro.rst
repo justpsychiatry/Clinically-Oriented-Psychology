@@ -1,10 +1,13 @@
 Chapter 6: Learning
 ###################
 
+.. figure:: ../resources/CNX_Psych_06_00_Turtles
+   :scale: 100 %
+   :alt: A photograph shows a baby turtle moving across sand toward the ocean.
 
-|A photograph shows a baby turtle moving across sand toward the ocean. A
-photograph shows a young child standing on a surfboard in a small
-wave.|\ {:}
+   A photograph shows a baby turtle moving across sand toward the ocean. A
+   photograph shows a young child standing on a surfboard in a small
+   wave.
 
 The summer sun shines brightly on a deserted stretch of beach. Suddenly,
 a tiny grey head emerges from the sand, then another and another. Soon
@@ -32,7 +35,6 @@ yourself how exactly it is that we learn? What processes are at work as
 we come to know what we know? This chapter focuses on the primary ways
 in which learning occurs.
 
-.. |A photograph shows a baby turtle moving across sand toward the ocean. A photograph shows a young child standing on a surfboard in a small wave.| image:: ../resources/CNX_Psych_06_00_Turtles.jpg
 
 .. toctree::
    :caption: Table of Contents
@@ -46,3 +48,5 @@ in which learning occurs.
 
    *
    ...
+   
+.. |A photograph shows a baby turtle moving across sand toward the ocean. A photograph shows a young child standing on a surfboard in a small wave.| image:: ../resources/CNX_Psych_06_00_Turtles.jpg

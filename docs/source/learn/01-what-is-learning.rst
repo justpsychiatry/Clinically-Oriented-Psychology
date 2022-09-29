@@ -88,8 +88,17 @@ Conversely, if the dog is punished when exhibiting a behaviour, it
 becomes conditioned to avoid that behaviour (e.g., receiving a small
 shock when crossing the boundary of an invisible electric fence).
 
-|A photograph shows a dog standing at attention and smelling a treat in
-a person’s hand.|\ {: #Figure06_01_Dog}
+.. figure:: ../resources/CNX_Psych_06_01_Dog
+   :scale: 100 %
+   :target: `<#Figure06_01_Dog>`
+   :alt: A photograph shows a dog standing at attention and smelling a treat in a person’s hand.
+
+   A photograph shows a dog standing at attention and smelling a treat in a person’s hand.
+
+   The legend consists of all elements after the caption.  In this
+   case, the legend consists of this paragraph and the following
+   table:
+
 
 Observational learning extends the effective range of both classical and
 operant conditioning. In contrast to classical and operant conditioning,
