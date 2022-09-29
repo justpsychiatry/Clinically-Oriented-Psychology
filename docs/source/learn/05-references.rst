@@ -1,29 +1,20 @@
 References
 ==========
 
-Anderson, C. A., & Gentile, D. A. (2008). Media violence, aggression,
-and public policy. In E. Borgida & S. Fiske (Eds.), Beyond common sense:
-Psychological science in the courtroom (p. 322). Malden, MA: Blackwell.
+.. [Anderson2008] Anderson, C. A., & Gentile, D. A. (2008). Media violence, aggression,
+                  and public policy. In E. Borgida & S. Fiske (Eds.), Beyond common sense:
+                  Psychological science in the courtroom (p. 322). Malden, MA: Blackwell.
 
-Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression
-through imitation of aggressive models. *Journal of Abnormal and Social
-Psychology, 63*, 575–582.
+.. [Bandura1961] Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression
+                 through imitation of aggressive models. *Journal of Abnormal and Social Psychology, 63*, 575–582.
 
-Cangi, K., & Daly, M. (2013). The effects of token economies on the
-occurrence of appropriate and inappropriate behaviors by children with
-autism in a social skills setting. *West Chester University: Journal of
-Undergraduate Research*. Retrieved from
-http://www.wcupa.edu/UndergraduateResearch/journal/documents/cangi\_S2012.pdf
+.. [Cangi2013] Cangi, K., & Daly, M. (2013). The effects of token economies on the occurrence of appropriate and inappropriate behaviors by children with autism in a social skills setting. *West Chester University: Journal of Undergraduate Research*. Retrieved from http://www.wcupa.edu/UndergraduateResearch/journal/documents/cangi\_S2012.pdf
 
-Carlson, L., Holscher, C., Shipley, T., & Conroy Dalton, R. (2010).
-Getting lost in buildings. *Current Directions in Psychological Science,
-19*\ (5), 284–289.
+.. [Carlson2010] Carlson, L., Holscher, C., Shipley, T., & Conroy Dalton, R. (2010). Getting lost in buildings. *Current Directions in Psychological Science, 19*\ (5), 284–289.
 
-Cialdini, R. B. (2008). *Influence: Science and practice* (5th ed.).
-Boston, MA: Pearson Education.
+.. [Cialdini2008] Cialdini, R. B. (2008). *Influence: Science and practice* (5th ed.). Boston, MA: Pearson Education.
 
-Chance, P. (2009). *Learning and behavior* (6th ed.). Belmont, CA:
-Wadsworth, Cengage Learning.
+.. [Chance2009] Chance, P. (2009). *Learning and behavior* (6th ed.). Belmont, CA: Wadsworth, Cengage Learning.
 
 DeAngelis, T. (2010). ‘Little Albert’ regains his identity. *Monitor on
 Psychology, 41*\ (1), 10.
