@@ -138,6 +138,17 @@ reproduction, and motivation:
 2. Next, you must be able to retain, or remember, what you observed; this is **retention**. 
 3. Then, you must be able to perform the behaviour that you observed and committed to memory; this is **reproduction**. 
 4. Finally, you must have **motivation**. 
+
+.. figure:: ../resources/CNX_Psych_06_04_StepsInObsvLearn.png
+   :scale: 50 %
+   :alt: An illustration of the Steps of Observational learning
+
+   An illustration that shows the four steps in observational learning. 
+   
+   Bandura described specific steps in the process of Modelling that must be 
+   followed if learning is to be successful: attention, retention, reproduction, and motivation
+
+..
    
 Vicarious reinforcement
 -----------------------
@@ -146,6 +157,8 @@ You need to want to copy the behaviour, and whether or not you are motivated
 depends on what happened to the model. If you saw that the model was
 reinforced for her behaviour, you will be more motivated to copy her.
 This is known as :term:`vicarious reinforcement`. 
+
+
 
 Vicarious punishment
 --------------------
@@ -385,14 +398,14 @@ Personal Application Questions
 .. glossary::
 
    model
-      person who performs a behavior that serves as an example (in observational learning) ^
+      person who performs a behaviour that serves as an example (in observational learning) ^
 
    observational learning
       type of learning that occurs by watching others ^
 
    vicarious punishment
       process where the observer sees the model punished, making the
-      observer less likely to imitate the model’s behavior ^
+      observer less likely to imitate the model’s behaviour ^
 
    vicarious reinforcement
       process where the observer sees the model rewarded, making the observer more likely to imitate the model’s behavior

@@ -31,7 +31,7 @@ dogs and is best known for his experiments in classical
 (`[link] <#Figure06_02_Pavlov>`__). As we discussed briefly in the
 previous section, :term:`classical conditioning` is a
 process by which we learn to associate stimuli and, consequently, to
-anticipate events.
+anticipate events. 
 
 
 .. figure:: ../resources/CNX_Psych_06_02_Pavlov.jpg
