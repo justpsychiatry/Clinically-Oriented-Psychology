@@ -372,6 +372,21 @@ response, and finally no response. In classical conditioning terms,
 there is a gradual weakening and disappearance of the conditioned
 response.
 
+.. admonition:: Clinical Correlate
+   :class: hint
+
+   In behaviour therapies, extinction from fear-conditioning can be achieved with the help of relaxation therapy.
+   In the feared situation, eg, while crossing the bridge, the patient practices relaxation exercises. Graduallay, the association
+   is lost. The bridge or other feared situation may no more produce the anxiety after repeated practice. 
+   
+   .. admonition:: Note
+      Exposure itself is also curative, but the mechanism is best explained by operant or reward-based conditioning.  
+
+   **Counterconditioning**
+
+   In aversion therapy, extinction is achieved by replacing a desirable stimulus with an undesirable one. 
+   For example, disulfiram (Antabuse) helps with alcohol dependence by producing a distressing response whenever the patient uses 
+   alcohol. This helps with the extinction of the alcohol use and the favourable response, and  also replaces it with an aversive experience (GI upset).
 
 Spontaneous Recovery
 ~~~~~~~~~~~~~~~~~~~~
@@ -500,7 +515,6 @@ sound, and you continue to feed her consistently after the electric can
 opener sound, she will quickly learn to discriminate between the two
 sounds (provided they are sufficiently dissimilar that she can tell them
 apart).
-
 
 
 Habituation
