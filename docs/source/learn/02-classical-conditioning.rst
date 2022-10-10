@@ -124,14 +124,6 @@ with being fed, and they began to salivate (CR) in anticipation of food.
    labelled “after conditioning” shows a dog salivating while a bell is
    rung.
 
-.. seealso::
-
-   Now that you have learned about the process of classical
-   conditioning, do you think you can condition Pavlov’s dog? Visit this
-   `website <http://openstax.org/l/pavlov1>`__ to play the game.
-
-   View this `video <http://openstax.org/l/pavlov2>`__ to learn more
-   about Pavlov and his dogs.
 
 Real World Application Of Classical Conditioning
 ================================================
@@ -146,6 +138,9 @@ to get fed. What do you think Tiger does when she hears the electric can
 opener? She will likely get excited and run to where you are preparing
 her food. This is an example of classical conditioning. In this case,
 what are the UCS, CS, UCR, and CR?
+
+Higher-Order Conditioning
+-------------------------
 
 What if the cabinet holding Tiger’s food becomes squeaky? In that case,
 Tiger hears “squeak” (the cabinet), “zzhzhz” (the electric can opener),
@@ -247,6 +242,35 @@ and anxiety are the conditioned response.
    every time Jim’s computer makes a specific sound.
 ...
 
+.. admonition:: Clinical Examples
+   :class: important
+
+ 1. Association of fear with a (feared) object or event. For example the association of fear with 
+    bridges in phobia of bridges, or with blood in blood-injection-injury phobia. 
+    This is called **fear-conditioning.** It often begins with a single even that produces extreme anxiety
+    repeated experience of fear while encountering the feared situation. Over time, the site of the object
+    or even the thought of it provokes anxiety. 
+ 2. Experiencing of drug cravings at places where it has been repeatedly used. It occurs in a similar fashion. 
+    Repeatedly using the drug at certain locations e.g. smoking leads to an association of the place and the feelings 
+    that are produced by using the drug, and the anticipatory feelings before using the drug. These lead to cravings for 
+ 3. Association of fear with dirt (see below).  
+ 4. Association of traumatic feelings with places where people have went through traumatic events. 
+ 5. Aversion of hospitals. People are often brought to hospitals by sickness. Non-clinical staff may develop 
+    an aversion to hospitals because of this association (negative, distressing feelings are associated with hospitals).
+ 6. Association of sad feelings with depression. When depressed, people are often pre-occupied with
+    thoughts associated with sadness and depression. Initially, sad thoughts produce sadness and clinical depression. Overtime, 
+    however, these thoughts develop an association with depression and people start to brood over these thoughts whenever they feel low. 
+ 7. Association of euphoria or relief with injections. People who use drugs via intravenous route may develop an association between euphoria or relief and injection. 
+    Initially, the euphoria is produced by the effect of the drug. Later, the injection itself begins to produce euphoria.  
+ 8. Association of sexual feelings with a fetish object. Initially, the sexual arousal is produced by real sexual encounter. 
+    Later, this feeling may be associated with objects or events surrounding the activity.  
+ 9. Association of anger outbursts with the events, places or objects encountered during the event, for example association of seclusion rooms
+    with violence and anger. Patients exhibiting an anger outburst or violent behaviour are often secluded in a safe room. If a patient is repeatedly 
+    secluded in this way during aggression, they may associate the seclusion room with anger and thus, the seclusion room may provoke even more anger. 
+
+       
+ 
+
 General Processes In Classical Conditioning
 ===========================================
 
@@ -263,12 +287,16 @@ acquisition, the neutral stimulus begins to elicit the conditioned
 response, and eventually the neutral stimulus becomes a conditioned
 stimulus capable of eliciting the conditioned response by itself. 
 
+Factors in Acquisition
+``````````````````````
+
 There are four major factors that facilitate the acquisition of a classically conditioned response:
 
 A.  How reliably the conditioned stimulus predicts the unconditioned stimulus
 B.  The number of pairings of the conditioned stimulus and the unconditioned stimulus
 C.  The intensity of the unconditioned stimulus
-D.  The temporal relationship between the conditioned stimulus and the unconditioned stimulus
+D.  The temporal relationship between the conditioned stimulus and the unconditioned stimulus.
+
 
 .. admonition:: Clinical Correlate: Conditioned Fear in OCD 
    :class: hint
@@ -283,10 +311,11 @@ Immediacy
 Timing is important for conditioning to occur. Typically, there should only be
 a brief interval between presentation of the conditioned stimulus and
 the unconditioned stimulus. Depending on what is being conditioned,
-sometimes this interval is as little as five seconds (Chance, 2009).
+sometimes this interval is as little as **5 seconds** (Chance, 2009).
 However, with other types of conditioning, the interval can be up to
 several hours.
 
+.. admonition:: Clinical Application
 
 Taste-aversion
 --------------
@@ -309,11 +338,11 @@ How does this occur—conditioning based on a single instance and
 involving an extended time lapse between the event and the negative
 stimulus? Research into taste aversion suggests that this response may
 be an **evolutionary adaptation** designed to help organisms quickly learn
-to avoid harmful foods [Garcia1980]_ (Garcia & Rusiniak, 1980; Garcia & Koelling,
+to avoid harmful foods :footcite:p:`garciaWhatNoseLearns1980, garciaRelationCueConsequence1966` (Garcia & Rusiniak, 1980; Garcia & Koelling,
 1966). Not only may this contribute to species survival via natural
 selection, but it may also help us develop strategies for challenges
 such as helping cancer patients through the nausea induced by certain
-treatments (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
+treatments :footcite:p:`holmesFoodAvoidancePatients1993` (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
 Wismer, 2007; Skolin et al., 2006).
 
    .. important::
@@ -569,8 +598,7 @@ be considered unethical by today’s standards.
 
 
 .. figure:: ../resources/CNX_Psych_06_02_Santaclaus.jpg
-   :scale: 100 %
-   :target: `Figure06_02_Santaclaus`
+   :scale: 100
    :alt: A photograph shows B.F. Skinner.
 
    “Now he fears even Santa Claus.”
@@ -638,7 +666,7 @@ explain how some fears develop.
   .. card:: Question
 
       A stimulus that does not initially elicit a response in an
-      organism is a(n) \________.
+      organism is a(n):
 
       1. unconditioned stimulus
       2. neutral stimulus
@@ -653,7 +681,7 @@ explain how some fears develop.
 
       In Watson and Rayner’s experiments, Little Albert was conditioned
       to fear a white rat, and then he began to be afraid of other furry
-      white objects. This demonstrates \________.
+      white objects. This demonstrates:
 
       1. higher order conditioning
       2. acquisition
@@ -665,7 +693,7 @@ explain how some fears develop.
         D
   .. Card:: Question
 
-      Extinction occurs when \________.
+      Extinction occurs when:
 
       1. the conditioned stimulus is presented repeatedly without being
          paired with an unconditioned stimulus
@@ -813,6 +841,11 @@ Glossary
    
    unconditioned stimulus (UCS)
       stimulus that elicits a reflexive response
+
+References
+-----------
+  .. footbibliography::
+
 
 .. |A portrait shows Ivan Pavlov.| image:: ../resources/CNX_Psych_06_02_Pavlov.jpg
 .. |Two illustrations are labelled “before conditioning” and show a dog salivating over a dish of food, and a dog not salivating while a bell is rung. An illustration labelled “during conditioning” shows a dog salivating over a bowl of food while a bell is rung. An illustration labelled “after conditioning” shows a dog salivating while a bell is rung.| image:: ../resources/CNX_Psych_06_02_Classical.jpg
