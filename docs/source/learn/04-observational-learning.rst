@@ -2,6 +2,14 @@
 Observational Learning (Modelling)
 =================================
 
+.. meta::
+   
+   :title: Observational learning
+   :author: Justpsychiatry
+   :description: This section covers Observational learning. 
+   :keywords: observational learning, vicarious reinforcement, social learning theory, vicarious punishment, 
+   
+
 
 .. card:: Learning Objectives
 
@@ -205,7 +213,8 @@ games may also have antisocial effects
 (`[link] <#Figure06_04_Videogames>`__) although further research needs
 to be done to understand the correlational and causational aspects of
 media violence and behavior. Some studies have found a link between
-viewing violence and aggression seen in children (Anderson & Gentile,
+viewing violence and aggression seen in children 
+:footcite:p:`andersonMediaViolenceAggression2008, millerAssociationsCommunityViolence2012` (Anderson & Gentile,
 2008; Kirsch, 2010; Miller, Grabell, Thomas, Bermann, & Graham-Bermann,
 2012). These findings may not be surprising, given that a child
 graduating from high school has been exposed to around 200,000 violent
@@ -345,6 +354,11 @@ Personal Application Questions
 
    vicarious reinforcement
       process where the observer sees the model rewarded, making the observer more likely to imitate the model’s behavior
+
+References
+-----------
+  .. footbibliography::
+
 
 .. |A photograph shows a person drinking from a water bottle, and a monkey next to the person drinking water from a bottle in the same manner.| image:: ../resources/CNX_Psych_06_04_Monkey.jpg
 .. |Photograph A shows a yoga instructor demonstrating a yoga pose while a group of students observes her and copies the pose. Photo B shows a child watching television.| image:: ../resources/CNX_Psych_06_04_Yoga.jpg

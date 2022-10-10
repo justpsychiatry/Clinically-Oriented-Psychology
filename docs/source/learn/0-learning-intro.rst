@@ -1,10 +1,17 @@
 Chapter 6: Learning
 ###################
 
+
 .. meta::
+   
+   :title: Observational learning
+   :author: Justpsychiatry
+   :description: This chapter covers theories of learning, including operant, classical and observational learning. 
+   :keywords: observational learning, theories of learning, clinical applications of learning theories, psychology for the MRCPsych 
    
 
 .. card:: Official RCPsych Syllabus for the MRCPsych Paper A
+   
    - Learning theory: classical, operant, observational and cognitive models. 
    - The concepts of extinction and reinforcement. 
    - Learning processes and aetiological formulation of clinical problems, including the concepts of 
@@ -68,7 +75,7 @@ in which learning occurs.
    02-classical-conditioning*
    03-operant-conditioning*
    04-observational-learning
-
    *
-...
+
+
 .. |A photograph shows a baby turtle moving across sand toward the ocean. A photograph shows a young child standing on a surfboard in a small wave.| image:: ../resources/CNX_Psych_06_00_Turtles.jpg

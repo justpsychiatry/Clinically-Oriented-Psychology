@@ -6,7 +6,7 @@ Classical Conditioning
    
    :title: Classical Conditioning
    :author: Justpsychiatry
-   :description: This section covers operant conditioning, the processes in operant conditioning, and its clinical applications. It is based on OpenStax Psychology. 
+   :description: This section covers classical conditioning or associative learning. 
    :keywords: classical conditioning, associative learning, associative conditioning, Pavlovian conditioning, stimulus-discrimination, spontaneous recovery
 
 
