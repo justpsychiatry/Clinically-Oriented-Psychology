@@ -1,7 +1,29 @@
 Chapter 6: Learning
 ###################
 
-.. figure:: ../resources/CNX_Psych_06_00_Turtles
+.. meta::
+   
+
+.. card:: Official RCPsych Syllabus for the MRCPsych Paper A
+   - Learning theory: classical, operant, observational and cognitive models. 
+   - The concepts of extinction and reinforcement. 
+   - Learning processes and aetiological formulation of clinical problems, including the concepts of 
+     - generalisation,  
+     - secondary reinforcement, 
+     - incubation and 
+     - stimulus preparedness. 
+   - Escape and avoidance conditioning. 
+   - Clinical applications in behavioural treatments: 
+     - reciprocal  inhibition, 
+     - habituation, 
+     - chaining, 
+     - shaping, 
+     - cueing. 
+   - The impact of various reinforcement schedules. 
+   - The psychology of punishment. 
+   - Optimal conditions for observational learning.
+
+.. figure:: ../resources/CNX_Psych_06_00_Turtles.jpg
    :scale: 100 %
    :alt: A photograph shows a baby turtle moving across sand toward the ocean.
 

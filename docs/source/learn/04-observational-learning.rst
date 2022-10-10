@@ -2,9 +2,6 @@
 Observational Learning (Modelling)
 =================================
 
-.. contents::
-   :depth: 3
-..
 
 .. card:: Learning Objectives
 
@@ -199,6 +196,9 @@ do what we know. Abused children, who grow up witnessing their parents
 deal with anger and frustration through violent and aggressive acts,
 often learn to behave in that manner themselves. Sadly, it’s a vicious
 cycle that’s difficult to break.
+
+.. warning::
+   Children learn by observing adults. 
 
 Some studies suggest that violent television shows, movies, and video
 games may also have antisocial effects
