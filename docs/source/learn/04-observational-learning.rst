@@ -22,23 +22,23 @@ Previous sections of this chapter focused on classical and operant
 conditioning, which are forms of associative learning. In
 :term:`observational learning`, we learn by watching
 others and then imitating, or Modelling, what they do or say. The
-individuals performing the imitated behavior are called :term:`models`.
- Research suggests that this imitative learning
-involves a specific type of neuron, called a mirror neuron :footcite:p:`hickokRoleMirrorNeurons2010,rizzolattiMirrorNeuronsImitation2002,rizzolattiMirrorsMind2006`.
+individuals performing the imitated behaviour are called :term:`models`.
+Research suggests that this imitative learning
+involves a specific type of neuron, called a **mirror neuron** :footcite:p:`hickokRoleMirrorNeurons2010,rizzolattiMirrorNeuronsImitation2002,rizzolattiMirrorsMind2006`.
 
 Humans and other animals are capable of observational learning. As you
-will see, the phrase “monkey see, monkey do” really is accurate
+will see, the phrase "*monkey see, monkey do*" really is accurate
 (`[link] <#Figure06_04_Monkey>`__). The same could be said about other
 animals. For example, in a study of social learning in chimpanzees,
 researchers gave juice boxes with straws to two groups of captive
 chimpanzees. The first group dipped the straw into the juice box, and
 then sucked on the small amount of juice at the end of the straw. The
 second group sucked through the straw directly, getting much more juice.
-When the first group, the “dippers,” observed the second group, “the
-suckers,” what do you think happened? All of the “dippers” in the first
+When the first group, "the  **dippers**,” observed the second group, “the
+**suckers**,” what do you think happened? All of the “dippers” in the first
 group switched to sucking through the straws directly. By simply
 observing the other chimps and Modelling their behaviour, they learned
-that this was a more efficient method of getting juice:footcite:p:`yamamotoBasisCumulativeCultural2013`.
+that this was a more efficient method of getting juice :footcite:p:`yamamotoBasisCumulativeCultural2013`.
 
 .. figure:: ../resources/CNX_Psych_06_04_Monkey.jpg
    :scale: 100 %
@@ -46,6 +46,9 @@ that this was a more efficient method of getting juice:footcite:p:`yamamotoBasis
 
    A photograph shows a person drinking from a water bottle, and a monkey
    next to the person drinking water from a bottle in the same manner. 
+
+Imitation
+---------
 
 Imitation is much more obvious in humans, but is :term:`imitation` 
 really the sincerest form of flattery?
@@ -90,15 +93,11 @@ Observational learning is much more complex. According to Lefrançois
 Types of Models: Live, verbal and symbolic
 -------------------------------------------
 
-Bandura identified three kinds of models: live, verbal, and symbolic. A
-**live model** demonstrates a behaviour in person, as when Ben stood up on
-his surfboard so that Julian could see how he did it. A **verbal
-instructional model** does not perform the behaviour, but instead explains
-or describes the behaviour, as when a soccer coach tells his young
-players to kick the ball with the side of the foot, not with the toe. A
-**symbolic model** can be fictional characters or real people who
-demonstrate behaviors in books, movies, television shows, video games,
-or Internet sources (`[link] <#Figure06_04_Yoga>`__).
+Bandura identified three kinds of models: live, verbal, and symbolic. 
+
+1. A **live model** demonstrates a behaviour in person, as when Ben stood up on his surfboard so that Julian could see how he did it. 
+2. A **verbal instructional model** does not perform the behaviour, but instead explains or describes the behaviour, as when a soccer coach tells his young players to kick the ball with the side of the foot, not with the toe. 
+3. A **symbolic model** can be fictional characters or real people who demonstrate behaviors in books, movies, television shows, video games, or Internet sources (`[link] <#Figure06_04_Yoga>`__).
 
 .. figure:: ../resources/CNX_Psych_06_04_Yoga.jpg
    :scale: 100 %
@@ -112,7 +111,7 @@ or Internet sources (`[link] <#Figure06_04_Yoga>`__).
 
    Latent learning and Modelling are used all the time in the world of
    marketing and advertising. `This
-   commercial <http://openstax.org/l/jeter>`__ played for months across
+   commercial <https://youtu.be/5j5Xr1t6DJc>`__ played for months across
    the New York, New Jersey, and Connecticut areas, Derek Jeter, an
    award-winning baseball player for the New York Yankees, is
    advertising a Ford. The commercial aired in a part of the country
@@ -124,44 +123,52 @@ or Internet sources (`[link] <#Figure06_04_Yoga>`__).
 Steps In The Modelling Process
 ==============================
 
-Of course, we don’t learn a behavior simply by observing a model.
+Of course, we don’t learn a behaviour simply by observing a model.
 Bandura described specific steps in the process of Modelling that must be
 followed if learning is to be successful: attention, retention,
-reproduction, and motivation. First, you must be focused on what the
-model is doing—you have to pay attention. Next, you must be able to
-retain, or remember, what you observed; this is retention. Then, you
-must be able to perform the behavior that you observed and committed to
-memory; this is reproduction. Finally, you must have motivation. You
-need to want to copy the behavior, and whether or not you are motivated
+reproduction, and motivation: 
+
+1. First, you must be focused on what the model is doing—you have to pay **attention**. 
+2. Next, you must be able to retain, or remember, what you observed; this is **retention**. 
+3. Then, you must be able to perform the behaviour that you observed and committed to memory; this is **reproduction**. 
+4. Finally, you must have **motivation**. 
+   
+Vicarious reinforcement
+-----------------------
+
+You need to want to copy the behaviour, and whether or not you are motivated
 depends on what happened to the model. If you saw that the model was
-reinforced for her behavior, you will be more motivated to copy her.
-This is known as :term:`vicarious reinforcement`. On
-the other hand, if you observed the model being punished, you would be
+reinforced for her behaviour, you will be more motivated to copy her.
+This is known as :term:`vicarious reinforcement`. 
+
+Vicarious punishment
+--------------------
+On the other hand, if you observed the model being punished, you would be
 less motivated to copy her. This is called :term:`vicarious punishment`. 
 For example, imagine that four-year-old Allison
 watched her older sister Kaitlyn playing in their mother’s makeup, and
 then saw Kaitlyn get a time out when their mother came in. After their
 mother left the room, Allison was tempted to play in the make-up, but
 she did not want to get a time-out from her mother. What do you think
-she did? Once you actually demonstrate the new behavior, the
+she did? Once you actually demonstrate the new behaviour, the
 reinforcement you receive plays a part in whether or not you will repeat
-the behavior.
+the behaviour.
 
 Modelling of aggression and violence
 ------------------------------------
 
-Bandura researched Modelling behavior, particularly children’s Modelling
+Bandura researched Modelling behaviour, particularly children’s Modelling
 of adults’ aggressive and violent 
-behaviors:footcite:p:`banduraTransmissionAggressionImitation1961`. 
+behaviors :footcite:p:`banduraTransmissionAggressionImitation1961`. 
 He conducted an experiment with a five-foot inflatable doll that
-he called a **Bobo doll**. In the experiment, children’s aggressive behavior
-was influenced by whether the teacher was punished for her behavior. In
+he called a **Bobo doll**. In the experiment, children’s aggressive behaviour
+was influenced by whether the teacher was punished for her behaviour. In
 one scenario, a teacher acted aggressively with the doll, hitting,
 throwing, and even punching the doll, while a child watched. There were
-two types of responses by the children to the teacher’s behavior. When
-the teacher was punished for her bad behavior, the children decreased
+two types of responses by the children to the teacher’s behaviour. When
+the teacher was punished for her bad behaviour, the children decreased
 their tendency to act as she had. When the teacher was praised or
-ignored (and not punished for her behavior), the children imitated what
+ignored (and not punished for her behaviour), the children imitated what
 she did, and even what she said. They punched, kicked, and yelled at the
 doll.
 
@@ -171,11 +178,18 @@ doll.
    portion of the famous Bobo doll experiment, including an interview
    with Albert Bandura.
 
+Implications
+============
 
 What are the implications of this study? Bandura concluded that we watch
 and learn, and that this learning can have both :term:`prosocial`
-and :term:`antisocial` effects. Prosocial (positive) models can be used to
-encourage socially acceptable behavior. Parents in particular should
+and :term:`antisocial` effects. 
+
+Prosocial effects
+-----------------
+
+Prosocial (positive) models can be used to
+encourage socially acceptable behaviour. Parents in particular should
 take note of this finding. If you want your children to read, then read
 to them. Let them see you reading. Keep books in your home. Talk about
 your favourite books. If you want your children to be healthy, then let
@@ -190,42 +204,58 @@ Jr. and Mahatma Gandhi, are viewed as prosocial models who are able to
 inspire global social change. Can you think of someone who has been a
 prosocial model in your life?
 
-Antisocial Effects of Observational Learning
----------------------------------------------
+.. admonition:: Clinical Correlate: Modelling in Therapy
+   :class: hint
+
+   Modelling is part of exposure technique. Before the patient enters a feared situation,
+   the therapist models the act while the patient is observing. The patient vicariously 
+   learns that the therapist does not experience negative outcome upon entering the situation. 
+
+
+Antisocial Effects
+------------------
 The antisocial effects of observational learning are also worth
 mentioning. As you saw from the example of Claire at the beginning of
-this section, her daughter viewed Claire’s aggressive behavior and
+this section, her daughter viewed Claire’s aggressive behaviour and
 copied it. Research suggests that this may help to explain why abused
 children often grow up to be abusers themselves :footcite:p:`murrellCharacteristicsDomesticViolence2007`. 
-In fact, about 30% of abused children become abusive
-parents (U.S. Department of Health & Human Services, 2013). We tend to
-do what we know. Abused children, who grow up witnessing their parents
-deal with anger and frustration through violent and aggressive acts,
-often learn to behave in that manner themselves. Sadly, it’s a vicious
-cycle that’s difficult to break.
+
+.. admonition:: Clinical Correlate:  Child abuse 
+   :class: attention
+
+   Children who experience abuse during childhood tend to 
+   be perpetrators of abuse themselves, as adults. Physical abuse during
+   childhood is a risk factor for conduct disorder and antisocial personality disorder. 
+   The underlying mechanism is observational learning. 
+   In fact, about 30% of abused children become abusive
+   parents (U.S. Department of Health & Human Services, 2013). We tend to
+   do what we know. Abused children, who grow up witnessing their parents
+   deal with anger and frustration through violent and aggressive acts,
+   often learn to behave in that manner themselves. Sadly, it’s a vicious
+   cycle that’s difficult to break.
 
 .. warning::
    Children learn by observing adults. 
 
-Media Violence controversy
+Media Violence Controversy
 ==========================
 
 Some studies suggest that violent television shows, movies, and video
 games may also have antisocial effects
 (`[link] <#Figure06_04_Videogames>`__) although further research needs
-to be done to understand the correlational and causational aspects of
-media violence and behavior. Some studies have found a link between
-viewing violence and aggression seen in children 
-:footcite:p:`andersonMediaViolenceAggression2008, millerAssociationsCommunityViolence2012` (Anderson & Gentile,
-2008; Kirsch, 2010; Miller, Grabell, Thomas, Bermann, & Graham-Bermann,
-2012). These findings may not be surprising, given that a child
+to be done to understand the correlational and causal aspects of
+media violence and behaviour. Some studies have found a link between
+viewing violence and aggression seen in children :footcite:p:`andersonMediaViolenceAggression2008, millerAssociationsCommunityViolence2012` (Kirsch, 2010). 
+These findings may not be surprising, given that a child
 graduating from high school has been exposed to around 200,000 violent
 acts including murder, robbery, torture, bombings, beatings, and rape
 through various forms of media :footcite:p:`marcBigWorldSmall1993`. Not only might
-viewing media violence affect aggressive behavior by teaching people to
+viewing media violence affect aggressive behaviour by teaching people to
 act that way in real life situations, but it has also been suggested
 that repeated exposure to violent acts also desensitizes people to it.
-Psychologists are working to understand this dynamic.
+While researchers are working to understand this dilemma, the more serious
+concern with video games is addiction. Based on evidence, addiction to games is now recognised by the
+World Health Organization as clinical condition; it is classified under impulse-control disorders in the ICD-11.
 
 .. figure:: ../resources/CNX_Psych_06_04_Videogames.jpg
    :scale: 100 %
