@@ -99,6 +99,12 @@ Bandura identified three kinds of models: live, verbal, and symbolic.
 2. A **verbal instructional model** does not perform the behaviour, but instead explains or describes the behaviour, as when a soccer coach tells his young players to kick the ball with the side of the foot, not with the toe. 
 3. A **symbolic model** can be fictional characters or real people who demonstrate behaviors in books, movies, television shows, video games, or Internet sources (`[link] <#Figure06_04_Yoga>`__).
 
+.. figure:: ../resources/CNX_Psych_06_04_Models.png
+   :scale: 50 %
+   :alt: A figure that shows different types of models. 
+  
+   Three types of Models according to Bandura. 
+
 .. figure:: ../resources/CNX_Psych_06_04_Yoga.jpg
    :scale: 100 %
    :alt: A photograph shows a yogi instructor, and another one shows a child watching television.
