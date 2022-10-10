@@ -20,9 +20,7 @@ conditioning, which are forms of associative learning. In
 others and then imitating, or Modelling, what they do or say. The
 individuals performing the imitated behavior are called :term:`models`.
  Research suggests that this imitative learning
-involves a specific type of neuron, called a mirror neuron (Hickock,
-2010; Rizzolatti, Fadiga, Fogassi, & Gallese, 2002; Rizzolatti, Fogassi,
-& Gallese, 2006).
+involves a specific type of neuron, called a mirror neuron :footcite:p:`hickokRoleMirrorNeurons2010,rizzolattiMirrorNeuronsImitation2002,rizzolattiMirrorsMind2006`.
 
 Humans and other animals are capable of observational learning. As you
 will see, the phrase “monkey see, monkey do” really is accurate
@@ -35,11 +33,10 @@ second group sucked through the straw directly, getting much more juice.
 When the first group, the “dippers,” observed the second group, “the
 suckers,” what do you think happened? All of the “dippers” in the first
 group switched to sucking through the straws directly. By simply
-observing the other chimps and Modelling their behavior, they learned
-that this was a more efficient method of getting juice (Yamamoto, Humle,
-and Tanaka, 2013).
+observing the other chimps and Modelling their behaviour, they learned
+that this was a more efficient method of getting juice:footcite:p:`yamamotoBasisCumulativeCultural2013`.
 
-.. figure:: ../resources/CNX_Psych_06_04_Monkey
+.. figure:: ../resources/CNX_Psych_06_04_Monkey.jpg
    :scale: 100 %
    :alt:  A photograph shows a person drinking from a water bottle, and a monkey next to the person drinking water from a bottle in the same manner.
 
@@ -59,18 +56,21 @@ Anna, take a belt to her teddy bear and whip it. Claire was horrified,
 realizing that Anna was imitating her mother. It was then that Claire
 knew she wanted to discipline her children in a different manner.
 
+Cognitive Factors
+-----------------
+
 Like Tolman, whose experiments with rats suggested a cognitive component
 to learning, psychologist Albert Bandura’s ideas about learning were
-different from those of strict behaviorists. Bandura and other
-researchers proposed a brand of behaviorism called social learning
-theory, which took cognitive processes into account. According to
-:term:`Bandura`, pure behaviorism could
+different from those of strict behaviourists. Bandura and other
+researchers proposed a brand of behaviourism called **social learning theory**, 
+which took cognitive processes into account. According to
+:term:`Bandura`, pure behaviourism could
 not explain why learning can take place in the absence of external
 reinforcement. He felt that internal mental states must also have a role
 in learning and that observational learning involves much more than
 imitation. In imitation, a person simply copies what the model does.
 Observational learning is much more complex. According to Lefrançois
-(2012) there are several ways that observational learning can occur:
+(2012)  there are several ways that observational learning can occur:
 
 1. You learn a new response. After watching your coworker get chewed out
    by your boss for coming in late, you start leaving home 10 minutes
@@ -83,19 +83,26 @@ Observational learning is much more complex. According to Lefrançois
    watching his father get burned on a stove.
 3. You learn a general rule that you can apply to other situations. 
 
+Types of Models: Live, verbal and symbolic
+-------------------------------------------
+
 Bandura identified three kinds of models: live, verbal, and symbolic. A
-live model demonstrates a behavior in person, as when Ben stood up on
-his surfboard so that Julian could see how he did it. A verbal
-instructional model does not perform the behavior, but instead explains
-or describes the behavior, as when a soccer coach tells his young
+**live model** demonstrates a behaviour in person, as when Ben stood up on
+his surfboard so that Julian could see how he did it. A **verbal
+instructional model** does not perform the behaviour, but instead explains
+or describes the behaviour, as when a soccer coach tells his young
 players to kick the ball with the side of the foot, not with the toe. A
-symbolic model can be fictional characters or real people who
+**symbolic model** can be fictional characters or real people who
 demonstrate behaviors in books, movies, television shows, video games,
 or Internet sources (`[link] <#Figure06_04_Yoga>`__).
 
-|Photograph A shows a yoga instructor demonstrating a yoga pose while a
-group of students observes her and copies the pose. Photo B shows a
-child watching television.|\ {: #Figure06_04_Yoga}
+.. figure:: ../resources/CNX_Psych_06_04_Yoga.jpg
+   :scale: 100 %
+   :alt: A photograph shows a yogi instructor, and another one shows a child watching television.
+
+   Photograph A shows a yoga instructor demonstrating a yoga pose while a 
+   group of students observes her and copies the pose. Photo B shows a
+   child watching television.
 
 .. seealso::
 
@@ -111,7 +118,7 @@ child watching television.|\ {: #Figure06_04_Yoga}
    do you think it is?
 
 Steps In The Modelling Process
-=============================
+==============================
 
 Of course, we don’t learn a behavior simply by observing a model.
 Bandura described specific steps in the process of Modelling that must be
@@ -124,10 +131,10 @@ memory; this is reproduction. Finally, you must have motivation. You
 need to want to copy the behavior, and whether or not you are motivated
 depends on what happened to the model. If you saw that the model was
 reinforced for her behavior, you will be more motivated to copy her.
-This is known as **vicarious reinforcement**\ {: data-type=“term”}. On
+This is known as :term:`vicarious reinforcement`. On
 the other hand, if you observed the model being punished, you would be
-less motivated to copy her. This is called **vicarious punishment**\ {:
-data-type=“term”}. For example, imagine that four-year-old Allison
+less motivated to copy her. This is called :term:`vicarious punishment`. 
+For example, imagine that four-year-old Allison
 watched her older sister Kaitlyn playing in their mother’s makeup, and
 then saw Kaitlyn get a time out when their mother came in. After their
 mother left the room, Allison was tempted to play in the make-up, but
@@ -136,10 +143,14 @@ she did? Once you actually demonstrate the new behavior, the
 reinforcement you receive plays a part in whether or not you will repeat
 the behavior.
 
+Modelling of aggression and violence
+------------------------------------
+
 Bandura researched Modelling behavior, particularly children’s Modelling
-of adults’ aggressive and violent behaviors (Bandura, Ross, & Ross,
-1961). He conducted an experiment with a five-foot inflatable doll that
-he called a Bobo doll. In the experiment, children’s aggressive behavior
+of adults’ aggressive and violent 
+behaviors:footcite:p:`banduraTransmissionAggressionImitation1961`. 
+He conducted an experiment with a five-foot inflatable doll that
+he called a **Bobo doll**. In the experiment, children’s aggressive behavior
 was influenced by whether the teacher was punished for her behavior. In
 one scenario, a teacher acted aggressively with the doll, hitting,
 throwing, and even punching the doll, while a child watched. There were
@@ -156,14 +167,14 @@ doll.
    portion of the famous Bobo doll experiment, including an interview
    with Albert Bandura.
 
+
 What are the implications of this study? Bandura concluded that we watch
-and learn, and that this learning can have both **prosocial**\ {:
-data-type=“term” .no-emphasis} and **antisocial**\ {: data-type=“term”
-.no-emphasis} effects. Prosocial (positive) models can be used to
+and learn, and that this learning can have both :term:`prosocial`
+and :term:`antisocial` effects. Prosocial (positive) models can be used to
 encourage socially acceptable behavior. Parents in particular should
 take note of this finding. If you want your children to read, then read
 to them. Let them see you reading. Keep books in your home. Talk about
-your favorite books. If you want your children to be healthy, then let
+your favourite books. If you want your children to be healthy, then let
 them see you eat right and exercise, and spend time engaging in physical
 fitness activities together. The same holds true for qualities like
 kindness, courtesy, and honesty. The main idea is that children observe
@@ -175,6 +186,8 @@ Jr. and Mahatma Gandhi, are viewed as prosocial models who are able to
 inspire global social change. Can you think of someone who has been a
 prosocial model in your life?
 
+Antisocial Effects of Observational Learning
+---------------------------------------------
 The antisocial effects of observational learning are also worth
 mentioning. As you saw from the example of Claire at the beginning of
 this section, her daughter viewed Claire’s aggressive behavior and
