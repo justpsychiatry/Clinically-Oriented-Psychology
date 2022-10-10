@@ -10,7 +10,6 @@ Observational Learning (Modelling)
    :keywords: observational learning, vicarious reinforcement, social learning theory, vicarious punishment, 
    
 
-
 .. card:: Learning Objectives
 
    By the end of this section, you will be able to: 
@@ -197,8 +196,8 @@ The antisocial effects of observational learning are also worth
 mentioning. As you saw from the example of Claire at the beginning of
 this section, her daughter viewed Claire’s aggressive behavior and
 copied it. Research suggests that this may help to explain why abused
-children often grow up to be abusers themselves (Murrell, Christoff, &
-Henning, 2007). In fact, about 30% of abused children become abusive
+children often grow up to be abusers themselves :footcite:p:`murrellCharacteristicsDomesticViolence2007`. 
+In fact, about 30% of abused children become abusive
 parents (U.S. Department of Health & Human Services, 2013). We tend to
 do what we know. Abused children, who grow up witnessing their parents
 deal with anger and frustration through violent and aggressive acts,
@@ -207,6 +206,9 @@ cycle that’s difficult to break.
 
 .. warning::
    Children learn by observing adults. 
+
+Media Violence controversy
+==========================
 
 Some studies suggest that violent television shows, movies, and video
 games may also have antisocial effects
@@ -219,14 +221,18 @@ viewing violence and aggression seen in children
 2012). These findings may not be surprising, given that a child
 graduating from high school has been exposed to around 200,000 violent
 acts including murder, robbery, torture, bombings, beatings, and rape
-through various forms of media (Huston et al., 1992). Not only might
+through various forms of media :footcite:p:`marcBigWorldSmall1993`. Not only might
 viewing media violence affect aggressive behavior by teaching people to
 act that way in real life situations, but it has also been suggested
 that repeated exposure to violent acts also desensitizes people to it.
 Psychologists are working to understand this dynamic.
 
-|A photograph shows two children playing a video game and pointing a
-gun-like object toward a screen.|\ {: #Figure06_04_Videogames}
+.. figure:: ../resources/CNX_Psych_06_04_Videogames.jpg
+   :scale: 100 %
+   :alt: A photograph shows two children playing a video game and pointing a gun-like object toward a screen
+
+   A photograph shows two children playing a video game and pointing a
+   gun-like object toward a screen
 
 .. seealso::
 
@@ -357,6 +363,7 @@ Personal Application Questions
 
 References
 -----------
+
   .. footbibliography::
 
 
