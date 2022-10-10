@@ -269,7 +269,16 @@ and anxiety are the conditioned response.
     secluded in this way during aggression, they may associate the seclusion room with anger and thus, the seclusion room may provoke even more anger. 
 
        
- 
+.. admonition:: Clinical Correlate: Drug Overdose
+   :class: caution
+
+   Classical conditioning may occur between drug use and the surrounding environment, for example,
+   the people, the place, and the objects. These may elicit and physiological response in the patient. 
+   Returning to such an environment and using the drug again after an interval may precipitate overdose toxicity.
+   The user may have escalated the dose due to higher tolerance. Upon return, using a higher dose. along with the
+   physiological response produced by the cues may underlie this overdose toxicity, even with the use of currently
+   normal dose. 
+
 
 General Processes In Classical Conditioning
 ===========================================
@@ -306,16 +315,15 @@ D.  The temporal relationship between the conditioned stimulus and the unconditi
    an association with the feared stimuli, eg, dust, if the patient remains untreated for long. 
    Thus, patients with chronic OCD experience the distress directly because of the feared stimuli. 
 
-Immediacy
-~~~~~~~~~
+Stimulus contingency
+~~~~~~~~~~~~~~~~~~~~
+
 Timing is important for conditioning to occur. Typically, there should only be
 a brief interval between presentation of the conditioned stimulus and
 the unconditioned stimulus. Depending on what is being conditioned,
 sometimes this interval is as little as **5 seconds** (Chance, 2009).
 However, with other types of conditioning, the interval can be up to
-several hours.
-
-.. admonition:: Clinical Application
+**several hours.**
 
 Taste-aversion
 --------------
@@ -345,9 +353,9 @@ such as helping cancer patients through the nausea induced by certain
 treatments :footcite:p:`holmesFoodAvoidancePatients1993` (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
 Wismer, 2007; Skolin et al., 2006).
 
-   .. important::
+.. important::
 
-      Conditioned taste-aversion may be evolutionary adaptation to help survival. 
+   Conditioned taste-aversion may be evolutionary adaptation to help survival. 
 ... 
 
 
@@ -423,6 +431,14 @@ rest period (`[link] <#Figure06_02_Recovery>`__).
    line begins, it is labelled “Spontaneous recovery of CR”; the halfway
    point on the line is labelled “Extinction (CS alone).”
 
+Renewal effect
+~~~~~~~~~~~~~~
+
+Renewal effect occurs when extinction occurs in a different environment
+than where the acquisition had occurred. 
+It refers to recovery of conditioned response upon returning to the environment
+where when acquisition had occurred.  
+
 Of course, these processes also apply in humans. For example, let’s say
 that every day when you walk to campus, an ice cream truck passes your
 route. Day after day, you hear the truck’s music (neutral stimulus), so
@@ -454,16 +470,17 @@ happens? Your mouth begins to water again. Why? After a break from
 conditioning, the conditioned response reappears, which indicates
 spontaneous recovery.
 
-.. admonition:: Clinical Correlate: Spontaneous Recovery in Substance Use
+.. admonition:: Clinical Correlate: Renewal Effect in Substance Use
    :class: hint
 
    Upon returning to home, patients with substance use disorders
    who have been detoxified and even rehabilitated, are at a high risk
-   of relapse, because of spontaneous recovery. Cues to which the patient has 
+   of relapse, because of renewal effect. Cues to which the patient has 
    previous been conditioned may trigger this relapse. **Cue Exposure Therapy**
    aims to reduce this risk. In addition to extinction, patients are repeatedly
    exposed to the cues that are likely to trigger relapse, thus causing 
-   desensitization.  
+   desensitization/habituation. This way the risk of renewal effect and 4
+   spontaneous recovery is minimised.
 
 
 Acquisition and extinction involve the strengthening and weakening,
