@@ -126,7 +126,7 @@ with being fed, and they began to salivate (CR) in anticipation of food.
 
 
 Real World Application Of Classical Conditioning
-================================================
+------------------------------------------------
 
 How does classical conditioning work in the real world? Let’s say you
 have a cat named Tiger, who is quite spoiled. You keep her food in a
@@ -214,7 +214,7 @@ the bell alone.
 ..
 
 Classical Conditioning in humans
-================================
+--------------------------------
 
 Classical conditioning also applies to humans, even babies. For example,
 Sara buys formula in blue canisters for her six-month-old daughter,
@@ -278,9 +278,23 @@ and anxiety are the conditioned response.
    The user may have escalated the dose due to higher tolerance. Upon return, using a higher dose. along with the
    physiological response produced by the cues may underlie this overdose toxicity, even with the use of currently
    normal dose. 
+...
 
+Evaluative Conditioning of Attitudes
+------------------------------------
 
-General Processes In Classical Conditioning
+Evaluative conditioning refers to alteration in the liking of a stimulus after the stimulus
+is paired repeatedly with a positive or negative stimulus. For example, advertisers associate their
+products with positive stimuli, like a the picture of a celebrity. Similarly, association with negative
+stimuli may reduce the liking of someone or something. 
+
+.. admonition:: Clinical Correlate: Anti-smoking Campaigns
+   :class: hint
+
+   One of the anti-smoking campaigns involve putting nasty-looking cancer pictures on cigarette
+   packs.  This technique aims to change people's attitude towards smoking. 
+
+Basic Processes In Classical Conditioning
 ===========================================
 
 Now that you know how classical conditioning works and have seen several
@@ -297,7 +311,7 @@ response, and eventually the neutral stimulus becomes a conditioned
 stimulus capable of eliciting the conditioned response by itself. 
 
 Factors in Acquisition
-``````````````````````
+======================
 
 There are four major factors that facilitate the acquisition of a classically conditioned response:
 
@@ -321,7 +335,7 @@ Stimulus contingency
 Timing is important for conditioning to occur. Typically, there should only be
 a brief interval between presentation of the conditioned stimulus and
 the unconditioned stimulus. Depending on what is being conditioned,
-sometimes this interval is as little as **5 seconds** (Chance, 2009).
+sometimes this interval is as little as **5 seconds** :footcite:p:`chanceLearningBehavior2013`.
 However, with other types of conditioning, the interval can be up to
 **several hours.**
 
@@ -430,6 +444,7 @@ rest period (`[link] <#Figure06_02_Recovery>`__).
    begins midway and drops sharply to the bottom. At the point where the
    line begins, it is labelled “Spontaneous recovery of CR”; the halfway
    point on the line is labelled “Extinction (CS alone).”
+...
 
 Renewal effect
 ~~~~~~~~~~~~~~
@@ -509,7 +524,7 @@ can opener and the sound of the electric mixer. When the electric mixer
 is going, Tiger is not about to be fed, so she does not come running to
 the kitchen looking for food.
 
-.. tip::
+.. hint::
 
    Manipulative patients may exhibit manipulative behaviour at the ward
    just when the conditions are right—unusually when most staff is not 
@@ -518,7 +533,7 @@ the kitchen looking for food.
    to be rewarded. This involves both, classical and operant conditioning. 
 
 Stimulus generalization
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 On the other hand, when an organism demonstrates the conditioned
 response to stimuli that are similar to the condition stimulus, it is
@@ -535,17 +550,21 @@ apart).
 
 
 Habituation
-~~~~~~~~~~~~
+-----------
 
 Sometimes, classical conditioning can lead to habituation.
 :term:`Habituation` occurs when we learn not to
 respond to a stimulus that is presented repeatedly without change. As
-the stimulus occurs over and over, we learn not to focus our attention
+the stimulus occurs over and over, we tend not to focus our attention
 on it. For example, imagine that your neighbour or roommate constantly
 has the television blaring. This background noise is distracting and
 makes it difficult for you to focus when you’re studying. However, over
 time, you become accustomed to the stimulus of the television noise, and
 eventually you hardly notice it any longer.
+
+**Fear extinction** may occur in similar manner, the fear occurs in the absence of 
+an actual danger. Overtime, patients learn that the situation is not as threatening 
+as previously perceived and desensitization ensues. 
 
 .. admonition:: Clinical Correlate: Extinction with Response Prevention
    :class: hint
@@ -554,11 +573,15 @@ eventually you hardly notice it any longer.
    treatment for OCD. In this technique, the patient is asked to inhibit
    responses (eg washing hands or checking door) for increasing duration while
    being exposed to the conditions that provoke distress. When the patient practices
-   this repeatedly, habituation takes place. The feared situation induces gradually 
+   this repeatedly, **habituation** takes place. The feared situation induces gradually 
    decreasing amount of anxiety. This is done in a stepwise, structured manner to
    avoid inducing unbearable anxiety in the patient. 
 
- 
+.. caution::
+
+   Habituation will not occur to anxiety if exposure occurs with relaxation techniques or
+   anxiolytics are used. For the treatment of phobias, OCD and other anxiety disorders, the use
+   of relaxation-techniques during exposure to the feared situation, is therefore, controversial. 
 
 Behaviourism
 ============
@@ -567,7 +590,7 @@ John B. :term:`Watson`, shown in
 `[link] <#Figure06_02_Watson>`__, is considered the founder of
 behaviourism. behaviourism is a school of thought that arose during the
 first part of the 20th century, which incorporates elements of Pavlov’s
-classical conditioning (Hunt, 2007). In stark contrast with Freud, who
+classical conditioning :footcite:p:`huntStoryPsychology2009`. In stark contrast with Freud, who
 considered the reasons for behaviour to be hidden in the unconscious,
 Watson championed the idea that all behaviour can be studied as a simple
 stimulus-response reaction, without regard for internal processes.
