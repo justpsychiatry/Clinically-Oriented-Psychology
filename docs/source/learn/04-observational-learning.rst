@@ -99,11 +99,6 @@ Bandura identified three kinds of models: live, verbal, and symbolic.
 2. A **verbal instructional model** does not perform the behaviour, but instead explains or describes the behaviour, as when a soccer coach tells his young players to kick the ball with the side of the foot, not with the toe. 
 3. A **symbolic model** can be fictional characters or real people who demonstrate behaviors in books, movies, television shows, video games, or Internet sources (`[link] <#Figure06_04_Yoga>`__).
 
-.. figure:: ../resources/CNX_Psych_06_04_Models.png
-   :scale: 50 %
-   :alt: A figure that shows different types of models. 
-  
-   Three types of Models according to Bandura. 
 
 .. figure:: ../resources/CNX_Psych_06_04_Yoga.jpg
    :scale: 100 %
@@ -158,7 +153,12 @@ depends on what happened to the model. If you saw that the model was
 reinforced for her behaviour, you will be more motivated to copy her.
 This is known as :term:`vicarious reinforcement`. 
 
+.. admonition:: Clinical Correlate: Application of vicarious reinforcement
+   :class: hint
 
+   Vicarious reinforcement may be employed in behaviour therapies for children. 
+   A sibling can be rewarded for a desirable behaviour while the child under treatment is 
+   observing.  The reward must be appropriate, eg, praise, and not likely to trigger a tantrum. 
 
 Vicarious punishment
 --------------------
@@ -198,7 +198,7 @@ doll.
    with Albert Bandura.
 
 Implications
-============
+------------
 
 What are the implications of this study? Bandura concluded that we watch
 and learn, and that this learning can have both :term:`prosocial`
@@ -276,12 +276,14 @@ While researchers are working to understand this dilemma, the more serious
 concern with video games is addiction. Based on evidence, addiction to games is now recognised by the
 World Health Organization as clinical condition; it is classified under impulse-control disorders in the ICD-11.
 
-.. figure:: ../resources/CNX_Psych_06_04_Videogames.jpg
+.. figure:: ../resources/CNX_Psych_06_04_MediaViolence.png
    :scale: 100 %
-   :alt: A photograph shows two children playing a video game and pointing a gun-like object toward a screen
+   :alt: An illustration shows the relationship between exposure to media violence and aggressive behaviour. 
 
-   A photograph shows two children playing a video game and pointing a
-   gun-like object toward a screen
+   Exposure to media violence might contribute to increased aggression, yet it could be the
+   individual's tendency towards aggression that they have a greater exposure to media violence. 
+   A genetic predisposition to aggressive behaviour might be the denominator predisposing the individuals
+   to both aggressive behaviour and a liking for games and movies involving aggression.   
 
 .. seealso::
 
@@ -384,6 +386,25 @@ Critical Thinking Questions
       Cara is more likely to drink at the party because she has observed
       her parents drinking regularly. Children tend to follow what a
       parent does rather than what they say.
+
+.. card::
+
+   .. card::
+
+      After an incident of violence in the city, a TV channel contacted you to 
+      record your views on the causes of aggression. What may be the effect 
+      of watching aggression on the viewer's behaviour?
+
+   .. dropdown::
+
+      This is a circular argument. There is evidence for the association of greater 
+      exposure to media violence and increased aggression, but the whether the elevated risk of aggression
+      and violence is due to the increased exposure to aggression through media is controversial. 
+      It is possible that 
+      exposure to violence through media and aggressive behaviour are both caused by a common 
+      denominator such as genetic predisposition. 
+
+      
 
 Personal Application Questions
 ==============================

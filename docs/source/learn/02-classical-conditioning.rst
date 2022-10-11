@@ -125,8 +125,8 @@ with being fed, and they began to salivate (CR) in anticipation of food.
    rung.
 
 
-Real World Application Of Classical Conditioning
-------------------------------------------------
+Applications of Classical Conditioning
+---------------------------------------
 
 How does classical conditioning work in the real world? Let’s say you
 have a cat named Tiger, who is quite spoiled. You keep her food in a
@@ -773,6 +773,11 @@ explain how some fears develop.
     .. dropdown:: Check Answer
 
        B
+
+.. admonition:: Practice Questions
+   :class: important
+
+   More practice questions are given at the end of this Chapter. See ::ref:`BCQs` 
 
 Critical Thinking Questions
 ===========================

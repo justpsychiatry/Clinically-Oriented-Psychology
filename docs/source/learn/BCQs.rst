@@ -1,145 +1,117 @@
-=====================
-Best-Choice Questions
-=====================
+.. _theories-of-learning-bcqs:
+
+.. _
+
+==========================================
+Theories of Learning Best-Choice Questions
+==========================================
 
 
-.. card:: Q1
-    
-    In which type of learning does a neutral stimulus cause a response?
-    
-     a. Classical conditioning
-     b. Latent learning
-     c. Observational learning
-     d. Operant conditioning
-     e. Social learning
+The following are some free practice questions on this chapter. 
+For answers and explanations, google **Justpsychiatry Question Bank**.
 
-    .. dropdown::
+.. card:: BCQ
+
+    .. card:: Q1
+        
+        In which type of learning does a neutral stimulus cause a response?
+        
+        a. Classical conditioning
+        b. Latent learning
+        c. Observational learning
+        d. Operant conditioning
+        e. Social learning
+
+        .. dropdown:: Explanation
+            
         An unconditioned stimulus causes an unconditioned response. According to
         the principles of classical conditioning, if we pair another
         stimulus---the neutral stimulus---with the unconditioned stimulus for a
         long time, the neutral stimulus would evoke a conditioned response. The
         best answer would be classical conditioning. (McSweeney & Murphy, 2014)
 
-1.  Keeping the principles of conditioning theories in mind, which one
-    of the following is a stimulus that does not initially cause a
-    response?
+.. card:: BCQ
 
-        Neutral stimulus
-        Primary reinforcer
-        Prompt
-        Secondary reinforcer
-        Unconditioned stimulus
+    .. card:: Q2
+    
+     Keeping the principles of conditioning theories in mind, which one
+     of the following is a stimulus that does not initially cause a
+     response?
+
+     a. Neutral stimulus
+     b. Primary reinforcer
+     c. Prompt
+     d. Secondary reinforcer
+     e. Unconditioned stimulus
    
    .. dropdown::
+       
         A neutral stimulus is a stimulus that does not initially cause a
         response. An unconditioned stimulus reflexively triggers a response.
 
-2.  Considering the principles of conditioning theories, which one
+.. card:: Q3
+    
+    Considering the principles of conditioning theories, which one
     refers to a situation or event that reflexively and automatically
     triggers a response?
 
-An unconditioned response is an automatic reaction to the unconditioned
-stimulus, a situation or event that reflexively and automatically
-triggers a response. A neutral stimulus does not initially cause a
-response.
+       a. Motor reflex
+       b. Neutral stimulus
+       c. Primary reinforcer
+       d. Unconditioned reaction
+       e. Unconditioned stimulus
 
-Motor reflex
-
-Neutral stimulus
-
-Primary reinforcer
-
-Unconditioned reaction
-
-\*Unconditioned stimulus
-
-Learning theories
-
-4.  A therapist is helping a patient learn social skills. One skill the
+1.  A therapist is helping a patient learn social skills. One skill the
     therapist wants him to develop is a social smile. He gave him an
     exercise to smile every time he greets someone, with the underlying
     intention to make him likeable and pleasant. If he does this as
     advised, what would be the reinforcement schedule for his social
     contacts?
 
-The interval between meeting people is variable.
+     The interval between meeting people is variable.
 
-Continuous
+        Continuous
+        Fixed-Interval
+        Fixed Ratio
+        Variable-Interval
+        Variable-Ratio
 
-Fixed-Interval
-
-Fixed Ratio
-
-\*Variable-Interval
-
-Variable-Ratio
-
-Learning theories
-
-5.  According to the psychologist who conducted the Bobo doll
+2. According to the psychologist who conducted the Bobo doll
     experiment, young children can learn by watching other children. Who
     founded this type of learning?
 
-The Bobo doll experiments were a series of experiments performed by
-psychologist Albert Bandura between 1961 and 1963 to test his social
-learning theory. His most remarkable experiment evaluated children's
-behaviour after they observed an adult model physically abusing the Bobo
-doll and then experiencing a reward, punishment, or no consequence at
-all.
+    The Bobo doll experiments were a series of experiments performed by
+    psychologist Albert Bandura between 1961 and 1963 to test his social
+    learning theory. His most remarkable experiment evaluated children's
+    behaviour after they observed an adult model physically abusing the Bobo
+    doll and then experiencing a reward, punishment, or no consequence at
+    all.
 
-\*Albert Bandura
+    #. Albert Bandura
+    #. BF Skinner
+    #. Edward Thorndike
+    #. John Watson
+    #. Pavlov
 
-BF Skinner
-
-Edward Thorndike
-
-John Watson
-
-Pavlov
-
-Learning theories
-
-6.  According to the theory of social learning, which one refers to a
+3.  According to the theory of social learning, which one refers to a
     person who can influence people with positive or negative behaviour?
 
-Bandura's theory states that people learn via observation, imitation,
-and modelling. Thus, our role model concept is born. The more learners
-collaborate with these role models, the more they imitate their good
-behaviours.
+    #. Antisocial Model
+    #. Leader
+    #. Modeller
+    #. Prosocial Model
+    #. Role Model
 
-Antisocial Model
-
-Leader
-
-Modeller
-
-Prosocial Model
-
-\*Role Model
-
-Learning theories
-
-1.  In which one of the following does trial and error learning lead to
+4.  In which one of the following does trial and error learning lead to
     an association of stimuli and responses?
 
-In operant conditioning, which we also know as instrumental
-conditioning, trial and error cause the association of stimuli and
-response, and the behaviours help achieve a goal. The best answer would
-be operant conditioning.
+    #. Classical conditioning
+    #. Latent learning
+    #. Observational learning
+    #. Operant conditioning
+    #. The law of effect
 
-Classical conditioning
-
-Latent learning
-
-Observational learning
-
-\*Operant conditioning
-
-The law of effect
-
-Learning theories
-
-7.  Any response followed by a satisfying situation is likely to be
+5.  Any response followed by a satisfying situation is likely to be
     repeated, while behaviours resulting in an annoying situation are
     less likely to occur. Which one of the following does it describe?
 
