@@ -1,7 +1,5 @@
 .. _theories-of-learning-bcqs:
 
-.. _
-
 ==========================================
 Theories of Learning Best-Choice Questions
 ==========================================

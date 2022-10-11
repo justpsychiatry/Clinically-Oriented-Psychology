@@ -777,7 +777,7 @@ explain how some fears develop.
 .. admonition:: Practice Questions
    :class: important
 
-   More practice questions are given at the end of this Chapter. See ::ref:`BCQs` 
+   More practice questions are given at the end of this Chapter. See :ref:`theories-of-learning-bcqs` 
 
 Critical Thinking Questions
 ===========================
