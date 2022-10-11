@@ -11,42 +11,26 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
 .. card:: BCQ
 
     .. card:: Q1
-        
         In which type of learning does a neutral stimulus cause a response?
         
-        a. Classical conditioning
-        b. Latent learning
-        c. Observational learning
-        d. Operant conditioning
-        e. Social learning
-
-        .. dropdown:: Explanation
-            
-        An unconditioned stimulus causes an unconditioned response. According to
-        the principles of classical conditioning, if we pair another
-        stimulus---the neutral stimulus---with the unconditioned stimulus for a
-        long time, the neutral stimulus would evoke a conditioned response. The
-        best answer would be classical conditioning. (McSweeney & Murphy, 2014)
+        #. Classical conditioning
+        #. Latent learning
+        #. Observational learning
+        #. Operant conditioning
+        #. Social learning
 
 .. card:: BCQ
 
     .. card:: Q2
-    
-     Keeping the principles of conditioning theories in mind, which one
-     of the following is a stimulus that does not initially cause a
-     response?
+        Keeping the principles of conditioning theories in mind, which one 
+        of the following is a stimulus that does not initially cause a response?
 
-     a. Neutral stimulus
-     b. Primary reinforcer
-     c. Prompt
-     d. Secondary reinforcer
-     e. Unconditioned stimulus
+        #. Neutral stimulus
+        #. Primary reinforcer
+        #. Prompt
+        #. Secondary reinforcer
+        #. Unconditioned stimulus
    
-   .. dropdown::
-       
-        A neutral stimulus is a stimulus that does not initially cause a
-        response. An unconditioned stimulus reflexively triggers a response.
-
 .. card:: Q3
     
     Considering the principles of conditioning theories, which one
@@ -59,31 +43,22 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
        d. Unconditioned reaction
        e. Unconditioned stimulus
 
-1.  A therapist is helping a patient learn social skills. One skill the
+#.  A therapist is helping a patient learn social skills. One skill the
     therapist wants him to develop is a social smile. He gave him an
     exercise to smile every time he greets someone, with the underlying
     intention to make him likeable and pleasant. If he does this as
     advised, what would be the reinforcement schedule for his social
     contacts?
 
-     The interval between meeting people is variable.
+        #. Continuous
+        #. Fixed-Interval
+        #. Fixed Ratio
+        #. Variable-Interval
+        #. Variable-Ratio
 
-        Continuous
-        Fixed-Interval
-        Fixed Ratio
-        Variable-Interval
-        Variable-Ratio
-
-2. According to the psychologist who conducted the Bobo doll
+#.  According to the psychologist who conducted the Bobo doll
     experiment, young children can learn by watching other children. Who
     founded this type of learning?
-
-    The Bobo doll experiments were a series of experiments performed by
-    psychologist Albert Bandura between 1961 and 1963 to test his social
-    learning theory. His most remarkable experiment evaluated children's
-    behaviour after they observed an adult model physically abusing the Bobo
-    doll and then experiencing a reward, punishment, or no consequence at
-    all.
 
     #. Albert Bandura
     #. BF Skinner
@@ -91,7 +66,7 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
     #. John Watson
     #. Pavlov
 
-3.  According to the theory of social learning, which one refers to a
+#.  According to the theory of social learning, which one refers to a
     person who can influence people with positive or negative behaviour?
 
     #. Antisocial Model
@@ -100,7 +75,7 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
     #. Prosocial Model
     #. Role Model
 
-4.  In which one of the following does trial and error learning lead to
+#.  In which one of the following does trial and error learning lead to
     an association of stimuli and responses?
 
     #. Classical conditioning
@@ -109,89 +84,46 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
     #. Operant conditioning
     #. The law of effect
 
-5.  Any response followed by a satisfying situation is likely to be
+#.  Any response followed by a satisfying situation is likely to be
     repeated, while behaviours resulting in an annoying situation are
     less likely to occur. Which one of the following does it describe?
 
-The best answer would be the "law of effect", which Edward Thorndike
-proposed in the early twentieth century. The law states that favourable
-consequences of behaviours increase, while unfavourable decrease the
-likelihood of the behaviour (that lead to the negative outcome). Unlike
-skinner's operant conditioning, it does not describe reinforcement (or
-punishment) of a behaviour.
+    #. Classical conditioning
+    #. Latent learning
+    #. Observational learning
+    #. Operant conditioning
+    #. The law of effect
 
-Classical conditioning
-
-Latent learning
-
-Observational learning
-
-Operant conditioning
-
-\*The law of effect
-
-Learning theories
-
-8.  Years after Pavlov described classical conditioning, a theorist
+#.  Years after Pavlov described classical conditioning, a theorist
     pointed out how classical conditioning explained
     automatically-elicited behaviours but not the more complex
     voluntarily emitted behaviours. Who was this person?
 
-BF Skinner pointed out that classical conditioning explained
-automatically elicited behaviours but could not explain more complex
-voluntarily emitted behaviours. He founded operant conditioning---a
-theory of behaviour based on the way behaviours operate in the
-environment.
+    #. BF Skinner
+    #. Freud
+    #. Ivan Pavlov
+    #. LL Thurstone
+    #. Piaget
 
-\*BF Skinner
-
-Freud
-
-Ivan Pavlov
-
-LL Thurstone
-
-Piaget
-
-Learning theories
-
-9.  Which one of these refers to a relatively stable change in behaviour
+#.  Which one of these refers to a relatively stable change in behaviour
     due to experience:
 
-The best answer would be learning. Types of learning might include
-operant conditioning, classical conditioning, and observational
-learning.
+    #. Continuation
+    #. Development
+    #. Learning
+    #. Temperament
+    #. Trait
 
-Continuation
-
-Development
-
-\*Learning
-
-Temperament
-
-Trait
-
-Learning theories
-
-10. From the perspective of learning theories, which one refers to
+#.  From the perspective of learning theories, which one refers to
     something in the environment a person can react to or respond to?
 
-The best answer would be a stimulus.
+    #. Contingency
+    #. Reaction
+    #. Reinforcer
+    #. Response
+    #. Stimulus
 
-Contingency
-
-Reaction
-
-Reinforcer
-
-Response
-
-\*Stimulus
-
-Learning theories
-
-11. From the perspective of learning theories, which one refers to
+#.  From the perspective of learning theories, which one refers to
     behaviour or reaction to something in the environment?
 
 The best answer would be a response.
