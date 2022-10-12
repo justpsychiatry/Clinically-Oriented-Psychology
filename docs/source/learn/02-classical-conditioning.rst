@@ -725,7 +725,7 @@ explain how some fears develop.
       1. unconditioned stimulus
       2. neutral stimulus
       3. conditioned stimulus
-      4. unconditioned response {: type=“a”}
+      4. unconditioned response
 
     .. dropdown:: Check Answer
 
@@ -740,7 +740,7 @@ explain how some fears develop.
       1. higher order conditioning
       2. acquisition
       3. stimulus discrimination
-      4. stimulus generalization {: type=“a”}
+      4. stimulus generalization
 
      .. dropdown:: Check Answer
 
@@ -756,19 +756,19 @@ explain how some fears develop.
       3. the neutral stimulus is presented repeatedly without being
          paired with an unconditioned stimulus
       4. the neutral stimulus is presented repeatedly without being
-         paired with a conditioned stimulus {: type=“a”}
+         paired with a conditioned stimulus
 
      .. dropdown:: Check Answer
 
        A
   .. Card:: Question
 
-      In Pavlov’s work with dogs, the psychic secretions were \________.
+      In Pavlov’s work with dogs, the psychic secretions were:
 
       1. unconditioned responses
       2. conditioned responses
       3. unconditioned stimuli
-      4. conditioned stimuli {: type=“a”}
+      4. conditioned stimuli
 
     .. dropdown:: Check Answer
 
@@ -777,7 +777,8 @@ explain how some fears develop.
 .. admonition:: Practice Questions
    :class: important
 
-   More practice questions are given at the end of this Chapter. See :ref:`theories-of-learning-bcqs` 
+   More practice questions are given at the end of this Chapter. 
+   See :ref:`theories-of-learning-bcqs` 
 
 Critical Thinking Questions
 ===========================
@@ -835,16 +836,11 @@ Critical Thinking Questions
 Personal Application Questions
 ==============================
 
-.. card:: Personal Application Question
-   :shadow: md
-   :card-class: sd-rounded-2
-
-   .. hint::
-
-      Can you think of an example in your life of how classical
-      conditioning has produced a positive emotional response, such as
-      happiness or excitement? How about a negative emotional response,
-      such as fear, anxiety, or anger?
+1. What is classical conditioning and who described it? 
+2. Can you think of an example in your life of how classical 
+   conditioning has produced a positive emotional response, such as
+   happiness or excitement? How about a negative emotional response,
+   such as fear, anxiety, or anger?
 
 ...
 

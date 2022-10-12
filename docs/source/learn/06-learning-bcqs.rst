@@ -6,7 +6,7 @@ Theories of Learning Best-Choice Questions
 
 
 The following are some free practice questions on this chapter. 
-For answers and explanations, google **Justpsychiatry Question Bank**.
+For answers and explanations, google **Psychiatry Question Bank Justpsychiatry**.
 
 .. card:: BCQ
 
@@ -20,8 +20,7 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
         #. Social learning
 
 .. card:: BCQ
-
-    .. card:: Q2
+ 
         Keeping the principles of conditioning theories in mind, which one 
         of the following is a stimulus that does not initially cause a response?
 

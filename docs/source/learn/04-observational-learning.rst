@@ -44,6 +44,7 @@ that this was a more efficient method of getting juice :footcite:p:`yamamotoBasi
    :scale: 100 %
    :alt:  A photograph shows a person drinking from a water bottle, and a monkey next to the person drinking water from a bottle in the same manner.
 
+   Monkey See, Monkey Do!
    A photograph shows a person drinking from a water bottle, and a monkey
    next to the person drinking water from a bottle in the same manner. 
 

@@ -1083,6 +1083,9 @@ Personal Application Questions
 
 1. Explain the difference between negative reinforcement and punishment, and provide several examples of each based on your own experiences.
 2. Think of a behaviour that you have that you would like to change. How could you use behaviour modification, specifically positive reinforcement, to change your behaviour? What is your positive reinforcer?
+3. A young house officer usually attends educational seminars only if there is a post-seminar lunch, or if he knows that there will be a photo session with the chief guest, otherwise, he either gets himself posted at ER on that day or reports sick. Explain the behavior of the house officer according to B.F Skinner's theory.
+4. What are the schedules of reinforcement?
+5. What reinforcers can you use in clinical settings?
 
 
 Glossary
