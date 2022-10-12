@@ -125,97 +125,49 @@ For answers and explanations, google **Psychiatry Question Bank Justpsychiatry**
 #.  From the perspective of learning theories, which one refers to
     behaviour or reaction to something in the environment?
 
-The best answer would be a response.
+    #. Consequence
+    #. Pairing
+    #. Reinforcer
+    #. Response
+    #. Stimulus
 
-Consequence
-
-Pairing
-
-Reinforcer
-
-\*Response
-
-Stimulus
-
-Learning theories
-
-12. Considering the principles of conditioning theories, which one
+1.  Considering the principles of conditioning theories, which one
     refers to an automatic reaction to the unconditioned stimulus?
 
-An unconditioned response is the automatic response of a subject to the
-unconditioned stimulus. An unconditioned stimulus is a situation or
-event that reflexively and automatically triggers a response. A neutral
-stimulus does not initially cause a response.
+    #. Conditioned Reaction
+    #. Conditioned Response
+    #. Primary outcome
+    #. Unconditioned Reaction
+    #. Unconditioned Response
 
-Conditioned Reaction
-
-Conditioned Response
-
-Primary outcome
-
-\*Unconditioned Reaction
-
-Unconditioned Response
-
-Learning theories
-
-13. Which one of the following refers to developing a new response or
+2.  Which one of the following refers to developing a new response or
     learning?
 
-Acquisition refers to the initial stages of learning when a response is
-established. Classical conditioning refers to the period when the
-stimulus comes to evoke the conditioned response.
+    #. Acquisition
+    #. Discrimination
+    #. Extinction
+    #. Fading
+    #. Generalisation
 
-\*Acquisition
 
-Discrimination
+3.  Lessening a learned response:
 
-Extinction
+    #. Acquisition
+    #. Discrimination
+    #. Extinction
+    #. Fading
+    #. Generalisation
 
-Fading
-
-Generalisation
-
-Learning theories
-
-14. Lessening a learned response:
-
-Lessening a learned response is stimulus extinction.
-
-Acquisition
-
-Discrimination
-
-\*Extinction
-
-Fading
-
-Generalisation
-
-Learning theories
-
-15. The famous early physician who, while studying the digestion of
+1.  The famous early physician who, while studying the digestion of
     dogs, discovered classical conditioning:
 
-Ivan Petrovich Pavlov was a famous Russian physiologist who won a noble
-prize in physiology and medicine. While experimenting on the digestive
-system of dogs, he observed that the dog would salivate even before he
-would offer him meat, only on hearing a bell ringing or by other cues of
-meat being imminently served to the dog.
+    #. Abraham Maslow
+    #. Albert Bandura
+    #. BF Skinner
+    #. Ivan Pavlov
+    #. John Watson
 
-Abraham Maslow
-
-Albert Bandura
-
-BF Skinner
-
-\*Ivan Pavlov
-
-John Watson
-
-Learning theories
-
-16. Keeping the learning principles in mind, which one of these refers
+1.  Keeping the learning principles in mind, which one of these refers
     to the tendency to emit a similar response to two "almost similar"
     stimuli?
 
@@ -230,38 +182,22 @@ causes the fear and avoidance of similar circumstances, leading to a
 social anxiety disorder or agoraphobia.
 
 Acquisition
-
 Discrimination
-
 Extinction
-
-\*Generalisation
-
+Generalisation
 Indifference
 
-Learning theories
-
-17. According to this perspective, psychology should be restricted to
+1.  According to this perspective, psychology should be restricted to
     studying observable behaviours:
 
-Behaviourism is the theory that we can explain behaviour by the
-principles of conditioning, without taking thought or feelings into
-consideration and that we can treat psychiatric disorders using
-behaviour modification.
+    #. Behaviourism
+    #. Cognitive
+    #. Freudism
+    #. Humanism
+    #. Nature v Nurture
 
-\*Behaviourism
 
-Cognitive
-
-Freudism
-
-Humanism
-
-Nature v Nurture
-
-Learning theories
-
-18. According to the principles of operant conditioning, what term is
+1.  According to the principles of operant conditioning, what term is
     used for something that happens after the subject emits a behaviour?
 
 By the principles of operant conditioning, the probability of a
@@ -281,9 +217,9 @@ Result
 
 Stimuli
 
-Learning theories
 
-19. Psychologist who developed the principle and techniques of operant
+
+1.  Psychologist who developed the principle and techniques of operant
     conditioning:
 
 BF Skinner.

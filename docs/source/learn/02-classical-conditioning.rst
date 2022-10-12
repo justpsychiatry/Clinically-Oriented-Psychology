@@ -10,10 +10,6 @@ Classical Conditioning
    :keywords: classical conditioning, associative learning, associative conditioning, Pavlovian conditioning, stimulus-discrimination, spontaneous recovery
 
 
-.. contents::
-   :depth: 3
-..
-
 .. card:: Learning Objectives
 
    By the end of this section, you will be able to: 
@@ -39,7 +35,7 @@ anticipate events.
    :target: `Figure06_02_Pavlov`
    :alt: A portrait shows Ivan Pavlov.
 
-   A portrait shows Ivan Pavlov. 
+   A portrait shows Ivan Pavlov; a Russian physiologist who 
    
 
 ..
@@ -58,8 +54,12 @@ laboratory assistants' footsteps. Salivating to food in the mouth is
 reflexive, so no learning is involved. However, dogs don’t naturally
 salivate at the sight of an empty bowl or the sound of footsteps.
 
+.. attention::
+
+   Pavlov was a physiologist, not a psychologist. 
+
 These unusual responses intrigued Pavlov, and he wondered what accounted
-for what he called the dogs' “psychic secretions” (Pavlov, 1927). To
+for what he called the dogs' **psychic reflexes** (Pavlov, 1927). To
 explore this phenomenon in an objective manner, Pavlov designed a series
 of carefully controlled experiments to see which stimuli would cause the
 dogs to salivate. He was able to train the dogs to salivate in response
@@ -329,7 +329,7 @@ D.  The temporal relationship between the conditioned stimulus and the unconditi
    an association with the feared stimuli, eg, dust, if the patient remains untreated for long. 
    Thus, patients with chronic OCD experience the distress directly because of the feared stimuli. 
 
-Stimulus contingency
+Stimulus contiguity
 ~~~~~~~~~~~~~~~~~~~~
 
 Timing is important for conditioning to occur. Typically, there should only be
@@ -337,10 +337,10 @@ a brief interval between presentation of the conditioned stimulus and
 the unconditioned stimulus. Depending on what is being conditioned,
 sometimes this interval is as little as **5 seconds** :footcite:p:`chanceLearningBehavior2013`.
 However, with other types of conditioning, the interval can be up to
-**several hours.**
+**several hours** ; one exception is **conditioned taste-aversion**.  
 
-Taste-aversion
---------------
+Taste-aversion and stimulus preparedness
+----------------------------------------
 
 :term:`Taste aversion` is a type of
 conditioning in which an interval of several hours may pass between the
@@ -360,16 +360,17 @@ How does this occur—conditioning based on a single instance and
 involving an extended time lapse between the event and the negative
 stimulus? Research into taste aversion suggests that this response may
 be an **evolutionary adaptation** designed to help organisms quickly learn
-to avoid harmful foods :footcite:p:`garciaWhatNoseLearns1980, garciaRelationCueConsequence1966` (Garcia & Rusiniak, 1980; Garcia & Koelling,
-1966). Not only may this contribute to species survival via natural
-selection, but it may also help us develop strategies for challenges
+to avoid harmful foods :footcite:p:`garciaWhatNoseLearns1980, garciaRelationCueConsequence1966`; 
+The phenomenon is called **stimulus preparedness**. 
+It may also help us develop strategies for challenges
 such as helping cancer patients through the nausea induced by certain
 treatments :footcite:p:`holmesFoodAvoidancePatients1993` (Holmes, 1993; Jacobsen et al., 1993; Hutton, Baracos, &
 Wismer, 2007; Skolin et al., 2006).
 
-.. important::
+.. attention::
 
-   Conditioned taste-aversion may be evolutionary adaptation to help survival. 
+   Conditioned taste-aversion does not depend upon stimulus contiguity. 
+   The underlying phenomenon— **stimulus-preparedness** may be evolutionary adaptation to help survival. 
 ... 
 
 
@@ -378,7 +379,9 @@ Extinction
 
 Once we have established the connection between the unconditioned
 stimulus and the conditioned stimulus, how do we break that connection
-and get the dog, cat, or child to stop responding? In Tiger’s case,
+and get the dog, cat, or child to stop responding? 
+
+In Tiger’s case,
 imagine what would happen if you stopped using the electric can opener
 for her food and began to use it only for human food. Now, Tiger would
 hear the can opener, but she would not get food. In classical
@@ -394,21 +397,6 @@ response, and finally no response. In classical conditioning terms,
 there is a gradual weakening and disappearance of the conditioned
 response.
 
-.. admonition:: Clinical Correlate
-   :class: hint
-
-   In behaviour therapies, extinction from fear-conditioning can be achieved with the help of relaxation therapy.
-   In the feared situation, eg, while crossing the bridge, the patient practices relaxation exercises. Graduallay, the association
-   is lost. The bridge or other feared situation may no more produce the anxiety after repeated practice. 
-   
-   .. admonition:: Note
-      Exposure itself is also curative, but the mechanism is best explained by operant or reward-based conditioning.  
-
-   **Counterconditioning**
-
-   In aversion therapy, extinction is achieved by replacing a desirable stimulus with an undesirable one. 
-   For example, disulfiram (Antabuse) helps with alcohol dependence by producing a distressing response whenever the patient uses 
-   alcohol. This helps with the extinction of the alcohol use and the favourable response, and  also replaces it with an aversive experience (GI upset).
 
 Spontaneous Recovery
 ~~~~~~~~~~~~~~~~~~~~
@@ -437,10 +425,10 @@ rest period (`[link] <#Figure06_02_Recovery>`__).
    A chart has an x-axis labelled “time” and a y-axis labelled “strength of CR”
 
    There are four columns of graphed data. The first column is labelled
-   “acquisition (CS + UCS) and the line rises steeply from the bottom to
-   the top. The second column is labelled “Extinction (CS alone)” and the
+   **acquisition** (CS + UCS) and the line rises steeply from the bottom to
+   the top. The second column is labelled **Extinction** (CS alone)” and the
    line drops rapidly from the top to the bottom. The third column is
-   labelled “Pause” and has no line. The fourth column has a line that
+   labelled **Pause** and has no line. The fourth column has a line that
    begins midway and drops sharply to the bottom. At the point where the
    line begins, it is labelled “Spontaneous recovery of CR”; the halfway
    point on the line is labelled “Extinction (CS alone).”
@@ -453,49 +441,6 @@ Renewal effect occurs when extinction occurs in a different environment
 than where the acquisition had occurred. 
 It refers to recovery of conditioned response upon returning to the environment
 where when acquisition had occurred.  
-
-Of course, these processes also apply in humans. For example, let’s say
-that every day when you walk to campus, an ice cream truck passes your
-route. Day after day, you hear the truck’s music (neutral stimulus), so
-you finally stop and purchase a chocolate ice cream bar. You take a bite
-(unconditioned stimulus) and then your mouth waters (unconditioned
-response). This initial period of learning is known as **acquisition**, when
-you begin to connect the neutral stimulus (the sound of the truck) and
-the unconditioned stimulus (the taste of the chocolate ice cream in your
-mouth). During acquisition, the conditioned response gets stronger and
-stronger through repeated pairings of the conditioned stimulus and
-unconditioned stimulus. Several days (and ice cream bars) later, you
-notice that your mouth begins to water (conditioned response) as soon as
-you hear the truck’s musical jingle—even before you bite into the ice
-cream bar. Then one day you head down the street. You hear the truck’s
-music (conditioned stimulus), and your mouth waters (conditioned
-response). However, when you get to the truck, you discover that they
-are all out of ice cream. You leave disappointed. The next few days you
-pass by the truck and hear the music, but don’t stop to get an ice cream
-bar because you’re running late for class. You begin to salivate less
-and less when you hear the music, until by the end of the week, your
-mouth no longer waters when you hear the tune. This illustrates
-extinction. The conditioned response weakens when only the conditioned
-stimulus (the sound of the truck) is presented, without being followed
-by the unconditioned stimulus (chocolate ice cream in the mouth). Then
-the weekend comes. You don’t have to go to class, so you don’t pass the
-truck. Monday morning arrives and you take your usual route to campus.
-You round the corner and hear the truck again. What do you think
-happens? Your mouth begins to water again. Why? After a break from
-conditioning, the conditioned response reappears, which indicates
-spontaneous recovery.
-
-.. admonition:: Clinical Correlate: Renewal Effect in Substance Use
-   :class: hint
-
-   Upon returning to home, patients with substance use disorders
-   who have been detoxified and even rehabilitated, are at a high risk
-   of relapse, because of renewal effect. Cues to which the patient has 
-   previous been conditioned may trigger this relapse. **Cue Exposure Therapy**
-   aims to reduce this risk. In addition to extinction, patients are repeatedly
-   exposed to the cues that are likely to trigger relapse, thus causing 
-   desensitization/habituation. This way the risk of renewal effect and 4
-   spontaneous recovery is minimised.
 
 
 Acquisition and extinction involve the strengthening and weakening,
@@ -535,10 +480,15 @@ the kitchen looking for food.
 Stimulus generalization
 -----------------------
 
-On the other hand, when an organism demonstrates the conditioned
+When an organism demonstrates the conditioned
 response to stimuli that are similar to the condition stimulus, it is
 called :term:`stimulus generalization`, the opposite
-of stimulus discrimination. The more similar a stimulus is to the
+of stimulus discrimination. 
+
+Stimulus generalization depends on the degreee of similarity between original conditioned
+stimuli and the 
+
+The more similar a stimulus is to the
 condition stimulus, the more likely the organism is to give the
 conditioned response. For instance, if the electric mixer sounds very
 similar to the electric can opener, Tiger may come running after hearing
@@ -590,7 +540,8 @@ John B. :term:`Watson`, shown in
 `[link] <#Figure06_02_Watson>`__, is considered the founder of
 behaviourism. behaviourism is a school of thought that arose during the
 first part of the 20th century, which incorporates elements of Pavlov’s
-classical conditioning :footcite:p:`huntStoryPsychology2009`. In stark contrast with Freud, who
+classical conditioning :footcite:p:`huntStoryPsychology2009`. 
+In stark contrast with Freud, who
 considered the reasons for behaviour to be hidden in the unconscious,
 Watson championed the idea that all behaviour can be studied as a simple
 stimulus-response reaction, without regard for internal processes.
@@ -604,19 +555,27 @@ can be measured.
    :scale: 100 %
    :alt: A photograph shows John B. Watson.
 
-   John B. Watson.
+   John B. Watson. The father of behaviourism. 
+
+   Watson argued that in order for psychology to become a legitimate science, it must shift its concern away from internal mental processes 
+   because mental processes cannot be seen or measured. 
+   Instead, he asserted that psychology must focus on outward observable behaviour 
+   that can be measured.
 
 ...
 
 
-Watson’s ideas were influenced by Pavlov’s work. According to Watson,
+Watson’s ideas were **influenced by Pavlov’s work**. According to Watson,
 human behaviour, just like animal behaviour, is primarily the result of
-conditioned responses. Whereas Pavlov’s work with dogs involved the
+conditioned responses. *Whereas Pavlov’s work with dogs involved the
 conditioning of reflexes, Watson believed the same principles could be
-extended to the conditioning of human emotions (Watson, 1919). Thus
+extended to the conditioning of human emotions* (Watson, 1919). Thus
 began Watson’s work with his graduate student Rosalie Rayner and a baby
-called Little Albert. Through their experiments with Little Albert,
+called **Little Albert**. Through their experiments with Little Albert,
 Watson and Rayner (1920) demonstrated how fears can be conditioned.
+
+Fear conditioning and Little Albert
+-----------------------------------
 
 In 1920, Watson was the chair of the psychology department at Johns
 Hopkins University. Through his position at the university he came to
@@ -628,14 +587,21 @@ certain things. Initially he was presented with various neutral stimuli,
 including a rabbit, a dog, a monkey, masks, cotton wool, and a white
 rat. He was not afraid of any of these things. Then Watson, with the
 help of Rayner, conditioned Little Albert to associate these stimuli
-with an emotion—fear. For example, Watson handed Little Albert the white
+with an emotion: **fear**. For example, Watson handed Little Albert the white
 rat, and Little Albert enjoyed playing with it. Then Watson made a loud
 sound, by striking a hammer against a metal bar hanging behind Little
 Albert’s head, each time Little Albert touched the rat. Little Albert
 was frightened by the sound—demonstrating a reflexive fear of sudden
 loud noises—and began to cry. Watson repeatedly paired the loud sound
 with the white rat. Soon Little Albert became frightened by the white
-rat alone. In this case, what are the UCS, CS, UCR, and CR? Days later,
+rat alone. 
+
+In this case, what are the UCS, CS, UCR, and CR? 
+
+Phobias and stimulus generalisation
+-----------------------------------
+
+Days later,
 Little Albert demonstrated stimulus generalization—he became afraid of
 other furry things: a rabbit, a furry coat, and even a Santa Claus mask
 (`[link] <#Figure06_02_Santaclaus>`__). Watson had succeeded in
@@ -650,6 +616,9 @@ and Little Albert himself died a few years later of unrelated causes.
 While Watson’s research provided new insight into conditioning, it would
 be considered unethical by today’s standards.
 
+.. :attention::
+
+   There is no evidence that Little Albert developed phobias later.  
 
 .. figure:: ../resources/CNX_Psych_06_02_Santaclaus.jpg
    :scale: 100
@@ -673,8 +642,56 @@ be considered unethical by today’s standards.
    after conditioning. Based on what you see, would you come to the same
    conclusions as the researchers?
 
+Acquisition, Extinction and Spontaneous Recovery in Humans
+-----------------------------------------------------------
 
-.. admonition:: Advertising and Associative Learning
+Of course, these processes also apply in humans. For example, let’s say
+that every day when you walk to campus, an ice cream truck passes your
+route. Day after day, you hear the truck’s music (neutral stimulus), so
+you finally stop and purchase a chocolate ice cream bar. You take a bite
+(unconditioned stimulus) and then your mouth waters (unconditioned
+response). This initial period of learning is known as **acquisition**, when
+you begin to connect the neutral stimulus (the sound of the truck) and
+the unconditioned stimulus (the taste of the chocolate ice cream in your
+mouth). During **acquisition**, the conditioned response gets stronger and
+stronger through repeated pairings of the conditioned stimulus and
+unconditioned stimulus. 
+
+Several days (and ice cream bars) later, you
+notice that your mouth begins to water (conditioned response) as soon as
+you hear the truck’s musical jingle—even before you bite into the ice
+cream bar. Then one day you head down the street. You hear the truck’s
+music (conditioned stimulus), and your mouth waters (conditioned
+response). However, when you get to the truck, you discover that they
+are all out of ice cream. You leave disappointed. The next few days you
+pass by the truck and hear the music, but don’t stop to get an ice cream
+bar because you’re running late for class. You begin to salivate less
+and less when you hear the music, until by the end of the week, your
+mouth no longer waters when you hear the tune. This illustrates
+**extinction**. The conditioned response weakens when only the conditioned
+stimulus (the sound of the truck) is presented, without being followed
+by the unconditioned stimulus (chocolate ice cream in the mouth). 
+
+Then the weekend comes. You don’t have to go to class, so you don’t pass the
+truck. Monday morning arrives and you take your usual route to campus.
+You round the corner and hear the truck again. What do you think
+happens? Your mouth begins to water again. Why? After a break from
+conditioning, the conditioned response reappears, which indicates
+**spontaneous recovery**.
+
+.. admonition:: Clinical Correlate: Renewal Effect in Substance Use
+   :class: hint
+
+   Upon returning to home, patients with substance use disorders
+   who have been detoxified and even rehabilitated, are at a high risk
+   of relapse, because of renewal effect. Cues to which the patient has 
+   previous been conditioned may trigger this relapse. **Cue Exposure Therapy**
+   aims to reduce this risk. In addition to extinction, patients are repeatedly
+   exposed to the cues that are likely to trigger relapse, thus causing 
+   desensitization/habituation. This way the risk of renewal effect and 4
+   spontaneous recovery is minimised.
+
+.. admonition:: Advertising and Evaluative Conditioning
    :class: tip
 
    Advertising executives are pros at applying the principles of
@@ -749,13 +766,13 @@ explain how some fears develop.
 
       Extinction occurs when:
 
-      1. the conditioned stimulus is presented repeatedly without being
+      1. The conditioned stimulus is presented repeatedly without being
          paired with an unconditioned stimulus
-      2. the unconditioned stimulus is presented repeatedly without
+      2. The unconditioned stimulus is presented repeatedly without
          being paired with a conditioned stimulus
-      3. the neutral stimulus is presented repeatedly without being
+      3. The neutral stimulus is presented repeatedly without being
          paired with an unconditioned stimulus
-      4. the neutral stimulus is presented repeatedly without being
+      4. The neutral stimulus is presented repeatedly without being
          paired with a conditioned stimulus
 
      .. dropdown:: Check Answer
@@ -841,6 +858,7 @@ Personal Application Questions
    conditioning has produced a positive emotional response, such as
    happiness or excitement? How about a negative emotional response,
    such as fear, anxiety, or anger?
+3. Discuss the ethical aspects of Watson's experimentation with Little Albert. 
 
 ...
 

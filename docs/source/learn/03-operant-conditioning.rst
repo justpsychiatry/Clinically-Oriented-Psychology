@@ -989,7 +989,6 @@ variable period of time.
   .. Card:: Question
 
       Rewarding successive approximations toward a target behaviour is
-      \________.
 
       1. shaping
       2. extinction
@@ -1165,5 +1164,5 @@ Glossary
 .. |An illustration shows three rats in a maze, with a starting point and food at the end.| image:: ../resources/CNX_Psych_06_03_Ratmaze.jpg
 
 References
------------
+----------
   .. footbibliography::
