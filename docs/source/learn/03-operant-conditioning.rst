@@ -1070,7 +1070,8 @@ Critical Thinking Questions
 
   .. dropdown::
 
-      When a reinforcer or punishment is delivered quickly after an independent behaviour
+      When a reinforcer or punishment is accidentally delivered quickly 
+      after an independent behaviour
       (temporal contiguity), superstitious behaviour results. 
       As a result, the conduct is unintentionally promoted or punished, 
       which raises the possibility that it will happen again.

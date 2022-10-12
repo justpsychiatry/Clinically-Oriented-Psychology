@@ -9,6 +9,8 @@ The following questions are designed to test your comprehension and ability to a
 your knowledge of learning theories to the clinical practice. 
 For answers and explanations, google **Justpsychiatry Question Bank**.
 
+   
+
 .. card:: Short-Answer Question
    
    .. card:: 
@@ -59,7 +61,9 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
         He continuously shouts on the top of his voice till the staff nurse gives him 
         a cigarette to pacify him. This behaviour was occasional at the beginning but gradually increased.
         
-        How will you explain this behaviour and what you will recommend to unlearn this behaviour?
+        How will you explain this behaviour and 
+        what you will recommend to unlearn this behaviour?
+        Can we use punishment in behaviour therapy? 
 
 .. card:: Short-Answer Question
 
@@ -73,7 +77,7 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
         Sometimes I weep like a child at my failure. 
         When nothing worked, I lost all hope and I have now stopped studying."
         
-        a. Identify the underlying learning mechanisms.
+        a. Identify the underlying learning processes.
         b. Briefly define the silent features of the respective psychological theories 
            with which the behaviour patterns of the patient and the mother can be explained.
 
@@ -105,3 +109,4 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
 
     .. card:: 
         How would you differentiate Watson's behaviourism from classical conditioning and operant conditioning. 
+

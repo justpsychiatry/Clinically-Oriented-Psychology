@@ -370,17 +370,18 @@ Wismer, 2007; Skolin et al., 2006).
 .. attention::
 
    Conditioned taste-aversion does not depend upon stimulus contiguity. 
-   The underlying phenomenon— **stimulus-preparedness** may be evolutionary adaptation to help survival. 
+   The underlying phenomenon— **stimulus-preparedness** may be 
+   an evolutionary adaptation to help survival. 
 ... 
 
+Once we have established the connection between the unconditioned
+stimulus and the conditioned stimulus, how do we break that connection
+and get the dog, cat, or child to stop responding?
 
 Extinction
 ~~~~~~~~~~
 
-Once we have established the connection between the unconditioned
-stimulus and the conditioned stimulus, how do we break that connection
-and get the dog, cat, or child to stop responding? 
-
+ 
 In Tiger’s case,
 imagine what would happen if you stopped using the electric can opener
 for her food and began to use it only for human food. Now, Tiger would
@@ -469,13 +470,6 @@ can opener and the sound of the electric mixer. When the electric mixer
 is going, Tiger is not about to be fed, so she does not come running to
 the kitchen looking for food.
 
-.. hint::
-
-   Manipulative patients may exhibit manipulative behaviour at the ward
-   just when the conditions are right—unusually when most staff is not 
-   on duty. Overtime, discriminative conditioning helps them learn the 
-   conditions including the time of the day, when their behaviour is most likely
-   to be rewarded. This involves both, classical and operant conditioning. 
 
 Stimulus generalization
 -----------------------
@@ -485,11 +479,10 @@ response to stimuli that are similar to the condition stimulus, it is
 called :term:`stimulus generalization`, the opposite
 of stimulus discrimination. 
 
-Stimulus generalization depends on the degreee of similarity between original conditioned
-stimuli and the 
-
-The more similar a stimulus is to the
-condition stimulus, the more likely the organism is to give the
+Stimulus generalization depends on the degreee of similarity between conditioned
+stimuli and the new stimulus; a phenomenon called *generalization-gradient* . 
+The more similar a stimulus is to the condition stimulus, the more likely 
+the organism is to give the
 conditioned response. For instance, if the electric mixer sounds very
 similar to the electric can opener, Tiger may come running after hearing
 its sound. But if you do not feed her following the electric mixer
@@ -849,6 +842,12 @@ Critical Thinking Questions
       phase, learning has occurred and the neutral stimulus becomes a
       conditioned stimulus capable of eliciting the conditioned response
       by itself.
+
+   .. card:: BCQ
+
+    .. card::  
+
+
 
 Personal Application Questions
 ==============================

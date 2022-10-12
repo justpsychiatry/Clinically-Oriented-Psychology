@@ -15,13 +15,15 @@ Birds build nests and migrate as winter approaches. Infants suckle at
 their mother’s breast. Dogs shake water off wet fur. Salmon swim
 upstream to spawn, and spiders spin intricate webs. What do these
 seemingly unrelated behaviours have in common? They all are *unlearned*
-behaviours. Both instincts and reflexes are innate behaviours that
+behaviours. Both **instincts** and **reflexes** are innate behaviours that
 organisms are born with. :term:`Reflexes` are a motor
 or neural reaction to a specific stimulus in the environment. They tend
 to be simpler than instincts, involve the activity of specific body
 parts and systems (e.g., the knee-jerk reflex and the contraction of the
 pupil in bright light), and involve more primitive centers of the
-central nervous system (e.g., the spinal cord and the medulla). In
+central nervous system (e.g., the spinal cord and the medulla). 
+
+In
 contrast, :term:`instincts` are innate behaviours that
 are triggered by a broader range of events, such as ageing and the change
 of seasons. They are more complex patterns of behaviour, involve movement
@@ -35,12 +37,20 @@ on a nipple, whether artificial (from a bottle) or human. Nobody teaches
 the baby to suck, just as no one teaches a sea turtle hatchling to move
 toward the ocean. Learning, like reflexes and instincts, allows an
 organism to adapt to its environment. But unlike instincts and reflexes,
-learned behaviours involve change and experience: :term:`learning` is a relatively permanent change in behaviour or
+learned behaviours involve change and experience: :term:`learning` is 
+a relatively permanent change in behaviour or
 knowledge that results from experience. In contrast to the innate
 behaviours discussed above, learning involves acquiring knowledge and
 skills through experience. Looking back at our surfing scenario, Julian
 will have to spend much more time training with his surfboard before he
 learns how to ride the waves like his father.
+
+.. admonition:: Learning
+   :class: note
+   
+   A relatively permanent change in behaviour or 
+   knowledge that results from experience.
+
 
 Learning to surf, as well as any complex learning process (e.g.,
 learning about the discipline of psychology), involves a complex
@@ -50,7 +60,7 @@ associations our minds automatically make between events. Our minds have
 a natural tendency to connect events that occur closely together or in
 sequence. :term:`associative learning` occurs when an
 organism makes connections between stimuli or events that occur together
-in the environment. You will see that associative learning is central to
+in the environment. You will see that **associative learning** is central to
 all three basic learning processes discussed in this chapter; classical
 conditioning tends to involve unconscious processes, operant
 conditioning tends to involve conscious processes, and observational
@@ -60,19 +70,20 @@ be discussed in detail later in the chapter, but it is helpful to have a
 brief overview of each as you begin to explore how learning is
 understood from a psychological perspective.
 
-In classical conditioning, also known as Pavlovian conditioning,
+In **classical conditioning**, also known as Pavlovian conditioning,
 organisms learn to associate events—or stimuli—that repeatedly happen
 together. We experience this process throughout our daily lives. For
 example, you might see a flash of lightning in the sky during a storm
 and then hear a loud boom of thunder. The sound of the thunder naturally
 makes you jump (loud noises have that effect by reflex). Because
 lightning reliably predicts the impending boom of thunder, you may
-associate the two and jump when you see lightning. Psychological
+associate the two and jump when you see lightning. Behavioural
 researchers study this associative process by focusing on what can be
-seen and measured—behaviours. Researchers ask if one stimulus triggers a
+seen and measured: **behaviours**. Researchers ask if one stimulus triggers a
 reflex, can we train a different stimulus to trigger that same reflex?
-In operant conditioning, organisms learn, again, to associate events—a
-behaviour and its consequence (reinforcement or punishment). A pleasant
+
+In **operant conditioning**, organisms learn, again, to associate events—a
+**behaviour** and its **consequence** (reinforcement or punishment). A pleasant
 consequence encourages more of that behaviour in the future, whereas a
 punishment deters the behaviour. Imagine you are teaching your dog,
 Hodor, to sit. You tell Hodor to sit, and give him a treat when he does.
@@ -90,11 +101,12 @@ shock when crossing the boundary of an invisible electric fence).
    A photograph shows a dog standing at attention and smelling a treat in a person’s hand.
 
 
-Observational learning extends the effective range of both classical and
+
+**Observational learning** extends the effective range of both classical and
 operant conditioning. In contrast to classical and operant conditioning,
-in which learning occurs only through direct experience, observational
+in which learning occurs only through direct experience, *observational
 learning is the process of watching others and then imitating what they
-do. A lot of learning among humans and other animals comes from
+do.* A lot of learning among humans and other animals comes from
 observational learning. To get an idea of the extra effective range that
 observational learning brings, consider Ben and his son Julian from the
 introduction. How might observation help Julian learn to surf, as
@@ -113,6 +125,24 @@ the topic. Over time these traditions tend to converge. For example, in
 this chapter you will see how cognition has come to play a larger role
 in behaviourism, whose more extreme adherents once insisted that
 behaviours are triggered by the environment with no intervening thought.
+
+Non-associative learning
+------------------------
+Non-associative learning involves only one stimulus; **habituation** and
+ **sensitization** are examples.
+In the former, there is a decrease in the response to an innocous stimulus. 
+In the later, the response tendency
+increases. 
+
+Cognition involves mental processes such as thinking, knowing, problem-solving, and remembering
+According to cognitive theorists, these processes are critically important in a more complete, 
+more comprehensive view of learning. 
+
+Three main types:  
+
+- Insight learning
+- Latent learning, and 
+- Observational learning
 
 Summary
 =======
