@@ -648,7 +648,7 @@ Assess and make sense of life and meaning of contributions
 COGNITIVE THEORY OF DEVELOPMENT
 ===============================
 
-Jean **Piaget**:term:`pastehere` (1896–1980) is
+Jean :term:`Piaget` (1896–1980) is
 another stage theorist who studied childhood development
 (`[link] <#Figure_09_03_Piaget>`__). Instead of approaching development
 from a psychoanalytical or psychosocial perspective, Piaget focused on
@@ -663,17 +663,20 @@ stage, there is a distinct shift in how we think and reason.
 |A photograph depicts Jean Piaget in his later years.|\ {:
 #Figure_09_03_Piaget}
 
+Schemata
+--------
+
 Piaget said that children develop schemata to help them understand the
-world. **Schemata**\ {: data-type=“term”} are concepts (mental models)
-that are used to help us categorize and interpret information. By the
+world. :term:`Schemata` are *concepts (mental models)
+that are used to help us categorize and interpret information*. By the
 time children have reached adulthood, they have created schemata for
 almost everything. When children learn new information, they adjust
-their schemata through two processes: assimilation and accommodation.
+their schemata through two processes: **assimilation** and **accommodation**.
 First, they assimilate new information or experiences in terms of their
-current schemata: **assimilation**\ {: data-type=“term”} is when they
-take in information that is comparable to what they already know.
-**Accommodation**\ {: data-type=“term”} describes when they change their
-schemata based on new information. This process continues as children
+current schemata: :term:`assimilation` is *when they
+take in information that is comparable to what they already know.*
+:term:`Accommodation` describes *when they change their
+schemata based on new information.* This process continues as children
 interact with their environment.
 
 For example, 2-year-old Blake learned the schema for dogs because his
@@ -1005,13 +1008,15 @@ Moral reasoning
 
    </table>
 
-The first stage is the **sensorimotor**\ {: data-type=“term”} stage,
-which lasts from birth to about 2 years old. During this stage, children
+Sensorimotor Stage
+------------------
+The first stage is the :term:`sensorimotor` stage,
+which lasts from birth to about 2 years of age. During this stage, children
 learn about the world through their senses and motor behavior. Young
 children put objects in their mouths to see if the items are edible, and
 once they can grasp objects, they may shake or bang them to see if they
-make sounds. Between 5 and 8 months old, the child develops **object
-permanence**\ {: data-type=“term”}, which is the understanding that even
+make sounds. Between **5 and 18 months**, the child develops
+:term:`object permanence`, which is the understanding that even
 if something is out of sight, it still exists (Bogartz, Shinskey, &
 Schilling, 2000). According to Piaget, young infants do not remember an
 object after it has been removed from sight. Piaget studied infants’
@@ -1021,6 +1026,11 @@ reach for the hidden toy, indicating that they knew it still existed,
 whereas infants who had not developed object permanence would appear
 confused.
 
+At around 18 months of age, the child begins to acquire **symobolization**; a process
+in which the child develops the ability to use words and mental symbols represeting
+those words, such as a ball. The child can then 
+use mental representation of or visual image of the word ball.  
+
 .. seealso::
 
    Please take a few minutes to view this `brief
@@ -1028,7 +1038,7 @@ confused.
    children’s ability to understand object permanence.
 
 In Piaget’s view, around the same time children develop object
-permanence, they also begin to exhibit stranger anxiety, which is a fear
+permanence, they also begin to exhibit **stranger anxiety**, which is a fear
 of unfamiliar people. Babies may demonstrate this by crying and turning
 away from a stranger, by clinging to a caregiver, or by attempting to
 reach their arms toward familiar faces such as parents. Stranger anxiety
@@ -1036,10 +1046,19 @@ results when a child is unable to assimilate the stranger into an
 existing schema; therefore, she can’t predict what her experience with
 that stranger will be like, which results in a fear response.
 
-Piaget’s second stage is the **preoperational stage**\ {:
-data-type=“term”}, which is from approximately 2 to 7 years old. In this
-stage, children can use symbols to represent words, images, and ideas,
-which is why children in this stage engage in pretend play. A child’s
+Complete acquisition of object permanence marks the
+transition from sensorimotor stage to preoperational stage of development.
+
+Preoperational Stage
+-------------------
+Piaget’s second stage is the :term:`preoperational stage`, 
+which is from approximately **2 to 7 years** old. In this
+stage, children further develop the ability to use symbols 
+to represent words, images, and ideas. **Semiotic function** refers to the child's
+ability to represent an event, object or concept with a signifier such as language, 
+symbolic gesture or mental object. For example, they may start using two-word phrases
+from one-word utterances (*Dada home* for "daddy is home")
+This development enables children to engage in **pretend play**. A child’s
 arms might become airplane wings as he zooms around the room, or a child
 with a stick might become a brave knight with a sword. Children also
 begin to use language in the preoperational stage, but they cannot
@@ -1052,10 +1071,18 @@ to 10-year-old Keiko and another slice to her 3-year-old brother, Kenny.
 Kenny’s pizza slice was cut into five pieces, so Kenny told his sister
 that he got more pizza than she did. Children in this stage cannot
 perform mental operations because they have not developed an
-understanding of **conservation**\ {: data-type=“term”}, which is the
+understanding of :term:`conservation`, which is the
 idea that even if you change the appearance of something, it is still
 equal in size as long as nothing has been removed or added.
 
+Conservation occurs because of **centration** and **irreversibility** .  
+In **centration** , children  focus on only one aspect of an object or event. 
+For instance, they perceive  larger quantity of liquid in a thinner glass, 
+because they only focus on the height of the liquid column, while ignoring its width.  
+If the liquid is poured from a wider glass to a thinner glass even when they are
+obersving, they still consider the liquid in the thinner glass to be more. This is 
+because, they can not mentally undo the action, ie, they cannot mentally pour the liquid
+back to the broader glass— **irreversibility** .  
 .. seealso::
 
    This `video <http://openstax.org/l/piaget2>`__ shows a 4.5-year-old
@@ -1063,18 +1090,20 @@ equal in size as long as nothing has been removed or added.
    conservation tasks.
 
 During this stage, we also expect children to display
-**egocentrism**\ {: data-type=“term”}, which means that the child is not
+:term:`egocentrism`, which means that the child is not
 able to take the perspective of others. A child at this stage thinks
 that everyone sees, thinks, and feels just as they do. Let’s look at
 Kenny and Keiko again. Keiko’s birthday is coming up, so their mom takes
 Kenny to the toy store to choose a present for his sister. He selects an
 Iron Man action figure for her, thinking that if he likes the toy, his
 sister will too. An egocentric child is not able to infer the
-perspective of other people and instead attributes his own perspective.
+perspective of other people and instead attributes his own perspective. **Animism**
+is a tendency of the children in this stage to endow life-like characteristics to 
+inanimate objetcs or events. So, they may ask questions like, "why is the so so mad?"
 
 .. seealso::
 
-   Piaget developed the Three-Mountain Task to determine the level of
+   Piaget developed the **Three-Mountain Task** to determine the level of
    egocentrism displayed by children. Children view a 3-dimensional
    mountain scene from one viewpoint, and are asked what another person
    at a different viewpoint would see in the same scene. Watch the
@@ -1082,6 +1111,17 @@ perspective of other people and instead attributes his own perspective.
    video <http://openstax.org/l/WonderYears>`__ from the University of
    Minnesota and the Science Museum of Minnesota.
 
+Children in this stage cannot deal with moral dillemas despite being able
+to separate good and bad. If you present them with a scenario "who should be 
+punished more, a person who broke 10 plates by accident or another who broke 1 plate
+intentionally?" They may respond, the person who broke 10 plates. **Immanent justice**
+refers to the beleif among these children that punishment for bad actions is must. 
+
+Early in this stage, children have no concept of cause and effect; later, however, they 
+develop a type of magical thinking termed **phenomenolistic causality** . In this, the child 
+thinks events that occurs together cause one another, for instance bad thoughts cause accidents. 
+
+Semiotic function also develops in this stage. 
 Piaget’s third stage is the **concrete operational stage**\ {:
 data-type=“term”}, which occurs from about 7 to 11 years old. In this
 stage, children can think logically about real (concrete) events; they
