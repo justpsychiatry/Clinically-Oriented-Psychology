@@ -1083,6 +1083,7 @@ If the liquid is poured from a wider glass to a thinner glass even when they are
 obersving, they still consider the liquid in the thinner glass to be more. This is 
 because, they can not mentally undo the action, ie, they cannot mentally pour the liquid
 back to the broader glass— **irreversibility** .  
+
 .. seealso::
 
    This `video <http://openstax.org/l/piaget2>`__ shows a 4.5-year-old
@@ -1121,9 +1122,11 @@ Early in this stage, children have no concept of cause and effect; later, howeve
 develop a type of magical thinking termed **phenomenolistic causality** . In this, the child 
 thinks events that occurs together cause one another, for instance bad thoughts cause accidents. 
 
-Semiotic function also develops in this stage. 
-Piaget’s third stage is the **concrete operational stage**\ {:
-data-type=“term”}, which occurs from about 7 to 11 years old. In this
+
+Concrete Operational Stage
+--------------------------
+Piaget’s third stage is the :term:`concrete operational stage`
+, which occurs from about 7 to 11 years old. In this
 stage, children can think logically about real (concrete) events; they
 have a firm grasp on the use of numbers and start to employ memory
 strategies. They can perform mathematical operations and understand
@@ -1136,14 +1139,16 @@ amount of water. Remember Keiko and Kenny and the pizza? How did Keiko
 know that Kenny was wrong when he said that he had more pizza?
 
 Children in the concrete operational stage also understand the principle
-of **reversibility**\ {: data-type=“term”}, which means that objects can
+of :term:`reversibility`, which means that objects can
 be changed and then returned back to their original form or condition.
 Take, for example, water that you poured into the short, fat glass: You
 can pour water from the fat glass back to the thin glass and still have
 the same amount (minus a couple of drops).
 
-The fourth, and last, stage in Piaget’s theory is the **formal
-operational stage**\ {: data-type=“term”}, which is from about age 11 to
+Formal Operational Stage
+------------------------
+The fourth, and last, stage in Piaget’s theory is the 
+:term:`formal operational stage` , which is from about age 11 to
 adulthood. Whereas children in the concrete operational stage are able
 to think logically only about concrete events, children in the formal
 operational stage can also deal with abstract ideas and hypothetical

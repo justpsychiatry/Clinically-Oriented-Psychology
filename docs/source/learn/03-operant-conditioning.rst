@@ -32,12 +32,22 @@ consequence (`[link] <#fs-idp18763408>`__). A pleasant consequence makes
 that behaviour more likely to be repeated in the future. For example,
 Spirit, a dolphin at the National Aquarium in Baltimore, does a flip in
 the air when her trainer blows a whistle. The consequence is that she
-gets a fish.
+gets a fish. 
 
 
 The target behaviour is followed by reinforcement or punishment to either
 strengthen or weaken it, so that the learner is more likely to exhibit
-the desired behaviour in the future.
+the desired behaviour in the future. The behaviour is **operant** in this case, because
+it operates on the environment. 
+
+.. Admonition:: Clinically-Application
+   :class: tip
+
+   Before planning behavioural modification, it is important to delineate whether the 
+   problem behaviour is **respondent** or **operant** . This can be done with the ABC approach
+   in which a diary of the **antecedent-behaviour-consequence** is kept. Respondent
+   behaviour is treated by elimination or replacement of the antecedent stimulus, while
+   operant is treated by adressing the consequences. 
 
 .. table:: Classical and Operant Conditioning Compared
 
@@ -45,7 +55,7 @@ the desired behaviour in the future.
    |                      | Classical            | Operant Conditioning |
    |                      | Conditioning         |                      |
    +======================+======================+======================+
-   | Conditioning         | An unconditioned     | The target behaviour  |
+   | Conditioning         | An unconditioned     | The target behaviour |
    | approach             | stimulus (such as    | is followed by       |
    |                      | food) is paired with | reinforcement or     |
    |                      | a neutral stimulus   | punishment to either |
@@ -53,7 +63,7 @@ the desired behaviour in the future.
    |                      | The neutral stimulus | it, so that the      |
    |                      | eventually becomes   | learner is more      |
    |                      | the conditioned      | likely to exhibit    |
-   |                      | stimulus, which      | the desired behaviour |
+   |                      | stimulus, which      | the desired behaviour|
    |                      | brings about the     | in the future.       |
    |                      | conditioned response |                      |
    |                      | (salivation).        |                      |
@@ -73,19 +83,19 @@ Psychologist BF :term:`Skinner` saw
 that classical conditioning is limited to existing behaviours that are
 reflexively elicited, and it doesn’t account for new behaviours such as
 riding a bike. He proposed a theory about how such behaviours come about.
-Skinner believed that behaviour is motivated by the consequences we
+Skinner believed that behaviour is motivated by the **consequences** we
 receive for the behaviour: the reinforcements and punishments. His idea
-that learning is the result of consequences is based on the law of
-effect, which was first proposed by psychologist Edward
+that learning is the result of consequences is based on the **law of
+effect** , which was first proposed by psychologist Edward
 :term:`Thorndike`. 
 
 According to the :term:`law of effect`, behaviours that are followed by
-consequences that are satisfying to the organism are more likely to be
+consequences that are satisfying to the person are more likely to be
 repeated, and behaviours that are followed by unpleasant consequences are
 less likely to be repeated (Thorndike, 1911). Essentially, if an
-organism does something that brings about a desired result, the organism
-is more likely to do it again. If an organism does something that does
-not bring about a desired result, the organism is less likely to do it
+individual does something that brings about a desired result, the person
+is more likely to do it again. If someone does something that does
+not bring about a desired result, the person is less likely to do it
 again. An example of the law of effect is in employment. One of the
 reasons (and often the main reason) we show up for work is because we
 get paid to do so. If we stop getting paid, we will likely stop showing
@@ -94,15 +104,19 @@ up—even if we love our job.
 .. admonition:: Law of Effect 
    :class: important
 
-   Any response followed by a satisfying situation (drive reduction?) Is likely to be repeated. 
-   behaviours resulting in an annoying situation is less likely to occur. Actions that subsequently lead to a "satisfying state of affairs" are more likely to be repeated.
+   Any response followed by a satisfying situation (drive reduction?) 
+   Is likely to be repeated. 
+   Behaviours resulting in an annoying situation are less likely to occur. 
+   Actions that subsequently lead to a "satisfying state of affairs" 
+   are more likely to be repeated.
 
 Working with Thorndike’s law of effect as his foundation, Skinner began
 conducting scientific experiments on animals (mainly rats and pigeons)
 to determine how organisms learn through operant conditioning (Skinner,
 1938). He placed these animals inside an operant conditioning chamber,
 which has come to be known as a **Skinner box**
-(`[Skinner-Box] <#Figure06_03_Skinnerbox>`__). A Skinner box contains a lever
+(`[Skinner-Box] <#Figure06_03_Skinnerbox>`__). A Skinner box contains 
+a lever
 (for rats) or disk (for pigeons) that the animal can press or peck for a
 food reward via the dispenser. Speakers and lights can be associated
 with certain behaviours. A recorder counts the number of responses made
@@ -149,12 +163,19 @@ negative reinforcement, positive punishment, and negative punishment
    +==========+============================+============================+
    | Positive | Something is *added* to    | Something is *added* to    |
    |          | *increase* the likelihood  | *decrease* the likelihood  |
-   |          | of a behaviour.             | of a behaviour.             |
+   |          | of a behaviour.            | of a behaviour.            |
    +----------+----------------------------+----------------------------+
    | Negative | Something is *removed* to  | Something is *removed* to  |
    |          | *increase* the likelihood  | *decrease* the likelihood  |
-   |          | of a behaviour.             | of a behaviour.             |
+   |          | of a behaviour.            | of a behaviour.            |
    +----------+----------------------------+----------------------------+
+
+.. admoniton:: Free Will in Decision-making
+   :class: tip
+
+   If the behaviour we exhibit is the result of consequnces, do we really have a free will?
+   Do you think you can consciously decide to perform a behaviour unaffected by its consequences?
+
 
 Reinforcement
 =============
@@ -213,6 +234,9 @@ legs—and then remove the pressure when the horse performs the desired
 behaviour, such as turning or speeding up. The pressure is the negative
 stimulus that the horse wants to remove.
 
+In substances users, using a drug to relieve withdrawal symptoms is also an example 
+of negative reinforcement. 
+
 Behavioural Contrast
 `````````````````````
 
@@ -240,7 +264,7 @@ incompatible behaviour.
    If Amina does pull her hair, the countdown is restarted and she is not reinforced.
 
 
-Primack Principle
+Premack Principle
 ``````````````````
 A high-probability behaviour can be used to reinforce a low-probability behaviour.  
 For example, listening to online classes over favourite devices, 

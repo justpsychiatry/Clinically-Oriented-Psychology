@@ -8,10 +8,8 @@ Theories of Learning Best-Choice Questions
 The following are some free practice questions on this chapter. 
 For answers and explanations, google **Psychiatry Question Bank Justpsychiatry**.
 
-.. card:: BCQ
 
-    .. card:: Q1
-        In which type of learning does a neutral stimulus cause a response?
+#. In which type of learning does a neutral stimulus cause a response?
         
         #. Classical conditioning
         #. Latent learning
@@ -30,11 +28,9 @@ For answers and explanations, google **Psychiatry Question Bank Justpsychiatry**
         #. Secondary reinforcer
         #. Unconditioned stimulus
    
-.. card:: Q3
-    
-    Considering the principles of conditioning theories, which one
-    refers to a situation or event that reflexively and automatically
-    triggers a response?
+#. Considering the principles of conditioning theories, which one 
+   refers to a situation or event that reflexively and automatically 
+   triggers a response?
 
        a. Motor reflex
        b. Neutral stimulus
@@ -167,25 +163,15 @@ For answers and explanations, google **Psychiatry Question Bank Justpsychiatry**
     #. Ivan Pavlov
     #. John Watson
 
-1.  Keeping the learning principles in mind, which one of these refers
+#.  Keeping the learning principles in mind, which one of these refers
     to the tendency to emit a similar response to two "almost similar"
     stimuli?
 
-Stimulus generalisation is the tendency of a new stimulus to evoke
-responses or behaviours like those elicited by another stimulus. It
-occurs when a response reinforced by a stimulus takes place for the
-first time in the presence of a structurally similar stimulus. For
-example, feeling humiliated at a party or avoiding a dance party after a
-humiliating experience in a similar setting. Stimulus generalisation
-explains how in social phobia and agoraphobia, one initial encounter
-causes the fear and avoidance of similar circumstances, leading to a
-social anxiety disorder or agoraphobia.
-
-Acquisition
-Discrimination
-Extinction
-Generalisation
-Indifference
+    #. Acquisition
+    #. Discrimination
+    #. Extinction
+    #. Generalisation
+    #. Indifference
 
 1.  According to this perspective, psychology should be restricted to
     studying observable behaviours:
@@ -199,44 +185,19 @@ Indifference
 
 1.  According to the principles of operant conditioning, what term is
     used for something that happens after the subject emits a behaviour?
-
-By the principles of operant conditioning, the probability of a
-behaviour occurring in the future is primarily determined by the
-consequence of that behaviour. If a desirable outcome follows the
-behaviour, its likelihood in future will increase, and vice versa. The
-term operant conditioning used for something that follows the behaviour
-is "consequence".
-
-\*Consequence
-
-Outcome
-
-Reinforcement
-
-Result
-
-Stimuli
-
-
-
-1.  Psychologist who developed the principle and techniques of operant
+    #. Consequence
+    #. Outcome
+    #. Reinforcement
+    #. Result
+    #. Stimuli
+#. Psychologist who developed the principle and techniques of operant
     conditioning:
-
-BF Skinner.
-
-\*BF Skinner
-
-Edward Thorndike
-
-Ivan Pavlov
-
-John Watson
-
-Rosalie Rayner
-
-Learning theories
-
-20. Any consequence that increases the future likelihood of a behaviour:
+    #. BF Skinner
+    #. Edward Thorndike
+    #. Ivan Pavlov
+    #. John Watson
+    #. Rosalie Rayner
+#.  Any consequence that increases the future likelihood of a behaviour:
 
 Reinforcement refers to any consequences that increase the future
 likelihood of a behaviour. Punishment always decreases behaviour. When
