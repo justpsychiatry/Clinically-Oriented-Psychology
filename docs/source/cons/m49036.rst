@@ -68,13 +68,76 @@ time in bed). Cognitive-behavioral therapy has been demonstrated to be
 quite effective in treating insomnia (Savard, Simard, Ivers, & Morin,
 2005; Williams, Roth, Vatthauer, & McCrae, 2013).
 
+
+
+Sleep-hygiene
+=============
+People who experience insomnia are often prescribed hypnotics. 
+In addition to their adverse effects, the therapeutic effects
+of these is often temporary as tolerance develops quickly. 
+Sleep hygiene techniques can eliminate the need for medication use. 
+The following are some of the principles of sleep hygiene. The first step 
+would be to assess a patient's routines based on these principles to identify 
+maladaptive habits and tailor the recommendations accordingly. To raise the patient's 
+motivation to use these techniques, they may also be informed about the importance of 
+adequate sleep and the adverse effects of long-term sleep deprivation on our mental 
+and physical well-being. 
+
+1. Using **consistent sleep-wake schedule** even on weekends or other holidays is important; 
+   disturbance in the schedule disrupts our circadian rhythm and may lead to 
+   problems such as jet lag.  
+2. Exposure to **sunlight** in the day, and keeping **dark at night** also help regulate circadian rythms.
+   bright light, especially blue light inhibits the production of melatonin inducing wakefulness. Thus, 
+   bright light as well as devices producing bright light such as computers, tablets, and smartphones must be 
+   avoided at night. If their use is unavoidable, brightness must be lowered to a minimum 
+   and a blue-light blocking filter should be turned on.
+3. Performing aerobic exercise in the morning has been shown to improve sleep at night; 
+   such a stimulating activity must, however, be avoided in the evening. The resulting sympathetic
+   activation may lead to insomnia.
+4. **Avoiding day-time naps** should be the goal; if unavoidable, a nap should occur before
+   3 PM and last no longer than 30 minutes. 
+5. Ideally, **one specific room and bed** must be used for sleep which must **only** be used for sleep. 
+   It must not be used for office or school work, or other activities that can be performed in 
+   another room, and different settings such as a table and a chair. This is based on the
+   principles of classical conditioning. Over time, as the bed is 
+   used specifically for sleep, it becomes a conditioned stimulus and elicits sleep. 
+6. Foods containing **caffeine**, such as tea, coffee, energy drinks, and cola drinks
+   must be avoided after 4 PM. Similarly, excessive consumption of sweets, 
+   smoking cigarette, or using alcohol may impair sleep. **Tryptophan** containing foods,
+   such as milk
+   are encouraged; it is a precursor of serotonin and melatonin and helps with sleep. The quantity 
+   of food consumed should be enough to avoid discomfort due to an empty stomach or overeating. A meal
+   should be taken at least a couple of hours before bedtime. 
+7. For some, **sleep restriction** may be helpful. In this, the patient is enquired about the 
+   approximate duration they sleep and their bedtime is restricted only to that much interval. For
+   example, if a patient usually falls asleep at 1:00 AM, after spending several hours in their bed,
+   they must now go to their bed at around 1 PM and get out of their bed immediately upon awakening. 
+   This technique is also based on conditioning, as discussed above.
+   Gradually, the duration of bedtime is increased as the patient's sleep improves.
+8. In **stimulus control**, the patient must avoid going to their bed
+   until they feel drowsy. This interval should be spent sitting in a calm, dark 
+   environment and a comfortable chair. Using earbuds with a masking effect can help block 
+   noise from a source that can be controlled. White noise machines may also help, especially
+   for those with tinnitus. 
+9.  Discussing or thinking about issues that are distressing or exciting can cause sympathetic
+   responses and impair sleep. If there are issues that must be discussed, they should 
+   be discussed in the daytime, long before the time for sleep. To avoid preoccupation with
+   intrusive thoughts, the patient is advised to **count backward from 500**. 
+11. During bedtime, **room temperature** should be at a level where one would need a light blanket. People
+   more readily fall asleep when the temperature is low or when their body temperature drops. A warm water 
+   bath before bedtime can thus help induce sleep. 
+11. Repeatedly checking time and actively trying to fall asleep is similarly distressing and prevents
+    one from falling asleep. Instead, the patient is advised to **try to stay awake**. 
+12. If anxiety is significant, regular **progressive muscle relaxation** before bedtime will help. 
+13. Aromatherapy with lavender oil may also help.
+
 PARASOMNIAS
 ===========
 
 A **parasomnia**\ {: data-type=“term”} is one of a group of sleep
 disorders in which unwanted, disruptive motor activity and/or
 experiences during sleep play a role. Parasomnias can occur in either
-REM or NREM phases of sleep. Sleepwalking, restless leg syndrome, and
+REM or NREM phases of sleep. Sleepwalking, restless leg syndrome and
 night terrors are all examples of parasomnias (Mahowald & Schenck,
 2000).
 
@@ -98,9 +161,7 @@ patients who also suffered from sleep-related breathing problems showed
 a marked decrease in sleepwalking when their breathing problems were
 effectively treated.
 
-.. tip::
-
-      A Sleepwalking Defense?
+.. tip:: A Sleepwalking Defense?
 
    On January 16, 1997, Scott Falater sat down to dinner with his wife
    and children and told them about difficulties he was experiencing on
@@ -327,33 +388,6 @@ to the right side of her body was quite unusual. Early attempts to treat
 her condition with a stimulant drug alone were unsuccessful. However,
 when a stimulant drug was used in conjunction with a popular
 antidepressant, her condition improved dramatically.
-
-Sleep-hygeine
-=============
-People who experience insomnia are often prescribed with hypnotics. 
-In addition to their adverse effects, the therapeutic effects
-of these is often temporary as tolerance develops quickly. 
-The following are some of the principles of sleep-hygeine, measures
-which can help people improve their sleep without the need for medications: 
-
-1. Using rigid sleep-wake schedule even on weekends or other holidays is important for 
-   the circadian rythms to work well. Disturbing the schedule affects this rythm and may lead to 
-   problems such as jet lag.  
-2. Exposure to sunlight in the day, and keeping dark at night also help regulate circadian rythms.
-   bright light, especially blue-light inhibits the production of melatonin inducing wakefulness. Thus, 
-   bright light as well as devices producing bright light such as computers, tablets and smartphones must be 
-   avoided at night. If their use is unavoidable, brightness must be lowered to minimum 
-   and a blue-light blocking filter shoudl be turned on.
-3. Performing aerobic exercise in the morning has been shown to improve sleep at night; 
-   such a stimulating activity must however, be avoided in the evening. The resulting sympathetic
-   activation may lead to insomnia.
-4. Avoding day time nap should be the goal, if unavoidable, it should occur before 3 PM and last less than
-   30 minutes. 
-5. Ideally, one specific room and bed must be used for sleep and it must only be used for sleep. 
-   It must not be used for office or school work, or other activities which can be performed in 
-   another room, and different setting such as table and a chair. 
-   
-
 
 
 Summary

@@ -68,7 +68,7 @@ For answers and explanations, google **Justpsychiatry Question Bank**.
 .. card:: Short-Answer Question
 
     .. card:: 
-        A 21-year-old male comes in the OPD and states his problem, 
+        A 21-year-old male comes to the OPD and states his problem, 
         "I have been trying to resist the thought that my hands are contaminated, 
         but I always end up in washing my hands. 
         My mother has always appreciated me for this habit of cleanliness. 
