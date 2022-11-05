@@ -2,18 +2,22 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('.'))
-#import sphinx_rtd_theme
+from datetime import datetime
+from sphinxcontrib.youtube import __version__
 
-numfig = True
+sys.path.insert(0, os.path.abspath('.'))
+import sphinx_rtd_theme
+
+
+
+NUMFIG = True
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'Clinically-Oriented Psychology'
-Copyright = '2022'
-author = 'Justpsychiatry'
-
+PROJECT = 'Clinically-Oriented Psychology'
+AUTHOR = 'Justpsychiatry'
+Copyright = f"2021-{datetime.now().year}, {AUTHOR}"
 
 
 source_suffix = {
@@ -59,6 +63,7 @@ extensions = [
     "sphinx_design",
     'sphinx_search.extension',
     'hoverxref.extension',
+    "sphinxcontrib.youtube",
 ]
 
 
@@ -73,7 +78,7 @@ exclude_patterns = []
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_book_theme'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_title = "Clinically-Oriented Psychology"
 html_baseurl ='https://psychology.mrcpsych.uk/'

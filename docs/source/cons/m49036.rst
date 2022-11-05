@@ -44,10 +44,19 @@ falling asleep even more unlikely. Chronic insomnia is almost always
 associated with feeling overtired and may be associated with symptoms of
 depression.
 
-.. note:: 
+.. tip:: 
 
    Sleep-onset insomnia is more likely due to anxiety, while
-   late insomnia is characteristic of severe depression. 
+   late-insomnia is characteristic of severe depression. 
+
+The **Insomnia Severity Index (ISI)** is a seven-item questionnaire that serves as a quick 
+screening tool for insomnia. It also assesses the severity and nature of insomnia. 
+Using a Likert-type scale, respondents are asked to rate the 
+severity of their sleeping problems. The severity of the symptoms, the respondent's satisfaction 
+with his or her sleep patterns, the degree to which insomnia interferes with daily functioning, 
+how noticeable the respondent feels their insomnia is to others, and the overall level 
+of distress brought on by the sleep issue are all subjective aspects of the 
+respondent's sleep that are addressed in the questions.
 
 Many factors may contribute to insomnia, including age,
 drug use, exercise, mental status, and bedtime routines. Not
@@ -58,27 +67,14 @@ exercise during the day. Some people might turn to over-the-counter
 (OTC) or prescribed sleep medications to help them sleep, but this
 should be done sparingly because many sleep medications result in
 dependence and alter the nature of the sleep cycle, and they can
-increase insomnia over time. Those who continue to have insomnia,
-particularly if it affects their quality of life, should seek
-professional treatment.
-
-Some forms of psychotherapy, such as cognitive-behavioral therapy, can
-help people with insomnia. :term:`Cognitive-behavioral therapy` is a type of psychotherapy 
-focusing on cognitive
-processes and problem behaviours. The treatment of insomnia likely would
-include stress management techniques and changes in problematic
-behaviors that could contribute to insomnia (e.g., spending more waking
-time in bed). Cognitive-behavioral therapy has been demonstrated to be
-quite effective in treating insomnia. :footcite:p:`SavardRandomizedStudyontheEfficacyofCognitive2005,WilliamsCognitiveBehavioralTreatmentofInsomnia2013`
-
+increase insomnia over time. Non-pharmacological treatments are preferable. 
+Education about the science of sleep and the implementation of sleep-hygiene 
+techniques should always be the first step in managing insomnia. 
 
 Sleep-hygiene
 =============
-People who experience insomnia are often prescribed hypnotics. 
-In addition to their adverse effects, the therapeutic effects are often temporary 
-as tolerance develops quickly. 
-Sleep hygiene techniques can eliminate the need for medication use. 
-The following are some of the principles of sleep hygiene. The first step 
+
+The following are some of the principles of sleep hygiene. The first part 
 would be to assess a patient's routines based on these principles to identify 
 maladaptive habits and tailor the recommendations accordingly. To raise the patient's 
 motivation to use these techniques, they may also be informed about the importance of 
@@ -120,7 +116,14 @@ and physical well-being.
 10. During bedtime, **room temperature** should be at a level where one would need a light blanket. People more readily fall asleep when the temperature is low or when their body temperature drops. A warm water bath before bedtime can thus help induce sleep. 
 11. Repeatedly checking time and actively trying to fall asleep is similarly distressing and prevents one from falling asleep. Instead, the patient is advised to **try to stay awake**. 
 12. If anxiety is significant, regular **progressive muscle relaxation** before bedtime will help. 
-13. Aromatherapy with lavender oil may also help.
+13. Aromatherapy with lavender oil may also help. 
+
+Cognitive-behavioral therapy for insomnia (CBT-I), is the first-line high-intensity therapy and
+is preferable to the use of hypnotics. Behaviours that could contribute to insomnia (e.g., spending more waking time in bed) 
+are identified and eliminated or replaced. 
+Implementation of sleep hygiene techniques is an integral component of CBT-I. The treatment also includes stress management techniques. Other components are 
+**sleep-restriction** and **stimulus control**. Cognitive-behavioral therapy has been shown effective to treat insomnia. :footcite:p:`SavardRandomizedStudyontheEfficacyofCognitive2005,WilliamsCognitiveBehavioralTreatmentofInsomnia2013`
+
 
 .. admonition:: Sleep Disruption in Depression
    :class: hint
@@ -133,10 +136,10 @@ and physical well-being.
    slow-wave sleep on electroencephalography. 
    
    Disturbances in REM sleep include shortened REM latency, more REM activity 
-   (higher percentage in the first ½ of the night and a higher REM density. 
+   (higher percentage) in the first ½ of the night and a higher REM density. 
    Sleep deprivation (especially deprivation of REM sleep) has shown a temporary but 
    beneficial effect on mood in depressed patients resulting in quick improvement. 
-   Antidepressants impair REM sleep - there is a rebound of REM sleep on discontinuation
+   Antidepressants impair REM sleep; there is a rebound of REM sleep on discontinuation. 
 
 
 PARASOMNIAS
@@ -197,7 +200,7 @@ the episodes from occurring.
    bed. The following morning, he awoke to barking dogs and unfamiliar
    voices from downstairs. As he went to investigate what was going on,
    he was met by a group of police officers who arrested him for the
-   murder of his wife :footcite:p:`cartwrightSleepwalkingViolenceSleep2004` (Cartwright, 2004; CNN, 1999).
+   murder of his wife. :footcite:p:`cartwrightSleepwalkingViolenceSleep2004`
 
    Yarmila Falater’s body was found in the family’s pool with 44 stab
    wounds. A neighbor called the police after witnessing Falater
@@ -218,8 +221,9 @@ the episodes from occurring.
    during a sleepwalking episode. He suffered from no apparent
    anatomical brain anomalies or psychological disorders. It appeared
    that Scott Falater had killed his wife in his sleep, or at least,
-   that is the defense he used when he was trialed for his wife’s murder
-   (Cartwright, 2004; CNN, 1999). In Falater’s case, a jury found him
+   that is the defense he used when he was trialed for his wife’s murder. :footcite:p:`cartwrightSleepwalkingViolenceSleep2004`
+
+   In Falater’s case, a jury found him
    guilty of first-degree murder in June of 1999 (CNN, 1999); however,
    there are other murder cases where the sleepwalking defense has been
    used successfully. As scary as it sounds, many sleep researchers
@@ -406,62 +410,6 @@ function in infants that die from SIDS :footcite:p:`berkowitzSuddenInfantDeath20
    about reducing the risk of SIDS. 
 
 
-NARCOLEPSY
-==========
-
-Unlike the other sleep disorders described in this section, a person
-with :term:`narcolepsy` cannot resist falling asleep
-at inopportune times. These sleep episodes are often associated with
-:term:`cataplexy`, a lack of muscle tone or
-muscle weakness, and in some cases involve, complete paralysis of the
-voluntary muscles. This is similar to the kind of paralysis experienced
-by healthy individuals during 
-REM sleep. :footcite:p:`burgessNarcolepsyNeuralMechanisms2012,hishikawaPhysiologyofREMsleep1995,luppiNeuronalNetworkResponsible2011`
-Narcoleptic episodes
-take on other features of REM sleep. For example, around one-third of
-individuals diagnosed with narcolepsy experience vivid, dream-like
-hallucinations during narcoleptic attacks. :footcite:p:`chokrovertyOverviewSleep1994`
-
-Surprisingly, narcoleptic episodes are often triggered by states of
-heightened arousal or stress. The typical episode can last from a minute
-or two to half an hour. Once awakened from a narcoleptic attack, people
-report that they feel refreshed. :footcite:p:`ChokrovertyAnOverviewofNormalSleep2013` 
-Obviously, regular
-narcoleptic episodes could interfere with the ability to perform one’s
-job or complete schoolwork, and in some situations, narcolepsy can
-result in significant harm and injury (e.g., driving a car or operating
-machinery or other potentially dangerous equipment).
-
-
-
-Generally, narcolepsy is treated using psychomotor stimulant drugs, such
-as amphetamines. :footcite:p:`mignotAPracticalGuidetothe2012`
-These drugs promote increased levels of
-neural activity. Narcolepsy is associated with reduced levels of the
-signaling molecule hypocretin in some areas of the brain (De la
-Herrán-Arita & Drucker-Colín, 2012; Han, 2012), and the traditional
-stimulant drugs do not directly affect this system. Therefore, it
-is quite likely that new medications that are developed to treat
-narcolepsy will be designed to target the hypocretin system.
-
-There is tremendous variability among sufferers regarding how symptoms of 
-narcolepsy manifest and the effectiveness of
-currently available treatment options. This is illustrated by McCarty’s
-(2010) case study of a 50-year-old woman who sought help for the
-excessive sleepiness during regular waking hours that she had experienced
-for several years. She indicated that she had fallen asleep at
-inappropriate or dangerous times, including eating,
-socializing with friends, and driving her car. During periods of
-emotional arousal, the woman complained that she felt some weakness in
-the right side of her body. Although she did not experience any
-dream-like hallucinations, she was diagnosed with narcolepsy due to sleep testing. 
-The fact that her cataplexy occurred solely
-on the right side of her body was quite unusual. Early attempts to treat
-her condition with a stimulant drug alone were unsuccessful. However,
-her condition improved dramatically with a combination of a stimulant drug 
-and an antidepressant.
-
-
 Excessive Daytime Sleepiness
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Excessive daytime sleepiness (EDS) may occur due to primary hypersomnia, 
@@ -487,10 +435,114 @@ Aetiology
 
 
 **Epworth Sleepiness Scale (ESS)** is a self-rated scale used by clinicians 
-to assess daytime sleepiness. 
-The scale contains a total of 8 items, and each scored 0-3. From a total score 
-of 24, 11 suggest some degree of daytime sleepiness, while  16 suggest 
+to assess daytime sleepiness. The scale contains a total of 8 items, and each 
+scored 0-3. From a total score of 24, 11 suggest some degree of daytime sleepiness, 
+while  16 suggest excessive daytime sleepiness. 
+
+The **Multiple Sleep Latency Test (MSLT)** is a tool determines whether a person has physical fatigue or actual excessive daytime 
+sleepiness, and to test for central diseases of hypersomnolence such narcolepsy or idiopathic 
+hypersomnia. It measures the **sleep-latency**, ie, the interval between the beginning of a daytime nap and the onset of the first indications 
+of sleep. The test's premise is that people fall asleep more quickly when they are more sleepy. 
+Following an overnight **sleep-study**, the procedure is performed comprising 
+four or five 20-minute nap opportunities spaced two hours apart. The patient's brain waves, 
+EEG, muscle activity, and eye movements are monitored and recorded during the test. 
+The entire procedure typically lasts a day and takes around 7 hours.
+Multiple opportunities ascertain whether there are irregularities in duration of sleep-latency. 
+
+
+NARCOLEPSY
+==========
+
+Unlike the other sleep disorders described in this section, a person
+with :term:`narcolepsy` cannot resist falling asleep
+at inopportune times. These sleep episodes are often associated with
+:term:`cataplexy`, a loss of muscle tone, often triggerd by extreme emotions
+cuasing muscle weakness, which in some cases involve, complete paralysis of the
+voluntary muscles. This is similar to the kind of paralysis experienced
+by healthy individuals during 
+REM sleep. :footcite:p:`burgessNarcolepsyNeuralMechanisms2012,hishikawaPhysiologyofREMsleep1995,luppiNeuronalNetworkResponsible2011`
+Narcoleptic episodes take on other features of REM sleep. For example, around one-third of
+individuals diagnosed with narcolepsy experience vivid, dream-like
+**hallucinations** during narcoleptic attacks. :footcite:p:`chokrovertyOverviewSleep1994`
+
+Surprisingly, narcoleptic episodes are often triggered by states of
+heightened arousal or stress. The typical episode can last from a minute
+or two to half an hour. Once awakened from a narcoleptic attack, people
+report that they feel refreshed. :footcite:p:`ChokrovertyAnOverviewofNormalSleep2013` 
+
+Frequent narcoleptic episodes may interfere with the ability to perform one’s
+job or complete schoolwork, and in some situations, narcolepsy can
+result in significant harm and injury (e.g., driving a car or operating
+machinery or other potentially dangerous equipment).
+
+In addition to these episodes, patients with narcolpey may experience 
 excessive daytime sleepiness. 
+
+Symptoms not associated with a narcoleptic episode include sleep paralysis and hypnagogic 
+hallucinations. **Sleep paralysis** is a transient and generalized inability to move or speak during the 
+transition between sleep and wakefulness, typically occur while falling asleep. The paralysis
+is flaccid, and usually complete. Episodes of sleep paralysis usually last only a few seconds, 
+and less than one minute. **Hypnagogic hallucinations** also occur when the individual is about 
+to fall asleep.
+
+Patients with narcolepsy have a reduced sleep latency during the day 
+and greatly reduced REM latency at night; the patient may enter REM stage at 
+sleep onset. 
+
+Generally, narcolepsy is treated using psychomotor stimulant drugs, such
+as amphetamines. :footcite:p:`mignotAPracticalGuidetothe2012`
+These drugs promote increased levels of
+neural activity. Narcolepsy is associated with reduced levels of the
+signaling molecule **hypocretin** in some areas of the brain (De la
+Herrán-Arita & Drucker-Colín, 2012; Han, 2012), and the traditional
+stimulant drugs do not directly affect this system. Therefore, it
+is quite likely that new medications that are developed to treat
+narcolepsy will be designed to target the hypocretin system.
+
+.. admonition:: Variability of Presentation in Narcolepsy 
+   :class: important
+   
+   There is tremendous variability among sufferers regarding how symptoms of 
+   narcolepsy manifest and the effectiveness of
+   currently available treatment options. This is illustrated by 
+   McCarty’s case study (2010) :footcite:p:`mccartyAcaseofNarcolepsy2010` 
+   of a 50-year-old woman who sought help for the
+   excessive sleepiness during regular waking hours that she had experienced
+   for several years. She indicated that she had fallen asleep at
+   inappropriate or dangerous times, including eating,
+   socializing with friends, and driving her car. During periods of
+   emotional arousal, the woman complained that she felt some weakness in
+   the right side of her body. Although she did not experience any
+   dream-like hallucinations, she was diagnosed with narcolepsy due to sleep testing. 
+   The fact that her cataplexy occurred solely
+   on the right side of her body was quite unusual. Early attempts to treat
+   her condition with a stimulant drug alone were unsuccessful. However,
+   her condition improved dramatically with a combination of a stimulant drug 
+   and an antidepressant.
+
+Kleine-Levin Syndrome
+---------------------
+
+The **Kleine-Levin syndrome** is a rare secondary sleep disorder. 
+Most cases are in young men with onset in early adolescence
+Patients experience episodes of **somnolence** and **hyperphagia**, 
+often lasting days or weeks and with long intervals of normality between them. 
+ 
+Patients can always be aroused from the daytime sleep, but are 
+irritable and occasionally exhibit aggression on waking. 
+Usually, the patient only wakes to eat or empty bladder and bowels during an episode. 
+Incontinence does not occur. When awake, he eats voraciously, typically eating any food in sight, although the 
+patient rarely complains of hunger. 
+
+**Mental symptoms:** Some are **muddled** and experience depression, and disorientation. 
+**Vivid imagery** may be prominent, with waking fantasies which are
+difficult to disentangle from vivid dreams
+Visual and auditory **hallucinations** may also occur. 
+**Hypersexuality** occurs in around 25 % of cases. 
+
+**Physical signs** are few and less frequent. Pulse and temperature is usually normal. 
+Pupils may be unequal and plantar reflexes may be upgoing. EEG shows the usual changes 
+of drowsiness or sleep. 
 
 Psychiatric Disorders and Sleep Architecture
 --------------------------------------------
