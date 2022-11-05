@@ -59,8 +59,7 @@ processes and problem behaviours. The treatment of insomnia likely would
 include stress management techniques and changes in problematic
 behaviors that could contribute to insomnia (e.g., spending more waking
 time in bed). Cognitive-behavioral therapy has been demonstrated to be
-quite effective in treating insomnia (Savard, Simard, Ivers, & Morin,
-2005; Williams, Roth, Vatthauer, & McCrae, 2013).
+quite effective in treating insomnia. :footcite:p:`SavardRandomizedStudyontheEfficacyofCognitive2005,WilliamsCognitiveBehavioralTreatmentofInsomnia2013`
 
 
 Sleep-hygiene
@@ -161,7 +160,7 @@ patients who also suffered from sleep-related breathing problems showed
 a marked decrease in sleepwalking when their breathing problems were
 effectively treated.
 
-Behavioral Approaches to Manage Sleepwalking
+Environmental Approaches to Manage Sleepwalking
 --------------------------------------------
 The aim of these is mainly to prevent harm and, if possible, prevent
 the episodes from occurring.
@@ -269,8 +268,8 @@ terrors is unnecessary unless there is some underlying medical or
 psychological condition that is contributing to the night terrors (Mayo
 Clinic, n.d.).
 
-SLEEP APNEA
-===========
+SLEEP APNOEA
+============
 
 :term:`Sleep apnea` is defined by episodes during
 which a sleeper’s breathing stops. These episodes can last 10–20 seconds
@@ -351,7 +350,7 @@ Recently, a new EPAP (expiratory positive air pressure) device has shown
 promise in double-blind trials as one such alternative :footcite:p:`berryNovelNasalExpiratory2011`
 
 
-.. figure:: ../resources/CNX_Psych_04_04_CPAP
+.. figure:: ../resources/CNX_Psych_04_04_CPAP.jpg
    :scale: 100 %
    :alt: A photograph shows CPAP and its use.
 
@@ -388,7 +387,7 @@ function in infants that die from SIDS :footcite:p:`berkowitzSuddenInfantDeath20
    
 
 
-.. figure:: ../resources/CNX_Psych_04_04_SIDS
+.. figure:: ../resources/CNX_Psych_04_04_SIDS.jpg
    :scale: 100 %
    :alt: A photograph shows “Safe to Sleep” campaign logo.
    
@@ -403,28 +402,31 @@ NARCOLEPSY
 ==========
 
 Unlike the other sleep disorders described in this section, a person
-with **narcolepsy**\ {: data-type=“term”} cannot resist falling asleep
+with :term:`narcolepsy` cannot resist falling asleep
 at inopportune times. These sleep episodes are often associated with
-**cataplexy**\ {: data-type=“term”}, which is a lack of muscle tone or
+:term:`cataplexy`, which is a lack of muscle tone or
 muscle weakness, and in some cases involves complete paralysis of the
 voluntary muscles. This is similar to the kind of paralysis experienced
-by healthy individuals during REM sleep (Burgess & Scammell, 2012;
-Hishikawa & Shimizu, 1995; Luppi et al., 2011). Narcoleptic episodes
+by healthy individuals during 
+REM sleep. :footcite:p:`burgessNarcolepsyNeuralMechanisms2012,hishikawaPhysiologyofREMsleep1995,luppiNeuronalNetworkResponsible2011`
+Narcoleptic episodes
 take on other features of REM sleep. For example, around one-third of
 individuals diagnosed with narcolepsy experience vivid, dream-like
-hallucinations during narcoleptic attacks (Chokroverty, 2010).
+hallucinations during narcoleptic attacks. :footcite:p:`chokrovertyOverviewSleep1994`
 
 Surprisingly, narcoleptic episodes are often triggered by states of
 heightened arousal or stress. The typical episode can last from a minute
 or two to half an hour. Once awakened from a narcoleptic attack, people
-report that they feel refreshed (Chokroverty, 2010). Obviously, regular
+report that they feel refreshed. :footcite:p:`ChokrovertyAnOverviewofNormalSleep2013` 
+Obviously, regular
 narcoleptic episodes could interfere with the ability to perform one’s
 job or complete schoolwork, and in some situations, narcolepsy can
 result in significant harm and injury (e.g., driving a car or operating
 machinery or other potentially dangerous equipment).
 
 Generally, narcolepsy is treated using psychomotor stimulant drugs, such
-as amphetamines (Mignot, 2012). These drugs promote increased levels of
+as amphetamines. :footcite:p:`mignotAPracticalGuidetothe2012`
+These drugs promote increased levels of
 neural activity. Narcolepsy is associated with reduced levels of the
 signaling molecule hypocretin in some areas of the brain (De la
 Herrán-Arita & Drucker-Colín, 2012; Han, 2012), and the traditional
@@ -449,13 +451,13 @@ her condition with a stimulant drug alone were unsuccessful. However,
 her condition improved dramatically with a combination of a stimulant drug 
 and a popular antidepressant.
 
-Psychiatric Disorder and sleep
+Psychiatric Disorders and Sleep
 ------------------------------
 
 #. Depression
     #. reduced duration of stages 3 and 4
     #. reduced REM latency
-    #. REM occurs earlier in night
+    #. REM occurs earlier in the night
 #. Schizophrenia
     #. reduced slow-wave sleep
     #. reduced REM
@@ -477,13 +479,13 @@ Psychiatric Disorder and sleep
 Summary
 =======
 
-Many individuals suffer from some type of sleep disorder or disturbance
-at some point in their lives. Insomnia is a common experience in which
+Many individuals suffer from some sleep disorder or disturbance
+at some point. Insomnia is a common experience in which
 people have difficulty falling or staying asleep. Parasomnias involve
-unwanted motor behavior or experiences throughout the sleep cycle and
-include RBD, sleepwalking, restless leg syndrome, and night terrors.
-Sleep apnea occurs when individuals stop breathing during their sleep,
-and in the case of sudden infant death syndrome, infants will stop
+unwanted motor behavior or experiences throughout the sleep cycle, 
+including RBD, sleepwalking, restless leg syndrome, and night terrors.
+Sleep apnea occurs when individuals stop breathing during sleep; in 
+the case of sudden infant death syndrome, infants will stop
 breathing during sleep and die. Narcolepsy involves an irresistible urge
 to fall asleep during waking hours and is often associated with
 cataplexy and hallucination.
@@ -498,7 +500,7 @@ cataplexy and hallucination.
       1. RBD
       2. CPAP
       3. cataplexy
-      4. insomnia {: type=“a”}
+      4. insomnia
 
     .. dropdown:: Check Answer
 
@@ -512,7 +514,7 @@ cataplexy and hallucination.
       1. central sleep apnea
       2. obstructive sleep apnea
       3. narcolepsy
-      4. SIDS {: type=“a”}
+      4. SIDS
 
     .. dropdown:: Check Answer
 
@@ -525,7 +527,7 @@ cataplexy and hallucination.
       1. sleep apnea
       2. RBD
       3. SIDS
-      4. narcolepsy {: type=“a”}
+      4. narcolepsy
 
     .. dropdown:: Check Answer
 
@@ -537,7 +539,7 @@ cataplexy and hallucination.
       1. insomnia
       2. somnambulism
       3. cataplexy
-      4. narcolepsy {: type=“a”}
+      4. narcolepsy
 
     .. dropdown::
 
@@ -562,7 +564,7 @@ Critical Thinking Questions
       for socializing, studying, eating, and so on, then it is possible
       that it will become a place that elicits higher levels of arousal,
       which would make falling asleep at the appropriate time more
-      difficult. Answers could also consider self-perpetuating cycle
+      difficult. Answers could also consider a self-perpetuating cycle
       referred to when describing insomnia. If an individual is having
       trouble falling asleep and that generates anxiety, it might make
       sense to remove him from the context where sleep would normally
@@ -600,7 +602,7 @@ Glossary
 .. glossary::
 
    cataplexy
-      lack of muscle tone or muscle weakness, and in some cases complete
+      lack of muscle tone or muscle weakness, and in some cases, complete
       paralysis of the voluntary muscles
 
    central sleep apnea
@@ -611,7 +613,7 @@ Glossary
    cognitive-behavioral therapy
       psychotherapy that focuses on cognitive processes and problem
       behaviors that is sometimes used to treat sleep disorders such as
-      insomnia ^
+      insomnia 
 
    continuous positive airway pressure (CPAP)
       device used to treat sleep apnea; includes a mask that fits over
@@ -625,7 +627,7 @@ Glossary
    night terror
       sleep disorder in which the sleeper experiences a sense of panic
       and may scream or attempt to escape from the immediate environment
-      ^
+   
 
    obstructive sleep apnea
       sleep disorder defined by episodes when breathing stops during
