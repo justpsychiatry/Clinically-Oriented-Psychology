@@ -138,6 +138,9 @@ and wakefulness as well as coordinating this cycle with the outside world.
    Watch this brief `video <http://openstax.org/l/circadian>`__
    describing circadian rhythms and how they affect sleep.
 
+.. youtube:: dQw4w9WgXcQ
+   :align: center
+
 Disruptions of Normal Sleep
 ---------------------------
 
