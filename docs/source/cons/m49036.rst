@@ -2,27 +2,21 @@
 Sleep Problems and Disorders
 ============================
 
+.. card::
 
-
-.. contents::
-   :depth: 3
-..
-
-.. container::
-
-   By the end of this section, you will be able to: \* Describe the
-   symptoms and treatments of insomnia \* Recognize the symptoms of
-   several parasomnias \* Describe the symptoms and treatments for sleep
-   apnea \* Recognize risk factors associated with sudden infant death
-   syndrome (SIDS) and steps to prevent it \* Describe the symptoms and
-   treatments for narcolepsy
+   By the end of this section, you will be able to: 
+   
+   * Describe the symptoms and treatments of insomnia, especially sleep hygiene. 
+   * Recognize the symptoms of several parasomnias
+   * Describe the symptoms and treatments for sleep apnea
+   * Recognize risk factors associated with sudden infant death syndrome (SIDS) and steps to prevent it. 
+   * Describe the symptoms and treatments for narcolepsy
 
 Many people experience disturbances in their sleep at some point in
 their lives. Depending on the population and sleep disorder being
 studied, between 30% and 50% of the population suffers from a sleep
-disorder at some point in their lives (Bixler, Kales, Soldatos, Kaels, &
-Healey, 1979; Hossain & Shapiro, 2002; Ohayon, 1997, 2002; Ohayon &
-Roth, 2002). This section will describe several sleep disorders as well
+disorder at some point in their lives. :footcite:p:`bixlerPrevalenceofsleepdisorders1979,hossainThePrevalenceCostImplications2002,ohayonPrevalenceDSMIVDiagnostic1997,ohayonMetaAnalysisQuantitativeSleep2004,ohayonPrevalenceofrestlesslegs2002`
+This section will describe several sleep disorders as well
 as some of their treatment options.
 
 INSOMNIA
@@ -69,7 +63,6 @@ quite effective in treating insomnia (Savard, Simard, Ivers, & Morin,
 2005; Williams, Roth, Vatthauer, & McCrae, 2013).
 
 
-
 Sleep-hygiene
 =============
 People who experience insomnia are often prescribed hypnotics. 
@@ -108,29 +101,19 @@ and physical well-being.
    of food consumed should be enough to avoid discomfort due to an empty stomach or overeating. A meal
    should be taken at least a couple of hours before bedtime. 
 7. For some, **sleep restriction** may be helpful. In this, the patient is enquired about the 
-   approximate duration they sleep, and their bedtime is restricted only to that much interval. For
+   approximate sleep duration, and their bedtime is restricted only to that much interval. For
    example, suppose a patient usually falls asleep at 1:00 AM after spending several hours in their bed. In that case,
    they must go to bed at around 1 AM and leave immediately upon awakening. 
    This technique is also based on conditioning, as discussed above.
    Gradually, bedtime duration increases as the patient's sleep improve.
-8. In **stimulus control**, the patient must avoid going to their bed
-   until they feel drowsy. This interval should be spent sitting in a calm, dark 
-   environment and a comfortable chair. Using earbuds with a masking effect can help block 
-   noise from a source that can be controlled. White noise machines may also help, especially
-   for those with tinnitus. 
-9.  Discussing or thinking about distressing or exciting issues can cause sympathetic
-   responses and impair sleep. If issues must be discussed, they should 
-   be discussed in the daytime, long before the time for sleep. 
-   To avoid preoccupation with intrusive thoughts, the patient is advised to **count backward from 500**. 
-11. During bedtime, **room temperature** should be at a level where one would need a light blanket. People
-   more readily fall asleep when the temperature is low or when their body temperature drops. A warm water 
-   bath before bedtime can thus help induce sleep. 
-11. Repeatedly checking time and actively trying to fall asleep is similarly distressing and prevents
-    one from falling asleep. Instead, the patient is advised to **try to stay awake**. 
+8. In **stimulus control**, the patient must avoid going to their bed until they feel drowsy. This interval should be spent sitting in a calm, dark environment and a comfortable chair. Using earbuds with a masking effect can help block noise from a source that can be controlled. White noise machines may also help, especially for those with tinnitus. 
+9. Discussing or thinking about distressing or exciting issues can cause sympathetic responses and impair sleep. If issues must be discussed, they should be discussed in the daytime, long before the time for sleep. To avoid preoccupation with intrusive thoughts, the patient is advised to **count backward from 500**. 
+10. During bedtime, **room temperature** should be at a level where one would need a light blanket. People more readily fall asleep when the temperature is low or when their body temperature drops. A warm water bath before bedtime can thus help induce sleep. 
+11. Repeatedly checking time and actively trying to fall asleep is similarly distressing and prevents one from falling asleep. Instead, the patient is advised to **try to stay awake**. 
 12. If anxiety is significant, regular **progressive muscle relaxation** before bedtime will help. 
 13. Aromatherapy with lavender oil may also help.
 
-.. admonition:: Insomnia in Depression
+.. admonition:: Sleep Disruption in Depression
    :class: hint
    
    In patients with depression, there is a disturbance of sleep continuity; they spend more
@@ -166,12 +149,13 @@ driving an automobile. During a sleepwalking episode, sleepers often
 have their eyes open but are not responsive to attempts to
 communicate with them. Sleepwalking most often occurs during slow-wave
 sleep, but it can occur at any time during a sleep period in some
-affected individuals (Mahowald & Schenck, 2000).
+affected individuals. :footcite:p:`mahowaldDiagnosisandmanagement2000`
 
 Historically, somnambulism has been treated with various
 pharmacotherapies ranging from benzodiazepines to antidepressants.
 However, the success rate of such treatments is questionable.
-Guilleminault et al. (2005) found that sleepwalking was not alleviated
+Guilleminault et al. (2005) :footcite:p:`guilleminaultAdultChronicSleepwalking2005` 
+found that sleepwalking was not alleviated
 with benzodiazepines. However, all of their somnambulistic
 patients who also suffered from sleep-related breathing problems showed
 a marked decrease in sleepwalking when their breathing problems were
@@ -217,7 +201,7 @@ the episodes from occurring.
    his wife in any way. His children and his wife’s parents all agreed
    that Falater had an excellent relationship with his wife, and they
    could not think of a reason that would provide any motive to
-   murder her (Cartwright, 2004).
+   murder her. :footcite:p:`cartwrightSleepwalkingViolenceSleep2004`
 
    Scott Falater had a history of regular episodes of sleepwalking as a
    child and he had even behaved violently toward his sister once when
@@ -238,7 +222,7 @@ the episodes from occurring.
 REM Sleep Behavior Disorder (RBD)
 ---------------------------------
 
-**REM sleep behavior disorder (RBD)**\ {: data-type=“term”} occurs when
+:term:`REM sleep behavior disorder (RBD)` occurs when
 the muscle paralysis associated with the REM sleep phase does not occur.
 Individuals who suffer from RBD have high physical activity levels
 during REM sleep, especially during disturbing dreams. These behaviors
@@ -247,20 +231,16 @@ yelling, and behaving like an animal that has been frightened or
 attacked. People who suffer from this disorder can injure themselves or
 their sleeping partners when engaging in these behaviors. Furthermore,
 these types of behaviors ultimately disrupt sleep, although affected
-individuals have no memories that these behaviors have occurred (Arnulf,
-2012).
+individuals have no memories that these behaviors have occurred. :footcite:p:`arnulfREMsleepbehavior2012`
 
 This disorder is associated with several neurodegenerative diseases, such as Parkinson’s. 
-This relationship is so robust
-that some view the presence of RBD as a potential aid in the diagnosis
-and treatment of several neurodegenerative 
-diseases :footcite:p:`ferini-strambiDoesIdiopathicREM2011` . 
+This relationship is so robust that some view the presence of RBD as a potential aid in diagnosing and treating several neurodegenerative 
+diseases. :footcite:p:`ferini-strambiDoesIdiopathicREM2011` 
 Clonazepam, an anti-anxiety medication with sedative properties,
 is most often used to treat RBD. It is administered alone or in
 conjunction with doses of melatonin (the hormone secreted by the pineal
 gland). As part of treatment, the sleeping environment is often modified
-to make it a safer place for those suffering from RBD (Zangini,
-Calandra-Buonaura, Grimaldi, & Cortelli, 2011).
+to make it safer for those suffering from RBD. :footcite:p:`zanigniREMBehaviourDisorder2011`
 
 Other Parasomnias
 -----------------
@@ -318,7 +298,7 @@ evaluated for sleep apnea regardless of weight.
 
 While people are often unaware of their sleep apnea, they are keenly
 aware of some of the adverse consequences of insufficient sleep.
-Consider a patient who believed that as a result of his sleep apnea, he
+Consider a patient who believed that as a result of his sleep apnea, he:
 
 .. epigraph::
    
@@ -338,19 +318,27 @@ another patient,
    alert. I was sleepy… and having trouble concentrating…. It was
    getting to the point where it was kind of scary” 
       
-       -- Henry & Rosenthal, 2013, p. 52
+       -- Henry & Rosenthal, 2013, p. 52 :footcite:p:`henryListeningHisBreath2013`
 
+The following are the clinical features of sleep apnoea: 
 
-There are two types of sleep apnea: obstructive sleep apnea and central
+#. Loud snoring (95%)
+#. Daytime sleepiness (90%)
+#. Unrefreshed or disturbed sleep
+#. Morning headache and confusion
+#. Nocturnal choking
+#. Enuresis
+#. Swelling of the ankles
+
+There are two types of sleep apnea: **obstructive** sleep apnea and **central**
 sleep apnea. :term:`Obstructive sleep apnea` occurs
 when an individual’s airway becomes blocked during sleep, and the air is
 prevented from entering the lungs. In :term:`central sleep apnea`, 
 disruption in signals sent from the brain that
 regulate breathing cause periods of interrupted breathing (White, 2005).
 
-One of the most common sleep apnea treatments involves using a
-special device during sleep. 
-A :term:`continuous positive airway pressure (CPAP)` device includes 
+One of the most common sleep apnea treatments involves using 
+:term:`continuous positive airway pressure (CPAP)` device. It includes 
 a mask that fits over the
 sleeper’s nose and mouth, which is connected to a pump that pumps air
 into the person’s airways, forcing them to remain open, as shown in
@@ -360,8 +348,8 @@ for people suffering from mild to severe cases of sleep apnea. :footcite:p:`mcda
 However, alternative treatment options are being explored
 because consistent compliance by users of CPAP devices is a problem.
 Recently, a new EPAP (expiratory positive air pressure) device has shown
-promise in double-blind trials as one such alternative (Berry, Kryger, &
-Massie, 2011).
+promise in double-blind trials as one such alternative :footcite:p:`berryNovelNasalExpiratory2011`
+
 
 .. figure:: ../resources/CNX_Psych_04_04_CPAP
    :scale: 100 %
