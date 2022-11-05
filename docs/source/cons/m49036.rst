@@ -14,8 +14,7 @@ Sleep Problems and Disorders
 
 Many people experience disturbances in their sleep at some point in
 their lives. Depending on the population and sleep disorder
-studied, between 30% and 50% of the population suffers from a sleep
-disorder at some point in their lives. :footcite:p:`bixlerPrevalenceofsleepdisorders1979,hossainThePrevalenceCostImplications2002,ohayonPrevalenceDSMIVDiagnostic1997,ohayonMetaAnalysisQuantitativeSleep2004,ohayonPrevalenceofrestlesslegs2002`
+studied, 30% to 50% population have a sleep disorder at some point in life. :footcite:p:`bixlerPrevalenceofsleepdisorders1979,hossainThePrevalenceCostImplications2002,ohayonPrevalenceDSMIVDiagnostic1997,ohayonMetaAnalysisQuantitativeSleep2004,ohayonPrevalenceofrestlesslegs2002`
 This section will describe several sleep disorders as well
 as some of their treatment options.
 
@@ -27,9 +26,15 @@ most common of the sleep disorders. Individuals with insomnia often
 experience long delays when they go to bed and
 fall asleep. In addition, these individuals may wake up several
 times during the night only to find difficulty getting
-back to sleep. As mentioned earlier, one of the criteria for insomnia
+back to sleep. Yet, a subgroup of people
+experiences late insomnia or early morning waking. Late Insomnia is characteristic 
+of severe or melancholic depression. Insomnia that occurs exclusively 
+during the course of depression or another disorder, however, does not qualify the diagnostic 
+criteria of insomnia disorder. 
+
+As mentioned earlier, one of the criteria for insomnia
 involves experiencing these symptoms for at least three nights a week
-for at least one month :footcite:p:`roth2007a`.
+for at least one month :footcite:p:`rothInsomniaPrevalenceEtiology2007a`.
 
 It is not uncommon for people suffering from insomnia to experience
 **anxiety** about their inability to fall asleep. This
@@ -38,6 +43,11 @@ increased arousal, and higher arousal levels make the prospect of
 falling asleep even more unlikely. Chronic insomnia is almost always
 associated with feeling overtired and may be associated with symptoms of
 depression.
+
+.. note:: 
+
+   Sleep-onset insomnia is more likely due to anxiety, while
+   late insomnia is characteristic of severe depression. 
 
 Many factors may contribute to insomnia, including age,
 drug use, exercise, mental status, and bedtime routines. Not
@@ -288,7 +298,7 @@ loudly and stop breathing for extended periods while sleeping. :footcite:p:`henr
    important indicators. 
    
 
-Sleep apnea is much more common in overweight
+Sleep apnea is much more common among obese 
 people and is often associated with loud snoring. Surprisingly, sleep
 apnea may exacerbate cardiovascular disease. :footcite:p:`sanchez-de-la-torreObstructiveSleepApnoea2013` 
 While sleep apnea is less common in
@@ -341,13 +351,13 @@ One of the most common sleep apnea treatments involves using
 a mask that fits over the
 sleeper’s nose and mouth, which is connected to a pump that pumps air
 into the person’s airways, forcing them to remain open, as shown in
-`[link] <#Figure_04_04_CPAP>`__. Some newer CPAP masks are smaller and
+`[fig] <#Figure_04_04_CPAP>`__. Some newer CPAP masks are smaller and
 cover only the nose. This treatment option has proven effective
 for people suffering from mild to severe cases of sleep apnea. :footcite:p:`mcdaidSystematicReviewContinuous2009`
 However, alternative treatment options are being explored
 because consistent compliance by users of CPAP devices is a problem.
-Recently, a new EPAP (expiratory positive air pressure) device has shown
-promise in double-blind trials as one such alternative :footcite:p:`berryNovelNasalExpiratory2011`
+Recently, a new **EPAP (expiratory positive air pressure)** device has shown
+promise in double-blind trials as one su.ch alternative. :footcite:p:`berryNovelNasalExpiratory2011`
 
 
 .. figure:: ../resources/CNX_Psych_04_04_CPAP.jpg
@@ -367,8 +377,7 @@ months appear to be at the highest risk for SIDS, and boys have a
 greater risk than girls. Several risk factors have been associated
 with SIDS including premature birth, smoking within the home, and
 hyperthermia. There may also be differences in both brain structure and
-function in infants that die from SIDS :footcite:p:`berkowitzSuddenInfantDeath2012` (Berkowitz, 2012; Mage & Donner,
-2006; Thach, 2005).
+function in infants that die from SIDS :footcite:p:`berkowitzSuddenInfantDeath2012,mageFemaleResistanceHypoxia2006` (Thach, 2005).
 
 .. admonition:: Preventing SIDS
    :class: tip 
@@ -385,7 +394,6 @@ function in infants that die from SIDS :footcite:p:`berkowitzSuddenInfantDeath20
    Recommendations like these have helped to decrease the number of infant deaths
    from SIDS in recent years :footcite:p:`mitchellSIDSPresentFuture2009,moonSIDSOtherSleepRelated2011`
    
-
 
 .. figure:: ../resources/CNX_Psych_04_04_SIDS.jpg
    :scale: 100 %
@@ -404,8 +412,8 @@ NARCOLEPSY
 Unlike the other sleep disorders described in this section, a person
 with :term:`narcolepsy` cannot resist falling asleep
 at inopportune times. These sleep episodes are often associated with
-:term:`cataplexy`, which is a lack of muscle tone or
-muscle weakness, and in some cases involves complete paralysis of the
+:term:`cataplexy`, a lack of muscle tone or
+muscle weakness, and in some cases involve, complete paralysis of the
 voluntary muscles. This is similar to the kind of paralysis experienced
 by healthy individuals during 
 REM sleep. :footcite:p:`burgessNarcolepsyNeuralMechanisms2012,hishikawaPhysiologyofREMsleep1995,luppiNeuronalNetworkResponsible2011`
@@ -423,6 +431,8 @@ narcoleptic episodes could interfere with the ability to perform one’s
 job or complete schoolwork, and in some situations, narcolepsy can
 result in significant harm and injury (e.g., driving a car or operating
 machinery or other potentially dangerous equipment).
+
+
 
 Generally, narcolepsy is treated using psychomotor stimulant drugs, such
 as amphetamines. :footcite:p:`mignotAPracticalGuidetothe2012`
@@ -449,10 +459,41 @@ The fact that her cataplexy occurred solely
 on the right side of her body was quite unusual. Early attempts to treat
 her condition with a stimulant drug alone were unsuccessful. However,
 her condition improved dramatically with a combination of a stimulant drug 
-and a popular antidepressant.
+and an antidepressant.
 
-Psychiatric Disorders and Sleep
-------------------------------
+
+Excessive Daytime Sleepiness
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Excessive daytime sleepiness (EDS) may occur due to primary hypersomnia, 
+sleep deprivation, or sleep disorder. The following is a summary of common 
+causes of EDS. 
+
+Aetiology
+^^^^^^^^^
+
+1. Insufficient night-time sleep
+   a. Unsatisfactory irregular sleep routines
+   b. Circadian rhythm sleep disorders
+   c. Frequent parasomnias
+   d. Chronic physical illness
+   e. Psychiatric disorders
+2. Pathological sleep
+   a. Obstructive sleep apnoea
+   b. Narcolepsy
+   c. Other CNS disease
+   d. Drug effects
+   e. Kleine-Levin syndrome
+   f. Atypical depressive illness
+
+
+**Epworth Sleepiness Scale (ESS)** is a self-rated scale used by clinicians 
+to assess daytime sleepiness. 
+The scale contains a total of 8 items, and each scored 0-3. From a total score 
+of 24, 11 suggest some degree of daytime sleepiness, while  16 suggest 
+excessive daytime sleepiness. 
+
+Psychiatric Disorders and Sleep Architecture
+--------------------------------------------
 
 #. Depression
     #. reduced duration of stages 3 and 4
@@ -474,6 +515,40 @@ Psychiatric Disorders and Sleep
     #. increased sleep
     #. fragmentation
     #. reduced sleep efficiency
+
+
+The Effects of Drugs on Sleep
+-----------------------------
+**Alcohol** has a biphasic action on sleep. In the first half of the night, 
+it decreases sleep onset latency (promotes sleep initially). 
+Regarding sleep architecture, it leads to an increase in the duration of deep sleep and 
+relative deprivation of REM sleep. 
+In the night's second half, there is a rebound increase in REM sleep duration.  
+The sleep promotion associated with small doses of alcohol may be related to prior 
+sleep deprivation. 
+Alcohol also exacerbates sleep-related breathing disorders, sleep apnoea, and sleepwalking. 
+Chronic use of excessive amounts of alcohol disrupts all stages of sleep. During withdrawal, the total sleep time is reduced and 
+non-REM sleep is particularly affected. 
+
+
++-------------+-------------+-------------+-------------+-------------+
+| Drug        | Total Sleep | REM         | Light sleep | Deep sleep  |
+|             | time        |             | Stages 1 &  | Stages 3 &  |
+|             |             |             | 2           | 4           |
++=============+=============+=============+=============+=============+
+| *Opioids*   | ↓           | ↓           | ↓           | ↓           |
++-------------+-------------+-------------+-------------+-------------+
+| *Caffeine*  | ↓           | ↓ REM       |             | slightly ↓  |
+|             |             | latency     |             |             |
+|             |             |             |             |             |
+|             |             | ↑ REM sleep |             |             |
++-------------+-------------+-------------+-------------+-------------+
+| *Am         | initial     | ↑ REM       |             |             |
+| phetamines, | insomnia    | latency     |             |             |
+| cocaine*    | and reduced |             |             |             |
+|             | TST         | ↓ REM sleep |             |             |
++-------------+-------------+-------------+-------------+-------------+
+
 
 
 Summary
