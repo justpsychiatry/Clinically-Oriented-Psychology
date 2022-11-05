@@ -8,14 +8,15 @@ What Is Consciousness?
    :depth: 3
 ..
 
-.. container::
+.. card:: Learning-objectives
 
-   By the end of this section, you will be able to: \* Understand what
-   is meant by consciousness \* Explain how circadian rhythms are
-   involved in regulating the sleep-wake cycle, and how circadian cycles
-   can be disrupted \* Discuss the concept of sleep debt
+   By the end of this section, you will be able to: 
 
-**Consciousness**\ {: data-type=“term”} describes our awareness of
+   * Understand what is meant by consciousness
+   * Explain how circadian rhythms are involved in regulating the sleep-wake cycle, and how circadian cycles can be disrupted
+   * Discuss the concept of sleep debt
+
+:term:`Consciousness` describes our awareness of
 internal and external stimuli. Awareness of internal stimuli includes
 feeling pain, hunger, thirst, sleepiness, and being aware of our
 thoughts and emotions. Awareness of external stimuli includes seeing the
@@ -24,12 +25,12 @@ of a friend.
 
 We experience different states of consciousness and different levels of
 awareness on a regular basis. We might even describe consciousness as a
-continuum that ranges from full awareness to a deep sleep. **Sleep**\ {:
-data-type=“term”} is a state marked by relatively low levels of physical
+continuum that ranges from full awareness to deep sleep. 
+:term:`Sleep` is a state marked by relatively low levels of physical
 activity and reduced sensory awareness that is distinct from periods of
-rest that occur during wakefulness. **Wakefulness**\ {:
-data-type=“term”} is characterized by high levels of sensory awareness,
-thought, and behavior. In between these extremes are states of
+rest that occur during wakefulness. :term:`Wakefulness` is characterized by 
+high levels of sensory awareness, thought, and behavior. 
+In between these extremes are states of
 consciousness related to daydreaming, intoxication as a result of
 alcohol or other drug use, meditative states, hypnotic states, and
 altered states of consciousness following sleep deprivation. We might
@@ -40,12 +41,25 @@ daydreamed while driving home from work or school without really
 thinking about the drive itself? You were capable of engaging in the all
 of the complex tasks involved with operating a motor vehicle even though
 you were not aware of doing so. Many of these processes, like much of
-psychological behavior, are rooted in our biology.
+psychological behavior, are rooted in our biology. 
+
+.. admonition:: Coma, Stupor, and Clouding of Consciousness 
+   :class: tip
+
+   Coma, stupor, and clouding of consciousness are three clinically
+   relevant, abnormality of consciousness. 
+
+   **Clouding of consciousness**, the hallmark of delirium refers to a spectrum of 
+   reduced consciousness ranging from subtle impairment to complete stupor. **Stupor** 
+   occurs when the affected individual appears unconscious, but may still respond 
+   to painful stimuli. **Coma** occurs when there is a total loss of consciousness. A person 
+   in a state of coma does not respond to environmental stimuli.  
+
 
 BIOLOGICAL RHYTHMS
 ==================
 
-**Biological rhythms**\ {: data-type=“term”} are internal rhythms of
+:term:`Biological rhythms` are internal rhythms of
 biological activity. A woman’s menstrual cycle is an example of a
 biological rhythm—a recurring, cyclical pattern of bodily changes. One
 complete menstrual cycle takes about 28 days—a lunar month—but many
@@ -54,17 +68,24 @@ fluctuates cyclically over a 24-hour period
 (`[link] <#Figure_04_01_Rhythms>`__). Alertness is associated with
 higher body temperatures, and sleepiness with lower body temperatures.
 
-|A line graph is titled “Circadian Change in Body Temperature (Source:
-Waterhouse et al., 2012).” The y-axis, is labeled “temperature (degrees
-Fahrenheit),” ranges from 97.2 to 99.3. The x-axis, which is labeled
-“time,” begins at 12:00 A.M. and ends at 4:00 A.M. the following day.
-The subjects slept from 12:00 A.M. until 8:00 A.M. during which time
-their average body temperatures dropped from around 98.8 degrees at
-midnight to 97.6 degrees at 4:00 A.M. and then gradually rose back to
-nearly the same starting temperature by 8:00 A.M. The average body
-temperature fluctuated slightly throughout the day with an upward tilt,
-until the next sleep cycle where the temperature again dropped.|\ {:
-#Figure_04_01_Rhythms}
+.. figure:: ../resources/CNX_Psych_04_01_Rhythmsn.jpg
+   :scale: 100 %
+   :alt: A photograph shows a line graph titled “Circadian Change in Body Temperature
+   :align: center
+
+   A line graph is titled “Circadian Change in Body Temperature (Source:
+   Waterhouse et al., 2012).” 
+   
+   The y-axis, is labeled “temperature (degrees
+   Fahrenheit),” ranges from 97.2 to 99.3. The x-axis, which is labeled
+   “time,” begins at 12:00 A.M. and ends at 4:00 A.M. the following day.
+   The subjects slept from 12:00 A.M. until 8:00 A.M. during which time
+   their average body temperatures dropped from around 98.8 degrees at
+   midnight to 97.6 degrees at 4:00 A.M. and then gradually rose back to
+   nearly the same starting temperature by 8:00 A.M. The average body
+   temperature fluctuated slightly throughout the day with an upward tilt,
+   until the next sleep cycle where the temperature again dropped.
+
 
 This pattern of temperature fluctuation, which repeats every day, is one
 example of a circadian rhythm. A **circadian rhythm**\ {:

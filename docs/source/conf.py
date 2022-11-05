@@ -3,7 +3,7 @@
 import os
 import sys
 from datetime import datetime
-import sphinx_rtd_theme
+#import sphinx_rtd_theme
 
 sys.path.insert(0, os.path.abspath('.'))
 
@@ -77,7 +77,7 @@ exclude_patterns = []
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
 html_title = "Clinically-Oriented Psychology"
 html_baseurl ='https://psychology.mrcpsych.uk/'
