@@ -333,15 +333,17 @@ another patient,
       
        -- Henry & Rosenthal, 2013, p. 52 :footcite:p:`henryListeningHisBreath2013`
 
-The following are the clinical features of sleep apnoea: 
+.. card:: Symptoms of Sleep Apnoea
+   
+   The following are the clinical features of sleep apnoea: 
 
-#. Loud snoring (95%)
-#. Daytime sleepiness (90%)
-#. Unrefreshed or disturbed sleep
-#. Morning headache and confusion
-#. Nocturnal choking
-#. Enuresis
-#. Swelling of the ankles
+   #. Loud snoring (95%)
+   #. Daytime sleepiness (90%)
+   #. Unrefreshed or disturbed sleep   
+   #. Morning headache and confusion
+   #. Nocturnal choking
+   #. Enuresis
+   #. Swelling of the ankles
 
 There are two types of sleep apnea: **obstructive** sleep apnea and **central**
 sleep apnea. :term:`Obstructive sleep apnea` occurs
