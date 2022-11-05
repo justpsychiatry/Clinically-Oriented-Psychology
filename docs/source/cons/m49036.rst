@@ -13,7 +13,7 @@ Sleep Problems and Disorders
    * Describe the symptoms and treatments for narcolepsy
 
 Many people experience disturbances in their sleep at some point in
-their lives. Depending on the population and sleep disorder being
+their lives. Depending on the population and sleep disorder
 studied, between 30% and 50% of the population suffers from a sleep
 disorder at some point in their lives. :footcite:p:`bixlerPrevalenceofsleepdisorders1979,hossainThePrevalenceCostImplications2002,ohayonPrevalenceDSMIVDiagnostic1997,ohayonMetaAnalysisQuantitativeSleep2004,ohayonPrevalenceofrestlesslegs2002`
 This section will describe several sleep disorders as well
