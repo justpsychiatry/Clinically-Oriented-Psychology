@@ -347,7 +347,8 @@ cognitive-behavioral therapy in individuals suffering from PTSD (Bremner
 FACIAL EXPRESSION AND RECOGNITION OF EMOTIONS
 =============================================
 
-Culture can impact the way in which people display emotion. A :term:`**cultural display rule**`is one of a collection of
+Culture can impact the way in which people display emotion. 
+A :term:`**cultural display rule**`is one of a collection of
 culturally specific standards that govern the types and frequencies of
 displays of emotions that are acceptable (Malatesta & Haviland, 1982).
 Therefore, people from varying cultural backgrounds can have very

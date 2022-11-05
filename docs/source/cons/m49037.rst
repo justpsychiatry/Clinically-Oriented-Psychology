@@ -27,9 +27,8 @@ commonly used today.
 SUBSTANCE USE DISORDERS
 =======================
 
-The fifth edition of the **Diagnostic and Statistical Manual of Mental
-Disorders**:term:`pastehere`, *Fifth Edition* (DSM-5)
-is used by clinicians to diagnose individuals suffering from various
+The fifth edition of the :term:`Diagnostic and Statistical Manual of Mental Disorders`, 
+*Fifth Edition* (DSM-5) is used by clinicians to diagnose individuals suffering from various
 psychological disorders. Drug use disorders are addictive disorders, and
 the criteria for specific substance (drug) use disorders are described
 in DSM-5. A person who has a substance use disorder often uses more of
