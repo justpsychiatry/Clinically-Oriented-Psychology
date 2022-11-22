@@ -504,7 +504,7 @@ Review Questions
 
 .. card-carousel:: 1
 
-   .. card:: Question 1
+  .. card:: Question 1
 
       Another name for short-term memory:
             
