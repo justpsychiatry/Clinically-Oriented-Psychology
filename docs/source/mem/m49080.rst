@@ -30,9 +30,9 @@ Abbreviations
 
 
 Memory is an information processing system; therefore, we often compare
-it to a computer. :term:Memory is the set of
+it to a computer. :term:`Memory` is the set of
 processes used to encode, store, and retrieve information over different
-periods of time (`[link] <#Figure_08_01_Memory>`__).
+periods of time (`[link] <#id14>`__).
 
 .. figure:: ../resources/CNX_Psych_08_01_Memory.jpg
    :scale: 100 %
@@ -43,7 +43,7 @@ periods of time (`[link] <#Figure_08_01_Memory>`__).
    A diagram shows three boxes, placed in a row from left to right,
    respectively titled “Encoding,” “Storage,” and “Retrieval.” One
    right-facing arrow connects “Encoding” to “Storage” and another connects
-   “Storage” to “Retrieval.”|\ {: #Figure_08_01_Memory}
+   “Storage” to “Retrieval.”
 
 .. seealso::
 
@@ -69,9 +69,8 @@ is usually done without any conscious awareness. Recalling the last time
 you studied for a test is another example of automatic processing. But
 what about the actual test material you studied? It probably required a
 lot of work and attention on your part in order to encode that
-information. This is known as :term:`effortful processing` (`[link] <Figure_08_01_Driving>`__).
+information. This is known as :term:`effortful processing` (`[link] <#id15>`__).
 
-.. _ Figure_08_01_Driving:
 
 .. figure:: ../resources/CNX_Psych_08_01_Drivingn.jpg
    :scale: 100 %
@@ -198,17 +197,23 @@ human memory (`[link] <#Figure_08_01_Atkinson>`__), called
 **Atkinson-Shiffrin (A-S)**, is based on the belief that we process memories
 in the same way that a computer processes information.
 
-|A flow diagram consists of four boxes with connecting arrows. The first
-box is labeled “sensory input.” An arrow leads to the second box, which
-is labeled “sensory memory.” An arrow leads to the third box which is
-labeled **short-term memory (STM).** An arrow points to the fourth box,
-labeled **long-term memory (LTM)** and an arrow points in the reverse
-direction from the fourth to the third box. Above the short-term memory
-box, an arrow leaves the top-right of the box and curves around to point
-back to the top-left of the box; this arrow is labeled “rehearsal.” Both
-the “sensory memory” and “short-term memory” boxes have an arrow beneath
-them pointing to the text “information not transferred is lost.”|\ {:
-#Figure_08_01_Atkinson}
+.. figure:: ../resources/CNX_Psych_08_01_Atkinson.jpg
+   :scale: 100 %
+   :alt: A flow diagram consists of four boxes with connecting arrows.
+
+   A flow diagram consists of four boxes with connecting arrows. 
+   
+   The first
+   box is labeled “sensory input.” An arrow leads to the second box, which
+   is labeled “sensory memory.” An arrow leads to the third box which is
+   labeled **short-term memory (STM).** An arrow points to the fourth box,
+   labeled **long-term memory (LTM)** and an arrow points in the reverse
+   direction from the fourth to the third box. Above the short-term memory
+   box, an arrow leaves the top-right of the box and curves around to point
+   back to the top-left of the box; this arrow is labeled “rehearsal.” Both
+   the “sensory memory” and “short-term memory” boxes have an arrow beneath
+   them pointing to the text “information not transferred is lost.”|\ {:
+   #Figure_08_01_Atkinson}
 
 But A-S is just one model of memory. Others, such as :footcite:p:`baddeleyWorkingMemory1974` Baddeley and Hitch
 (1974), have proposed a model where short-term memory itself has
@@ -238,21 +243,27 @@ textures, which we do not view as valuable information, we discard. If
 we view something as valuable, the information will move into our
 short-term memory system.
 
-One study of sensory memory researched the significance of valuable
-information on short-term memory storage. J. R. Stroop discovered a
-memory phenomenon in the 1930s: you will name a color more easily if it
-appears printed in that color, which is called the :term:`Stroop effect`. 
-In other words, the word “red” will be
-named more quickly, regardless of the color the word appears in, than
-any word that is colored red. Try an experiment: name the colors of the
-words you are given in `[link] <#Figure_08_01_Stroop>`__. Do not read
-the words, but say the color the word is printed in. For example, upon
-seeing the word “yellow” in green print, you should say “green,” not
-“yellow.” This experiment is fun, but it’s not as easy as it seems.
+.. hint:: Stroop test
 
-|Several names of colors appear in a font color that is different from
-the name of the color. For example, the word “red” is colored blue.|\ {:
-#Figure_08_01_Stroop}
+   One study of sensory memory researched the significance of valuable
+   information on short-term memory storage. J. R. Stroop discovered a
+   memory phenomenon in the 1930s: you will name a color more easily if it
+   appears printed in that color, which is called the :term:`Stroop effect`. 
+   In other words, the word “red” will be
+   named more quickly, regardless of the color the word appears in, than
+   any word that is colored red. Try an experiment: name the colors of the
+   words you are given in `[link] <#Figure_08_01_Stroop>`__. Do not read
+   the words, but say the color the word is printed in. For example, upon
+   seeing the word “yellow” in green print, you should say “green,” not
+   “yellow.” This experiment is fun, but it’s not as easy as it seems.
+
+   .. figure:: ../resources/CNX_Psych_08_01_Stroop
+      :scale: 100 %
+      :align: center
+      :alt: Stroop test
+
+      Several names of colors appear in a font color that is different from
+      the name of the color. For example, the word “red” is colored blue.
 
 Short-Term Memory
 -----------------
@@ -334,15 +345,22 @@ used interchangeably.)
 part of our consciousness. They are memories formed from behaviours.
 Implicit memory is also called **non-declarative** memory.
 
-|A diagram consists of three rows of boxes. The box in the top row is
-labeled “long-term memory”; a line from the box separates into two lines
-leading to two boxes on the second row, labeled “explicit (declarative)”
-and “implicit (non-declarative).” From each of the second row boxes,
-lines split and lead to two additional boxes. From the “explicit” box
-are two boxes labeled “episodic (experienced events)” and “semantic
-(knowledge and concepts).” From the “implicit” box are two boxes labeled
-“procedural (skills and actions)” and “emotional conditioning.”|\ {:
-#Figure_08_01_Explicit}
+.. figure:: ../resources/CNX_Psych_08_01_Explicit.jpg
+   :scale: 100 %
+   :align: center
+   :alt: A diagram consists of three rows of boxes.
+
+   A diagram consists of three rows of boxes.
+   
+   The box in the top row is
+   labeled “long-term memory”; a line from the box separates into two lines
+   leading to two boxes on the second row, labeled “explicit (declarative)”
+   and “implicit (non-declarative).” From each of the second row boxes,
+   lines split and lead to two additional boxes. From the “explicit” box
+   are two boxes labeled “episodic (experienced events)” and “semantic
+   (knowledge and concepts).” From the “implicit” box are two boxes labeled
+   “procedural (skills and actions)” and “emotional conditioning.
+
 
 :term:`Procedural memory` is a type of implicit
 memory: it stores information about how to do things. It is the memory
