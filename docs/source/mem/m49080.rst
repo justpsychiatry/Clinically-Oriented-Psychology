@@ -81,8 +81,10 @@ Enhancing encoding
 ==================
 
 **What are the most effective ways to ensure that important memories are well encoded?**
+1. Deeper Processing
+
 Even a simple sentence is easier to recall when it is
-**meaningful** (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` . 
+**meaningful** (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` 
 
 Read the following sentences (Bransford & McCarrell, 1974), then 
 look away and count backwards from 30 by threes
@@ -104,13 +106,22 @@ encoded when you make it meaningful.
 
 .. tip:: 
 
-   Material is well-encoded when it is more meaningful. 
+   Material is well-encoded when it is more meaningful. For instance, think about 
+   the prevalence of schizophrenia, 0.7% in the general population. Now, we can
+   make it more meaningful by rounding it off to 1 percent or one out of every hundred. 
+   If you know the prevalence of OCD is about 2%, you can make it more meaningful: OCD is twice
+   as common as schizophrenia, in other words, schizophrenia is almost as prevalent.  
+   While schizophrenia is equally frequent in both genders, OCD 
+   is two times more frequent in women, however, ie, men
+   account only for 1/3rd of the cases of OCD. Thus,
+   in men, OCD may not be more prevalent than schizophrenia. 
+   
 
 There are three types of encoding. The encoding of words and their
 meaning is known as :term:`semantic encoding`. It was
 first demonstrated by William Bousfield (1935) :footcite:p:`bousfieldOccurrenceClusteringRecall1953` 
 in an experiment in which
-he asked people to memorize words. The 60 words were actually divided
+he asked people to memorize words. The 60 words were divided
 into 4 categories of meaning, although the participants did not know
 this because the words were randomly presented. When they were asked to
 remember the words, they tended to recall them in categories, showing
@@ -138,6 +149,14 @@ High-imagery words are encoded both visually and semantically (Paivio,
    like anger, high intelligence, and strong memory etc, for example, may be enriched by 
    thinking about someone with these traits one knows about. 
 
+Some people, especially children have an especially strong capacity for visual encoding
+due to their ability to experience **eidetic imagery**. Eidetic imagery refers to the 
+persistence of mental images with photographic quality. For example, if you show them a picture
+in which a cat is sitting over the branch of a tree while a girl is standing, wearing a colorful
+dress, and pointing at the sky, they may be able to mentally count the 
+number of stripes on the tail
+of the cat after the photo has been removed from their sight. This ability has been estimated
+to occur in up to 5% of children. 
 
 Now let’s turn our attention to **acoustic encoding**. You are driving in
 your car and a song comes on the radio that you haven’t heard in at
@@ -146,10 +165,10 @@ States, children often learn the alphabet through song, and they learn
 the number of days in each month through rhyme: 
 
    “Thirty days hath September,
-   |April, June, and November;
-   |All the rest have thirty-one,
-   |Save February, with twenty-eight days clear,
-   |And twenty-nine each leap year.” 
+   April, June, and November;
+   All the rest have thirty-one,
+   Save February, with twenty-eight days clear,
+   And twenty-nine each leap year.” 
    
 These lessons are easy to remember because of acoustic encoding. 
 We encode the sounds the words make. 
@@ -219,15 +238,12 @@ in the same way that a computer processes information.
    box is labeled “sensory input.” An arrow leads to the second box, which
    is labeled “sensory memory.” An arrow leads to the third box which is
    labeled **short-term memory (STM).** An arrow points to the fourth box,
-   labeled **long-term memory (LTM)** and an arrow points in the reverse
+   labeled **long-term memory (LTM)**, and an arrow points in the reverse
    direction from the fourth to the third box. Above the short-term memory
    box, an arrow leaves the top-right of the box and curves around to point
    back to the top-left of the box; this arrow is labeled “rehearsal.” Both
    the “sensory memory” and “short-term memory” boxes have an arrow beneath
    them pointing to the text “information not transferred is lost.”
-
-Sensory memory can occur in any sensory modality; **iconic** memory, which corresponds to vision
-and **echoic** memory, which corresponds to audition are the two most sutdied subtypes of sensory memory. 
 
 
 Sensory Memory
@@ -275,6 +291,10 @@ short-term memory system.
       Several names of colors appear in a font color that is different from
       the name of the color. For example, the word “red” is colored blue.
 
+
+Sensory memory can occur in any sensory modality; **iconic** memory, which corresponds to vision
+and **echoic** memory, which corresponds to audition are the two most studied subtypes of sensory memory. 
+
 Short-Term Memory
 -----------------
 
@@ -297,6 +317,11 @@ a web browser). This step of :term:`rehearsal`, the
 conscious repetition of information to be remembered, to move STM into
 long-term memory is called :term:`memory consolidation`.
 
+.. tip:: 
+
+   Rehearsal of information in the mind helps transform short-term memories
+   into longterm. 
+
 **Baddeley and Hitch** (1974),:footcite:p:`baddeleyWorkingMemory1974` 
 have proposed a model where short-term memory has
 different forms. In this model, storing memories in short-term memory is
@@ -305,9 +330,24 @@ type of short-term memory (or computer file) depends on the type of
 information received. There are memories in visual-spatial form, as well
 as memories of spoken or written material, and they are stored in three
 short-term systems: a **visuospatial sketchpad**, an **episodic buffer**, and a
-**phonological loop**. According to Baddeley and Hitch, a central executive
+**phonological loop**. The phonological loop stores acoustic information, while 
+the visuospatial skeptechpad holds spatial and visual information. These two 
+systems are shown to be controlled by different areas of the brain; more specifically
+the visuospatial information is controlledd by the right hemisphere, the 
+acoustic information by the left hemisphere. The episodic buffer helps with the 
+integration of visual and auditory information in the working memory; retrival 
+and storing information between the working memory and longterm memory stores. 
+According to Baddeley and Hitch, a **central executive**
 part of memory supervises or controls the flow of information to and
-from the three short-term systems.
+from the three short-term systems. 
+
+.. tip::
+   
+   Working memory capacity may be occupied by unhelpful stimuli from the environment, 
+   intrusive thoughts. To help enhance processing of information by the working memory, 
+   a task that requires comprehension or memorisation should be performed in an environment 
+   with least distractions; anxiety, depression or other situations that worsen or cause 
+   intrusive thoughts should be identified and managed accordingly. 
 
 .. admonition:: Clinical-correlate: Digit Span Test
   :class: hint
@@ -336,6 +376,13 @@ from the three short-term systems.
       Recall is somewhat better for random numbers than for random letters
       (Jacobs, 1887), and also often slightly better for the information we hear
       (acoustic encoding) rather than see (visual encoding) (Anderson, 1969).
+
+   While attention span or working memory concerns our capacity to hold and actively 
+   manipulate information in the mind, the ability to sustain attention over 
+   time is **concentration**. Concentration is clinically tested by serial 7s. In this test, 
+   we ask a patient to start with 100, and keep subtracting 7s from the remainder. They are 
+   allowed to continue for five times. The number of correct answers are noted and scored. 
+   For example, 2 correct answers are scored as 2/5. 
 
 Long-term Memory
 ----------------
