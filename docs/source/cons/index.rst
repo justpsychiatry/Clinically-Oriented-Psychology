@@ -8,7 +8,7 @@ Chapter 4: States of Consciousness
    :maxdepth: 2
    
    m49030*
-   m49031*
+   what-is-consciousness*
    m49032*
    m49033*
    m49036*
