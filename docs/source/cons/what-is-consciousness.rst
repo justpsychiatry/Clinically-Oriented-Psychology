@@ -217,13 +217,10 @@ Chen, & Hsu, 2013).
 
 .. figure:: ../resources/CNX_Psych_04_01_BrightLight.jpg
    :scale: 100 %
-   :name: #Figure_04_01_BrightLight
    :alt: A photograph shows a bright lamp.
 
    A photograph shows a bright lamp.
    
-
-
 
 .. seealso::
 
@@ -982,17 +979,25 @@ work with dangerous machinery. Some research suggests that sleep
 deprivation affects cognitive and motor function as much as, if not more
 than, alcohol intoxication (Williamson & Feyer, 2000).
 
-|An illustration of the top half of a human body identifies the
-locations in the body that correspond with various adverse affects of
-sleep deprivation. The brain is labeled with Irritability,” “Cognitive
-impairment,” “Memory lapses or loss,” “Impaired moral judgement,”
-“Severe yawning,” “Hallucinations,” and “Symptoms similar to ADHD.” The
-heart is labeled with Increased heart rate variability and Risk of heart
-disease. The muscles are labeled with Increased reaction time, Decreased
-accuracy, Tremors, and Aches. There is an organ near the stomach labeled
-Risk of diabetes Type 2. Other risks include Growth suppression, Risk of
-obesity, Decreased temperature, and Impaired immune system.|\ {:
-#Figure_04_01_Sleepless}
+.. figure:: ../resources/CNX_Psych_04_01_Sleepless
+   :scale: 100 %
+   :alt: An illustration of the top half of a human body identifies the 
+         locations in the body that correspond with various adverse affects of
+         sleep deprivation..
+
+   An illustration of the top half of a human body identifies the
+   locations in the body that correspond with various adverse affects of
+   sleep deprivation. 
+   
+   The brain is labeled with Irritability,” “Cognitive
+   impairment,” “Memory lapses or loss,” “Impaired moral judgement,”
+   “Severe yawning,” “Hallucinations,” and “Symptoms similar to ADHD.” The
+   heart is labeled with Increased heart rate variability and Risk of heart
+   disease. The muscles are labeled with Increased reaction time, Decreased
+   accuracy, Tremors, and Aches. There is an organ near the stomach labeled
+   Risk of diabetes Type 2. Other risks include Growth suppression, Risk of
+   obesity, Decreased temperature, and Impaired immune system.|\ {:
+   #Figure_04_01_Sleepless}
 
 .. seealso::
 
