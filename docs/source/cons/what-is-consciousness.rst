@@ -215,7 +215,15 @@ light during working shifts and dark exposure when not working can help
 combat insomnia and symptoms of anxiety and depression (Huang, Tsai,
 Chen, & Hsu, 2013).
 
-|A photograph shows a bright lamp.|\ {: #Figure_04_01_BrightLight}
+.. figure:: ../resources/CNX_Psych_04_01_BrightLight.jpg
+   :scale: 100 %
+   :name: #Figure_04_01_BrightLight
+   :alt: A photograph shows a bright lamp.
+
+   A photograph shows a bright lamp.
+   
+
+
 
 .. seealso::
 
@@ -227,7 +235,7 @@ Insufficient Sleep
 
 When people have difficulty getting sleep due to their work or the
 demands of day-to-day life, they accumulate a sleep debt. A person with
-a **sleep debt**\ {: data-type=“term”} does not get sufficient sleep on
+a :term:`sleep debt` does not get sufficient sleep on
 a chronic basis. The consequences of sleep debt include decreased levels
 of alertness and mental efficiency. Interestingly, since the advent of
 electric light, the amount of sleep that people get has declined. While
@@ -252,9 +260,90 @@ differences. `[link] <#Table_04_01_01>`__ shows the new recommendations,
 which describe sleep durations that are “recommended”, “may be
 appropriate”, and “not recommended”.
 
+.. table:: Sleep Needs at Different Ages
+   :name:  Table_04_01_01
+   :widths: auto
+
+            +-----------------+-----------------+-----------------+-----------------+
+            | Age             | Recommended     | May be          | Not recommended |
+            |                 |                 | appropriate     |                 |
+            +=================+=================+=================+=================+
+            | 0–3 months      | 14–17 hours     | 11–13 hours     | Less than 11    |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 18–19 hours     |                 |
+            |                 |                 |                 | More than 19    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | 4–11 months     | 12–15 hours     | 10–11 hours     | Less than 10    |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 16–18 hours     |                 |
+            |                 |                 |                 | More than 18    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | 1–2 years       | 11–14 hours     | 9–10 hours      | Less than 9     |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 15–16 hours     |                 |
+            |                 |                 |                 | More than 16    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | 3–5 years       | 10–13 hours     | 8–9 hours       | Less than 8     |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 14 hours        |                 |
+            |                 |                 |                 | More than 14    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | 6–13 years      | 9–11 hours      | 7–8 hours       | Less than 7     |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 12 hours        |                 |
+            |                 |                 |                 | More than 12    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | 14–17 years     | 8–10 hours      | 7 hours         | Less than 7     |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 11 hours        |                 |
+            |                 |                 |                 | More than 11    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | 18–25 years     | 7–9 hours       | 6 hours         | Less than 6     |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 10–11 hours     |                 |
+            |                 |                 |                 | More than 11    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | 26–64 years     | 7–9 hours       | 6 hours         | Less than 6     |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 10 hours        |                 |
+            |                 |                 |                 | More than 10    |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+            | ≥65 years       | 7–8 hours       | 5–6 hours       | Less than 5     |
+            |                 |                 |                 | hours           |
+            |                 |                 | --------------  |                 |
+            |                 |                 |                 | --------------  |
+            |                 |                 | 9 hours         |                 |
+            |                 |                 |                 | More than 9     |
+            |                 |                 |                 | hours           |
+            +-----------------+-----------------+-----------------+-----------------+
+
 .. raw:: html
 
-   <table id="Table_04_01_01" summary="This table has two columns and eight rows. The first row is a header row, and it labels the first column, “age,” and the second column “nightly sleep needs.” In the “age” column, the second row reads “0–3 months.” In the “nightly sleep needs” column, the second row reads “12–18 hours.” In the “age” column, the third row reads “3 months–1 year.” In the “nightly sleep needs” column, the third row reads “14–15 hours.” In the “age” column, the fourth row reads “1–3 years.” In the “nightly sleep needs” column, the fourth row reads “12–14 hours.” In the “age” column, the fifth row reads “3–5 years.” In the “nightly sleep needs” column, the fifth row reads “11–13 hours.” In the “age” column, the sixth row reads “5–10 years.” In the “nightly sleep needs” column, the sixth row reads “10–11 hours.” In the “age” column, the seventh row reads “10–18 years.” In the “nightly sleep needs” column, the seventh row reads “8–10 hours.” In the “age” column, the eighth row reads “18 and older.” In the “nightly sleep needs” column, the eighth row reads “7–9 hours.”">
+   <table id="Table_04_01_01" 
 
 .. raw:: html
 
