@@ -258,7 +258,6 @@ which describe sleep durations that are “recommended”, “may be
 appropriate”, and “not recommended”.
 
 .. table:: Sleep Needs at Different Ages
-   :name:  Table_04_01_01
    :widths: auto
 
             +-----------------+-----------------+-----------------+-----------------+
