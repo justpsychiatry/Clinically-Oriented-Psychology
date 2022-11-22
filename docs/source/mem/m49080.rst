@@ -1,7 +1,5 @@
-====================
 How Memory Functions
-====================
-
+####################
 
 
 .. contents::
@@ -51,7 +49,8 @@ periods of time (`[link] <#id14>`__).
    for more information on some unexpected facts about memory.
 
 ENCODING
-========
+********
+
 
 We get information into our brains through a process called
 :term:`encoding`, which is the input of information
@@ -79,7 +78,7 @@ information. This is known as :term:`effortful processing` (`[link] <#id15>`__).
    A photograph shows a person driving a car.
 
 Enhancing encoding
-------------------
+==================
 
 **What are the most effective ways to ensure that important memories are well encoded?**
 Even a simple sentence is easier to recall when it is
@@ -193,12 +192,13 @@ has to pass through three distinct stages: :term:`Sensory Memory`, :term:`Short-
 and finally :term:`Long-Term Memory`. These stages were first proposed by
 Richard :term:`Atkinson` and Richard
 :term:`Shiffrin` (1968). Their model of
-human memory (`[link] <#Figure_08_01_Atkinson>`__), called
+human memory (`[Figure] <#id16>`__), called
 **Atkinson-Shiffrin (A-S)**, is based on the belief that we process memories
 in the same way that a computer processes information.
 
 .. figure:: ../resources/CNX_Psych_08_01_Atkinson.jpg
    :scale: 100 %
+   :align: center
    :alt: A flow diagram consists of four boxes with connecting arrows.
 
    A flow diagram consists of four boxes with connecting arrows. 
@@ -212,10 +212,13 @@ in the same way that a computer processes information.
    box, an arrow leaves the top-right of the box and curves around to point
    back to the top-left of the box; this arrow is labeled “rehearsal.” Both
    the “sensory memory” and “short-term memory” boxes have an arrow beneath
-   them pointing to the text “information not transferred is lost.”|\ {:
-   #Figure_08_01_Atkinson}
+   them pointing to the text “information not transferred is lost.”
 
-But A-S is just one model of memory. Others, such as :footcite:p:`baddeleyWorkingMemory1974` Baddeley and Hitch
+Sensory memory can occur in any sensory modality; **iconic** memory, which corresponds to vision
+and **echoic** memory, which coresponds to audition are the two most sutdied subtypes of sensory memory. 
+
+But A-S is just one model of memory. Others, such as :footcite:p:`baddeleyWorkingMemory1974` 
+Baddeley and Hitch
 (1974), have proposed a model where short-term memory itself has
 different forms. In this model, storing memories in short-term memory is
 like opening different files on a computer and adding information. The
@@ -243,7 +246,7 @@ textures, which we do not view as valuable information, we discard. If
 we view something as valuable, the information will move into our
 short-term memory system.
 
-.. admonition:: Stroop test
+.. admonition:: Stroop Effect
    :class: hint
 
    One study of sensory memory researched the significance of valuable
@@ -252,7 +255,13 @@ short-term memory system.
    appears printed in that color, which is called the :term:`Stroop effect`. 
    In other words, the word “red” will be
    named more quickly, regardless of the color the word appears in, than
-   any word that is colored red. Try an experiment: name the colors of the
+   any word that is colored red. 
+   
+   **Stroop Colour Word Test**, a popular neuropsychological tool
+   designed to assess a subject's ability to control cognitive interference
+   is based no stroop effect. 
+
+   Try an experiment: name the colors of the
    words you are given in `[link] <#Figure_08_01_Stroop>`__. Do not read
    the words, but say the color the word is printed in. For example, upon
    seeing the word “yellow” in green print, you should say “green,” not
@@ -271,13 +280,14 @@ Short-Term Memory
 
 :term:`Short-term memory (STM)` is a temporary storage
 system that processes incoming sensory memory; sometimes it is called
-**working memory**. Short-term memory takes information from sensory memory
+**working memory** or **attention-span**. Short-term memory takes information from sensory memory
 and sometimes connects that memory to something already in long-term
 memory. Short-term memory storage lasts about 20 seconds. George Miller
 (1956) :footcite:p:`millerMagicalNumberSeven1956`, in his research on the 
 capacity of memory, found that most
 people can retain about 7 items in STM. Some remember 5, some 9, so he
-called the capacity of STM 7 plus or minus 2.
+called the capacity of STM 7 plus or minus 2. However, new research has 
+shown that the capacity may be greater. 
 
 Think of short-term memory as the information you have displayed on your
 computer screen—a document, a spreadsheet, or a web page. Then,
@@ -287,31 +297,32 @@ a web browser). This step of :term:`rehearsal`, the
 conscious repetition of information to be remembered, to move STM into
 long-term memory is called :term:`memory consolidation`.
 
-You may find yourself asking, “How much information can our memory
-handle at once?” To explore the capacity and duration of your short-term
-memory, have a partner read the strings of random numbers
-(`[link] <#Figure_08_011_Numbers>`__) out loud to you, beginning each
-string by saying, “Ready?” and ending each by saying, “Recall,” at which
-point you should try to write down the string of numbers from memory.
+.. admonition:: Clinical-correlate: Digit Span Test
+  :class: hint
 
-.. figure:: ../resources/CNX_Psych_08_01_Numbers.jpg
-   :scale: 100 %
-   :align: center
-   :alt: A series of numbers includes two rows, with six numbers in each row.
+   To explore the capacity and duration of short-term
+   memory (working memory or attention-span), read the strings of random numbers
+   (`[link] <#Figure_08_011_Numbers>`__) out loud to the subject, beginning each
+   string by saying, “Ready?” and ending each by saying, “Recall,” at which
+   point the subject should try to write down the string of numbers from memory.
 
-   A series of numbers includes two rows, with six numbers in each row.
-   
-   From left to right, the numbers increase from four digits to five, six,
-   seven, eight, and nine digits. The first row includes “9754,” “68259,”
-   “913825,” “5316842,” “86951372,” and “719384273,” and the second row
-   includes “6419,” “67148,” “648327,” “5963827,” “51739826,” and
-   “163875942.”
+   .. figure:: ../resources/CNX_Psych_08_01_Numbers.jpg
+      :scale: 100 %
+      :align: center
+      :alt: A series of numbers includes two rows, with six numbers in each row.
 
-Note the longest string at which you got the series correct. For most
-people, this will be close to 7, Miller’s famous 7 plus or minus 2.
-Recall is somewhat better for random numbers than for random letters
-(Jacobs, 1887), and also often slightly better for information we hear
-(acoustic encoding) rather than see (visual encoding) (Anderson, 1969).
+      A series of numbers includes two rows, with six numbers in each row.
+      
+      From left to right, the numbers increase from four digits to five, six,
+      seven, eight, and nine digits. The first row includes “9754,” “68259,”
+      “913825,” “5316842,” “86951372,” and “719384273,” and the second row
+      includes “6419,” “67148,” “648327,” “5963827,” “51739826,” and
+      “163875942.”
+      Note the longest string at which they got the series correct. For most
+      people, this will be close to 7, Miller’s famous 7 plus or minus 2.
+      Recall is somewhat better for random numbers than for random letters
+      (Jacobs, 1887), and also often slightly better for information we hear
+      (acoustic encoding) rather than see (visual encoding) (Anderson, 1969).
 
 Long-term Memory
 ----------------
@@ -553,7 +564,7 @@ Review Questions
 
     .. dropdown:: Check Answer
 
-       D
+        D
 
 
 Critical Thinking Questions
