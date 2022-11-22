@@ -34,10 +34,16 @@ it to a computer. :term:Memory is the set of
 processes used to encode, store, and retrieve information over different
 periods of time (`[link] <#Figure_08_01_Memory>`__).
 
-|A diagram shows three boxes, placed in a row from left to right,
-respectively titled “Encoding,” “Storage,” and “Retrieval.” One
-right-facing arrow connects “Encoding” to “Storage” and another connects
-“Storage” to “Retrieval.”|\ {: #Figure_08_01_Memory}
+.. figure:: ../resources/CNX_Psych_08_01_Memory.jpg
+   :scale: 100 %
+   :align: center
+   :alt: A diagram shows three boxes, placed in a row from left to right, 
+         respectively titled “Encoding,” “Storage,” and “Retrieval.”
+
+   A diagram shows three boxes, placed in a row from left to right,
+   respectively titled “Encoding,” “Storage,” and “Retrieval.” One
+   right-facing arrow connects “Encoding” to “Storage” and another connects
+   “Storage” to “Retrieval.”|\ {: #Figure_08_01_Memory}
 
 .. seealso::
 
@@ -52,8 +58,8 @@ We get information into our brains through a process called
 into the memory system. Once we receive sensory information from the
 environment, our brains label or code it. We organize the information
 with other similar information and connect new concepts to existing
-concepts. Encoding information occurs through automatic processing and
-effortful processing.
+concepts. Encoding information occurs through **automatic processing** and
+**effortful processing**.
 
 If someone asks you what you ate for lunch today, more than likely you
 could recall this information quite easily. This is known as :term:`automatic processing`, 
@@ -63,15 +69,25 @@ is usually done without any conscious awareness. Recalling the last time
 you studied for a test is another example of automatic processing. But
 what about the actual test material you studied? It probably required a
 lot of work and attention on your part in order to encode that
-information. This is known as :term:`effortful processing` (`[link] <#Figure_08_01_Driving>`__).
+information. This is known as :term:`effortful processing` (`[link] <Figure_08_01_Driving>`__).
 
-|A photograph shows a person driving a car.|\ {: #Figure_08_01_Driving}
+.. _ Figure_08_01_Driving:
 
-What are the most effective ways to ensure that important memories are
-well encoded? Even a simple sentence is easier to recall when it is
-meaningful (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` . 
+.. figure:: ../resources/CNX_Psych_08_01_Drivingn.jpg
+   :scale: 100 %
+   :alt: A photograph shows a person driving a car.
 
-Read the following sentences (Bransford & McCarrell, 1974), then look away and count backwards from 30 by threes
+   A photograph shows a person driving a car.
+
+Enhancing encoding
+------------------
+
+**What are the most effective ways to ensure that important memories are well encoded?**
+Even a simple sentence is easier to recall when it is
+**meaningful** (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` . 
+
+Read the following sentences (Bransford & McCarrell, 1974), then 
+look away and count backwards from 30 by threes
 to zero, and then try to write down the sentences (no peeking back at
 this page!).
 
@@ -88,9 +104,14 @@ time. You can see that the sentences are now much more memorable because
 each of the sentences was placed in context. Material is far better
 encoded when you make it meaningful.
 
+.. tip:: 
+
+   Material is well-encoded when it is meaningful. 
+
 There are three types of encoding. The encoding of words and their
 meaning is known as :term:`semantic encoding`. It was
-first demonstrated by William Bousfield (1935) :footcite:p:`bousfieldOccurrenceClusteringRecall1953` in an experiment in which
+first demonstrated by William Bousfield (1935) :footcite:p:`bousfieldOccurrenceClusteringRecall1953` 
+in an experiment in which
 he asked people to memorize words. The 60 words were actually divided
 into 4 categories of meaning, although the participants did not know
 this because the words were randomly presented. When they were asked to
@@ -100,7 +121,7 @@ them.
 
 :term:`Visual encoding` is the encoding of images, and
 :term:`acoustic encoding` is the encoding of sounds,
-words in particular. To see how visual encoding works, read over this
+words in particular. To see how **visual encoding** works, read over this
 list of words: *car, level, dog, truth, book, value*. If you were asked
 later to recall the words from this list, which ones do you think you’d
 most likely remember? You would probably have an easier time recalling
@@ -113,7 +134,7 @@ abstract words like *level, truth,* and *value* are low-imagery words.
 High-imagery words are encoded both visually and semantically (Paivio,
 1986) :footcite:p:`paivioMentalRepresentationsDual`, thus building a stronger memory.
 
-Now let’s turn our attention to acoustic encoding. You are driving in
+Now let’s turn our attention to **acoustic encoding**. You are driving in
 your car and a song comes on the radio that you haven’t heard in at
 least 10 years, but you sing along, recalling every word. In the United
 States, children often learn the alphabet through song, and they learn
@@ -125,13 +146,16 @@ the number of days in each month through rhyme:
    Save February, with twenty-eight days clear,
    And twenty-nine each leap year.” 
    
-These lessons are easy to remember because of acoustic encoding. We encode the sounds the words make. This is one of the
+These lessons are easy to remember because of acoustic encoding. 
+We encode the sounds the words make. 
+This is one of the
 reasons why much of what we teach young children is done through song,
 rhyme, and rhythm.
 
 Which of the three types of encoding do you think would give you the
 best memory of verbal information? Some years ago, psychologists Fergus
-Craik and Endel Tulving (1975) :footcite:p:`craikDepthProcessingRetention1975` conducted a series of experiments to find
+Craik and Endel Tulving (1975) :footcite:p:`craikDepthProcessingRetention1975` 
+conducted a series of experiments to find
 out. Participants were given words along with questions about them. The
 questions required the participants to process the words at one of the
 three levels. The visual processing questions included such things as
@@ -147,13 +171,15 @@ those encoded visually or acoustically. Semantic encoding involves a
 deeper level of processing than the shallower visual or acoustic
 encoding. Craik and Tulving concluded that we process verbal information
 best through semantic encoding, especially if we apply what is called
-the self-reference effect. The :term:`self-reference effect` is the tendency for an individual to have better
+the **self-reference effect**. 
+The :term:`self-reference effect` is the tendency for an individual to have better
 memory for information that relates to oneself in comparison to material
 that has less personal relevance :footcite:p:`rogersSelfreferenceEncodingPersonal1977`. 
 
 .. hint:: 
    
-   Could semantic encoding be beneficial to you as you attempt to memorize the concepts in this chapter?
+   How could semantic encoding help as you attempt to 
+   memorize the concepts in this chapter?
 
 STORAGE
 =======
@@ -169,7 +195,7 @@ and finally :term:`Long-Term Memory`. These stages were first proposed by
 Richard :term:`Atkinson` and Richard
 :term:`Shiffrin` (1968). Their model of
 human memory (`[link] <#Figure_08_01_Atkinson>`__), called
-Atkinson-Shiffrin (A-S), is based on the belief that we process memories
+**Atkinson-Shiffrin (A-S)**, is based on the belief that we process memories
 in the same way that a computer processes information.
 
 |A flow diagram consists of four boxes with connecting arrows. The first
@@ -255,12 +281,18 @@ memory, have a partner read the strings of random numbers
 string by saying, “Ready?” and ending each by saying, “Recall,” at which
 point you should try to write down the string of numbers from memory.
 
-|A series of numbers includes two rows, with six numbers in each row.
-From left to right, the numbers increase from four digits to five, six,
-seven, eight, and nine digits. The first row includes “9754,” “68259,”
-“913825,” “5316842,” “86951372,” and “719384273,” and the second row
-includes “6419,” “67148,” “648327,” “5963827,” “51739826,” and
-“163875942.”|\ {: #Figure_08_011_Numbers}
+.. figure:: ../resources/CNX_Psych_08_01_Numbers.jpg
+   :scale: 100 %
+   :align: center
+   :alt: A series of numbers includes two rows, with six numbers in each row.
+
+   A series of numbers includes two rows, with six numbers in each row.
+   
+   From left to right, the numbers increase from four digits to five, six,
+   seven, eight, and nine digits. The first row includes “9754,” “68259,”
+   “913825,” “5316842,” “86951372,” and “719384273,” and the second row
+   includes “6419,” “67148,” “648327,” “5963827,” “51739826,” and
+   “163875942.”
 
 Note the longest string at which you got the series correct. For most
 people, this will be close to 7, Miller’s famous 7 plus or minus 2.
@@ -299,8 +331,8 @@ but not always, the terms explicit memory and declarative memory are
 used interchangeably.)
 
 :term:`Implicit memories` are memories that are not
-part of our consciousness. They are memories formed from behaviors.
-Implicit memory is also called non-declarative memory.
+part of our consciousness. They are memories formed from behaviours.
+Implicit memory is also called **non-declarative** memory.
 
 |A diagram consists of three rows of boxes. The box in the top row is
 labeled “long-term memory”; a line from the box separates into two lines
