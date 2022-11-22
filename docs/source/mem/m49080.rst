@@ -218,15 +218,15 @@ Sensory memory can occur in any sensory modality; **iconic** memory, which corre
 and **echoic** memory, which coresponds to audition are the two most sutdied subtypes of sensory memory. 
 
 But A-S is just one model of memory. Others, such as :footcite:p:`baddeleyWorkingMemory1974` 
-Baddeley and Hitch
+**Baddeley and Hitch**
 (1974), have proposed a model where short-term memory itself has
 different forms. In this model, storing memories in short-term memory is
 like opening different files on a computer and adding information. The
 type of short-term memory (or computer file) depends on the type of
 information received. There are memories in visual-spatial form, as well
 as memories of spoken or written material, and they are stored in three
-short-term systems: a visuospatial sketchpad, an episodic buffer, and a
-phonological loop. According to Baddeley and Hitch, a central executive
+short-term systems: a **visuospatial sketchpad**, an **episodic buffer**, and a
+**phonological loop**. According to Baddeley and Hitch, a central executive
 part of memory supervises or controls the flow of information to and
 from the three short-term systems.
 
