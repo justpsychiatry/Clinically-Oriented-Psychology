@@ -3,11 +3,11 @@ How Memory Functions
 
 
 .. article-info::
-    :avatar: images/ebp-logo.png
+    :avatar: resources/jpsy.png
     :avatar-link: https://psychology.mrcpsych.uk/
     :avatar-outline: muted
-    :author: Executable Books
-    :date: Jul 24, 2021
+    :author: Waleed Ahmad
+    :date: |today|
     :read-time: 15 min read
     :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
