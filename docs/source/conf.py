@@ -81,6 +81,7 @@ exclude_patterns = []
 html_theme = "furo"
 html_static_path = ['_static']
 html_title = "Clinically-Oriented Psychology"
+html_logo = "jpsy.png"
 html_baseurl ='https://psychology.mrcpsych.uk/'
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'
