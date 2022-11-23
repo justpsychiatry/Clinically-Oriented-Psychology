@@ -50,6 +50,7 @@ myst_enable_extensions = [
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
+    'sphinx.ext.todo',
     'sphinx_sitemap',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
@@ -77,7 +78,7 @@ exclude_patterns = []
 
 # -- Options for HTML output
 
-html_theme = "sphinx_rtd_theme"
+html_theme = "furo"
 html_static_path = ['_static']
 html_title = "Clinically-Oriented Psychology"
 html_baseurl ='https://psychology.mrcpsych.uk/'

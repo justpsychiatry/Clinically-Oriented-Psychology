@@ -8,7 +8,7 @@ How Memory Functions
     :avatar-outline: muted
     :author: Waleed Ahmad
     :date: |today|
-    :read-time: 15 min read
+    :read-time: 29 min read
     :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 .. contents::
@@ -29,9 +29,10 @@ How Memory Functions
 
 Abbreviations
 -------------
-:abbr:`STM (short-term memory)`
+.. hlist:: 
 
-:abbr:`LTM (long-term memory)`
+ - :abbr:`STM (short-term memory)`
+ - :abbr:`LTM (long-term memory)`
 
 
 Memory is an information processing system; therefore, we often compare
@@ -357,10 +358,14 @@ According to Baddeley and Hitch, a **central executive**
 part of memory supervises or controls the flow of information to and
 from the three short-term systems. 
 
-.. tip::
+.. admonition:: Real-world Application: Making Most of Working Memory Capacity 
+   :class: tip
    
-   Working memory capacity may be occupied by unhelpful stimuli from the environment, 
-   intrusive thoughts. To help enhance processing of information by the working memory, 
+   Due to its lited capacity, when new information enters the
+   working memory store, it replaces the existing chunks of information.  Thus, working memory 
+   function is impaired by unhelpful stimuli from the environment, 
+   intrusive thoughts. 
+   To help enhance processing of information by the working memory, 
    a task that requires comprehension or memorisation should be performed in an environment 
    with least distractions; anxiety, depression or other situations that worsen or cause 
    intrusive thoughts should be identified and managed accordingly. 
@@ -451,7 +456,6 @@ part of our consciousness. They are memories formed from behaviours. Implicit me
 are unimpaired in patients with amnesia. 
 
 
-
 .. note:: 
    Sometimes, but not always, the terms explicit memory and declarative memory
    are used interchangeably. Likewise, implicit memory is also called non-declarative memory.  
@@ -487,7 +491,15 @@ present an accomplished guitarist with a guitar, even if he has not
 played in a long time, he will still be able to play quite well. These memories are
 least affected in early dementia and retained until later stages. 
 
-Priming and emotional memories are also non-declarative memories. 
+**Priming** and **emotional memories** are also non-declarative memories. Priming occurs 
+when past experience with certain stimuli increases the speed or accuracy of identifying and naming
+those stimuli. Sublimal advertising 
+
+.. caution::
+   
+   Sublimal messages are used in manipulative tactics to 
+
+
 
 :term:`Declarative memory` has to do with the storage
 of facts and events we experienced. Explicit (declarative)
@@ -506,7 +518,7 @@ the following questions test semantic memory:
 -  What is the longest river in the world?
 
 Semantic memories may be tested clinically by asking patients to name an object (shown to them)
-such as a pencil, asking about the function of an object (what do we use a pencil for.)
+such as a pencil, asking about the function of an object (what do we use a pencil for?)
 
 **Semantic dementia** is a subtype of frontotemporal dementia characterized by
 a progressive cognitive and language decline, 
@@ -732,9 +744,18 @@ Critical Thinking Questions
 Personal Application Questions
 ==============================
 
-1. Describe something you have learned that is now in your procedural memory. 
-   Discuss how you learned this information.
-2. Describe something you learned in high school that is now in your semantic memory.
+1. How do we get information into our brain? 
+2.	What is the difference between automatic and effortful encoding? 
+3.	What are some examples of each? 
+4.	What are the three distinct types we use to encode information? 
+5.	What are the three distinct stages that memory has to go through to become long term memory? 
+6.	How are short term and working memory similar and different? 
+7.	How can we move information from short term memory into long term memory? 
+8.	What are the different types of long-term memory? Give an example of each 
+9.	How does retrieval work? 
+10. What are the different ways in which we retrieve information? 
+11. Describe something you have learned that is now in your procedural memory. Discuss how you learned this information.
+12. Describe something you learned in high school that is now in your semantic memory.
 
 .. glossary::
 
