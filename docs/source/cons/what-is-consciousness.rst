@@ -3,7 +3,6 @@ What Is Consciousness?
 ======================
 
 
-
 .. contents::
    :depth: 3
 ..

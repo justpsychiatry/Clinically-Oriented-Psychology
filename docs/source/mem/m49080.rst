@@ -2,6 +2,15 @@ How Memory Functions
 ####################
 
 
+.. article-info::
+    :avatar: images/ebp-logo.png
+    :avatar-link: https://psychology.mrcpsych.uk/
+    :avatar-outline: muted
+    :author: Executable Books
+    :date: Jul 24, 2021
+    :read-time: 15 min read
+    :class-container: sd-p-2 sd-outline-muted sd-rounded-1
+
 .. contents::
    :depth: 3
 ..
@@ -23,8 +32,6 @@ Abbreviations
 :abbr:`STM (short-term memory)`
 
 :abbr:`LTM (long-term memory)`
-
-
 
 
 Memory is an information processing system; therefore, we often compare
@@ -309,6 +316,15 @@ people can retain about 7 items in STM. Some remember 5, some 9, so he
 called the capacity of STM 7 plus or minus 2. However, new research has 
 shown that the capacity may be greater. 
 
+.. admonition:: Attention, short-term and working memory, disambiguation
+   :class: attention
+
+   The concept of "short-term memory" in Atkinson and Shriffin's model roughly equates our
+   attention span or working memory. It is the capacity of an individual to hold information actively in the mind for mental manipulation. However, when we use the term working memory, as in 
+   Baddeley's model, we also include its central executive system. Thus, working memory is our capacity to hold information actively in mind and our ability to mentally manipulate this information. 
+   Short-term memory testing, as performed during mental state examination, however, is a test of new learning (see below).  
+
+
 Think of short-term memory as the information you have displayed on your
 computer screen—a document, a spreadsheet, or a web page. Then,
 information in short-term memory goes to long-term memory (you save it
@@ -333,10 +349,10 @@ short-term systems: a **visuospatial sketchpad**, an **episodic buffer**, and a
 **phonological loop**. The phonological loop stores acoustic information, while 
 the visuospatial skeptechpad holds spatial and visual information. These two 
 systems are shown to be controlled by different areas of the brain; more specifically
-the visuospatial information is controlledd by the right hemisphere, the 
+the visuospatial information is controlled by the right hemisphere and the 
 acoustic information by the left hemisphere. The episodic buffer helps with the 
-integration of visual and auditory information in the working memory; retrival 
-and storing information between the working memory and longterm memory stores. 
+integration of visual and auditory information in the working memory and; the retrieval 
+and storing of information between the working memory and long-term memory stores. 
 According to Baddeley and Hitch, a **central executive**
 part of memory supervises or controls the flow of information to and
 from the three short-term systems. 
@@ -380,8 +396,8 @@ from the three short-term systems.
    While attention span or working memory concerns our capacity to hold and actively 
    manipulate information in the mind, the ability to sustain attention over 
    time is **concentration**. Concentration is clinically tested by serial 7s. In this test, 
-   we ask a patient to start with 100, and keep subtracting 7s from the remainder. They are 
-   allowed to continue for five times. The number of correct answers are noted and scored. 
+   we ask a patient to start with 100 and keep subtracting 7s from the remainder. They are 
+   allowed to continue five times. The number of correct answers is noted and scored. 
    For example, 2 correct answers are scored as 2/5. 
 
 Long-term Memory
@@ -404,8 +420,19 @@ were on vacation in France last summer. A prompt, such as that the
 restaurant was named after its owner, who spoke to you about your shared
 interest in soccer, may help you recall the name of the restaurant.
 
-.. tip::
-   Long-term memory store has no limits. 
+.. admonition:: Clinical-correlate: Testing long-term memory. 
+   :class: hint
+   Long-term memory is tested clinically in three steps. 
+   Recall at approximately 5 minutes is tested first. The patient is given a 
+   list of 3 unrelated words (so they may not use chunking), 
+   for example, book, sky, and knife to repeat them 
+   after the examiner and is told that he has to recall them after five minutes.
+   For the next five minutes, the patient is kept engaged, to avoid rehearsal, and then
+   asked to recall the three names. The number of items they can successfully recall (eg 2/3) is noted
+   to be the value of short-term memory (not to be confused with the short-term memory concept
+   used in Atkinson and Shriffin Model of Memory. 
+
+
 
 Long-term memory is divided into two types: **explicit** and **implicit**
 (`[link] <#Figure_08_01_Explicit>`__). Understanding the different types
@@ -415,15 +442,19 @@ disastrous consequences for other types.
 
  :term:`Explicit memories` are those we consciously try to remember and recall.
 For example, if you are studying for your chemistry exam, the material
-you are learning will be part of your explicit memory. 
+you are learning will be part of your explicit memory. This type of memory is impaired in 
+people with amnesia. 
+
+
+:term:`Implicit memories` are memories that are not
+part of our consciousness. They are memories formed from behaviours. Implicit memories
+are unimpaired in patients with amnesia. 
+
+
 
 .. note:: 
    Sometimes, but not always, the terms explicit memory and declarative memory
-   are used interchangeably.
-
-:term:`Implicit memories` are memories that are not
-part of our consciousness. They are memories formed from behaviours.
-Implicit memory is also called **non-declarative** memory.
+   are used interchangeably. Likewise, implicit memory is also called non-declarative memory.  
 
 .. figure:: ../resources/CNX_Psych_08_01_Explicit.jpg
    :scale: 100 %
@@ -445,7 +476,7 @@ Implicit memory is also called **non-declarative** memory.
 :term:`Procedural memory` is a type of implicit
 memory: it stores information about how to do things. It is the memory
 for skilled actions, such as how to brush your teeth, how to drive a
-car, how to swim the crawl (freestyle) stroke. If you are learning how
+car, and how to swim the crawl (freestyle) stroke. If you are learning how
 to swim freestyle, you practice the stroke: how to move your arms, how
 to turn your head to alternate breathing from side to side, and how to
 kick your legs. You would practice this many times until you become good
@@ -456,8 +487,10 @@ present an accomplished guitarist with a guitar, even if he has not
 played in a long time, he will still be able to play quite well. These memories are
 least affected in early dementia and retained until later stages. 
 
+Priming and emotional memories are also non-declarative memories. 
+
 :term:`Declarative memory` has to do with the storage
-of facts and events we personally experienced. Explicit (declarative)
+of facts and events we experienced. Explicit (declarative)
 memory has two parts: semantic memory and episodic memory. 
 
 Semantic memories relate to language and knowledge about language. An
@@ -480,6 +513,9 @@ a progressive cognitive and language decline,
 mainly involving comprehension of words and  semantic processing.
 Despite the loss of word meaning, their fluency, phonology, and syntax remain intact. 
 
+Semantic memory deficits may also occur in patients with Alzheimer's disease evident 
+as word-finding difficulties and naming deficits. 
+
 :term:`Episodic memory` is information about events we
 have personally experienced. The concept of episodic memory was first
 proposed about 40 years ago (Tulving, 1972). :footcite:p:`tulvingEpisodicSemanticMemory1972` 
@@ -491,6 +527,16 @@ and when of an event (Tulving, 2002). :footcite:p:`tulvingEpisodicMemoryMind2002
 It involves the recollection of visual
 imagery as well as the feeling of familiarity (Hassabis & Maguire,
 1)    :footcite:p:`hassabisDeconstructingEpisodicMemory2007`.
+
+Episodic memories are of two types, **retrospective** 
+(memory of past events) and **prospective** (memory of events coming
+in future)  
+
+In patients with dementia and other causes or neurogenic amnesia, retrospective
+episodic memories 
+are often lost in a temporal gradient; recent memories are more
+severely affected than remote memories.  Clinically, these are tested 
+
 
 .. card:: psychology everyday-connection
 
@@ -570,8 +616,9 @@ Spanish course at the local community center. She’s surprised at how
 quickly she’s able to pick up the language after not speaking it for 13
 years; this is an example of relearning.
 
+
 Summary
-=======
+*******
 
 Memory is a system or process that stores what we learn for future use.
 
