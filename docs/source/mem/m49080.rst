@@ -11,10 +11,6 @@ How Memory Functions
     :read-time: 29 min read
     :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
-.. contents::
-   :depth: 3
-..
-
 .. card:: Learning Objectives
    :class-card: sd-rounded-2
    :shadow: lg
@@ -27,15 +23,14 @@ How Memory Functions
 
 ...
 
-Abbreviations
--------------
-.. hlist:: 
+One of the major elements that separate humans from animals is our ability to store, recall, and use complex information: memory.
+Memory refers to the formation, retention, and retrieval of learned associations, stored information 
+, and skills. Several models of memory have been proposed. 
 
- - :abbr:`STM (short-term memory)`
- - :abbr:`LTM (long-term memory)`
+Process of Memory
+*****************
 
-
-Memory is an information processing system; therefore, we often compare
+The process of memory  is often compared
 it to a computer. :term:`Memory` is the set of
 processes used to encode, store, and retrieve information over different
 periods of time (`[link] <#id14>`__).

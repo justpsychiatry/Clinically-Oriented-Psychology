@@ -3,11 +3,6 @@ Problems with Memory
 ====================
 
 
-
-.. contents::
-   :depth: 3
-..
-
 .. card::
 
    By the end of this section, you will be able to: \* Compare and
@@ -65,12 +60,18 @@ when presented the same puzzle several days in a row, although he did
 not remember having seen the puzzle before, his speed at solving it
 became faster each day (because of relearning) (Corkin, 1965, 1968).
 
-|A single-line flow diagram compares two types of amnesia. In the center
-is a box labeled “event” with arrows extending from both sides.
-Extending to the left is an arrow pointing left to the word “past”; the
-arrow is labeled “retrograde amnesia.” Extending to the right is an
-arrow pointing right to the word “present”; the arrow is labeled
-“anterograde amnesia.”|\ {: #Figure_08_03_AntRet}
+.. figure:: ../resources/CNX_Psych_08_03_AntRet.png
+   :scale: 100 %
+   :alt: A single-line flow diagram compares two types of amnesia. 
+
+   A single-line flow diagram compares two types of amnesia. 
+   
+   In the center
+   is a box labeled “event” with arrows extending from both sides.
+   Extending to the left is an arrow pointing left to the word “past”; the
+   arrow is labeled “retrograde amnesia.” Extending to the right is an
+   arrow pointing right to the word “present”; the arrow is labeled
+   “anterograde amnesia.”
 
 Retrograde Amnesia
 ------------------
@@ -97,6 +98,16 @@ cases of retrograde amnesia on record.
 
    View the `video story <http://openstax.org/l/bolzan>`__ profiling
    Scott Bolzan’s amnesia and his attempts to get his life back.
+
+.. admonition:: Myth: It is normal for elderly individuals to have poor memory.
+   :class: error
+
+   Onyl about 15% adults aged 65 and older experience memory deficits due to mild or major
+   neurocognitive disorder.  The remaining 85% do not show significant decline in memory and are 
+   able to live independently. 
+
+
+   Age-related 
 
 MEMORY CONSTRUCTION AND RECONSTRUCTION
 ======================================
