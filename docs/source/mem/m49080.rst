@@ -24,7 +24,9 @@ How Memory Functions
 ...
 
 One of the major elements that separate humans from animals is our ability to store, recall, and use complex information: memory.
-Memory refers to the formation, retention, and retrieval of learned associations, stored information, and skills. Several models of memory have been proposed. 
+Memory refers to the formation, retention, and retrieval of learned associations, stored information, and skills. 
+
+Several models of memory have been proposed. Structural models include 
 
 Process of Memory
 *****************
@@ -95,7 +97,7 @@ Enriching encoding
 **What are the most effective ways to ensure that important memories are well encoded?**
 See :numref:`(Fig. %s) <enriching_encoding>` 
 
-.. figure:: ../resources/CNX_Psych_08_01_enrichingEncoding.png
+.. figure:: ../resources/CNX_Psych_08_01_enrichingencoding.png
    :name: enriching_encoding
    :scale: 100 %
    :align: center
@@ -161,8 +163,7 @@ recall images (mental pictures) more easily than words alone. When you
 read the words *car, dog,* and *book* you created images of these things
 in your mind. These are concrete, high-imagery words. On the other hand,
 abstract words like *level, truth,* and *value* are low-imagery words.
-High-imagery words are encoded both visually and semantically (Paivio,
-1986) :footcite:p:`paivioMentalRepresentationsDual`, thus building a stronger memory.
+High-imagery words are encoded both visually and semantically (Paivio,1986) :footcite:p:`paivioMentalRepresentationsDual`, thus building a stronger memory.
 
 .. tip:: 
    
@@ -298,13 +299,14 @@ short-term memory system.
    designed to assess a subject's ability to control cognitive interference
    is based on stroop effect. 
 
-   Try an experiment: name the colors of the
-   words you are given in `[link] <#Figure_08_01_Stroop>`__. Do not read
+   Try an experiment: name the colours of the
+   words you are given in :numref:`(fig %s) <cnx_psych_08_01_stroop>`__. Do not read
    the words, but say the color the word is printed in. For example, upon
    seeing the word “yellow” in green print, you should say “green,” not
    “yellow.” This experiment is fun, but it’s not as easy as it seems.
 
-   .. figure:: ../resources/CNX_Psych_08_01_Stroop.png
+   .. figure:: ../resources/CNX_Psych_08_01_stroop.png
+      :name: cnx_psych_08_01_stroop
       :scale: 100 %
       :align: center
       :alt: Stroop test
