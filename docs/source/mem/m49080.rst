@@ -26,7 +26,40 @@ How Memory Functions
 One of the major elements that separate humans from animals is our ability to store, recall, and use complex information: memory.
 Memory refers to the formation, retention, and retrieval of learned associations, stored information, and skills. 
 
-Several models of memory have been proposed. Structural models include 
+Models of memory 
+*****************
+
+
+Several models of memory have been proposed to describe the various systems, processes 
+and subtypes of memory. 
+
+
+**Broadbent's Model** (1958) describes three memory storing systems, S-system for sensory memory, 
+P-system for short-term memories and and a long-term store.
+
+**Atkinson and Shriffen's Model**, described in 1968, also describes such three systems 
+respectively termed, sensory memory, 
+short-term memory and long-term memory stores; the model also described an executive control process
+that controlled the flow of information between these stores. 
+
+These two models deal largely with **memory storage systems** classifed based on the duration 
+they can store information and their maximum storage capacity but do not describe the processing
+of information, such as how information is encoded, manipulated, elaborated or retrived from these
+stores. 
+
+The processing of memory is broadly 
+described by the **information processing model**.  Information processing models involve
+an **input** system to receive information, a **central processing system** that receives information
+from the input system, processess it and passess the final product to on to an **output** system, such as our longterm 
+memory system, which stores this information for later recall.  
+
+The **levels of processing theory** and **Baddely's model** are 
+information processing models, as is the generally accepted memory processing model. 
+
+**Tulving's Model** of memory describes describes different types of memories based on their nature.
+Episodic memories are memories for events, while procedural memories involve motor skills. 
+
+Beginning with an introduction to memory processing, we will describe all these models in detail in this section. 
 
 Process of Memory
 *****************
@@ -106,6 +139,8 @@ See :numref:`(Fig. %s) <enriching_encoding>`
    An illustration that shows how encoding can be enriched: visual imagery, elaboration, 
    making the information self-relevant, and finally increasing motivation to remember. 
 
+
+
 Even a simple sentence is easier to recall when it is
 **meaningful** (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` 
 
@@ -139,6 +174,8 @@ encoded when you make it meaningful.
    account only for 1/3rd of the cases of OCD. Thus,
    in men, OCD may not be more prevalent than schizophrenia. 
    
+Semantic, Phonemic, and Visual Encoding
+=======================================
 
 There are three types of encoding. The encoding of words and their
 meaning is known as :term:`semantic encoding`. It was
@@ -151,7 +188,7 @@ remember the words, they tended to recall them in categories, showing
 that they paid attention to the meanings of the words as they learned
 them.
 
-:term:`Visual encoding` is the encoding of images, and
+:term:`Visual or structural encoding` is the encoding of images, and
 :term:`acoustic encoding` is the encoding of sounds,
 words in particular. To see how **visual encoding** works, read over this
 list of words: *car, level, dog, truth, book, value*. If you were asked
@@ -180,7 +217,7 @@ number of stripes on the tail
 of the cat after the photo has been removed from their sight. This ability has been estimated
 to occur in up to 5% of children. 
 
-Now let’s turn our attention to **acoustic encoding**. You are driving in
+Now let’s turn our attention to **acoustic or phonemic encoding**. You are driving in
 your car and a song comes on the radio that you haven’t heard in at
 least 10 years, but you sing along, recalling every word. In the United
 States, children often learn the alphabet through song, and they learn
@@ -203,11 +240,17 @@ rhyme, and rhythm.
    Acoustic encoding may be enriched with the help of rhymes. 
 
 
+
+Levels of Information Processing Approach
+========================================
+
 Which of the three types of encoding do you think would give you the
 best memory of verbal information? Some years ago, psychologists Fergus
 Craik and Endel Tulving (1975) :footcite:p:`craikDepthProcessingRetention1975` 
 conducted a series of experiments to find
-out. Participants were given words along with questions about them. The
+out.
+
+Participants were given words along with questions about them. The
 questions required the participants to process the words at one of the
 three levels. The visual processing questions included such things as
 asking the participants about the font of the letters. The acoustic
@@ -218,7 +261,15 @@ presented with the words and questions, they were given an unexpected
 recall or recognition task.
 
 Words that had been encoded semantically were better remembered than
-those encoded visually or acoustically. Semantic encoding involves a
+those encoded visually or acoustically.
+
+Based on experiments like these, Craik and Tulving proposed that deeper processing of verbal information 
+enhances their retention, a proposal called the level of information 
+processing approach. The depth of information processing was based on the meaningfulness of the information.
+Visual encoding or structural encoding is the least meaningful and regarded as the shallowest level, 
+whilst semantic encoding is the deepest. The approach 
+
+Semantic encoding involves a
 deeper level of processing than the shallower visual or acoustic
 encoding. Craik and Tulving concluded that we process verbal information
 best through semantic encoding, especially if we apply what is called

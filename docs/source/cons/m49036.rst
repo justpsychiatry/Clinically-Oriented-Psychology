@@ -22,18 +22,22 @@ INSOMNIA
 ========
 
 Insomnia, a consistent difficulty falling or staying asleep, is the
-most common of the sleep disorders. Individuals with insomnia often
+most common of the sleep problems; most often, it is reported as a symptom 
+by patients with other common psychiatric disorder, especially depression or anxiety disorders.
+Individuals with insomnia often
 experience long delays when they go to bed and
 fall asleep. In addition, these individuals may wake up several
 times during the night only to find difficulty getting
 back to sleep. Yet, a subgroup of people
 experiences late insomnia or early morning waking. Late Insomnia is characteristic 
-of severe or melancholic depression. Insomnia that occurs exclusively 
-during the course of depression or another disorder, however, does not qualify the diagnostic 
-criteria of insomnia disorder. 
+of severe or melancholic depression.  CNX_Psych_04_04_insomniaWithDepression.png
 
-As mentioned earlier, one of the criteria for insomnia
-involves experiencing these symptoms for at least three nights a week
+Insomnia that occurs exclusively 
+during the course of depression or another disorder, does not qualify the diagnostic 
+criteria of insomnia disorder. Primary insomnia or insomnia disorder is diagnosed
+when it not caused by another psychiatric or medical condition, nor induced by medications 
+or substances. The criteria for dianosing primary insomnia also requires 
+the occurence of symptoms for at least three nights a week
 for at least one month :footcite:p:`rothInsomniaPrevalenceEtiology2007a`.
 
 It is not uncommon for people suffering from insomnia to experience
@@ -42,7 +46,14 @@ becomes a self-perpetuating cycle because increased anxiety leads to
 increased arousal, and higher arousal levels make the prospect of
 falling asleep even more unlikely. Chronic insomnia is almost always
 associated with feeling overtired and may be associated with symptoms of
-depression.
+**depression**. 
+
+.. figure:: ../resources/CNX_Psych_04_04_insomniaWithDepression.png
+   :scale: 100 %
+   :alt: An illustration depicts the relationship between depression and insomnia. 
+
+   An illustration depicts the relationship between depression and insomnia. 
+..
 
 .. tip:: 
 
@@ -125,6 +136,7 @@ Implementation of sleep hygiene techniques is an integral component of CBT-I. Th
 **sleep-restriction** and **stimulus control**. Cognitive-behavioral therapy has been shown effective to treat insomnia. :footcite:p:`SavardRandomizedStudyontheEfficacyofCognitive2005,WilliamsCognitiveBehavioralTreatmentofInsomnia2013`
 
 
+
 .. admonition:: Sleep Disruption in Depression
    :class: hint
    
@@ -189,8 +201,8 @@ the episodes from occurring.
 #. Scheduled awakenings (15-30 minutes prior) may be helpful if the episodes occur consistently at roughly the same time. 
 
 
-.. admonition:: Clinical Correlate: Sleepwalking Court Defense?
-   :class: tip 
+.. admonition:: Forensic Implications: Sleepwalking as a Court Defense?
+   :class: important 
 
    On January 16, 1997, Scott Falater sat down to dinner with his wife
    and children and told them about difficulties he was experiencing on
@@ -232,25 +244,31 @@ the episodes from occurring.
    (Broughton et al., 1994; Cartwright, 2004; Mahowald, Schenck, &
    Cramer Bornemann, 2005; Pressman, 2007).
 
-REM Sleep Behavior Disorder (RBD)
+REM Sleep Behaviour Disorder (RBD)
 ---------------------------------
 
 :term:`REM sleep behavior disorder (RBD)` occurs when
 the muscle paralysis associated with the REM sleep phase does not occur.
 Individuals who suffer from RBD have high physical activity levels
-during REM sleep, especially during disturbing dreams. These behaviors
+during REM sleep, especially during disturbing dreams. These behaviours
 vary widely, including kicking, punching, scratching,
 yelling, and behaving like an animal that has been frightened or
 attacked. People who suffer from this disorder can injure themselves or
 their sleeping partners when engaging in these behaviors. Furthermore,
-these types of behaviors ultimately disrupt sleep, although affected
+these types of behaviours ultimately disrupt sleep, although affected
 individuals have no memories that these behaviors have occurred. :footcite:p:`arnulfREMsleepbehavior2012`
+
+.. admonition:: Risk of Harm in RBD 
+   :class: danger 
+   
+   Patients with RBD may exhibit violent behaviours and cause injury to themselves or
+   others.  Environmental modification and education of the family about the risks and ways 
+   of prevention is important part of the treatment. 
 
 This disorder is associated with several neurodegenerative diseases, such as Parkinson’s. 
 This relationship is so robust that some view the presence of RBD as a potential aid in diagnosing and treating several neurodegenerative 
 diseases. :footcite:p:`ferini-strambiDoesIdiopathicREM2011` 
-Clonazepam, an anti-anxiety medication with sedative properties,
-is most often used to treat RBD. It is administered alone or in
+Clonazepam, is most often used to treat RBD. It is administered alone or in
 conjunction with doses of melatonin (the hormone secreted by the pineal
 gland). As part of treatment, the sleeping environment is often modified
 to make it safer for those suffering from RBD. :footcite:p:`zanigniREMBehaviourDisorder2011`
@@ -357,7 +375,7 @@ One of the most common sleep apnea treatments involves using
 a mask that fits over the
 sleeper’s nose and mouth, which is connected to a pump that pumps air
 into the person’s airways, forcing them to remain open, as shown in
-`[fig] <#Figure_04_04_CPAP>`__. Some newer CPAP masks are smaller and
+`[fig. %s) <cnx_psych_04_04_cpap>`. Some newer CPAP masks are smaller and
 cover only the nose. This treatment option has proven effective
 for people suffering from mild to severe cases of sleep apnea. :footcite:p:`mcdaidSystematicReviewContinuous2009`
 However, alternative treatment options are being explored
@@ -367,11 +385,17 @@ promise in double-blind trials as one su.ch alternative. :footcite:p:`berryNovel
 
 
 .. figure:: ../resources/CNX_Psych_04_04_CPAP.jpg
+   :name: cnx_psych_04_04_cpap
    :scale: 100 %
    :alt: A photograph shows CPAP and its use.
 
    Photograph A shows a CPAP device. Photograph B shows a clear full-face CPAP
    mask attached to a mannequin's head with straps
+
+.. admonition::  Benzodiazepines and CNS depressants are contraindicated in OSA.  
+   :class: danger
+
+   These medications, espeically when used in combination, may cause respiratory depression. 
 
 
 SIDS
