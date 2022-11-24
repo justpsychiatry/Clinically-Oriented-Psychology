@@ -304,7 +304,7 @@ short-term memory system.
    seeing the word “yellow” in green print, you should say “green,” not
    “yellow.” This experiment is fun, but it’s not as easy as it seems.
 
-   .. figure:: ../resources/CNX_Psych_08_01_Stroop.jpg
+   .. figure:: ../resources/CNX_Psych_08_01_Stroop.png
       :scale: 100 %
       :align: center
       :alt: Stroop test
