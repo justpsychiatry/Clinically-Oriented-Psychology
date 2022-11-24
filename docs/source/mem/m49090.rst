@@ -2,6 +2,14 @@
 Introduction
 ============
 
+.. meta::
+   
+   :title: Introduction to memory
+   :author: Justpsychiatry
+   :description: This chapter covers the psychological, psychopathological and neurobiological basis of memory. 
+   :keywords: memory, human memory, types of memory, memory models, process of memory, amnesia, dementia.
+
+
 .. card:: Syllabus
 
  Official MRCPsych Syllabus includes the following on memory:
@@ -20,18 +28,13 @@ Introduction
 .. contents::
    :depth: 3
 ..
+.. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
+   :scale: 100 %
+   :alt: A photograph shows a camera and a pile of photographs.
 
-class=“introduction”
+   A photograph shows a camera and a pile of photographs.
 
-class=“summary” title=“Summary”
-
-class=“review-questions” title=“Review Questions”
-
-class=“critical-thinking” title=“Critical Thinking Questions”
-
-class=“personal-application” title=“Personal Application Questions”
-
-class=“references” title=“References”
+..
 
 |A photograph shows a camera and a pile of photographs.|\ {:}
 
