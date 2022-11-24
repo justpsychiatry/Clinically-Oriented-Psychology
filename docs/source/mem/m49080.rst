@@ -96,7 +96,7 @@ Enriching encoding
 
 
 .. figure:: ../resources/CNX_Psych_08_01_enrichingEncoding.png
-   :scale: 100 %
+   :scale: 30%
    :alt: An illustration that shows four ways in which encoding can be enriched. 
 
    An illustration that shows how encoding can be enriched: visual imagery, elaboration, 
