@@ -14,6 +14,7 @@ numfig = True
 
 numfig_format = {'figure': 'Figure %s', 'table': 'Table %s',
                  'code-block': 'Listing %s', 'section': 'Section %s'}
+
 numfig_secnum_depth = 1
 
 # -- Project information -----------------------------------------------------

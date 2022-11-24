@@ -36,13 +36,12 @@ it to its solid-state drive for long-term storage. The computer can then access 
 this information from the drive when needed.  
 
  Human :term:`memory` processes work similarly; to  
- encode, store, and retrieve information over different periods.  See ::numref:`Title <figure>` 
- 
- :numref:`Title <figure>` 
+ encode, store, and retrieve information over different periods.  
 
- (`[link] <#id14>`__).
+ 1. (`[link] <#id14>`__).
 
 .. figure:: ../resources/CNX_Psych_08_01_Memory.png
+   :name: cnx_psych_08_01_memory
    :scale: 100 %
    :align: center
    :alt: A diagram shows three boxes, placed in a row from left to right, 
@@ -60,7 +59,6 @@ this information from the drive when needed.
 
 ENCODING
 ********
-
 
 We get information into our brains through a process called :term:`encoding` , which is 
 the input of information
