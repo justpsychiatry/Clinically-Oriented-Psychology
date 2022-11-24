@@ -3,12 +3,12 @@ How Memory Functions
 
 
 .. article-info::
-    :avatar: resources/jpsy.png
+    :avatar: jpsy.png
     :avatar-link: https://psychology.mrcpsych.uk/
     :avatar-outline: muted
     :author: Waleed Ahmad
     :date: |today|
-    :read-time: 29 min read
+    :read-time: 32 min read
     :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 .. card:: Learning Objectives
@@ -322,17 +322,18 @@ in the same way that a computer processes information.
 Sensory Memory
 --------------
 
-In the Atkinson-Shiffrin model, stimuli from the environment are
-processed first in :term:`sensory memory` storage of
-brief sensory events, such as sights, sounds, and tastes. It is very
-brief storage—up to a couple of seconds. We are constantly bombarded
-with sensory information. We cannot absorb all of it, or even most of
-it. And most of it has no impact on our lives. For example, what was
-your professor wearing the last class period? As long as the professor
-was dressed appropriately, it does not really matter what she was
-wearing. Sensory information about sights, sounds, smells, and even
+In the Atkinson-Shiffrin model, stimuli from the environment first 
+reach :term:`sensory memory` a storage system for
+sensory events, such as sights, sounds, and tastes. It holds the information
+for a brief duration of up to a couple of seconds, without processing it. 
+Thus, it helps filter the irrelevant information we are constantly bombarded
+with. Without this filter, we would not be able make process and 
+make sense of the world around. 
+What was your professor wearing the last class period? Unless 
+someone is particularly attentive to people's dressing, chances are
+Sensory information about sights, sounds, smells, and even
 textures, which we do not view as valuable information, we discard. If
-we view something as valuable, the information will move into our
+we selectively attend to a certain information, it will move into our
 short-term memory system.
 
 .. admonition:: Stroop Effect
@@ -403,7 +404,10 @@ long-term memory is called :term:`memory consolidation`.
 .. tip:: 
 
    Rehearsal of information in the mind helps transform short-term memories
-   into longterm. 
+   into longterm. However, unlike as described in the Atkinson's model, it is note the only
+   mechanism. 
+
+Baddeley's model
 
 **Baddeley and Hitch** (1974),:footcite:p:`baddeleyWorkingMemory1974` 
 have proposed a model where short-term memory has

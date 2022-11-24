@@ -2,6 +2,16 @@
 Sleep Problems and Disorders
 ============================
 
+.. article-info::
+    :avatar: jpsy.png
+    :avatar-link: https://psychology.mrcpsych.uk/
+    :avatar-outline: muted
+    :author: Waleed Ahmad
+    :date: |today|
+    :read-time: 28 min read
+    :class-container: sd-p-2 sd-outline-muted sd-rounded-1
+
+
 .. card::
 
    By the end of this section, you will be able to: 
@@ -569,6 +579,17 @@ Visual and auditory **hallucinations** may also occur.
 **Physical signs** are few and less frequent. Pulse and temperature is usually normal. 
 Pupils may be unequal and plantar reflexes may be upgoing. EEG shows the usual changes 
 of drowsiness or sleep. 
+
+.. admonition::  Atypical depression vs Klein-Levin Syndrome. 
+   :class: tip 
+   
+   Notice the overlap of symptoms between atypical depression and KLS.
+   Patients with KLS may exhibit irritablity 
+   and depression. Likewise, pateints with atypical depression 
+   may experience overeating and oversleeping. 
+
+   What would help us to differentiate the two?
+
 
 Psychiatric Disorders and Sleep Architecture
 --------------------------------------------
