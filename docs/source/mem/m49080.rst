@@ -24,18 +24,25 @@ How Memory Functions
 ...
 
 One of the major elements that separate humans from animals is our ability to store, recall, and use complex information: memory.
-Memory refers to the formation, retention, and retrieval of learned associations, stored information 
-, and skills. Several models of memory have been proposed. 
+Memory refers to the formation, retention, and retrieval of learned associations, stored information, and skills. Several models of memory have been proposed. 
 
 Process of Memory
 *****************
 
-The process of memory  is often compared
-it to a computer. :term:`Memory` is the set of
-processes used to encode, store, and retrieve information over different
-periods of time (`[link] <#id14>`__).
+The process of memory is best seen as an analog process of 
+how a computer stores memory. A computer receives information via an input device, such as a 
+keyboard, which it processes through its central processing unit, after which it can save 
+it to its solid-state drive for long-term storage. The computer can then access and retrieve 
+this information from the drive when needed.  
 
-.. figure:: ../resources/CNX_Psych_08_01_Memory.jpg
+ Human :term:`memory` processes work similarly; to  
+ encode, store, and retrieve information over different periods.  See ::numref:`Title <figure>` 
+ 
+ :numref:`Title <figure>` 
+
+ (`[link] <#id14>`__).
+
+.. figure:: ../resources/CNX_Psych_08_01_Memory.png
    :scale: 100 %
    :align: center
    :alt: A diagram shows three boxes, placed in a row from left to right, 
@@ -55,13 +62,17 @@ ENCODING
 ********
 
 
-We get information into our brains through a process called
-:term:`encoding`, which is the input of information
-into the memory system. Once we receive sensory information from the
-environment, our brains label or code it. We organize the information
+We get information into our brains through a process called :term:`encoding` , which is 
+the input of information
+into the memory system. We receive sensory data from the
+environment in raw form; until it is processed, this data is meaningless. Inside the brain, 
+the data undergoes extensive processing and integration, that makes the data meaningful. 
+With encoding, the brain forms memory codes for the perceived information. 
+We can then organize the information
 with other similar information and connect new concepts to existing
 concepts. Encoding information occurs through **automatic processing** and
 **effortful processing**.
+
 
 If someone asks you what you ate for lunch today, more than likely you
 could recall this information quite easily. This is known as :term:`automatic processing`, 
@@ -80,17 +91,24 @@ information. This is known as :term:`effortful processing` (`[link] <#id15>`__).
 
    A photograph shows a person driving a car.
 
-Enhancing encoding
+Enriching encoding
 ==================
 
 **What are the most effective ways to ensure that important memories are well encoded?**
-1. Deeper Processing
+
+
+.. figure:: ../resources/CNX_Psych_08_01_enrichingEncoding.png
+   :scale: 100 %
+   :alt: An illustration that shows four ways in which encoding can be enriched. 
+
+   An illustration that shows how encoding can be enriched: visual imagery, elaboration, 
+   making the information self-relevant, and finally increasing motivation to remember. 
 
 Even a simple sentence is easier to recall when it is
 **meaningful** (Anderson, 1984) :footcite:p:`andersonRoleReaderSchema2018` 
 
 Read the following sentences (Bransford & McCarrell, 1974), then 
-look away and count backwards from 30 by threes
+look away and count backward from 30 by threes
 to zero, and then try to write down the sentences (no peeking back at
 this page!).
 
@@ -101,7 +119,7 @@ this page!).
 How well did you do? By themselves, the statements that you wrote down
 were most likely confusing and difficult for you to recall. Now, try
 writing them again, using the following prompts: bagpipe, ship
-christening, and parachutist. Next count backwards from 40 by fours,
+christening, and parachutist. Next count backward from 40 by fours,
 then check yourself to see how well you recalled the sentences this
 time. You can see that the sentences are now much more memorable because
 each of the sentences was placed in context. Material is far better

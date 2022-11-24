@@ -10,14 +10,17 @@ sys.path.insert(0, os.path.abspath('.'))
 
 
 
-NUMFIG = True
+numfig = True
 
+numfig_format = {'figure': 'Figure %s', 'table': 'Table %s',
+                 'code-block': 'Listing %s', 'section': 'Section %s'}
+numfig_secnum_depth = 1
 
 # -- Project information -----------------------------------------------------
 
-PROJECT = 'Clinically-Oriented Psychology'
-AUTHOR = 'Justpsychiatry'
-Copyright = f"2021-{datetime.now().year}, {AUTHOR}"
+project = 'Clinically-Oriented Psychology'
+author = 'Justpsychiatry'
+copyright = "2021-{datetime.now().year}, {author}"
 
 
 source_suffix = {
