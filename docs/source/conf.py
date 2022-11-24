@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 numfig = True
 
-numfig_format = {'figure': 'Figure %s', 'table': 'Table %s',
+numfig_format = {'figure': 'Fig. %s', 'table': 'Table %s',
                  'code-block': 'Listing %s', 'section': 'Section %s'}
 
 numfig_secnum_depth = 1

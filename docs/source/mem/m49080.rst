@@ -38,7 +38,7 @@ this information from the drive when needed.
 Human :term:`memory` processes work similarly; to  
 encode, store, and retrieve information over different periods.  
 
-See :numref:`Title (Figure %s) <cnx_psych_08_01_memory>` for elaboration. 
+See :numref:`(Fig. %s) <cnx_psych_08_01_memory>` for elaboration. 
 
 .. figure:: ../resources/CNX_Psych_08_01_Memory.png
    :name: cnx_psych_08_01_memory
@@ -93,7 +93,7 @@ Enriching encoding
 ==================
 
 **What are the most effective ways to ensure that important memories are well encoded?**
-See :numref:`Title <enriching_encoding>` 
+See :numref:`(Fig. %s) <enriching_encoding>` 
 
 .. figure:: ../resources/CNX_Psych_08_01_enrichingEncoding.png
    :name: enriching_encoding
