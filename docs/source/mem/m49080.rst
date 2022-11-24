@@ -35,10 +35,10 @@ keyboard, which it processes through its central processing unit, after which it
 it to its solid-state drive for long-term storage. The computer can then access and retrieve 
 this information from the drive when needed.  
 
- Human :term:`memory` processes work similarly; to  
- encode, store, and retrieve information over different periods.  
+Human :term:`memory` processes work similarly; to  
+encode, store, and retrieve information over different periods.  
 
- 1. (`[link] <#id14>`__).
+See :numref:`Title (Figure %s) <cnx_psych_08_01_memory>` for elaboration. 
 
 .. figure:: ../resources/CNX_Psych_08_01_Memory.png
    :name: cnx_psych_08_01_memory
@@ -93,10 +93,12 @@ Enriching encoding
 ==================
 
 **What are the most effective ways to ensure that important memories are well encoded?**
-
+See :numref:`Title <enriching_encoding>` 
 
 .. figure:: ../resources/CNX_Psych_08_01_enrichingEncoding.png
-   :scale: 30%
+   :name: enriching_encoding
+   :scale: 100 %
+   :align: center
    :alt: An illustration that shows four ways in which encoding can be enriched. 
 
    An illustration that shows how encoding can be enriched: visual imagery, elaboration, 
