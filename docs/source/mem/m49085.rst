@@ -1,18 +1,23 @@
-=======================================
 Parts of the Brain Involved with Memory
-=======================================
+#######################################
 
 
 
-.. contents::
-   :depth: 3
-..
+.. meta::
+   
+   :title: Parts of the Brain Involved with Memory
+   :author: Waleed Ahmad, Saqib Siddique
+   :description: This section covers the parts of the brain involved in the storage and processing of memory. 
+   :keywords: memory, neurobiology of memory
 
-.. container::
 
-   By the end of this section, you will be able to: \* Explain the brain
-   functions involved in memory \* Recognize the roles of the
-   hippocampus, amygdala, and cerebellum
+
+
+.. card::
+
+   By the end of this section, you will be able to: 
+   * Explain the brain functions involved in memory 
+   * Recognize the roles of the hippocampus, amygdala, and cerebellum
 
 Are memories stored in just one part of the brain, or are they stored in
 many different parts of the brain? Karl Lashley began exploring this
@@ -55,8 +60,8 @@ hippocampus, cerebellum, and prefrontal cortex.|\ {:
 THE AMYGDALA
 ============
 
-First, let’s look at the role of the **amygdala**\ {: data-type=“term”
-.no-emphasis} in memory formation. The main job of the amygdala is to
+First, let’s look at the role of the :term:`amygdala`
+in memory formation. The main job of the amygdala is to
 regulate emotions, such as fear and aggression
 (`[link] <#Figure_08_02_Brain>`__). The amygdala plays a part in how
 memories are stored because storage is influenced by stress hormones.
@@ -74,13 +79,18 @@ transferring new learning into long-term memory. The amygdala seems to
 facilitate encoding memories at a deeper level when the event is
 emotionally arousing.
 
-.. seealso::
+.. admonition:: Clinical-correlate
+   :class: tip
 
-   In this TED Talk called `“A Mouse. A Laser Beam. A Manipulated
-   Memory,” <http://openstax.org/l/mousebeam>`__ Steve Ramirez and Xu
-   Liu from MIT talk about using laser beams to manipulate fear memory
-   in rats. Find out why their work caused a media frenzy once it was
-   published in *Science*.
+   Patients with PTSD often report dissociative amnesia for the traumatic
+   experiences. Instead, they have a stronger memory for the emotional aspects
+   of the traumatic experiences, which they experience repeatedly as flashbacks—experiencing
+   and feeling as if the events are occuring again. The emotional experiences are 
+   strongly encoded in memory, but the actual memory lacks. 
+   It is hypothesized that extreme activation of 
+   amygdala during traumatic experiences overshadows the conscious prefrontal
+   cortex and formation of normal memories. Therapy for PTSD involves helping them
+   form a complete picture, so that they can be desensitized. 
 
 THE HIPPOCAMPUS
 ===============
@@ -182,9 +192,9 @@ planes were flown into them on the morning of September 11, 2001. Thick,
 black clouds of smoke stream from both buildings.|\ {:
 #Figure_08_02_911}
 
-.. tip::
+.. topic::
 
-      Inaccurate and False Memories
+   **Inaccurate and False Memories**
 
    Even flashbulb memories can have decreased accuracy with the passage
    of time, even with very important events. For example, on at least

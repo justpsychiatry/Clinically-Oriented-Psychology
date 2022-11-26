@@ -108,9 +108,9 @@ cases of retrograde amnesia on record.
    neurocognitive disorder.  The remaining 85% do not show significant decline in memory and are 
    able to live independently. 
 
-   **Ribot's law** of retrograde amnesia describes that in retrograde amnesia memories are often 
-   lost in a temporal gradient; recent memories are more severely affected than remote memories. 
-   This phenonmenon is also noted in pateints with dementia of alzheimer's type. 
+**Ribot's law** of retrograde amnesia describes that in retrograde amnesia memories are often 
+lost in a temporal gradient; recent memories are more severely affected than remote memories. 
+This phenonmenon is also noted in pateints with dementia of alzheimer's type. 
 
 MEMORY CONSTRUCTION AND RECONSTRUCTION
 ======================================
@@ -169,14 +169,23 @@ identification and testimony in the prosecution of criminals. However,
 faulty eyewitness identification and testimony can lead to wrongful
 convictions (`[link] <#Figure_08_03_Eyewitness>`__).
 
-|A bar graph is titled “Leading cause of wrongful conviction in DNA
-exoneration cases (source: Innocence Project).” The x-axis is labeled
-“leading cause,” and the y-axis is labeled “percentage of wrongful
-convictions (first 239 DNA exonerations).” Four bars show data:
-“eyewitness misidentification” is the leading cause in about 75% of
-cases, “forensic science” in about 49% of cases, “false confession” in
-about 23% of cases, and “informant” in about 18% of cases.|\ {:
-#Figure_08_03_Eyewitness}
+.. figure:: ../resources/CNX_Psych_08_03_Eyewitness.jpg
+   :name: 08_03_eyewitness
+   :scale: 100 %
+   :alt: A bar graph is titled “Leading cause of wrongful conviction in 
+   DNA exoneration cases (source: Innocence Project).” The x-axis is labeled
+   “leading cause,” and the y-axis is labeled “percentage of wrongful
+   convictions (first 239 DNA exonerations).”
+
+   A bar graph is titled “Leading cause of wrongful conviction in DNA
+   exoneration cases (source: Innocence Project).” The x-axis is labeled
+   “leading cause,” and the y-axis is labeled “percentage of wrongful
+   convictions (first 239 DNA exonerations).” 
+   
+   Four bars show data:
+   “eyewitness misidentification” is the leading cause in about 75% of
+   cases, “forensic science” in about 49% of cases, “false confession” in
+   about 23% of cases, and “informant” in about 18% of cases. 
 
 How does this happen? In 1984, Jennifer Thompson, then a 22-year-old
 college student in North Carolina, was brutally raped at knifepoint. As
@@ -227,12 +236,14 @@ exonerate falsely convicted people, including those convicted by
 eyewitness testimony. To learn more, you can visit
 http://www.innocenceproject.org.
 
-.. tip::
+.. admonition:: Forensic Implications:  The Elizabeth Smart Case
+   :class: tip
 
-      Preserving Eyewitness Memory: The Elizabeth Smart Case
+   
+   Preserving Eyewitness Memory: The Elizabeth Smart Case
 
    Contrast the Cotton case with what happened in the Elizabeth
-   **Smart**:term:`pastehere` case. When Elizabeth was
+   :term:`Smart` case. When Elizabeth was
    14 years old and fast asleep in her bed at home, she was abducted at
    knifepoint. Her nine-year-old sister, Mary Katherine, was sleeping in
    the same bed and watched, terrified, as her beloved older sister was
@@ -257,7 +268,7 @@ The Misinformation Effect
 Cognitive psychologist Elizabeth Loftus has conducted extensive research
 on memory. She has studied false memories as well as recovered memories
 of childhood sexual abuse. Loftus also developed the **misinformation
-effect paradigm**\ {: data-type=“term”}, which holds that after exposure
+effect paradigm**, which holds that after exposure
 to incorrect information, a person may misremember the original event.
 
 According to Loftus, an eyewitness’s memory of an event is very flexible
@@ -299,7 +310,7 @@ field of psychology, beginning with Sigmund Freud, and the controversy
 surrounding the idea continues today.
 
 Recall of false autobiographical memories is called **false memory
-syndrome**\ {: data-type=“term”}. This syndrome has received a lot of
+syndrome**. This syndrome has received a lot of
 publicity, particularly as it relates to memories of events that do not
 have independent witnesses—often the only witnesses to the abuse are the
 perpetrator and the victim (e.g., sexual abuse).
@@ -385,6 +396,17 @@ long-term memory, so we will not be able to remember it.
 
 |Four illustrations of nickels have minor differences in the placement
 and orientation of text.|\ {: #Figure_08_03_Coins}
+
+.. admonition:: Clinical-correlate: Poor Memory in Depression
+   :class: tip
+
+   Patients with depression and anxiety often report memory problems
+   such as 'frequently forgetting to recall where they placed something.' Such 
+   day-to-day forgetting occurs because of encoding failure. Patients with
+   depression and anxiety are often preoccupied with thoughts because of which
+   they may fail to pay attention while performing chores. Indeed, forgetfullness
+   in day-to-day activities in ADHD may also occur, at least in part,  
+   because of their poor attention (encoding failure)  
 
 Memory Errors
 -------------
@@ -548,26 +570,28 @@ With suggestibility, it comes from someone else, such as a therapist or
 police interviewer asking leading questions of a witness during an
 interview.
 
-Memories can also be affected by **bias**\ {: data-type=“term”}, which
+Memories can also be affected by **bias**, which
 is the final distortion error. Schacter (2001) says that your feelings
 and view of the world can actually distort your memory of past events.
 There are several types of bias:
 
--  Stereotypical bias involves racial and gender biases. For example,
+-  **Stereotypical bias involves** racial and gender biases. For example,
    when Asian American and European American research participants were
    presented with a list of names, they more frequently incorrectly
    remembered typical African American names such as Jamal and Tyrone to
    be associated with the occupation basketball player, and they more
    frequently incorrectly remembered typical White names such as Greg
-   and Howard to be associated with the occupation of politician (Payne,
-   Jacoby, & Lambert, 2004).
--  Egocentric bias involves enhancing our memories of the past (Payne et
-   al., 2004). Did you really score the winning goal in that big soccer
+   and Howard to be associated with the occupation of 
+   politician. :footcite:p:`payneMemoryMonitoringControl2004`
+-  **Egocentric bias** involves enhancing our memories of the
+   past. :footcite:p:`payneMemoryMonitoringControl2004`
+   Did you really score the winning goal in that big soccer
    match, or did you just assist?
--  Hindsight bias happens when we think an outcome was inevitable after
-   the fact. This is the “I knew it all along” phenomenon. The
-   reconstructive nature of memory contributes to hindsight bias (Carli,
-   1999). We remember untrue events that seem to confirm that we knew
+-  **Hindsight bias** happens when we think an outcome was inevitable after
+   the event. This is the “I knew it all along” phenomenon. The
+   reconstructive nature of memory contributes to hindsight 
+   bias. :footcite:p:`carliCognitiveReconstructionHindsight1999`
+   We remember untrue events that seem to confirm that we knew
    the outcome all along.
 
 Have you ever had a song play over and over in your head? How about a
@@ -590,33 +614,39 @@ Interference
 
 Sometimes information is stored in our memory, but for some reason it is
 inaccessible. This is known as interference, and there are two types:
-proactive interference and retroactive interference
+:term:`proactive interference` and :term:`retroactive interference`
 (`[link] <#Figure_08_03_Interfere>`__). Have you ever gotten a new phone
 number or moved to a new address, but right after you tell people the
 old (and wrong) phone number or address? When the new year starts, do
 you find you accidentally write the previous year? These are examples of
-**proactive interference**\ {: data-type=“term”}: when old information
+**proactive interference** when old information
 hinders the recall of newly learned information. **Retroactive
-interference**\ {: data-type=“term”} happens when information learned
+interference** happens when information learned
 more recently hinders the recall of older information. For example, this
 week you are studying about Freud’s Psychoanalytic Theory. Next week you
 study the humanistic perspective of Maslow and Rogers. Thereafter, you
 have trouble remembering Freud’s Psychosexual Stages of Development
 because you can only remember Maslow’s Hierarchy of Needs.
 
-|A diagram shows two types of interference. A box with the text “learn
-combination to high school locker, 17–04–32” is followed by an arrow
-pointing right toward a box labeled “memory of old locker combination
-interferes with recall of new gym locker combination, ??–??–??”; the
-arrow connecting the two boxes contains the text “proactive interference
-(old information hinders recall of new information.” Beneath that is a
-second part of the diagram. A box with the text “knowledge of new email
-address interferes with recall of old email address, nvayala@???” is
-followed by an arrow pointing left toward the “early event” box and away
-from another box labeled “learn sibling’s new college email address,
-npatel@siblingcollege.edu”; the arrow connecting the two boxes contains
-the text “retroactive interference (new information hinders recall of
-old information.”|\ {: #Figure_08_03_Interfere}
+.. figure:: ../resources/CNX_Psych_08_03_Interference.jpg
+   :scale: 100 %
+   :alt: A diagram shows two types of interference.
+
+   A diagram shows two types of interference. 
+   
+   A box with the text “learn
+   combination to high school locker, 17–04–32” is followed by an arrow
+   pointing right toward a box labeled “memory of old locker combination
+   interferes with recall of new gym locker combination, ??–??–??”; the
+   arrow connecting the two boxes contains the text “proactive interference
+   (old information hinders recall of new information.” Beneath that is a
+   second part of the diagram. A box with the text “knowledge of new email
+   address interferes with recall of old email address, nvayala@???” is
+   followed by an arrow pointing left toward the “early event” box and away
+   from another box labeled “learn sibling’s new college email address,
+   npatel@siblingcollege.edu”; the arrow connecting the two boxes contains
+   the text “retroactive interference (new information hinders recall of
+   old information.”
 
 Summary
 =======
@@ -637,7 +667,7 @@ hinders the recall of older information.
 
 .. card-carousel:: 1
 
-    .. card:: Question
+  .. card:: Question
 
       \_______\_ is when our recollections of the past are done in a
       self-enhancing manner.
@@ -647,9 +677,9 @@ hinders the recall of older information.
       3. hindsight bias
       4. enhancement bias {: type=“a”}
 
-  .. dropdown:: Check Answer
+     .. dropdown:: Check Answer
 
-      B
+        B
   .. Card:: Question
 
 
@@ -660,9 +690,9 @@ hinders the recall of older information.
       3. transience
       4. blocking {: type=“a”}
 
-  .. dropdown:: Check Answer
+    .. dropdown:: Check Answer
 
-      D
+       D
   .. Card:: Question
 
       The formulation of new memories is sometimes called \________, and
@@ -673,20 +703,21 @@ hinders the recall of older information.
       3. production; reproduction
       4. reproduction; production {: type=“a”}
 
-   .. container::
+    .. dropdown::
 
-      A
+       A
 
 Critical Thinking Questions
 ===========================
 
-.. container::
+.. card::
 
-   .. container::
-
+   .. admonition:: Question
+      :class: hint 
+      
       Compare and contrast the two types of interference.
 
-   .. container::
+   .. dropdown:: Explanation
 
       There are two types of interference: retroactive and proactive.
       Both are types of forgetting caused by a failure to retrieve
@@ -697,35 +728,36 @@ Critical Thinking Questions
 
 .. container::
 
-   .. container::
-
+   .. admonition:: Question
+      :class: hint
+      
       Compare and contrast the two types of amnesia.
 
-   .. container::
+    .. dropdown::
 
-      There are two types of amnesia: retrograde and anterograde. Both
-      involve the loss of long-term memory that occurs as the result of
-      disease, physical trauma, or psychological trauma. With
-      anterograde amnesia, you cannot remember new information; however,
-      you can remember information and events that happened prior to
-      your injury. Retrograde amnesia is the exact opposite: you
-      experience loss of memory for events that occurred before the
-      trauma.
+         There are two types of amnesia: retrograde and anterograde. Both
+         involve the loss of long-term memory that occurs as the result of
+         disease, physical trauma, or psychological trauma. With
+         anterograde amnesia, you cannot remember new information; however,
+         you can remember information and events that happened prior to
+         your injury. Retrograde amnesia is the exact opposite: you
+         experience loss of memory for events that occurred before the
+         trauma.
 
 Personal Application Questions
 ==============================
 
-.. container::
+.. card::
 
-   .. container::
+   .. admonition:: Question
+      :class: hint
 
       Which of the seven memory errors presented by Schacter have you
       committed? Provide an example of each one.
 
-.. container::
-
-   .. container::
-
+  .. admonition:: Question
+     :class: hint
+   
       Jurors place a lot of weight on eyewitness testimony. Imagine you
       are an attorney representing a defendant who is accused of robbing
       a convenience store. Several eyewitnesses have been called to
@@ -737,42 +769,58 @@ Personal Application Questions
    absentmindedness
       lapses in memory that are caused by breaks in attention or our
       focus being somewhere else ^
+
    amnesia
       loss of long-term memory that occurs as the result of disease,
       physical trauma, or psychological trauma ^
+
    anterograde amnesia
       loss of memory for events that occur after the brain trauma ^
+
    bias
       how feelings and view of the world distort memory of past events ^
+
    blocking
       memory error in which you cannot access stored information ^
+
    construction
       formulation of new memories ^
+
    false memory syndrome
       recall of false autobiographical memories ^
+
    forgetting
       loss of information from long-term memory ^
+
    misattribution
       memory error in which you confuse the source of your information ^
+
    misinformation effect paradigm
       after exposure to incorrect information, a person may misremember
       the original event ^
+
    persistence
       failure of the memory system that involves the involuntary recall
       of unwanted memories, particularly unpleasant ones ^
+
    proactive interference
       old information hinders the recall of newly learned information ^
+
    reconstruction
       process of bringing up old memories that might be distorted by new
       information ^
+
    retroactive interference
       information learned more recently hinders the recall of older
       information ^
+
    retrograde amnesia
       loss of memory for events that occurred prior to brain trauma ^
+
    suggestibility
       effects of misinformation from external sources that leads to the
       creation of false memories ^
+
    transience
       memory error in which unused memories fade with the passage of
       time

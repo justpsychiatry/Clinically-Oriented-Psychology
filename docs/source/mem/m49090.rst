@@ -1,42 +1,38 @@
-============
-Introduction
-============
+Introduction to Memory
+######################
+
 
 .. meta::
    
    :title: Introduction to memory
-   :author: Justpsychiatry
+   :author: Waleed Ahmad
    :description: This chapter covers the psychological, psychopathological and neurobiological basis of memory. 
    :keywords: memory, human memory, types of memory, memory models, process of memory, amnesia, dementia.
 
 
 .. card:: Syllabus
+   
+   Official MRCPsych Syllabus includes the following on memory:
+   
+   .. hlist::
+      
+      * Influences upon and optimal conditions for encoding, storage, and retrieval. 
+      * Primary working memory storage capacity and the principle of chunking. 
+      * Semantic episodic and skills memories and other aspects of long-term/secondary memory. 
+      * The process of forgetting. 
+      * Emotional factors and retrieval. 
+      * Distortion, inference, schemata, and elaboration in relation. 
+      * The relevance of this to memory disorders and their assessment.
 
- Official MRCPsych Syllabus includes the following on memory:
-
-.. hlist::
- 
- * Influences upon and optimal conditions for encoding, storage, and retrieval. 
- * Primary working memory storage capacity and the principle of chunking. 
- * Semantic episodic and skills memories and other aspects of long-term/secondary memory. 
- * The process of forgetting. 
- * Emotional factors and retrieval. 
- * Distortion, inference, schemata, and elaboration in relation. 
- * The relevance of this to memory disorders and their assessment.
-
-
-.. contents::
-   :depth: 3
 ..
-.. figure:: ../resources/CNX_Psych_06_03_Skinnerbox_n.jpg
+
+.. figure:: ../resources/CNX_Psych_08_00_Photos.jpg
    :scale: 100 %
    :alt: A photograph shows a camera and a pile of photographs.
 
    A photograph shows a camera and a pile of photographs.
 
 ..
-
-|A photograph shows a camera and a pile of photographs.|\ {:}
 
 We may be top-notch learners, but if we don’t have a way to store what
 we’ve learned, what good is the knowledge we’ve gained?
@@ -58,6 +54,8 @@ and store information? Are there different kinds of memory, and if so,
 what characterizes the different types? How, exactly, do we retrieve our
 memories? And why do we forget? This chapter will explore these
 questions as we learn about memory.
+
+
 
 References
 ==========
