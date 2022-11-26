@@ -358,7 +358,7 @@ else you have heard, felt on your skin, or seen, is discraded by your brain.
    is based on stroop effect. 
 
    Try an experiment: name the colours of the
-   words you are given in :numref:`(fig %s) <cnx_psych_08_01_stroop>`__. Do not read
+   words you are given in :numref:`(fig. %s) <cnx_psych_08_01_stroop>`. Do not read
    the words, but say the color the word is printed in. For example, upon
    seeing the word “yellow” in green print, you should say “green,” not
    “yellow.” This experiment is fun, but it’s not as easy as it seems.
@@ -374,14 +374,17 @@ else you have heard, felt on your skin, or seen, is discraded by your brain.
 
 
 Sensory memory can occur in any sensory modality; **iconic** memory, which corresponds to vision
-and **echoic** memory, which corresponds to audition are the two most studied subtypes of sensory memory. 
+and **echoic** memory, which corresponds to audition, are the two most studied subtypes 
+of sensory memory.  Iconic memory lasts upto 1 second 
+while echoic memory may be retained for 3-4 seconds. 
 
 Short-Term Memory
 -----------------
 
 :term:`Short-term memory (STM)` is a temporary storage
-system that processes incoming sensory memory; sometimes it is called
-**working memory** or **attention-span**. Short-term memory takes information from sensory memory
+system that processes incoming sensory memory; sometimes, it is called
+**working memory** or **attention-span**. Short-term memory takes
+information from sensory memory
 and sometimes connects that memory to something already in long-term
 memory. Short-term memory storage lasts about 20 seconds. George Miller
 (1956) :footcite:p:`millerMagicalNumberSeven1956`, in his research on the 
@@ -393,27 +396,35 @@ shown that the capacity may be greater.
 .. admonition:: Attention, short-term and working memory, disambiguation
    :class: attention
 
-   The concept of "short-term memory" in Atkinson and Shriffin's model roughly equates our
-   attention span or working memory. It is the capacity of an individual to hold information actively in the mind for mental manipulation. However, when we use the term working memory, as in 
-   Baddeley's model, we also include its central executive system. Thus, working memory is our capacity to hold information actively in mind and our ability to mentally manipulate this information. 
-   Short-term memory testing, as performed during mental state examination, however, is a test of new learning (see below).  
+   The concept of "short-term memory" in Atkinson and Shiffrin's model roughly equates to our
+   attention span or working memory. It is the capacity of an individual to hold 
+   information actively in mind for mental manipulation. However, when we use the 
+   term working memory, as in 
+   Baddeley's model, we also include its central executive system. Thus, working memory 
+   is our capacity to hold information actively in mind and our ability to mentally 
+   manipulate this information. 
+   Short-term memory testing, as performed during mental state examination, however, is a 
+   test of new learning (see below).  
 
-
-Think of short-term memory as the information you have displayed on your
-computer screen—a document, a spreadsheet, or a web page. Then,
-information in short-term memory goes to long-term memory (you save it
-to your hard drive), or it is discarded (you delete a document or close
-a web browser). This step of :term:`rehearsal`, the
+Dual memory theory
+------------------
+The dual memory theory views short-term memory as the information in a
+computer's RAM (random access memory) —a document, a spreadsheet, or a web page.
+Information here will either be saved onto a memory drive or discarded. Likewise, the
+information in short-term memory goes to long-term memory (by rehearsal) 
+or is discarded (by displacement). The step of :term:`rehearsal`, the
 conscious repetition of information to be remembered, to move STM into
-long-term memory is called :term:`memory consolidation`.
+long-term memory, is called :term:`memory consolidation`.
 
-.. tip:: 
 
-   Rehearsal of information in the mind helps transform short-term memories
-   into longterm. However, unlike as described in the Atkinson's model, it is note the only
+.. error:: 
+
+   Rehearsal of information in mind helps transform short-term memories
+   into long-term. However, unlike as described in Atkinson's model, it is not the only
    mechanism. 
 
 Baddeley's model
+^^^^^^^^^^^^^^^^
 
 **Baddeley and Hitch** (1974),:footcite:p:`baddeleyWorkingMemory1974` 
 have proposed a model where short-term memory has
@@ -424,8 +435,8 @@ information received. There are memories in visual-spatial form, as well
 as memories of spoken or written material, and they are stored in three
 short-term systems: a **visuospatial sketchpad**, an **episodic buffer**, and a
 **phonological loop**. The phonological loop stores acoustic information, while 
-the visuospatial skeptechpad holds spatial and visual information. These two 
-systems are shown to be controlled by different areas of the brain; more specifically
+the visuospatial sketchpad holds spatial and visual information. These two 
+systems are shown to be controlled by different brain areas; more specifically,
 the visuospatial information is controlled by the right hemisphere and the 
 acoustic information by the left hemisphere. The episodic buffer helps with the 
 integration of visual and auditory information in the working memory and; the retrieval 
@@ -437,12 +448,12 @@ from the three short-term systems.
 .. admonition:: Real-world Application: Making Most of Working Memory Capacity 
    :class: tip
    
-   Due to its lited capacity, when new information enters the
-   working memory store, it replaces the existing chunks of information.  Thus, working memory 
-   function is impaired by unhelpful stimuli from the environment, 
+   Due to its limited capacity, new information entering the
+   working memory store replaces the existing chunks of information.  Thus, working memory 
+   function is impaired by unhelpful environmental stimuli and 
    intrusive thoughts. 
-   To help enhance processing of information by the working memory, 
-   a task that requires comprehension or memorisation should be performed in an environment 
+   To help enhance the processing of information by the working memory, 
+   a task that requires comprehension or memorization should be performed in an environment 
    with least distractions; anxiety, depression or other situations that worsen or cause 
    intrusive thoughts should be identified and managed accordingly. 
 
@@ -475,7 +486,7 @@ from the three short-term systems.
       (acoustic encoding) rather than see (visual encoding) (Anderson, 1969).
 
    While attention span or working memory concerns our capacity to hold and actively 
-   manipulate information in the mind, the ability to sustain attention over 
+   manipulate information in mind, the ability to sustain attention over 
    time is **concentration**. Concentration is clinically tested by serial 7s. In this test, 
    we ask a patient to start with 100 and keep subtracting 7s from the remainder. They are 
    allowed to continue five times. The number of correct answers is noted and scored. 
@@ -484,7 +495,7 @@ from the three short-term systems.
 Long-term Memory
 ----------------
 
-:term:`Long-term memory (LTM)` is the continuous
+:term:`Long-term memory (LTM)` is the persistent
 storage of information. Unlike short-term memory, the storage capacity
 of LTM has no limits. It encompasses all the things you can remember
 that happened more than just a few minutes ago to all of the things that
@@ -511,7 +522,7 @@ interest in soccer, may help you recall the name of the restaurant.
    For the next five minutes, the patient is kept engaged, to avoid rehearsal, and then
    asked to recall the three names. The number of items they can successfully recall (eg 2/3) is noted
    to be the value of short-term memory (not to be confused with the short-term memory concept
-   used in Atkinson and Shriffin Model of Memory. 
+   used in Atkinson and Shiffrin Model of Memory. 
 
 
 
@@ -567,17 +578,19 @@ present an accomplished guitarist with a guitar, even if he has not
 played in a long time, he will still be able to play quite well. These memories are
 least affected in early dementia and retained until later stages. 
 
-**Priming** and **emotional memories** are also non-declarative memories. Priming occurs 
+Priming and emotional memories are also non-declarative memories. **Priming** occurs 
 when past experience with certain stimuli increases the speed or accuracy of identifying and naming
-those stimuli. Sublimal advertising 
+those stimuli. Emotional memories involve the emotional aspects of things and events. This occurs
+through conditioning, especially classical conditioning. For example, if an event or a thing 
+is repeatedly experienced in the presence of another pleasant or unpleasant stimuli, it will
+automatically arouse those feelings in the future even. 
 
 .. caution::
    
-   **Sublimal messages** are used in manipulative tactics to influence later decision making. 
+   **Subliminal messages** are used in manipulative tactics to influence later decision-making. 
    For example, if you are exposed to the number 79 repeatedly, you are likely to choose
-   this number from a list of random numbers, without consciouslt being aware of how you
+   this number from a list of random numbers, without consciously being aware of how you
    were primed to choose this. 
-
 
 
 :term:`Declarative memory` has to do with the storage

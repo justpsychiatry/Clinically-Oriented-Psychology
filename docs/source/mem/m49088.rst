@@ -3,13 +3,15 @@ Problems with Memory
 ====================
 
 
-.. card::
+.. card:: Learning objectives
 
-   By the end of this section, you will be able to: \* Compare and
-   contrast the two types of amnesia \* Discuss the unreliability of
-   eyewitness testimony \* Discuss encoding failure \* Discuss the
-   various memory errors \* Compare and contrast the two types of
-   interference
+   By the end of this section, you will be able to: 
+   
+   * Compare and contrast the two types of amnesia 
+   * Discuss the unreliability of eyewitness testimony 
+   * Discuss encoding failure 
+   * Discuss the various memory errors 
+   * Compare and contrast the two types of interference
 
 You may pride yourself on your amazing ability to remember the
 birthdates and ages of all of your friends and family members, or you
