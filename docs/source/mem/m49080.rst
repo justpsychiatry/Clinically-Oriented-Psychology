@@ -37,7 +37,8 @@ and subtypes of memory.
 **Broadbent's Model** (1958) describes three memory storing systems, S-system for sensory memory, 
 P-system for short-term memories and and a long-term store.
 
-**Atkinson and Shriffen's Model**, described in 1968, also describes such three systems 
+**Atkinson and Shriffen's Model** 1968, also known as multi-store model or 
+modal model of memory, also describes such three systems 
 respectively termed, sensory memory, 
 short-term memory and long-term memory stores; the model also described an executive control process
 that controlled the flow of information between these stores. 
