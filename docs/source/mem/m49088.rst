@@ -1,13 +1,13 @@
-====================
 Problems with Memory
-====================
+####################
+
 
 
 .. card:: Learning objectives
 
    By the end of this section, you will be able to: 
    
-   * Compare and contrast the two types of amnesia 
+   * Compare and contrast the types of amnesia 
    * Discuss the unreliability of eyewitness testimony 
    * Discuss encoding failure 
    * Discuss the various memory errors 
@@ -21,28 +21,33 @@ embarrassed, when our memories have failed us. There are several reasons
 why this happens.
 
 AMNESIA
-=======
+*******
 
-**Amnesia**\ {: data-type=“term”} is the loss of long-term memory that
-occurs as the result of disease, physical trauma, or psychological
+
+**Amnesia** is the loss of long-term memory that occurs as the result 
+of disease, physical trauma, or psychological
 trauma. Psychologist Tulving (2002) and his colleagues at the University
 of Toronto studied K. C. for years. K. C. suffered a traumatic head
 injury in a motorcycle accident and then had severe amnesia. Tulving
 writes,
 
-the outstanding fact about K.C.'s mental make-up is his utter inability
-to remember any events, circumstances, or situations from his own life.
-His episodic amnesia covers his whole life, from birth to the present.
-The only exception is the experiences that, at any time, he has had in
-the last minute or two. (Tulving, 2002, p. 14)
+.. epigraph::
+
+   the outstanding fact about K.C.'s mental make-up is his utter inability
+   to remember any events, circumstances, or situations from his own life.
+   His episodic amnesia covers his whole life, from birth to the present.
+   The only exception is the experiences that, at any time, he has had in
+   the last minute or two. 
+    
+    -- Tulving, 2002, p. 14
 
 Anterograde Amnesia
 -------------------
 
 There are two common types of amnesia: anterograde amnesia and
-retrograde amnesia (`[link] <#Figure_08_03_AntRet>`__). Anterograde
+retrograde amnesia (`[link] <#psych0803antret>`__). Anterograde
 amnesia is commonly caused by brain trauma, such as a blow to the head.
-With **anterograde amnesia**\ {: data-type=“term”}, you cannot remember
+With **anterograde amnesia**, you cannot remember
 new information, although you can remember information and events that
 happened prior to your injury. The hippocampus is usually affected
 (McLeod, 2011). This suggests that damage to the brain has resulted in
@@ -50,8 +55,9 @@ the inability to transfer information from short-term to long-term
 memory; that is, the inability to consolidate memories.
 
 Many people with this form of amnesia are unable to form new episodic or
-semantic memories, but are still able to form new procedural memories
-(Bayley & Squire, 2002). This was true of H. M., which was discussed
+semantic memories, but are still able to form new procedural 
+memories. :footcite:p:`bayleyMedialTemporalLobe2002` 
+This was true of H. M., which was discussed
 earlier. The brain damage caused by his surgery resulted in anterograde
 amnesia. H. M. would read the same magazine over and over, having no
 memory of ever reading it—it was always new to him. He also could not
@@ -60,9 +66,11 @@ H. M. and then you left the room for a few minutes, he would not know
 you upon your return and would introduce himself to you again. However,
 when presented the same puzzle several days in a row, although he did
 not remember having seen the puzzle before, his speed at solving it
-became faster each day (because of relearning) (Corkin, 1965, 1968).
+became faster each day 
+(because of relearning).:footcite:p:`corkinAcquisitionMotorSkill1968,corkinTactuallyguidedMazeLearning1965`
 
 .. figure:: ../resources/CNX_Psych_08_03_AntRet.png
+   :name: psych0803antret
    :scale: 100 %
    :alt: A single-line flow diagram compares two types of amnesia. 
 
@@ -78,7 +86,7 @@ became faster each day (because of relearning) (Corkin, 1965, 1968).
 Retrograde Amnesia
 ------------------
 
-**Retrograde amnesia**\ {: data-type=“term”} is loss of memory for
+**Retrograde amnesia** is loss of memory for
 events that occurred prior to the trauma. People with retrograde amnesia
 cannot remember some or even all of their past. They have difficulty
 remembering episodic memories. What if you woke up in the hospital one
@@ -365,18 +373,20 @@ now inform jurors about the possibility of misidentification. Judges can
 also suppress eyewitness testimony if they deem it unreliable.
 
 FORGETTING
-==========
+**********
+
 
 “I’ve a grand memory for forgetting,” quipped Robert Louis Stevenson.
-**Forgetting**\ {: data-type=“term”} refers to loss of information from
+**Forgetting** refers to loss of information from
 long-term memory. We all forget things, like a loved one’s birthday,
 someone’s name, or where we put our car keys. As you’ve come to see,
 memory is fragile, and forgetting can be frustrating and even
 embarrassing. But why do we forget? To answer this question, we will
-look at several perspectives on forgetting.
+look at several perspectives on :term:`forgetting`.
 
 Encoding Failure
-----------------
+================
+
 
 Sometimes memory loss happens before the actual memory process begins,
 which is encoding failure. We can’t remember something if we never
@@ -414,9 +424,11 @@ Memory Errors
 Psychologist Daniel Schacter (2001), a well-known memory researcher,
 offers seven ways our memories fail us. He calls them the seven sins of
 memory and categorizes them into three groups: forgetting, distortion,
-and intrusion (`[link] <#Table_08_03_01>`__).
+and intrusion :footcite:p:`schacterSevenSinsofMemory2002`
+See (`[Table] <#table080301>`__) for the entire list. 
 
 .. table:: Schacter’s Seven Sins of Memory
+   :name: table080301
 
    +-----------------+------------+-----------------+-----------------+
    | Sin             | Type       | Description     | Example         |
@@ -456,8 +468,8 @@ and intrusion (`[link] <#Table_08_03_01>`__).
    +-----------------+------------+-----------------+-----------------+
 
 
-Let’s look at the first sin of the forgetting errors: **transience**\ {:
-data-type=“term”}, which means that memories can fade over time. Here’s
+Let’s look at the first sin of the forgetting errors: **transience**, 
+which means that memories can fade over time. Here’s
 an example of how this happens. Nathan’s English teacher has assigned
 his students to read the novel *To Kill a Mockingbird*. Nathan comes
 home from school and tells his mom he has to read this book for class.
@@ -470,8 +482,8 @@ book, and his mother is surprised she can’t recall the plot. What is
 going on here is storage decay: unused information tends to fade with
 the passage of time.
 
-In 1885, German psychologist Hermann **Ebbinghaus**\ {: data-type=“term”
-.no-emphasis} analyzed the process of memorization. First, he memorized
+In 1885, German psychologist Hermann **Ebbinghaus** 
+analyzed the process of memorization. First, he memorized
 lists of nonsense syllables. Then he measured how much he learned
 (retained) when he attempted to relearn each list. He tested himself
 over different periods of time from 20 minutes later to 30 days later.
@@ -615,7 +627,7 @@ Interference
 Sometimes information is stored in our memory, but for some reason it is
 inaccessible. This is known as interference, and there are two types:
 :term:`proactive interference` and :term:`retroactive interference`
-(`[link] <#Figure_08_03_Interfere>`__). Have you ever gotten a new phone
+See (`[Interference] <#fig0803interference>`__). Have you ever gotten a new phone
 number or moved to a new address, but right after you tell people the
 old (and wrong) phone number or address? When the new year starts, do
 you find you accidentally write the previous year? These are examples of
@@ -628,7 +640,8 @@ study the humanistic perspective of Maslow and Rogers. Thereafter, you
 have trouble remembering Freud’s Psychosexual Stages of Development
 because you can only remember Maslow’s Hierarchy of Needs.
 
-.. figure:: ../resources/CNX_Psych_08_03_Interference.jpg
+.. figure:: ../resources/CNX_Psych_08_03_Interfere.jpg
+   :name: fig0803interference
    :scale: 100 %
    :alt: A diagram shows two types of interference.
 
@@ -712,7 +725,7 @@ Critical Thinking Questions
 
 .. card::
 
-   .. admonition:: Question
+  .. admonition:: Question
       :class: hint 
       
       Compare and contrast the two types of interference.
@@ -824,6 +837,11 @@ Personal Application Questions
    transience
       memory error in which unused memories fade with the passage of
       time
+
+References
+-----------
+  .. footbibliography::
+
 
 .. |A single-line flow diagram compares two types of amnesia. In the center is a box labeled “event” with arrows extending from both sides. Extending to the left is an arrow pointing left to the word “past”; the arrow is labeled “retrograde amnesia.” Extending to the right is an arrow pointing right to the word “present”; the arrow is labeled “anterograde amnesia.”| image:: ../resources/CNX_Psych_08_03_AntRet.jpg
 .. |A bar graph is titled “Leading cause of wrongful conviction in DNA exoneration cases (source: Innocence Project).” The x-axis is labeled “leading cause,” and the y-axis is labeled “percentage of wrongful convictions (first 239 DNA exonerations).” Four bars show data: “eyewitness misidentification” is the leading cause in about 75% of cases, “forensic science” in about 49% of cases, “false confession” in about 23% of cases, and “informant” in about 18% of cases.| image:: ../resources/CNX_Psych_08_03_Eyewitness.jpg
