@@ -821,9 +821,6 @@ you will perform poorly on a test of recall, eg a short-answer questions and vic
       | it matched the demands of                                           |
       | the testing situation.                                              |
       +----------------------------+---------------------+------------------+
-
-..
-
  
     
     +++
