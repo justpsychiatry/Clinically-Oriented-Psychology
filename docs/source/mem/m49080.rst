@@ -348,7 +348,7 @@ textures unlesss there is selective focus of attention to it.
 When we selectively attend to a certain information, it will move into our
 short-term memory system. For example, while reading this passage, your selective attention is 
 likely focused on the information in this passage, and you are likely to encode it into your 
-working (short-term) memory, where it can be processsed for further comprehension. Most of what 
+working (short-term) memory, where it can be processed for further comprehension. Most of what 
 else you have heard, felt on your skin, or seen, is discraded by your brain.
 
 
@@ -360,7 +360,7 @@ else you have heard, felt on your skin, or seen, is discraded by your brain.
    memory phenomenon in the 1930s: you will name a color more easily if it
    appears printed in that color, which is called the :term:`Stroop effect`. 
    In other words, the word “red” will be
-   named more quickly, regardless of the color the word appears in, than
+   named more quickly, regardless of the color, the word appears in, than
    any word that is colored red. 
    
    **Stroop Colour Word Test**, a popular neuropsychological tool
@@ -771,6 +771,66 @@ specifically showing that memory performance is not only determined by the
 depth of processing, but by the relationship between how information is 
 initially encoded and how it is later retrieved. For example, if you study an MCQ exam,
 you will perform poorly on a test of recall, eg a short-answer questions and vice versa. 
+
+.. card:: Classic Experiment
+
+    Transfer Appropriate Processing
+    ^^^
+    Study participants were made to encode a certain word by making either a phonological 
+    or semantic judgment about each item on a word list. The learning was incidental, 
+    participants were not told that they 
+    would have to later recall the words.This constrained (limits) the learning strategies used.
+    The final test was either a standard recognition test for the learned words. or a 
+    rhyming recognition test for learned words e.g., Was a word presented that 
+    rhymed with “regal”?. Overall correction rates on recognition and rhyming 
+    tests following either sentence or rhyme-oriented task matched the 
+    original processing task. 
+    The take-home message was that when the processing at encoding matches the processing 
+    at retrieval, performance will be better.It only makes sense to talk about a 
+    learning method’s efficiency in the context 
+    of the type of final test.
+
+    .. figure:: ../resources/CNX_Psych_08_01_moris.png
+      :scale: 70 %
+      :alt: A photograph shows B.F. Skinner.
+
+      Standard recognition test, Deeper processing led to better performance. 
+      Rhyming recognition test: The shallower rhyme-based encoding task 
+      led to better performance because it matched the demands of the testing situation.
+
+      
+      +----------------------------+---------------------+------------------+
+      | **Results**                |                     |                  |
+      +============================+=====================+==================+
+      | **Encoding:**              | **Recognition       | **Rhyming        |
+      |                            | test:**             | test:**          |
+      +----------------------------+---------------------+------------------+
+      | Does \___\_ rhyme with     | 63%                 | 49%              |
+      | legal? (eagle)             |                     |                  |
+      +----------------------------+---------------------+------------------+
+      | Does \___\_ have feathers? | 84%                 | 33%              |
+      | (eagle)                    |                     |                  |
+      +----------------------------+---------------------+------------------+
+      | Standard recognition test:                                          |
+      | Deeper processing led to                                            |
+      | better performance.                                                 |
+      | Rhyming recognition test:                                           |
+      | The shallower rhyme-based                                           |
+      | encoding task led to                                                |
+      | better performance because                                          |
+      | it matched the demands of                                           |
+      | the testing situation.                                              |
+      +----------------------------+---------------------+------------------+
+
+..
+
+ 
+    
+    +++
+    Morris, Bransford, and Franks (1977)
+ 
+
+
 
 Relearning
 ==========
