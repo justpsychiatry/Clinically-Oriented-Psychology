@@ -2,17 +2,12 @@
 Ways to Enhance Memory
 ======================
 
+.. card:: Learning Objectives
 
-
-.. contents::
-   :depth: 3
-..
-
-.. container::
-
-   By the end of this section, you will be able to: \* Recognize and
-   apply memory-enhancing strategies \* Recognize and apply effective
-   study techniques
+   By the end of this section, you will be able to: 
+   
+   * Recognize and apply memory-enhancing strategies 
+   * Recognize and apply effective study techniques
 
 Most of us suffer from memory failures of one kind or another, and most
 of us would like to improve our memories so that we don’t forget where

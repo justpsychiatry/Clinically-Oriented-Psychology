@@ -242,7 +242,8 @@ rhyme, and rhythm.
 
 
 Levels of Information Processing Approach
-========================================
+=========================================
+
 
 Which of the three types of encoding do you think would give you the
 best memory of verbal information? Some years ago, psychologists Fergus
@@ -284,7 +285,8 @@ that has less personal relevance :footcite:p:`rogersSelfreferenceEncodingPersona
    memorize the concepts in this chapter?
 
 STORAGE
-=======
+*******
+
 
 Once the information has been encoded, we have to somehow retain it. Our
 brains take the encoded information and place it in storage.
@@ -325,16 +327,20 @@ Sensory Memory
 In the Atkinson-Shiffrin model, stimuli from the environment first 
 reach :term:`sensory memory` a storage system for
 sensory events, such as sights, sounds, and tastes. It holds the information
-for a brief duration of up to a couple of seconds, without processing it. 
+for a brief duration of up to a fraction of seconds, without processing it. 
 Thus, it helps filter the irrelevant information we are constantly bombarded
 with. Without this filter, we would not be able make process and 
 make sense of the world around. 
 What was your professor wearing the last class period? Unless 
-someone is particularly attentive to people's dressing, chances are
-Sensory information about sights, sounds, smells, and even
-textures, which we do not view as valuable information, we discard. If
-we selectively attend to a certain information, it will move into our
-short-term memory system.
+someone is particularly attentive to people's dressing, chances are, it wont be remembered. 
+This system discards sensory information about sights, sounds, smells, and even
+textures unlesss there is selective focus of attention to it.  
+When we selectively attend to a certain information, it will move into our
+short-term memory system. For example, while reading this passage, your selective attention is 
+likely focused on the information in this passage, and you are likely to encode it into your 
+working (short-term) memory, where it can be processsed for further comprehension. Most of what 
+else you have heard, felt on your skin, or seen, is discraded by your brain.
+
 
 .. admonition:: Stroop Effect
    :class: hint
@@ -567,7 +573,10 @@ those stimuli. Sublimal advertising
 
 .. caution::
    
-   Sublimal messages are used in manipulative tactics to 
+   **Sublimal messages** are used in manipulative tactics to influence later decision making. 
+   For example, if you are exposed to the number 79 repeatedly, you are likely to choose
+   this number from a list of random numbers, without consciouslt being aware of how you
+   were primed to choose this. 
 
 
 
@@ -614,29 +623,31 @@ Episodic memories are of two types, **retrospective**
 (memory of past events) and **prospective** (memory of events coming
 in future)  
 
+
 In patients with dementia and other causes or neurogenic amnesia, retrospective
 episodic memories 
 are often lost in a temporal gradient; recent memories are more
-severely affected than remote memories.  Clinically, these are tested 
+severely affected than remote memories. 
 
 
 .. card:: psychology everyday-connection
-
-   .. card:: Can You Remember Everything You Ever Did or Said?
-
-      Episodic memories are also called autobiographical memories. Let’s
-      quickly test your autobiographical memory. What were you wearing
-      exactly five years ago today? What did you eat for lunch on April 10,
-      2009? You probably find it difficult, if not impossible, to answer
-      these questions. Can you remember every event you have experienced
-      over the course of your life—meals, conversations, clothing choices,
-      weather conditions, and so on? Most likely none of us could even come
-      close to answering these questions; however, American actress Marilu
-      :term:`Henner`, best known for the
-      television show *Taxi,* can remember. She has an amazing and highly
-      superior autobiographical memory (`[link] <#id20>`__).
+   
+   Can You Remember Everything You Ever Did or Said?
+   ^^^
+   Episodic memories are also called autobiographical memories. Let’s
+   quickly test your autobiographical memory. What were you wearing
+   exactly five years ago today? What did you eat for lunch on April 10,
+   2009? You probably find it difficult, if not impossible, to answer
+   these questions. Can you remember every event you have experienced
+   over the course of your life—meals, conversations, clothing choices,
+   weather conditions, and so on? Most likely none of us could even come
+   close to answering these questions; however, American actress Marilu
+   :term:`Henner`, best known for the
+   television show *Taxi,* can remember. She has an amazing and highly
+   superior autobiographical memory (`[Fig. %s] <#psych0801marilu>`__).
 
       .. figure:: ../resources/CNX_Psych_08_01_Marilu.jpg
+         :name: psych0801marilu
          :scale: 100 %
          :alt: A photograph shows Marilu Henner.
 
@@ -658,7 +669,7 @@ severely affected than remote memories.  Clinically, these are tested
    show *60 Minutes*.
 
 RETRIEVAL
-=========
+*********
 
 So you have worked hard to encode (via effortful processing) and store
 some important information for your upcoming final exam. How do you get
@@ -675,9 +686,19 @@ your job once you get there.
 
 There are three ways you can retrieve information out of your long-term
 memory storage system: recall, recognition, and relearning.
+
+Recall
+======
+
+
 :term:`Recall` is what we most often think about when
 we talk about memory retrieval: it means you can access information
 without cues. For example, you would use recall for an essay test.
+
+Recognition
+===========
+
+
 :term:`Recognition` happens when you identify
 information that you have previously learned after encountering it
 again. It involves a process of comparison. When you take a
@@ -687,6 +708,10 @@ from high school 10 years ago, and you have returned to your hometown
 for your 10-year reunion. You may not be able to recall all of your
 classmates, but you recognize many of them based on their yearbook
 photos.
+
+Relearning
+==========
+
 
 The third form of retrieval is :term:`relearning`, and
 it’s just what it sounds like. It involves learning information that you
@@ -701,6 +726,7 @@ years; this is an example of relearning.
 
 Summary
 *******
+
 
 Memory is a system or process that stores what we learn for future use.
 
