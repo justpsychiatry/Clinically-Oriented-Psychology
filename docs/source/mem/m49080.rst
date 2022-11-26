@@ -172,17 +172,20 @@ time. You can see that the sentences are now much more memorable because
 each of the sentences was placed in context. Material is far better
 encoded when you make it meaningful.
 
-.. tip:: 
+.. admonition:: Elaborative Rehearsal 
 
-   Material is well-encoded when it is more meaningful. For instance, think about 
+   Material is well-encoded when it is well-integrated with your current knowledge
+   and concepts. For instance, think about 
    the prevalence of schizophrenia, 0.7% in the general population. Now, we can
-   make it more meaningful by rounding it off to 1 percent or one out of every hundred. 
-   If you know the prevalence of OCD is about 2%, you can make it more meaningful: OCD is twice
-   as common as schizophrenia, in other words, schizophrenia is almost as prevalent.  
+   make it more elaborate by rounding it off to 1 percent or one out of every hundred. 
+   If you know the prevalence of OCD is about 2%, you can make it even more 
+   meaningful; OCD is twice as common as schizophrenia, in other words, schizophrenia is 
+   almost as prevalent.  
    While schizophrenia is equally frequent in both genders, OCD 
    is two times more frequent in women, however, ie, men
    account only for 1/3rd of the cases of OCD. Thus,
-   in men, OCD may not be more prevalent than schizophrenia. 
+   in men, OCD may not be more prevalent than schizophrenia. This is called elaborative rehearsal
+   in terms of levels of processing approach (see below). 
    
 Semantic, Phonemic, and Visual Encoding
 =======================================
@@ -278,7 +281,7 @@ Based on experiments like these, Craik and Tulving proposed that deeper processi
 enhances their retention, a proposal called the level of information 
 processing approach. The depth of information processing was based on the meaningfulness of the information.
 Visual encoding or structural encoding is the least meaningful and regarded as the shallowest level, 
-whilst semantic encoding is the deepest. The approach 
+whilst semantic encoding is the deepest. 
 
 Semantic encoding involves a
 deeper level of processing than the shallower visual or acoustic
@@ -289,10 +292,7 @@ The :term:`self-reference effect` is the tendency for an individual to have bett
 memory for information that relates to oneself in comparison to material
 that has less personal relevance :footcite:p:`rogersSelfreferenceEncodingPersonal1977`. 
 
-.. hint:: 
-   
-   How could semantic encoding help as you attempt to 
-   memorize the concepts in this chapter?
+
 
 STORAGE
 *******
@@ -396,14 +396,20 @@ system that processes incoming sensory memory; sometimes, it is called
 **working memory** or **attention-span**. Short-term memory takes
 information from sensory memory
 and sometimes connects that memory to something already in long-term
-memory. Short-term memory storage lasts about 20 seconds. George Miller
+memory. Short-term memory storage lasts about {bdg-info}`20 seconds`. George Miller
 (1956) :footcite:p:`millerMagicalNumberSeven1956`, in his research on the 
 capacity of memory, found that most
-people can retain about 7 items in STM. Some remember 5, some 9, so he
+people can retain {bdg-info}`about 7 items` in STM. Some remember 5, some 9, so he
 called the capacity of STM 7 plus or minus 2. However, new research has 
 shown that the capacity may be greater. 
 
-.. admonition:: Attention, short-term and working memory, disambiguation
+One way to improve the capacity of working memory, or attention span is by **chunking** 
+information. Information can be grouped in a way that the number of chunks is reduced for
+your brain thus allowing it to be processed by your brain, comprehended or stored
+in your longterm memory.  Example: which one is easier to commit to brain 
+among 3459148231 or 345 9148 231? 
+
+.. admonition:: Attention, Short-term and Working memory.
    :class: attention
 
    The concept of "short-term memory" in Atkinson and Shiffrin's model roughly equates to our
@@ -461,6 +467,8 @@ According to Baddeley and Hitch, a **central executive**
 part of memory supervises or controls the flow of information to and
 from the three short-term systems. 
 
+
+
 .. admonition:: Real-world Application: Making Most of Working Memory Capacity 
    :class: tip
    
@@ -472,6 +480,13 @@ from the three short-term systems.
    a task that requires comprehension or memorization should be performed in an environment 
    with least distractions; anxiety, depression or other situations that worsen or cause 
    intrusive thoughts should be identified and managed accordingly. 
+
+   Also note how visual and verbal information has different systems in the working memory
+   model proposed by Baddely. This is how visual imagery aids verbal information, for instance
+   while watching or presenting a slideshow. The audience would find it much more easier
+   to process and comprehend a slideshow with figures, graphs, images etc  than one with pure
+   text.
+
 
 .. admonition:: Clinical-correlate: Digit Span Test
   :class: hint
@@ -538,7 +553,7 @@ were on vacation in France last summer. A prompt, such as that the
 restaurant was named after its owner, who spoke to you about your shared
 interest in soccer, may help you recall the name of the restaurant.
 
-.. admonition:: Clinical-correlate: Testing long-term memory. 
+.. admonition:: Clinical-correlate: Testing Long-term Memory. 
    :class: hint
    Long-term memory is tested clinically in three steps. 
    Recall at approximately 5 minutes is tested first. The patient is given a 
@@ -741,7 +756,6 @@ without cues. For example, you would use recall for an essay test.
 Recognition
 ===========
 
-
 :term:`Recognition` happens when you identify
 information that you have previously learned after encountering it
 again. It involves a process of comparison. When you take a
@@ -751,6 +765,12 @@ from high school 10 years ago, and you have returned to your hometown
 for your 10-year reunion. You may not be able to recall all of your
 classmates, but you recognize many of them based on their yearbook
 photos.
+
+Transfer-appropriate processing (TAP) is a type of state-dependent memory 
+specifically showing that memory performance is not only determined by the 
+depth of processing, but by the relationship between how information is 
+initially encoded and how it is later retrieved. For example, if you study an MCQ exam,
+you will perform poorly on a test of recall, eg a short-answer questions and vice versa. 
 
 Relearning
 ==========

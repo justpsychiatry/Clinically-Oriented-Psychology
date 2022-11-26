@@ -12,5 +12,6 @@ Chapter 8: Memory
    m49085*
    m49088*
    m49094*
+   bcqs.rst
    
    ...

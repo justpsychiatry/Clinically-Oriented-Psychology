@@ -20,9 +20,8 @@ MEMORY-ENHANCING STRATEGIES
 
 What are some everyday ways we can improve our memory, including recall?
 To help make sure information goes from short-term memory to long-term
-memory, you can use **memory-enhancing strategies**\ {:
-data-type=“term”}. One strategy is **rehearsal**\ {: data-type=“term”
-.no-emphasis}, or the conscious repetition of information to be
+memory, you can use **memory-enhancing strategies**. 
+One strategy is **rehearsal**, or the conscious repetition of information to be
 remembered (Craik & Watkins, 1973). Think about how you learned your
 multiplication tables as a child. You may recall that 6 x 6 = 36, 6 x 7
 = 42, and 6 x 8 = 48. Memorizing these facts is rehearsal.
@@ -48,6 +47,13 @@ memory (Tigner, 1999). For example, in this case, you could remember
 that 520 is an area code for Arizona and the person you met is from
 Arizona. This would help you better remember the 520 prefix. If the
 information is retained, it goes into long-term memory.
+
+**Adequate Sleep**  is also important for two reasons. First, studies of sleep deprivation
+have shown the declinining cognitive functions among subjects, especially a reduced 
+attention span. Then, other studies have shown that performance of
+subjects on various memory tests improve significantly when it follows a learning
+activity. Declarative memories are reprocessed during slow wave sleep which is the
+likely mechanism of longterm potentiation.  Most people need 7-8 hours of sleep at night. 
 
 **Mnemonic devices**\ {: data-type=“term”} are memory aids that help us
 organize information for encoding (`[link] <#Figure_08_04_Knuckles>`__).

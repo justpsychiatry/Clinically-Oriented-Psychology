@@ -115,7 +115,7 @@ Psychogenic Versus Organic Amnesia
 
 
 Even though some cases of retrograde amnesia occur due to organic causes, it
-is more likely to occur in **dissociative amnesia**—a type of amnesia that is
+is more likely to occur in **psychogenic (dissociative) amnesia**—a type of amnesia that is
 psychological in nature and often associated with trauma, for example in PTSD.
 In such cases, the amnesia is often very profound, and may be very speific 
 for certain traumatic experiences. In people with amnesia due to organic causes,
@@ -129,6 +129,21 @@ Impairement of new learning (anterograde amnesia) is most prominent and more lik
 is most cases of organic amnesia, and usually absent in psychogenic amnesia. 
 Furthermore, psychogenic amnesia may involve a loss of personal identity, which is 
 never seen in organic causes of amnesia. 
+
+Korsakoff Psychosis
+===================
+
+Korsakoff psychosis is the most common cause of organic amnestic syndrome. It grossly 
+impairs new learning (anterograde amnesia), 
+Impairement of new learning may lead to disorientation in time, even though events are recalled 
+for a few minutes afte they occur, but are forgotton thereafter. Loss of autobiographical 
+information also occurs, but the severity of retrograde amnesia is variable and follows 
+follows a temporal gradient. 
+
+Transient Global Amnesia
+========================
+It presents with sudden onset profound anterograde amnesia lasting 15 minutes
+to 24 hours.  Disorientation is present just like in Korsakoff psychosis. 
 
 .. admonition:: Myth: It is normal for elderly individuals to have poor memory.
    :class: error
