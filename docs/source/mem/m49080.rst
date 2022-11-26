@@ -2,6 +2,15 @@ How Memory Functions
 ####################
 
 
+
+.. meta::
+   
+   :title: How Memory Functions
+   :author: Waleed Ahmad
+   :description: This chapter covers the various processess and systems of memory 
+   :keywords: memory, types of memory, memory models, process of memory.
+
+
 .. article-info::
     :avatar: jpsy.png
     :avatar-link: https://psychology.mrcpsych.uk/
@@ -415,7 +424,13 @@ Information here will either be saved onto a memory drive or discarded. Likewise
 information in short-term memory goes to long-term memory (by rehearsal) 
 or is discarded (by displacement). The step of :term:`rehearsal`, the
 conscious repetition of information to be remembered, to move STM into
-long-term memory, is called :term:`memory consolidation`.
+long-term memory, is called :term:`memory consolidation`. 
+
+In terms of levels of processing
+approach, this concept is termed **maintenance rehearsal.**  But it also
+describes another type of reherasal that can better 
+enhance memory retention: **elaborative rehearsal**. In elaborative rehearsal, information
+is linked with the information already in mind. 
 
 
 .. error:: 
@@ -493,6 +508,16 @@ from the three short-term systems.
    allowed to continue five times. The number of correct answers is noted and scored. 
    For example, 2 correct answers are scored as 2/5. 
 
+   Impairment of attention is characteristic of attention deficit hyperactivity disorder. 
+   Children with ADHD are often very distractible and can not sustain their attention for long
+   especially on boring activties with higher cognitive load (reading and comprehension).
+   Attention and concentration is also often impaired in patients with anxiety and depression;
+   patients with these disorders are often preoccupied with characteristic negative thoughts
+   which they can hardly help control. These thoughts make it very difficult for them to sustain
+   their attention for long. 
+
+   Impairment of attention is also characteristic of delirium and Lewy body dementia. 
+
 Long-term Memory
 ----------------
 
@@ -521,9 +546,13 @@ interest in soccer, may help you recall the name of the restaurant.
    for example, book, sky, and knife to repeat them 
    after the examiner and is told that he has to recall them after five minutes.
    For the next five minutes, the patient is kept engaged, to avoid rehearsal, and then
-   asked to recall the three names. The number of items they can successfully recall (eg 2/3) is noted
-   to be the value of short-term memory (not to be confused with the short-term memory concept
-   used in Atkinson and Shiffrin Model of Memory. 
+   asked to recall the three names. The number of items they can successfully recall (eg 2/3) 
+   is noted to be the value of short-term memory (not to be confused with the 
+   short-term memory concept as in Atkinson and Shiffrin Model of Memory). Recent memories 
+   are checked by enquiring about the recent events, such the number of days they have stayed
+   in hospital, an important event from yesterday, how they came to hospital etc. Remote longterm
+   memories are tested by enquiring about important events from their past 
+   popular global or national events etc.   
 
 
 
@@ -548,7 +577,7 @@ are unimpaired in patients with amnesia.
    Sometimes, but not always, the terms explicit memory and declarative memory
    are used interchangeably. Likewise, implicit memory is also called non-declarative memory.  
 
-.. figure:: ../resources/CNX_Psych_08_01_Explicit.jpg
+.. figure:: ../resources/CNX_Psych_08_01_Explicit.png
    :scale: 100 %
    :align: center
    :alt: A diagram consists of three rows of boxes.
@@ -580,8 +609,10 @@ played in a long time, he will still be able to play quite well. These memories 
 least affected in early dementia and retained until later stages. 
 
 Priming and emotional memories are also non-declarative memories. **Priming** occurs 
-when past experience with certain stimuli increases the speed or accuracy of identifying and naming
-those stimuli. Emotional memories involve the emotional aspects of things and events. This occurs
+when past experience with certain stimuli increases the speed or accuracy of identifying 
+and naming
+those stimuli. **Emotional memories** involve the emotional aspects of things and events. 
+This occurs
 through conditioning, especially classical conditioning. For example, if an event or a thing 
 is repeatedly experienced in the presence of another pleasant or unpleasant stimuli, it will
 automatically arouse those feelings in the future even. 
@@ -635,16 +666,16 @@ imagery as well as the feeling of familiarity (Hassabis & Maguire,
 
 Episodic memories are of two types, **retrospective** 
 (memory of past events) and **prospective** (memory of events coming
-in future)  
+in future) 
 
 
 
 
-
-.. admonition:: Clinical Correlate: Hyperthymesia
+.. admonition:: Clinical-correlate: Hyperthymesia
+   :class: tip
    
-   Can You Remember Everything You Ever Did or Said?
-   ^^^
+   **Can You Remember Everything You Ever Did or Said?**
+
 
    Episodic memories are also called autobiographical memories. Let’s
    quickly test your autobiographical memory. What were you wearing
