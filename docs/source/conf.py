@@ -3,6 +3,7 @@
 import os
 import sys
 from datetime import datetime
+from sphinxcontrib.youtube import __version__ 
 #import sphinx_rtd_theme
 
 sys.path.insert(0, os.path.abspath('.'))
@@ -68,6 +69,7 @@ extensions = [
     "sphinx_design",
     'sphinx_search.extension',
     'hoverxref.extension',
+    "sphinxcontrib.youtube",
 ]
 
 

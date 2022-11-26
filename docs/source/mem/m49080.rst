@@ -624,16 +624,14 @@ Episodic memories are of two types, **retrospective**
 in future)  
 
 
-In patients with dementia and other causes or neurogenic amnesia, retrospective
-episodic memories 
-are often lost in a temporal gradient; recent memories are more
-severely affected than remote memories. 
 
 
-.. card:: psychology everyday-connection
+
+.. admonition:: Clinical Correlate: Hyperthymesia
    
    Can You Remember Everything You Ever Did or Said?
    ^^^
+
    Episodic memories are also called autobiographical memories. Let’s
    quickly test your autobiographical memory. What were you wearing
    exactly five years ago today? What did you eat for lunch on April 10,

@@ -106,8 +106,9 @@ cases of retrograde amnesia on record.
    neurocognitive disorder.  The remaining 85% do not show significant decline in memory and are 
    able to live independently. 
 
-
-   Age-related 
+   **Ribot's law** of retrograde amnesia describes that in retrograde amnesia memories are often 
+   lost in a temporal gradient; recent memories are more severely affected than remote memories. 
+   This phenonmenon is also noted in pateints with dementia of alzheimer's type. 
 
 MEMORY CONSTRUCTION AND RECONSTRUCTION
 ======================================
