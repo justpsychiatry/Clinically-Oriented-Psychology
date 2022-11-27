@@ -72,7 +72,7 @@ became faster each day
 
 .. figure:: ../resources/CNX_Psych_08_03_AntRet.png
    :name: psych0803antret
-   :scale: 100 %
+   :scale: 50 %
    :alt: A single-line flow diagram compares two types of amnesia. 
 
    A single-line flow diagram compares two types of amnesia. 
@@ -433,8 +433,13 @@ FORGETTING
 long-term memory. We all forget things, like a loved one’s birthday,
 someone’s name, or where we put our car keys. As you’ve come to see,
 memory is fragile, and forgetting can be frustrating and even
-embarrassing. But why do we forget? To answer this question, we will
-look at several perspectives on :term:`forgetting`.
+embarrassing. But why do we forget? 
+
+The prevailing theories of forgetting include, decay theory, interference
+theory and retrival failure. 
+
+We will
+look at several perspectives on :term:`forgetting`. 
 
 Pseudoforgetting: Encoding Failure
 ==================================

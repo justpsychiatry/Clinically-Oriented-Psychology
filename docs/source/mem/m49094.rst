@@ -26,7 +26,7 @@ remembered (Craik & Watkins, 1973). Think about how you learned your
 multiplication tables as a child. You may recall that 6 x 6 = 36, 6 x 7
 = 42, and 6 x 8 = 48. Memorizing these facts is rehearsal.
 
-Another strategy is **chunking**\ {: data-type=“term”}: you organize
+Another strategy is **chunking** you organize
 information into manageable bits or chunks (Bodie, Powers, &
 Fitch-Hauser, 2006). Chunking is useful when trying to remember
 information like dates and phone numbers. Instead of trying to remember
@@ -116,6 +116,7 @@ technique works equally well if you just mouth the words. Using these
 techniques increased participants’ memory for the words by more than
 10%. These techniques can also be used to help you study.
 
+
 HOW TO STUDY EFFECTIVELY
 ========================
 
@@ -157,7 +158,7 @@ is to figure out what works best for you.
    information you already know well.
 -  **Be aware of interference**: To reduce the likelihood of
    interference, study during a quiet time without interruptions or
-   distractions (like television or music).
+   distractions (like television or music). Read from a single source. 
 -  **Keep moving**: Of course you already know that exercise is good for
    your body, but did you also know it’s also good for your mind?
    Research suggests that regular aerobic exercise (anything that gets
