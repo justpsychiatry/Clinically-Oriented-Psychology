@@ -8,4 +8,6 @@ Chapter 11: Personality
    :maxdepth: 2
    
    m*
+   humanistic-approaches-to-personality
+   
    ...
