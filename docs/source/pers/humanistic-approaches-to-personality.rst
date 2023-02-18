@@ -4,10 +4,6 @@ Humanistic Approaches
 
 
 
-.. contents::
-   :depth: 3
-..
-
 .. container::
 
    By the end of this section, you will be able to: \* Discuss the
