@@ -9,9 +9,6 @@ Operant (Instrumental) Conditioning
    :description: This section covers operant conditioning, the processes in operant conditioning, and its clinical applications. It is based on OpenStax Psychology. 
    :keywords: operant conditioning, instrumental learning, instrumental conditioning, Skinner's theory, reinforcement, reward-based learning
 
-.. contents::
-   :depth: 3
-..
 
 .. card:: Learning Objectives
 
@@ -446,7 +443,7 @@ day would be reinforcing and the cool lake would be innately
 reinforcing—the water would cool the person off (a physical need), as
 well as provide pleasure.
 
-Primary Reinforcers
+Secondary Reinforcers
 -------------------
 
 A :term:`secondary reinforcer` has no inherent value
@@ -558,7 +555,7 @@ specified amounts of tokens for minutes of playtime.
 Reinforcement Schedules
 =======================
 
-Continuos Reinforcement
+Continuous Reinforcement
 ------------------------
 Remember, the best way to teach a person or animal a behaviour is to use
 positive reinforcement. For example, Skinner used positive reinforcement
