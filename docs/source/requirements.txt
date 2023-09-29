@@ -16,3 +16,4 @@ sphinxcontrib.datatemplates
 sphinx-hoverxref
 sphinxcontrib-youtube
 furo
+lumache==0.1.0 requests==2.25.1 beautifulsoup4==4.9.3
