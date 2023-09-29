@@ -3,6 +3,7 @@ sphinx-book-theme
 sphinx_rtd_theme
 passthrough
 docutils
+docutils_html5_writer
 pybtex
 setuptools
 sphinxcontrib-bibtex
