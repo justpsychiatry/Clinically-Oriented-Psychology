@@ -2,7 +2,6 @@
 
 import os
 import sys
-import lumache
 from datetime import datetime
 #from sphinxcontrib.youtube import __version__ 
 #import sphinx_rtd_theme
@@ -58,7 +57,6 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.todo',
     'sphinx_sitemap',
-    'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
